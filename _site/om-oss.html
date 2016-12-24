@@ -3,7 +3,7 @@
   <head>
   <meta charset="utf-8">
   <meta name="theme-color" content="#00796B"/>
-  <title>{{ page.title }}</title>
+  <title>Om oss</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -12,18 +12,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
   <link href="https://ackuq.github.io/css/styles.css" rel="stylesheet" type="text/css">
-  {%if page.url == '/'%}
-  <script src="https://ackuq.github.io/js/typed.min.js"></script>
-  <script>
-  $(function(){
-    $(".element").typed({
-          strings: ["miljön?","jämlikheten?","Sverige?"],
-        typeSpeed: 50,
-      backDelay: 1000
-      });
-  });
-  </script>
-  {% endif %}
+  
   </head>
   <body>
 <section id="header">
@@ -34,17 +23,18 @@
       </div>
         <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
-            <li {% if page.url == '/'%} class="active" {% endif %} ><a href="index.html">Hem</a></li>
-            <li {% if page.url == '/partiernas-stallning.html'%} class="active" {% endif %}><a href="#">Partiernas ställning</a></li>
-            <li {% if page.url == '/riksdagspartierna.html'%} class="active" {% endif %}><a href="#">Riksdagspartierna</a></li>
-            <li {% if page.url == '/om-oss.html'%} class="active" {% endif %}><a href="om-oss.html">Om oss</a></li>
-            <li {% if page.url == '/kontakt.html'%} class="active" {% endif %}><a href="#">Kontakt</a></li>
+            <li  ><a href="index.html">Hem</a></li>
+            <li ><a href="#">Partiernas ställning</a></li>
+            <li ><a href="#">Riksdagspartierna</a></li>
+            <li  class="active" ><a href="om-oss.html">Om oss</a></li>
+            <li ><a href="#">Kontakt</a></li>
           </ul>
       </div>
       </div>
   </nav>
   </section>
-{{ content }}
+<div id="content"></div>
+
 <footer id="footer">
     <div class="container">
     <div class="row  text-center">
