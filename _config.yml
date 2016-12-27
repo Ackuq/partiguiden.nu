@@ -1,2 +1,13 @@
-name: Partiguiden
-markdown: kramdown
+name                : Partiguiden
+markdown            : kramdown
+
+#Handling reader
+safe                : false
+include             : ['_pages']
+
+#define data collections
+collections         :
+    partier         :
+        output      : true
+        permalink   : /:collection/:path/
+    

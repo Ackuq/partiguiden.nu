@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: /_pages/
+---
+{{ content }}
+<div class="container" id="content">
+    <div id="kategorier" class="center">
+        {% assign sortera_partier = (site.pages | sort: 'title') %}
+        {% for page in sortera_partier %}
+            {% if page.layout == 'partier'  %}
+                {% assign bok = (page.title | truncate: 1, "") %}
+                {% if bok != bokstav  %}
+                    <div class="bokstav">
+                        <header>{{page.title | truncate: 1, ""}}</header>
+                    </div>
+                {% endif %}
+                {% assign bokstav = (page.title | truncate: 1, "") %}
+                <div class="listobjekt">
+                    <a href="{{page.url}}">
+                        <span>{{page.title}}</span>
+                    </a>    
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
