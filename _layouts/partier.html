@@ -1,6 +1,30 @@
 ---
 layout: default
+title: partier
 ---
-<div id="partier">
-    {{content}}
-</div>
+{{content}}
+{% for s in site.data.S %}
+    {% if s.amne == page.title %}
+    <div class="container">
+        <div id="socialdemokraterna" class="asikt">
+            <div class="dropdown">
+                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Socialdemokraterna</button>
+                <ul class="dropdown-menu">
+                    <p>{{s.asikt}}</p>
+                </ul>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+{% endfor %}
+
+{% for v in site.data.V %}
+    {% if v.amne == page.title %}
+    <div class="container">
+        <div id="vansterpartier" class="asikt">
+            <h3>Vänsterpariet</h3>
+            <p>{{v.asikt}}</p>
+        </div>
+    </div>
+    {% endif %}
+{% endfor %}

@@ -1,4 +1,3 @@
 ---
-layout: partier
 title:  Skola och utbildning
 ---

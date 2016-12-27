@@ -283,3 +283,10 @@ footer img {
     height: 1px;
     background-color: #ccc;
 }
+.asikt{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+    height: 50px;
+}

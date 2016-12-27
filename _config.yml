@@ -4,8 +4,18 @@ baseurl             : /partiguiden
 
 #Handling reader
 safe                : false
-include             : ['_pages']
+
+#default settings
+defaults        :
+-
+    scope       :
+        path    : ""
+        type    : artiklar
+    values      :
+        layout  : partier
 
 #define data collections
-
-    
+collections         :
+    artiklar        :
+        output      : true
+        permalink   : /artiklar/:path

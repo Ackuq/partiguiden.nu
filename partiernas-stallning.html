@@ -1,9 +1,30 @@
 --- 
-layout: categories 
+layout: default 
 title: Partiernas ställning 
 ---
 <div class="container">
     <div class="center">
         <h1 style="font-weight:bold;color:#049372">Partiernas ställning</h1>
+    </div>
+</div>
+<div class="container" id="content">
+    <div id="kategorier" class="center">
+        {% assign sortera_partier = (site.artiklar | sort: 'title') %}
+        {% for page in sortera_partier %}
+            {% if page.layout == 'partier'  %}
+                {% assign bok = (page.title | truncate: 1, "") %}
+                {% if bok != bokstav  %}
+                    <div class="bokstav">
+                        <header>{{page.title | truncate: 1, ""}}</header>
+                    </div>
+                {% endif %}
+                {% assign bokstav = (page.title | truncate: 1, "") %}
+                <div class="listobjekt">
+                    <a href="{{ site.baseurl }}{{ page.url }}">
+                        <span>{{page.title}}</span>
+                    </a>    
+                </div>
+            {% endif %}
+        {% endfor %}
     </div>
 </div>
