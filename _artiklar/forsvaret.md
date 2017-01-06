@@ -1,3 +1,5 @@
 ---
 title:  Försvaret
+tags:
+    - Samhälle
 ---

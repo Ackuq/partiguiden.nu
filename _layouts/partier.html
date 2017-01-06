@@ -1,30 +1,61 @@
 ---
 layout: default
-title: partier
 ---
-{{content}}
-{% for s in site.data.S %}
-    {% if s.amne == page.title %}
-    <div class="container">
-        <div id="socialdemokraterna" class="asikt">
-            <div class="dropdown">
-                <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Socialdemokraterna</button>
-                <ul class="dropdown-menu">
-                    <p>{{s.asikt}}</p>
-                </ul>
+<script type="text/javascript">
+    function down(div){
+        var parent = div.parentElement;
+        var className = parent.getAttribute("class");
+        if(className == "asikt"){
+            parent.className = "asikt active";
+        }
+        else{
+            parent.className = "asikt";
+        }
+    }
+</script>
+
+<div class="container">
+    <div class="row">
+    <div class="col-md-6 col-md-offset-2">
+        {% assign path = page.id | remove: "/artiklar/" %}
+        {% assign parti = site.data[path] %}
+        {% for asikt in parti.asikter %}
+                <div class="asikt">
+                    <div id="{{asikt.parti}}" class="partititle" onclick="down(this)">
+                        <h3>{{asikt.parti}}</h3>
+                    </div>
+                    <div class="slidetoggle">
+                        <p style="position:relative; margin-top:10px">{{asikt.asikt}}</p>
+                    </div>
+                </div>
+    {% endfor %}
+        </div>
+
+        <div class="col-md-3">
+            <div class="relaterade">
+                <h4>Relaterade artiklar</h4>
+                {% for page_tag in page.tags %}
+                    {% for sida in site.artiklar %}
+                        {% if sida != page %}
+                            {% for tag in sida.tags %}
+                                {% if tag == page_tag %}
+                                    {% if tag != current_tag %}
+                                        <div class="bokstav">
+                                            <header>{{tag}}</header>
+                                        </div>
+                                    {% endif %}
+                                    <div class="listobjekt" style="width:100%">
+                                        <a href="{{ site.baseurl }}{{ sida.url }}">
+                                            <span>{{sida.title}}</span>
+                                        </a>    
+                                    </div>
+                                    {% assign current_tag = tag %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
             </div>
         </div>
     </div>
-    {% endif %}
-{% endfor %}
-
-{% for v in site.data.V %}
-    {% if v.amne == page.title %}
-    <div class="container">
-        <div id="vansterpartier" class="asikt">
-            <h3>Vänsterpariet</h3>
-            <p>{{v.asikt}}</p>
-        </div>
-    </div>
-    {% endif %}
-{% endfor %}
+</div>

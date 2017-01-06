@@ -2,6 +2,10 @@ name                : Partiguiden
 markdown            : kramdown
 baseurl             : /partiguiden
 
+sass:
+    sass_dir: _sass
+    style: compressed
+
 #Handling reader
 safe                : false
 

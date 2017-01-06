@@ -22,24 +22,28 @@
                 , backDelay: 1000
             });
         });
-    </script> {% endif %} </head>
-
+    </script> {% endif %} 
+    </head>
 <body>
-    <section id="header">
+    <section id="header" {% if page.url == '/' %} style="margin:0" {% endif %} >
         <nav class="navbar navbar-default navbar-fixed-top navbar-absolute">
             <div class="container">
                 <div class="navbar-header" id="title">
                     <a href="{{ site.baseurl }}/index.html" style="height:100%" class="titlelink"><img style="height:100%; max-width:100%" src="{{ site.baseurl }}/media/partiguide.svg"></a>
                     <button type="button" class="navbar-toggle container" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                     <div class="search desktop">
-                        <form action="/" autocomplete="off" class="search-form">
-                            <input type="text" name="search" placeholder="Sök"> </form> <img src="{{ site.baseurl }}/media/search.svg" class="search-icon"> </div>
+                        <form action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
+                            <input type="text" name="query" placeholder="Sök"> 
+                            <input type="image" src="{{site.baseurl}}/media/search.svg" alt="Search" class="simg">
+                        </form> 
+                        </div>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
-                        <div class="search phone container"> <img src="{{ site.baseurl }}/media/search.svg" class="search-icon">
-                            <form action="/" autocomplete="off" class="search-form">
-                                <input type="text" name="search" placeholder="Sök"> </form>
+                        <div class="search phone container">
+                            <form action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
+                                <input type="text" name="query" placeholder="Sök">
+                                <input type="image" src="{{site.baseurl}}/media/search.svg" alt="Search" class="simg"> </form>
                         </div>
                         <li {% if page.url=='/' %} class="active" {% endif %}><a href="{{ site.baseurl }}/index.html">Hem</a></li>
                         <li {% if page.url=='/partiernas-stallning.html' %} class="active" {% endif %}><a href="{{ site.baseurl }}/partiernas-stallning.html">Partiernas ställning</a></li>
@@ -50,7 +54,10 @@
                 </div>
             </div>
         </nav>
-    </section> {{ content }}
+    </section>
+    <section id="content">
+    {{ content }}
+    </section>
     <footer id="footer">
         <div class="container">
             <div class="row  text-center">

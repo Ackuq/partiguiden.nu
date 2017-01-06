@@ -4,10 +4,10 @@ title: Partiernas ställning
 ---
 <div class="container">
     <div class="center">
-        <h1 style="font-weight:bold;color:#049372">Partiernas ställning</h1>
+        <h1 style="font-weight:bold;color:#049372;margin-top:0">Partiernas ställning</h1>
     </div>
 </div>
-<div class="container" id="content">
+<div class="container">
     <div id="kategorier" class="center">
         {% assign sortera_partier = (site.artiklar | sort: 'title') %}
         {% for page in sortera_partier %}
@@ -27,4 +27,5 @@ title: Partiernas ställning
             {% endif %}
         {% endfor %}
     </div>
+</div>
 </div>

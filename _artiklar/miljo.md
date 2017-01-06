@@ -1,4 +1,6 @@
 ---
 title:  Miljö
-layout: partier
+tags:
+    - Samhälle
+    - Miljö
 ---
