@@ -1,7 +1,11 @@
 .asikt{
     display: block;
-    margin: 0 auto;
-    padding: 15px;
+    margin: 15px;
+    border-radius: 0 0 3px 3px;
+}
+.asikt.active{
+    background: #f6f6f6;
+
 }
 .asikt .slidetoggle{
     max-height: 0;
@@ -10,9 +14,17 @@
     transition: all 150ms ease-out;
 }
 .asikt.active .slidetoggle{
-     opacity: 1;
-    max-height: 100vh; /* must be larger than container will be */
+    margin-bottom: 0;
+    display: inline-block;
+    opacity: 1;
+    max-height: 100vh;
     transition: all 250ms ease-in;
+}
+.slidetoggle p{
+    padding: 0 10px;
+    position:relative; 
+    margin-top:10px;
+    margin-bottom:5px;
 }
 .partititle{
     background: #fbfbfb;
