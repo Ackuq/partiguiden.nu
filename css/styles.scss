@@ -9,19 +9,17 @@
 @import "typed";
 @import "fragor";
 
-html {
-    position: relative;
-    min-height: 100%;
+
+html,body{
+    height: 100%;
 }
 
 body {
     font-family: "Noto Sans", sans-serif;
-    margin-bottom: 100px;
     padding-top: 110px;
 }
 
 #header {
-    margin-bottom: 20px;
     color: #fff;
     background: #00796B;
     box-shadow: 0 0 #FFFFFF inset, 0 1px 3px rgba(34, 25, 25, 0.4);
@@ -38,12 +36,15 @@ body {
 }
 
 #content {
-    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: -100px;
+    padding-bottom: 120px;
+    min-height: 100%;
 }
 
 #footer {
     padding-top: 10px;
-    position: absolute;
+    position: relative;
     width: 100%;
     bottom: 0;
     color: #fff;

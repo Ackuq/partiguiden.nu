@@ -25,7 +25,7 @@
     </script> {% endif %} 
     </head>
 <body>
-    <section id="header" {% if page.url == '/' %} style="margin:0" {% endif %} >
+    <section id="header">
         <nav class="navbar navbar-default navbar-fixed-top navbar-absolute">
             <div class="container">
                 <div class="navbar-header" id="title">
@@ -55,7 +55,7 @@
             </div>
         </nav>
     </section>
-    <section id="content">
+    <section id="content" {% if page.url == '/' %} style="padding-top:0" {% endif %}>
     {{ content }}
     </section>
     <footer id="footer">
