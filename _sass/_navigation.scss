@@ -44,6 +44,7 @@
     }
     .navbar-collapse.collapse,
     .navbar-collapse.collapsing {
+        max-height: 275px;
         position: absolute;
         background-color: #00796B;
         width: 100%;
