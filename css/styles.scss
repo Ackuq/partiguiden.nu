@@ -52,6 +52,11 @@ body {
     height: auto;
 }
 
+#pageTitle{
+    color:inherit;
+    margin-top:0
+}
+
 div > form > .simg{
     border: 0;
     width: 22px;
@@ -85,12 +90,6 @@ div > form > .simg{
     background-color: #ccc;
 }
 
-@media (min-width: 768px) {
-    .center{
-        margin: auto;
-        width: 60%;
-    }
-}
 
 @media (max-width: 767px) {
     body {

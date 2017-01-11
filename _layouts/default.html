@@ -32,7 +32,7 @@
         <nav class="navbar navbar-default navbar-fixed-top navbar-absolute">
             <div class="container">
                 <div class="navbar-header" id="title">
-                    <a href="{{ site.baseurl }}/index.html" style="height:100%" class="titlelink"><img style="height:100%; max-width:100%" src="{{ site.baseurl }}/media/partiguiden_logo.png"></a>
+                    <a href="{{ site.baseurl }}/index.html" style="height:100%" class="titlelink"><img style="max-height:100%" src="{{ site.baseurl }}/media/partiguiden_logo.png" alt="Partiguiden logo"></a>
                     <button type="button" class="navbar-toggle container" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                     <div class="search desktop">
                         <form action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form">
@@ -43,11 +43,13 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
-                        <div class="search phone container">
-                            <form action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
-                                <input type="text" name="query" placeholder="Sök">
-                                <input type="image" src="{{site.baseurl}}/media/search.svg" alt="Search" class="simg"> </form>
-                        </div>
+                        <li>
+                            <div class="search phone container">
+                                <form action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
+                                    <input type="text" name="query" placeholder="Sök">
+                                    <input type="image" src="{{site.baseurl}}/media/search.svg" alt="Search" class="simg"> </form>
+                            </div>
+                        </li>
                         <li {% if page.url=='/' %} class="active" {% endif %}><a href="{{ site.baseurl }}/index.html">Hem</a></li>
                         <li {% if page.url=='/partiernas-stallning.html' %} class="active" {% endif %}><a href="{{ site.baseurl }}/partiernas-stallning.html">Partiernas ställning</a></li>
                         <li {% if page.url=='/riksdagspartierna.html' %} class="active" {% endif %}><a href="{{ site.baseurl }}/riksdagspartierna.html">Riksdagspartierna</a></li>
