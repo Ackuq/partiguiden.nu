@@ -21,6 +21,10 @@
     transition: all 250ms ease-in;
 }
 .slidetoggle p{
+    white-space: pre;
+    overflow: auto;
+    word-break: break-all;
+    word-wrap: break-word;
     padding: 0 10px;
     position:relative; 
     margin-top:10px;
