@@ -21,19 +21,79 @@ layout: default
         </div>
     <div class="col-md-6 col-md-offset-2">
         {% assign path = page.id | remove: "/artiklar/" %}
-        {% for partier in site.data[path] %}
-        {% assign parti = partier[1] %}
-            <div class="asikt">
-                <div id="{{parti.parti}}" class="partititle" onclick="down(this)">
-                    <h3>{{parti.parti}}</h3>
-                </div>
-                <div class="slidetoggle">
-                    <p>{{parti.asikt}}</p>
-                </div>
+        <div class="asikt">
+        {% assign s = site.data[path].s %}
+            <div id="S" class="partititle" onclick="down(this)">
+                <h3>{{s.parti}}</h3>
             </div>
-        {% endfor %}
+            <div class="slidetoggle">
+                <p>{{s.asikt}}</p>
+            </div>
         </div>
-
+        <div class="asikt">
+        {% assign m = site.data[path].m %}
+            <div id="M" class="partititle" onclick="down(this)">
+                <h3>{{m.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{m.asikt}}</p>
+            </div>
+        </div>
+        <div class="asikt">
+        {% assign sd = site.data[path].sd %}
+            <div id="SD" class="partititle" onclick="down(this)">
+                <h3>{{sd.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{sd.asikt}}</p>
+            </div>
+        </div>
+        <div class="asikt">
+        {% assign mp = site.data[path].mp %}
+            <div id="MP" class="partititle" onclick="down(this)">
+                <h3>{{mp.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{mp.asikt}}</p>
+            </div>
+        </div>
+        <div class="asikt">
+        {% assign v = site.data[path].v %}
+            <div id="V" class="partititle" onclick="down(this)">
+                <h3>{{v.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{v.asikt}}</p>
+            </div>
+        </div>
+        <div class="asikt">
+        {% assign l = site.data[path].l %}
+            <div id="L" class="partititle" onclick="down(this)">
+                <h3>{{l.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{l.asikt}}</p>
+            </div>
+        </div>
+        <div class="asikt">
+        {% assign c = site.data[path].c %}
+            <div id="C" class="partititle" onclick="down(this)">
+                <h3>{{c.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{c.asikt}}</p>
+            </div>
+        </div>
+        <div class="asikt">
+        {% assign kd = site.data[path].kd %}
+            <div id="KD" class="partititle" onclick="down(this)">
+                <h3>{{kd.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{kd.asikt}}</p>
+            </div>
+        </div>
+    </div>
         <div class="col-md-3">
             <div class="relaterade">
                 <h4>Relaterade artiklar</h4>
