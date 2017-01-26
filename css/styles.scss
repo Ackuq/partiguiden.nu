@@ -1,0 +1,98 @@
+---
+---
+
+@charset "utf-8";
+
+@import "partier";
+@import "search";
+@import "navigation";
+@import "typed";
+@import "fragor";
+
+
+html,body{
+    height: 100%;
+}
+
+body {
+    font-family: "Noto Sans", sans-serif;
+    padding-top: 110px;
+}
+
+#header {
+    color: #fff;
+    background: #00796B;
+}
+
+#title {
+    position: relative;
+    margin-bottom: 10px;
+    max-width: 100%;
+    height: 60px;
+    padding-top: 20px;
+    color: inherit;
+    margin-left: 0;
+}
+
+#content {
+    padding-top: 20px;
+    margin-bottom: -109px;
+    padding-bottom: 139px;
+    min-height: 100%;
+}
+
+#footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    color: #fff;
+    background: #00796B;
+    height: auto;
+}
+
+#pageTitle{
+    color:inherit;
+    margin-top:0
+}
+
+div > form > .simg{
+    border: 0;
+    width: 22px;
+    height: 22px;
+    line-height: 0;
+}
+.footer_content a{
+    color: inherit;
+    text-decoration: none;
+}
+
+#hemjumbotron {
+    min-width: 100%;
+    box-shadow: 0 0 #FFFFFF inset, 0 1px 3px rgba(34, 25, 25, 0.4);
+    color: #fff;
+    background-color: #009688;
+}
+
+
+.noMargin {
+    margin: 0;
+}
+.line{
+    height: 1px;
+    width: 20%;
+    background-color: #ccc;
+}
+.lineLarge{
+    width: 50%;
+    height: 1px;
+    background-color: #ccc;
+}
+
+
+@media (max-width: 767px) {
+    body {
+        padding-top: 70px;
+    }
+}

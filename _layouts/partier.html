@@ -1,0 +1,140 @@
+---
+layout: default
+---
+<script type="text/javascript">
+    function down(div){
+        var parent = div.parentElement;
+        var className = parent.getAttribute("class");
+        if(className == "asikt"){
+            parent.className = "asikt active";
+        }
+        else{
+            parent.className = "asikt";
+        }
+    }
+</script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-2">
+            <h1 id="pageTitle">{{page.title}}</h1>
+        </div>
+    <div class="col-md-6 col-md-offset-2">
+        {% assign path = page.id | remove: "/artiklar/" %}
+        {% if site.data[path].s != NULL %}
+        <div class="asikt">
+        {% assign s = site.data[path].s %}
+            <div id="S" class="partititle" onclick="down(this)">
+                <h3>{{s.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{s.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].m != NULL %}
+        <div class="asikt">
+        {% assign m = site.data[path].m %}
+            <div id="M" class="partititle" onclick="down(this)">
+                <h3>{{m.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{m.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].sd != NULL %}
+        <div class="asikt">
+        {% assign sd = site.data[path].sd %}
+            <div id="SD" class="partititle" onclick="down(this)">
+                <h3>{{sd.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{sd.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].mp != NULL %}
+        <div class="asikt">
+        {% assign mp = site.data[path].mp %}
+            <div id="MP" class="partititle" onclick="down(this)">
+                <h3>{{mp.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{mp.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].v != NULL %}
+        <div class="asikt">
+        {% assign v = site.data[path].v %}
+            <div id="V" class="partititle" onclick="down(this)">
+                <h3>{{v.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{v.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].l != NULL %}
+        <div class="asikt">
+        {% assign l = site.data[path].l %}
+            <div id="L" class="partititle" onclick="down(this)">
+                <h3>{{l.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{l.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].c != NULL %}
+        <div class="asikt">
+        {% assign c = site.data[path].c %}
+            <div id="C" class="partititle" onclick="down(this)">
+                <h3>{{c.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{c.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].kd != NULL %}
+        <div class="asikt">
+        {% assign kd = site.data[path].kd %}
+            <div id="KD" class="partititle" onclick="down(this)">
+                <h3>{{kd.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{kd.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+        <div class="col-md-3">
+            <div class="relaterade">
+                <h4>Relaterade artiklar</h4>
+                {% for page_tag in page.tags %}
+                    {% for sida in site.artiklar %}
+                        {% if sida != page %}
+                            {% for tag in sida.tags %}
+                                {% if tag == page_tag %}
+                                    {% if tag != current_tag %}
+                                        <div class="bokstav">
+                                            <header>{{tag}}</header>
+                                        </div>
+                                    {% endif %}
+                                    <div class="listobjekt" style="width:100%">
+                                        <a href="{{ site.baseurl }}{{ sida.url }}">
+                                            <span>{{sida.title}}</span>
+                                        </a>    
+                                    </div>
+                                    {% assign current_tag = tag %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
