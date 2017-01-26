@@ -1,0 +1,29 @@
+---
+layout: default
+title: Lägg till åsikt
+---
+<div class="container" style="width:50%">
+    <form method="POST" action="http://formspree.io/axel@pettersson.cc">
+    <div class="form-group">
+        <select class="form-control" name="parti">
+            <option>Socialdemokraterna</option>
+            <option>Moderaterna</option>
+            <option>Sverigedemokraterna</option>
+            <option>Miljöpartiet</option>
+            <option>Centerpartiet</option>
+            <option>Liberalerna</option>
+            <option>Vänsterpartiet</option>
+            <option>Kristdemokraterna</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <input type="text" class="form-control" name="fraga" placeholder="Fråga">
+    </div>
+    <div class="form-group">
+        <textarea name="asikt" class="form-control" placeholder="Asikt"></textarea>
+    </div>
+    <div class="form-group">
+      <button class="form-control" type="submit">Send</button>
+    </div>
+    </form>
+</div>
