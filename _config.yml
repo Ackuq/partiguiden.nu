@@ -16,7 +16,7 @@ collections:
     title: Åsikter
     output: true
     Field name:
-      parti: 
+      parti: sd
 defaults:
 - scope:
     path: ''
