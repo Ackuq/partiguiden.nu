@@ -1,32 +1,26 @@
----
-title: Partiguiden
-timezone: UTC
-collections:
-  artiklar:
-    title: Artiklar
-    output: true
-    permalink: "/artiklar/:path"
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-  data:
-    title: Åsikter
-    output: true
-    Field name:
-      parti: Socialdemokraterna
-defaults:
-- scope:
-    path: ''
-    type: artiklar
-  values:
-    layout: partier
-name: Partiguiden
-markdown: kramdown
-baseurl: "/partiguiden"
+
+name                : Partiguiden
+markdown            : kramdown
+baseurl             : /partiguiden
+
 sass:
-  sass_dir: _sass
-  style: compressed
-safe: false
+    sass_dir: _sass
+    style: compressed
+
+#Handling reader
+safe                : false
+
+#default settings
+defaults        :
+-
+    scope       :
+        path    : ""
+        type    : artiklar
+    values      :
+        layout  : partier
+
+#define data collections
+collections         :
+    artiklar        :
+        output      : true
+        permalink   : /artiklar/:path
