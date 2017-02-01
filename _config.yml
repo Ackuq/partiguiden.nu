@@ -12,7 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  data:
+  "-data-path":
     title: Åsikter
     output: true
 defaults:
