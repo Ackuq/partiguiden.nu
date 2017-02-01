@@ -15,9 +15,8 @@ collections:
   data:
     title: Åsikter
     output: true
-    Field name: |-
-      asikt
-      parti
+    Field name:
+      parti: 
 defaults:
 - scope:
     path: ''
