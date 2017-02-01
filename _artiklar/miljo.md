@@ -1,6 +1,7 @@
 ---
-title:  Miljö
+title: Miljö
 tags:
-    - Samhälle
-    - Miljö
+- Samhälle
+- Miljö
 ---
+
