@@ -16,7 +16,7 @@ collections:
     title: Åsikter
     output: true
     Field name:
-      parti: sd
+      parti: Socialdemokraterna
 defaults:
 - scope:
     path: ''
