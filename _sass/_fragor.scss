@@ -9,23 +9,14 @@
 
 }
 .asikt .slidetoggle{
-    max-height: 0;
-    opacity: 0;
+    display: none;
     overflow: hidden;
-    transition: all 150ms ease-out;
-}
-.asikt.active .slidetoggle{
-    margin-bottom: 0;
-    display: inline-block;
-    opacity: 1;
-    max-height: 100vh;
-    transition: all 250ms ease-in;
 }
 .slidetoggle p{
-    white-space: pre;
-    overflow: auto;
-    word-break: break-all;
-    word-wrap: break-word;
+    white-space: pre-wrap;
+    overflow: visible;
+    word-break: normal;
+    word-wrap: normal;
     padding: 0 10px;
     position:relative; 
     margin-top:10px;
