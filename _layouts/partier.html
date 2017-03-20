@@ -4,7 +4,7 @@ layout: default
 <script type="text/javascript">
 $(document).ready(function(){
     $(".partititle").click(function(){
-        $(this).parent(".asikt").children('.slidetoggle').slideToggle(300);
+        $(this).parent(".asikt").children('.slidetoggle').stop().slideToggle(300);
     })
 });
 </script>
