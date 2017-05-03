@@ -1,5 +1,24 @@
 @charset "utf-8";
 
+.profile{
+    color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
+    -webkit-transition: all .5s ease-in-out;
+}
+.profile:hover{
+    filter: gray;
+    -webkit-filter: grayscale(100%);
+}
+.logo > img{
+    padding: 10px;
+    background-color: #fff;
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
+}
+
 #V{
     border: solid 2px #CF000F;
 }

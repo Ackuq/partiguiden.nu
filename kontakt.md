@@ -11,7 +11,7 @@ title: Kontakt
             <i class="fa fa-phone fa-4x"></i>
         </div>
         <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:20px">
-            <p>Mail:</p>
+            <span>För allmäna frågor samt förslag på förbättringar maila <a href="mailto:axel@pettersson.cc">axel@pettersson.cc</a></span>
         </div>
     </div>
 </div>
