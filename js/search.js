@@ -11,7 +11,7 @@ function displaySearchResults(results, store) {
 
     searchResults.innerHTML = appendString;
   } else {
-    searchResults.innerHTML = '<a>No results found</a>';
+    searchResults.innerHTML = '<a>Inga resultat hittades</a>';
   }
 }
 
