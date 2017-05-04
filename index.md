@@ -10,10 +10,11 @@ title: Partiguiden
       <div class="col-sm-6 col-sm-offset-3 text-center">
         <h4 class="boxTitle">Guiden som hjälper dig välja rätt</h4>
         <hr class="line">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat</p>
+        <p>Klicka <a href="{{ site.baseurl }}/partiernas-stallning.html">här</a> eller på fliken "Partiernas ställning" för att börja jämföra olika partiers ställning till sakfrågor!</p>
         <hr class="lineLarge">
       </div>
     </div>
+    <!--
     <div class="row">
       <div class="col-sm-4 col-sm-offset-4 text-center">
         <h4 class="boxTitle">Populära frågor</h4>
@@ -27,4 +28,5 @@ title: Partiguiden
         </ul>
       </div>
     </div>
+    -->
   </div>

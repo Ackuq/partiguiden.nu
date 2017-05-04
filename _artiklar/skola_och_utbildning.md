@@ -1,3 +1,0 @@
----
-title:  Skola och utbildning
----
