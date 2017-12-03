@@ -1,3 +1,4 @@
 ---
 title:  EU
+tags: eu
 ---

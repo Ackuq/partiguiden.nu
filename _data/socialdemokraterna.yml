@@ -1,0 +1,697 @@
+---
+root:
+  amne:
+  -
+    fraga: skola
+    asikt:
+    - säkerhetsställa att skolan är en trygg plats med ordning och studiero
+    - skapa en jämlik kunskapsskola och stoppa vinstjakten. Resurser ska fördelas rättvist, efter behov
+    - investera i lärare och skolledare. Alla elever har rätt att möta behöriga och skickliga lärare
+    - öka personaltätheten och minska stora klasser
+    - satsa på tidiga insatser, fler specialpedagoger och stärkt elevhälsa.
+  -
+    fraga: ekonomi
+    asikt:
+    - att Sverige mellan 2014 och 2020 ska öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att Sverige når lägst arbetslöshet i EU
+    - att det finanspolitiska ramverket med mål för den offentliga sektorns sparande och utgiftstak ska förstärkas i enlighet med den breda blocköverskridande överenskommelse som finns på området.
+  -
+    fraga: miljo
+    asikt:
+    - minska utsläppen av växthusgaser. Sverige ska bli den första fossilfria världsnationen
+    - driva på för tuffare kemikalieregler i EU och införa inhemska skatter på farliga ämnen
+    - minska övergödningen av haven och skydda vårt rena dricksvatten
+    - bevara mer värdefull natur och marina områden för att rädda den biologiska mångfalden.
+  -
+    fraga: jobb
+    asikt:
+    - skapa jobb genom framtidsinvesteringar i bostäder, infrastruktur och klimat
+    - ha en aktiv näringspolitik för fler och växande företag som skapar jobb
+    - öka kompetens och matchning för att rusta alla att ta de jobb som växer fram.
+  -
+    fraga: a-kassan
+    asikt:
+    - a-kassan ska stimulera till omställning på arbetsmarknaden. Den som är arbetslös ska kunna få ut ersättning från försäkringen under en omställningsperiod
+    - a-kassan ska vara en frivillig försäkring som är gemensamt finansierad
+    - fler ska vara med i a-kassan
+    - a-kassan ska administreras av de fackliga organisationerna.
+  -
+    fraga: alkoholochnarkotika
+    asikt:
+    - slå vakt om Systembolagets monopol eftersom det motverkar okontrollerad försäljning av alkohol. Vi säger nej till så kallad gårdsförsäljning. Åldersgränsen för att kunna köpa alkohol på Systembolaget ska även fortsättningsvis vara 20 år
+    - skärpt tillsyn över näthandel med alkohol eftersom dagens regler ofta inte följs
+    - skärpta insatser mot smuggling av alkohol.
+  -
+    fraga: alliansfrihet
+    asikt:
+    - uppgradera den militära förmågan
+    - att tillgången till utbildad personal ska tryggas  
+    - förstärka och samordna beredskap för att möta nya hot
+    - utöka internationella samarbeten. 
+  -
+    fraga: apotek
+    asikt:
+    - att apotek ska finns tillgängliga i alla delar av landet
+    - att alla patienter ska ha tillgång till läkemedelskunnig personal på apoteken.
+  -
+    fraga: arbete
+    asikt:
+    - skapa jobb genom framtidsinvesteringar i bostäder, infrastruktur och klimat
+    - ha en aktiv näringspolitik för fler och växande företag som skapar jobb
+    - öka kompetens och matchning för att rusta alla att ta de jobb som växer fram.
+  -
+    fraga: arbetsformedlingen
+    asikt:
+    - gör Arbetsförmedlingen till en matchningsspecialist som ser till att rusta de arbetssökande för de jobb som finns
+    - tillsammans med andra aktörer ska Arbetsförmedlingen jobba för att stänga rekryteringsgapet och få fler i arbete
+    - arbetsförmedlingen ska ge individuellt stöd från dag ett. Arbetsförmedlaren ska ha tid att arbeta med den enskilda individen och se till behoven – inte enbart de administrativt bestämda tidsgränserna
+    - näringslivets behov ska styra insatserna. Branschspecifika utbildningar ska kunna köpas upp inom det reguljära utbildningssystemet. Ett nationellt system för validering och komplettering av utländsk utbildning bör finnas.
+  -
+    fraga: solidariskarbetskraftsinvandring
+    asikt:
+    - det ska inte vara möjligt att gå runt Lagen om anställningsskydd genom att företag säger upp personal för att sedan hyra in personal för samma arbetsuppgifter
+    - huvudentreprenören bör vara ansvarig för att underleverantörerna betalar kollektivavtalsenliga löner, följer skattelagstiftningen och betalar arbetsgivaravgifter
+    - jobb som kräver kort eller ingen utbildning ska i första hand tillsättas med arbetslösa personer som redan bor i Sverige.
+  -
+    fraga: arbetsmiljo
+    asikt:
+    - stärka arbetsmiljöarbetet och satsa på det förebyggande arbetet, tillsynsarbetet och arbetslivsforskningen
+    - heltid ska vara norm på hela arbetsmarknaden
+    - problemen med allmän visstid måste lösas. Det ska finnas objektiva skäl för tidsbegränsade anställningar.
+  -
+    fraga: arbetsratt
+    asikt:
+    - företrädesrätten vid återanställning ska inte gå att sätta ur spel när arbetsgivare hyr in personal från bemanningsföretag
+    - normen på svensk arbetsmarknad ska vara fasta heltidsanställningar
+    - ha en attitydförändring för att bryta de strukturer som motverkar heltidsarbete och som begränsar kvinnors frihet och självständighet. En bra personalpolitik med tryggare anställningar ger goda förutsättningar för kontinuitet och kvalitetsutveckling i alla branscher och näringar
+    - ha ordning och reda på svensk arbetsmarknad och få stopp på lönedumpning, skattefusk och utnyttjandet av svensk och utländsk arbetskraft.
+  -
+    fraga: barn
+    asikt:
+    - göra FNs barnkonvention till svensk lag
+    - höja barnbidragen och studiebidragen till gymnasister
+    - ge barn till arbetslösa och föräldralediga föräldrar rätt att vara heltid i förskolan.
+  -
+    fraga: barn
+    asikt:
+    - göra FNs barnkonvention till svensk lag
+    - höja barnbidragen och studiebidragen till gymnasister
+    - ge barn till arbetslösa och föräldralediga föräldrar rätt att vara heltid i förskolan.
+  -
+    fraga: barnomsorg
+    asikt: att kommuner ska ha lagstadgad skyldighet att erbjuda barnomsorg på kvällar, nätter och helger.
+  -
+    fraga: beredskapsjobb
+    asikt:
+    - utveckla den svenska modellen tillsammans med fack och arbetsgivare
+    - öka möjligheterna för fler att få och behålla ett arbete
+    - ha ordning och reda på arbetsmarknaden.
+  -
+    fraga: betyg
+    asikt:
+    - att betyg ska ges från årskurs 6
+    - att lärarna ska ges det bedömningsstöd de behöver för att betygen ska vara rättvisa och likvärdiga i hela landet
+    - att de nationella proven digitaliseras och får ökade inslag av extern rättning
+    - att kartläggningar och stöd sätts in tidigare.
+  -
+    fraga: internationellutvecklingochbistand
+    asikt:
+    - att alla politikområden ska samverka för att nå en hållbar utveckling i världen
+    - att minst 50 procent av biståndet ska gå till satsningar för kvinnor och barn
+    - att det ska vara höga krav på ordning och reda samt resultat i biståndsarbetet.
+  -
+    fraga: bostad
+    asikt:
+    - genomföra en ny byggoffensiv och se till att det byggs minst 250 000 nya bostäder under åren 2015-2020
+    - vi vill se fler hyresrätter, bra bostäder för äldre, studentbostäder, blandade bostadsområden med både villor, radhus och flerfamiljshus som bryter den växande bostadssegregationen
+    - förändra plan- och bygglagen för att snabba upp byggprocessen
+    - föra en tydligare markpolitik, både från stat och kommun.
+  -
+    fraga: brottslighet
+    asikt:
+    - . Rekryteringen till gängen ska stoppas. Straffen för vapenbrott och grova våldsbrott ska vara kännbara. Mer sociala åtgärder ska riktas mot ungdomar i riskzonen.
+    - . Polisen ska finnas där den behövs som bäst. Polisen ska ha god förmåga att utreda brott och brottsoffer ska få ett bra bemötande.
+    - . Fler gärningsmän ska ställas inför rätta. Drabbade kvinnor ska få stöd och skydd. Stödet till barn som bevittnar våld ska förbättras.
+  -
+    fraga: densvenskamodellen
+    asikt:
+    - skapa ordning och reda på svensk arbetsmarknad. Den svenska modellen där fack och arbetsgivare förhandlar om löner och villkor och tecknar kollektivavtal ska kunna tillämpas på utländska företag som bedriver verksamhet i Sverige
+    - att heltid ska vara norm på hela arbetsmarknaden
+    - införa entreprenörsansvar
+    - att de fackliga rättigheterna på EU-nivå garanteras genom ett bindande socialt protokoll. Att vidta fackliga stridsåtgärder över gränserna måste göras till en lagstadgad rättighet i EU.
+  -
+    fraga: digitalisering
+    asikt:
+    - att hela Sverige ska ha tillgång till snabb uppkoppling
+    - att det ska finnas en pålitlig mobiltäckning där människor bor och vistas
+    - att den snabba utbyggnaden av bredband fortsätter.
+  -
+    fraga: djurskydd
+    asikt:
+    - ha enstark tillsyn som förhindrar att allmänhetens förtroende urholkas
+    - ha en ny modern djurskyddslag som i portalparagrafen slår fast att djur ska kunna bete sig naturligt och att beteendestörningar inte ska förekomma
+    - agera kraftfullt i EU för att högre krav ska ställas på djurvälfärd och djurhälsa.
+  -
+    fraga: ekonomi
+    asikt:
+    - att investeringar i fler jobb och bättre skola går före fortsatta skattesänkningar. Investeringarnas andel av BNP ska öka
+    - att Sverige mellan 2014 och 2020 ska öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att Sverige når lägst arbetslöshet i EU
+    - att det finanspolitiska ramverket med mål för den offentliga sektorns sparande och utgiftstak ska förstärkas i enlighet med den breda blocköverskridande överenskommelse som finns på området.
+  -
+    fraga: ekonomisktbistand
+    asikt:
+    - investera i utbildning, t.ex. Komvux och yrkesutbildningar så att fler kan få chansen att ta de jobb som finns
+    - höja barnbidragen
+    - förbättra de ekonomiska trygghetsnäten vid arbetslöshet och sjukdom och att kommunerna arbetar med att ge rätt stöd till de människor som har ekonomiskt bistånd.
+  -
+    fraga: eu
+    asikt:
+    - att fler européer ska ha ett jobb att gå till
+    - arbeta för ett socialt Europa där alla får ta del av tillväxt och utveckling
+    - att EU ska ta en ledarroll i världen med en ambitiös klimat- och miljöpolitik
+    - upprätta en gemensam, ansvarsfull och solidarisk flykting- och migrationspolitik i EU.
+  -
+    fraga: jamstalldhet
+    asikt:
+    - heltid ska vara norm på hela arbetsmarknaden
+    - jämställdhetsarbetet i skolan ska bedrivas kontinuerligt och inte i projekt för en begränsad tid, vare sig nationellt eller på den enskilda skolan
+    - genusperspektiv ska ha genomslag i forskning och utveckling och - om situationen inte snabbt förbättras - lagstifta om jämställda bolagsstyrelser
+    - alla som vill gå upp i arbetstid ska få möjlighet att göra det.
+  -
+    fraga: fn
+    asikt:
+    - reformera FN:s säkerhetsråd för att bättre återspegla dagens värld
+    - begränsa, och på sikt avskaffa, vetorätten i FN:s säkerhetsråd
+    - arbeta för ett öppet och transparent FN, där ansvar kan utkrävas
+    - att kvinnor får en mer framträdande roll i det förebyggande, fredsskapande och fredsbevarande arbetet.
+  -
+    fraga: folkbildning
+    asikt:
+    - värna folkbildningens självständighet och oberoende
+    - att studieförbund och folkhögskolor får rätt förutsättningar för att utvecklas
+    - genomföra en ny kultur- och folkbildningssatsning.
+  -
+    fraga: folkhogskola
+    asikt:
+    - öka antalet platser inom folkhögskolan
+    - möjliggöra för studieförbund och folkhögskolor att finnas över hela landet
+    - göra det möjligt att läsa en hel gymnasieutbildning på folkhögskola direkt efter grundskolan.
+  -
+    fraga: forskning
+    asikt:
+    - höja den lägsta nivån för forskningsresurser till alla lärosäten
+    - se breda 10-åriga forskningspolitiska överenskommelser så att Sverige får en långsiktig forsknings- och innovationspolitik
+    - se över styr- och resurstilldelningssystemet för forskning och högre utbildning
+    - stärka jämställdheten inom forskning och högre utbildning, bland annat genom att införa en jämställdhetsbonus.
+  -
+    fraga: friskolor
+    asikt:
+    - att skattepengar som är avsedda till skolan stannar i skolan.
+    - ha ett gemensamt ansökningsförfarande till alla skolor, oavsett driftsform, för att säkerställa att elever med olika bakgrund möts. Kötid ska inte vara ett urvalskriterium
+    - höja kvalitetskraven så att personaltätheten och andra kvalitetsrelaterade faktorer inte är väsentligt lägre i friskolor än i kommunala skolor
+    - stoppa överetableringen av skolor och ge kommunerna långsiktiga planeringsförutsättningar
+    - att alla skolor är fria från religiös påverkan.
+  -
+    fraga: fritidshem
+    asikt:
+    - höja personaltätheten och stärka kvaliteten i fritidshemmen
+    - utveckla samverkan mellan fritidshem och föreningsliv för att fler barn ska få ägna sig åt olika föreningsaktiviteter
+    - att fritidshemmets lärandeuppdrag synliggörs och att personalen får tid att planera och utveckla verksamheten.
+  -
+    fraga: funktionsnedsattning
+    asikt:
+    - se över och stärka LSS-reformen och den personliga assistansen
+    - se en samordnad kraftsamling för att människor med en funktionsnedsättning ska få stöd att komma in på, eller tillbaks till, arbetsmarknaden
+    - förbättra och stärka möjligheten till utbildning för personer med funktionsnedsättning.
+  -
+    fraga: forskola
+    asikt:
+    - minska barngrupperna och införa ett maxtak i förskolan
+    - utbilda och anställa fler förskollärare
+    - att alla som arbetar i förskolan har rätt kompetens för att arbeta med barn
+    - att alla barn ska ha rätt till förskola. Oavsett om föräldrarna är arbetslösa eller föräldralediga ska barnen ha rätt till förskola under hela dagen
+    - att få bort farliga ämnen ur barns vardag.
+  -
+    fraga: forskoleklass
+    asikt:
+    - göra förskoleklassen obligatorisk för alla sexåringar
+    - minska klasstorleken och anställa mer personal
+    - utveckla förskolepedagogiken och förskoleklassens unika roll som brygga mellan förskola och skola
+    - investera i lärarna och deras förutsättningar för planering och kollegialt samarbete
+    - öka tillgången till specialpedagogiskt stöd i förskoleklassen.
+  -
+    fraga: forsvarochkrisberedskap
+    asikt:
+    - hävda Sveriges militära alliansfrihet och vår förmåga till internationellt samarbete
+    - ett personalförsörjningssystem som förmår att förena efterfrågad snabbhet med bred folklig förankring
+    - obligatorisk mönstring för alla män och kvinnor vid 18 års ålder
+    - att stärka det nordiska försvarssamarbetet.
+  -
+    fraga: foraldraforsakring
+    asikt:
+    - att en successiv höjning av taket i den tillfälliga föräldrapenningen genomförs
+    - att föräldraförsäkringen moderniseras så att den fungerar för alla familjekonstellationer
+    - att föräldraförsäkringen individualiseras och delas lika mellan föräldrarna.
+  -
+    fraga: gymnasieskola
+    asikt:
+    - att gymnasieskolan ska göras obligatorisk
+    - att alla elever ska få det stöd som behövs för att nå kunskapsmålen
+    - att utveckla fler av gymnasiets yrkesprogram till yrkescollege där branscherna bidrar till utbildningens utformning
+    - att alla gymnasieprogram ska vara minst treåriga och ge grundläggande behörighet till högskolan
+    - att alla nationella gymnasieprogram ska innehålla ett estetiskt ämne.
+  -
+    fraga: havsmiljo
+    asikt:
+    - Att kraftfulla åtgärder mot övergödning genomförs
+    - Förbjuda mikroplaster i kosmetika och minskad plastanvändning
+    - Fortsätta insatser mot överfiske och satsa på fiskodling
+    - Ha fler marina reservat som skyddar haven och fisket och att områden fria från bottentrålning skapas.
+  -
+    fraga: hbt-fragor
+    asikt:
+    - stimulera en ökad forskning kring HBTQ-personers hälsa och utveckla sjukvårdspersonalens kompetens i HBT-frågor
+    - att HBTQ-personers hälsa följs upp och belyses när folkhälsoundersökningar görs
+    - se utbildningsinsatser för personalen i skolan, skolhälsovården och socialtjänsten för att man bättre ska kunna ge hjälp och stöd åt unga homosexuella och transpersoner
+    - öppna upp för en översyn av lagstiftningen gällande vårdnadshavare. Med de nya familjetyper som växer fram så kan den existerande formen av lagstiftning där det enbart kan finnas två vårdnadshavare vara problematisk
+    - att samma regler ska gälla för alla föräldrar, därför bör en könsneutral föräldraskapspresumtion motsvarande den nuvarande faderskapspresumtionen införas
+    - att transpersoner ska omfattas av samhällets skydd i lag på samma sätt som homosexuella och bisexuella, därför bör lagen om hets mot folkgrupp kompletteras till att omfatta även könsidentitet
+    - ge ett tydligt uppdrag till de rättsvårdande myndigheterna att prioritera arbetet med hatbrott. Det handlar om utbildning av personalen, bättre bemötande av brottsoffer och att stärka det förebyggande arbetet.
+  -
+    fraga: heltidochdeltid
+    asikt:
+    - heltid ska vara norm på hela arbetsmarknaden
+    - skillnaden mellan hur mycket kvinnor och män förvärvsarbetar ska minska
+    - stoppa missbruket av visstidsanställningar. 
+  -
+    fraga: hemloshet
+    asikt:
+    - bryta arbetslösheten och få fler människor i arbete. Vi har ett mål som är viktigare än alla andra: Till år 2020 ska Sverige öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att vi når lägst arbetslöshet i EU
+    - förbättra missbrukarvården och stärka psykiatrin. Ambitionen måste vara att ingen ska vara hemlös
+    - bygga fler studentbostäder och små hyreslägenheter.
+  -
+    fraga: hogskola
+    asikt:
+    - öka antalet högskoleplatser i hela landet
+    - stärka kvaliteten och öka undervisningstiden i humanistiska och samhällsvetenskapliga utbildningar samt lärarutbildningarna
+    - förändra styr- och resurstilldelningssystemet för högre utbildning
+    - genom fler relevanta sommarkurser ta steg mot ett treterminssystem
+    - bryta den sociala snedrekryteringen till högre utbildning.
+  -
+    fraga: idrott
+    asikt:
+    - att avgifterna ska hållas låga så att alla har möjlighet att delta
+    - att tjejer och killar kan utöva idrott på lika villkor
+    - att alla får 30 minuters daglig fysisk aktivitet i skolan/på fritids
+    - att idrott för unga bygger på lek och gemenskap, inte ”toppning”
+    - inrätta en s.k. evenemangslista.
+  -
+    fraga: infrastruktur
+    asikt:
+    - se att hela Sverige har en bra infrastruktur
+    - ställa om till fossilfria transporter
+    - att hela Sverige ska ha tillgång till snabb uppkoppling.
+  -
+    fraga: integrationochmangfald
+    asikt:
+    - korta vägen till jobb genom språk, utbildning och bostad
+    - ökad möjlighet till kompletterande utbildning i kombination med praktik och jobb
+    - ökat stöd till kommunerna för bra utbildning och socialt stöd för nyanlända barn och ungdomar
+    - alla kommuner ska bidra i mottagandet och för snabb etablering.
+  -
+    fraga: israelochpalestina
+    asikt:
+    - att de israelisk-palestinska fredssamtalen börjar igen
+    - se en tvåstatslösning, där Israel och Palestina kan leva sida vid sida i fred och säkerhet.
+    - att ockupationen av Västbanken och Östra Jerusalem samt blockaden av Gaza upphör
+    - att Israels folkrättsligt illegala bosättningspolitiken omedelbart upphör.
+  -
+    fraga: jaktochviltvard
+    asikt:
+    - Att Sverige ska vara ett föregångsland i att förvalta våra naturresurser och viltstammar på ett hållbart sätt
+    - Konflikterna kring jakten på rovdjur måste upphöra och ordning och reda skapas i förvaltningen av dessa
+    - Göra en översyn av älgjakten och en samlad klövdjursförvaltning.
+  -
+    fraga: jamstalldhet
+    asikt:
+    - heltid ska vara norm på hela arbetsmarknaden.
+    - jämställdhetsarbetet i skolan ska bedrivas kontinuerligt och inte i projekt för en begränsad tid, vare sig nationellt eller på den enskilda skolan
+    - genusperspektiv ska ha genomslag i forskning och utveckling och - om situationen inte snabbt förbättras - lagstifta om jämställda bolagsstyrelser
+    - alla som vill gå upp i arbetstid ska få möjlighet att göra det.
+  -
+    fraga: jarnvag
+    asikt:
+    - ha en pålitlig järnväg
+    - bygga nya stambanor för ett bättre järnvägssystem
+    - flytta över mer gods från väg till järnväg.
+  -
+    fraga: kemikalier
+    asikt:
+    - Att Sverige går före och inför förbud mot farliga kemikalier,
+    - Införa skatter som minskar användningen av farliga kemikalier
+    - Driva på EU för skärpta kemikalielagarna
+    - Göra platser där barn vistas dagligen, till exempel förskolor och skolor, giftfria.
+  -
+    fraga: klimat
+    asikt:
+    - Att utsläppen i Sverige ska minska med 85 procent till 2045
+    - Att kollektivtrafiken utökas och mer gods transporteras på järnväg och med fartyg
+    - En miljöbilsbonus för bilar med liten klimatpåverkan införs
+    - Krav på drivmedelsproducenterna att blanda in ökande andel förnybart i bensin och diesel. 
+  -
+    fraga: kollektivavtal
+    asikt:
+    - för att säkerställa goda arbetsvillkor för alla som jobbar i Sverige är det avgörande att det finns kollektivavtal som reglerar spelreglerna på arbetsmarknaden
+    - svenska fackförbund ska alltid kunna kräva ett svenskt kollektivavtal, ytterst med stöd av stridsåtgärder (med de begränsningar som följer av EU-rätten).
+  -
+    fraga: konsumentfragor
+    asikt:
+    - att konsumentens rätt stärks vid telefonförsäljning
+    - att övervakningen av att reglerna kring reklam som riktar sig till barn och könsstereotyp reklam skärps
+    - öka Konsumentombudsmannens befogenheter
+    - att det finns konsumentvägledning i samtliga kommuner, mindre kommuner kan samverka med varandra
+    - se över lagstiftningen om snabblån utan tillräcklig kreditupplysning, exempelvis sms-lån.
+  -
+    fraga: kultur
+    asikt:
+    - utveckla kulturlivet i hela landet
+    - utveckla kultursamverkansmodellen
+    - utöka fri entré till regionala museer
+    - utveckla konstnärernas villkor.
+  -
+    fraga: kyrkorochtrossamfund
+    asikt:
+    - stödja kyrkor och trossamfund som del av det civila samhället
+    - värna religionsfriheten - att alla människor ska kunna utöva sin tro
+    - att kyrkor och samfund ska leva upp till samhällets krav om demokrati, jämlikhet och alla människors lika värde.
+  -
+    fraga: karnkraft
+    asikt:
+    - en ordnad övergång där kärnkraften successivt ersätts med förnybar energi och energieffektivisering. Vi ska ha ett väl fungerande och konkurrenskraftigt elsystem även när kärnkraften är borta
+    - att Sverige ska ha god tillgång till el med konkurrenskraftiga priser.
+  -
+    fraga: landsbygdspolitik
+    asikt:
+    - stimulera regional tillväxt. Investera i service, utbildning, bredband, vägar och järnvägar samt bostäder i hela Sverige
+    - utnyttja möjligheten för en ökad svensk livsmedelsproduktion
+    - anpassa närings- och arbetsmarknadspolitiken efter regionala förhållanden
+    - förstärka statliga närvaron regionalt.   
+  -
+    fraga: larare
+    asikt:
+    - höja lärarlönerna och införa fler och tydligare karriärvägar i läraryrket
+    - investera i lärarnas fortbildning och kompetensutveckling
+    - höja kvaliteten i lärarutbildningarna med fler lärarledda timmar och stärkt koppling mellan teori och praktik
+    - utbilda och anställa fler speciallärare och specialpedagoger
+    - minska lärarnas administration och kringuppgifter.
+  -
+    fraga: laxor
+    asikt: göra det obligatorisk för alla skolor att erbjuda läxhjälp.
+  -
+    fraga: mat
+    asikt:
+    - Öka svensk livsmedelsproduktion och genomföra en offensiv satsning på ekologiskt
+    - Bibehålla och utveckla starkt djurskydd och höga miljökraven som en konkurrensfördel
+    - Bättre märkning och ökad information till konsumenterna om maten vi äter
+    - Införa strängare straff för matfusk.
+  -
+    fraga: nationellaprov
+    asikt:
+    - minska antalet obligatoriska nationella prov
+    - digitalisera de nationella proven
+    - öka inslagen av extern rättning.
+  -
+    fraga: nedrustning
+    asikt:
+    - att Sveriges agerar för nedrustning
+    - att Sverige arbetar för en internationell konvention mot kärnvapen
+    - att Sverige ställer sig bakom nedrustningsinitiativ baserade på kärnvapens oacceptabla humanitära konsekvenser.
+  -
+    fraga: nittiodagarsgarantin
+    asikt:
+    - införa en 90-dagarsgaranti för unga
+    - alla unga arbetssökande garanteras att senast inom 90 dagar få erbjudande om ett riktigt jobb, en praktikplats, en utbildning som leder till jobb eller en kombination av dessa
+    - göra Arbetsförmedlingen till en matchningsspecialist.
+  -
+    fraga: nyanlandaelever
+    asikt:
+    - att alla skolor ska ta emot nyanlända elever
+    - förbättra kartläggningen av nyanländas elevers kunskaper och samverkan mellan skolenheter
+    - förbättra modersmålsundervisningen
+    - att resurser ska fördelas mer rättvist
+    - stärka elevhälsan.
+  -
+    fraga: naringspolitikochkonkurrenskraft
+    asikt:
+    - att företagsklimatet i Sverige är så bra att det startas nya företag, att företagen växer, anställer fler och exporterar sina varor och tjänster. På så sätt skapas det fler jobb i Sverige
+    - att öka samverkan mellan offentliga aktörer, näringsliv och akademi och därmed skapa nya, innovativa lösningar som stärker konkurrenskraften, bidrar till en hållbar utveckling och skapar fler jobb
+    - att stärka företagens omställningsförmåga och konkurrenskraft när marknader förändras. Svenska företag ska vara ledande inom den digitala utvecklingen och i att utnyttja digitaliseringens möjligheter
+    - att kompetensförsörjningssystemet ska möta industrins behov och främja dess långsiktiga utveckling och att Sverige ska vara ledande i forskning inom områden som bidrar till att stärka den industriella produktionen av varor och tjänster i Sverige.
+  -
+    fraga: pension
+    asikt:
+    - på sikt avskaffa pensionärsskatten
+    - se över grundskyddet (garantipension och bostadstillägg) för att förbättra för den som har en låg pension
+    - förändra premiepensionssystemet
+    - se till att fler kommer i jobb. På så sätt kommer per pengar in i pensionssystemet och pensionerna blir högre.
+  -
+    fraga: psykiatri
+    asikt:
+    - öka tillgången till snabba insatser så att människor som behöver hjälp, stöd och vård ska kunna få det tidigare
+    - förbättra möjligheterna för exempelvis skolhälsovård och ungdomsmottagningar att kunna möta unga som mår dåligt i ett tidigt skede så att de kan få hjälp snabbt
+    - bygga upp regionala center för kunskapsspridning och utveckling i psykiatrin.
+  -
+    fraga: publicserviceochkommersiellmedia
+    asikt:
+    - fortsatt verka för ett starkt och oberoende public service
+    - att public service fortsatt ska ha ett brett utbud och spegla hela landet
+    - att public service fortsatt ska utveckla nya verksamheter med syftet att nå medborgare som idag inte tar del av public services utbud
+    - utveckla ett nytt plattformsoberoende mediestöd
+    - inrätta en så kallad evenemangslista.
+  -
+    fraga: rekryteringsgap
+    asikt:
+    - skapa fler bristyrkesutbildningar
+    - ha fler platser på universitet, högskola och yrkeshögskola och investera mer i kvaliteten i utbildningen
+    - bygga ut vuxenutbildningen genom fler platser inom yrkesvux, komvux och folkhögskola
+    - göra Arbetsförmedlingen till en matchningsspecialist som kan para ihop lediga jobb med personer som är arbetslösa eller vill byta jobb.
+  -
+    fraga: rektorer
+    asikt:
+    - se till att rektorer, skolledare och förskolechefer får kontinuerlig och obligatorisk kompetensutveckling
+    - förbättra skolledares arbetssituation. Rektor ska fokusera på det pedagogiska ledarskapet
+    - att förskolechefer ska ha samma yrkestitel och samma rätt till kompetensutveckling som rektorer.
+  -
+    fraga: sjukforsakringen
+    asikt:
+    - höja taket i sjukförsäkringen så att fler kan få ut 80 procent av inkomsten
+    - stärka rehabiliteringen och ha en väl fungerande företagshälsovård
+    - ha ett sjukpenningtal på max 9 dagar år 2020.
+  -
+    fraga: sjukvard
+    asikt:
+    - införa patientkontrakt för att stärka patientens ställning
+    - vård ska ges efter behov inte plånbokens storlek – ingen ska kunna köpa sig före i kön
+    - minska administrationen i vården så att anställda får mer tid till patienterna
+    - sluta de påverkbara hälsoklyftorna inom en generation.
+  -
+    fraga: skatter
+    asikt:
+    - att nya resurser till välfärden går före skattesänkningar och skattesubventioner
+    - att progressiviteten i skattesystemet vårdas
+    - att skatteklyftan mellan ålderspensionärer och löntagare avskaffas
+    - att skattefusk och skatteundandragande bekämpas
+    - att en blocköverskridande skattereform kommer till stånd.
+  -
+    fraga: skog
+    asikt:
+    - Skapa fler jobb och mer hållbar tillväxt i skogsnäringarna
+    - Att Sverige är en ledande nation inom den nya bioekonomin med innovationer kring nya förnybara bränslen och material från skogen
+    - Stimulera ett mer miljövänligt skogsbruk och mer skyddad natur i syfte att bevara den biologiska mångfalden.
+  -
+    fraga: ekonomisktbistand
+    asikt:
+    - investera i utbildning, t.ex. Komvux och yrkesutbildningar så att fler kan få chansen att ta de jobb som finns
+    - höja barnbidragen
+    - förbättra de ekonomiska trygghetsnäten vid arbetslöshet och sjukdom och att kommunerna arbetar med att ge rätt stöd till de människor som har ekonomiskt bistånd.
+  -
+    fraga: studiemedel
+    asikt:
+    - införa ett rekryterande studiestartsstöd för att öka rekryteringen till studier bland arbetslösa med stort utbildningsbehov
+    - minska snedrekryteringen till högre utbildning.
+  -
+    fraga: trygghet
+    asikt:
+    - investera i fler jobb, bättre skola och starkare välfärd
+    - stärka rättssamhället
+    - bryta segregationen.
+  -
+    fraga: ungdomsarbetsloshet
+    asikt:
+    - ha en 90-dagarsgaranti för unga. Den som är ung och utan arbete ska få stöd direkt och inom 90 dagar erbjudas ett riktigt jobb eller en utbildning som leder till jobb
+    - införa utbildningskontrakt för att få unga som saknar gymnasiekompetens att avsluta sin gymnasieutbildning
+    - införa bristyrkesutbildningar som utformas i nära samverkan med näringslivet och fackliga organisationer liksom utbyggd yrkesutbildning
+    - ha ett kunskapslyft bland annat genom fler platser inom yrkesvux, komvux och folkhögskola samt ha fler högskoleplatser så att unga kan skaffa sig den kompetens som efterfrågas.
+  -
+    fraga: utbildningskontrakt
+    asikt:
+    - halvera andelen unga som inte har en gymnasieexamen, eller studerar för att få det, till år 2020
+    - införa en 90-dagarsgaranti för unga arbetslösa med individuella insatser från första dagen
+    - göra gymnasieskolan obligatorisk.
+  -
+    fraga: vinstivalfarden
+    asikt:
+    - stoppa vinstjakten i skola, vård och omsorg
+    - skärpa lagar och regler för att stärka kvaliteten i all välfärd
+    - avskaffa den fria etableringsrätten för privata välfärdsbolag
+    - att kollektivavtal ska gälla alla anställda i offentligt finansierad verksamhet – oavsett om den utförs privat eller av offentlig huvudman
+    - att offentlighetsprincip och meddelarfrihet ska gälla alla anställda.
+  -
+    fraga: vuxenutbildning
+    asikt:
+    - genomföra ett kraftigt kunskapslyft med fler utbildningsplatser inom vuxenutbildning, yrkeshögskola, folkhögskola och högskola och samtidigt investera i kvaliteten i utbildningen
+    - att en ny kompetensförsäkring mellan staten och parterna på arbetsmarknaden skapas för att garantera återkommande kompetensutveckling för löntagarna
+    - en effektivare och mer individanpassad sfi. Det ger bättre förutsättningar att kombinera sfi med annan vuxenutbildning.
+  -
+    fraga: sjukvard
+    asikt:
+    - införa patientkontrakt för att stärka patientens ställning
+    - vård ska ges efter behov inte plånbokens storlek – ingen ska kunna köpa sig före i kön
+    - minska administrationen i vården så att anställda får mer tid till patienterna
+    - sluta de påverkbara hälsoklyftorna inom en generation.
+  -
+    fraga: valfard
+    asikt:
+    - stärka vår generella välfärdsmodell. Den offentligt finansierade välfärden ska hålla hög kvalitet och omfatta alla
+    - införa ett regelverk för att stoppa vinstjakten i välfärden
+    - ta fram en kvalitetsplan för säkra kvaliteten i den svenska äldreomsorgen
+    - investera i en bra vård i hela landet.
+  -
+    fraga: ekonomi
+    asikt:
+    - att investeringar i fler jobb och bättre skola går före fortsatta skattesänkningar. Investeringarnas andel av BNP ska öka
+    - att Sverige mellan 2014 och 2020 ska öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att Sverige når lägst arbetslöshet i EU
+    - att det finanspolitiska ramverket med mål för den offentliga sektorns sparande och utgiftstak ska förstärkas i enlighet med den breda blocköverskridande överenskommelse som finns på området.
+  -
+    fraga: ekonomisktbistand
+    asikt:
+    - investera i utbildning, t.ex. Komvux och yrkesutbildningar så att fler kan få chansen att ta de jobb som finns
+    - höja barnbidragen
+    - förbättra de ekonomiska trygghetsnäten vid arbetslöshet och sjukdom och att kommunerna arbetar med att ge rätt stöd till de människor som har ekonomiskt bistånd.
+  -
+
+    fraga: jamstalldhet
+    asikt:
+    - heltid ska vara norm på hela arbetsmarknaden
+    - jämställdhetsarbetet i skolan ska bedrivas kontinuerligt och inte i projekt för en begränsad tid, vare sig nationellt eller på den enskilda skolan
+    - genusperspektiv ska ha genomslag i forskning och utveckling och - om situationen inte snabbt förbättras - lagstifta om jämställda bolagsstyrelser
+    - alla som vill gå upp i arbetstid ska få möjlighet att göra det.
+  -
+    fraga: fn
+    asikt:
+    - reformera FN:s säkerhetsråd för att bättre återspegla dagens värld
+    - begränsa, och på sikt avskaffa, vetorätten i FN:s säkerhetsråd
+    - arbeta för ett öppet och transparent FN, där ansvar kan utkrävas
+    - att kvinnor får en mer framträdande roll i det förebyggande, fredsskapande och fredsbevarande arbetet.
+  -
+    fraga: folkbildning
+    asikt:
+    - värna folkbildningens självständighet och oberoende
+    - att studieförbund och folkhögskolor får rätt förutsättningar för att utvecklas
+    - genomföra en ny kultur- och folkbildningssatsning.
+  -
+    fraga: folkhogskola
+    asikt:
+    - öka antalet platser inom folkhögskolan
+    - möjliggöra för studieförbund och folkhögskolor att finnas över hela landet
+    - göra det möjligt att läsa en hel gymnasieutbildning på folkhögskola direkt efter grundskolan.
+  -
+    fraga: forskning
+    asikt:
+    - höja den lägsta nivån för forskningsresurser till alla lärosäten
+    - se breda 10-åriga forskningspolitiska överenskommelser så att Sverige får en långsiktig forsknings- och innovationspolitik
+    - se över styr- och resurstilldelningssystemet för forskning och högre utbildning
+    - stärka jämställdheten inom forskning och högre utbildning, bland annat genom att införa en jämställdhetsbonus.
+  -
+    fraga: friskolor
+    asikt:
+    - att skattepengar som är avsedda till skolan stannar i skolan.
+    - ha ett gemensamt ansökningsförfarande till alla skolor, oavsett driftsform, för att säkerställa att elever med olika bakgrund möts. Kötid ska inte vara ett urvalskriterium
+    - höja kvalitetskraven så att personaltätheten och andra kvalitetsrelaterade faktorer inte är väsentligt lägre i friskolor än i kommunala skolor
+    - stoppa överetableringen av skolor och ge kommunerna långsiktiga planeringsförutsättningar
+    - att alla skolor är fria från religiös påverkan.
+  -
+    fraga: fritidshem
+    asikt:
+    - höja personaltätheten och stärka kvaliteten i fritidshemmen
+    - utveckla samverkan mellan fritidshem och föreningsliv för att fler barn ska få ägna sig åt olika föreningsaktiviteter
+    - att fritidshemmets lärandeuppdrag synliggörs och att personalen får tid att planera och utveckla verksamheten.
+  -
+    fraga: funktionsnedsattning
+    asikt:
+    - se över och stärka LSS-reformen och den personliga assistansen
+    - se en samordnad kraftsamling för att människor med en funktionsnedsättning ska få stöd att komma in på, eller tillbaks till, arbetsmarknaden
+    - förbättra och stärka möjligheten till utbildning för personer med funktionsnedsättning.
+  -
+    fraga: forskola
+    asikt:
+    - minska barngrupperna och införa ett maxtak i förskolan
+    - utbilda och anställa fler förskollärare
+    - att alla som arbetar i förskolan har rätt kompetens för att arbeta med barn
+    - att alla barn ska ha rätt till förskola. Oavsett om föräldrarna är arbetslösa eller föräldralediga ska barnen ha rätt till förskola under hela dagen
+    - att få bort farliga ämnen ur barns vardag.
+  -
+    fraga: forskoleklass
+    asikt:
+    - göra förskoleklassen obligatorisk för alla sexåringar
+    - minska klasstorleken och anställa mer personal
+    - utveckla förskolepedagogiken och förskoleklassens unika roll som brygga mellan förskola och skola
+    - investera i lärarna och deras förutsättningar för planering och kollegialt samarbete
+    - öka tillgången till specialpedagogiskt stöd i förskoleklassen.
+  -
+    fraga: forsvarochkrisberedskap
+    asikt:
+    - hävda Sveriges militära alliansfrihet och vår förmåga till internationellt samarbete
+    - ett personalförsörjningssystem som förmår att förena efterfrågad snabbhet med bred folklig förankring
+    - obligatorisk mönstring för alla män och kvinnor vid 18 års ålder
+    - att stärka det nordiska försvarssamarbetet.
+  -
+    fraga: foraldraforsakring
+    asikt:
+    - att en successiv höjning av taket i den tillfälliga föräldrapenningen genomförs
+    - att föräldraförsäkringen moderniseras så att den fungerar för alla familjekonstellationer
+    - att föräldraförsäkringen individualiseras och delas lika mellan föräldrarna.
+  -
+    fraga: ungdomsarbetsloshet
+    asikt:
+    - ha en 90-dagarsgaranti för unga. Den som är ung och utan arbete ska få stöd direkt och inom 90 dagar erbjudas ett riktigt jobb eller en utbildning som leder till jobb
+    - införa utbildningskontrakt för att få unga som saknar gymnasiekompetens att avsluta sin gymnasieutbildning
+    - införa bristyrkesutbildningar som utformas i nära samverkan med näringslivet och fackliga organisationer liksom utbyggd yrkesutbildning
+    - ha ett kunskapslyft bland annat genom fler platser inom yrkesvux, komvux och folkhögskola samt ha fler högskoleplatser så att unga kan skaffa sig den kompetens som efterfrågas.
+  -
+    fraga: utbildning
+    asikt:
+    - investera brett från förskola till högskola för höjda kunskapsresultat
+    - genomföra ett kraftfullt kunskapslyft med fler utbildningsplatser inom vuxenutbildning, yrkeshögskola och högskola
+    - satsa på forskning och utbildning i hela landet
+    - införa ett utbildningskontrakt och studiestartsstöd för att stärka de med lägst utbildning
+    - höja kvaliteten och attraktiviteten för gymnasiets yrkesprogram.
+  -
+    fraga: utbildningskontrakt
+    asikt:
+    - halvera andelen unga som inte har en gymnasieexamen, eller studerar för att få det, till år 2020
+    - införa en 90-dagarsgaranti för unga arbetslösa med individuella insatser från första dagen
+    - göra gymnasieskolan obligatorisk.
+  -
+    fraga: yrkesintroduktionsjobb
+    asikt:
+    - införa Yrkesintroduktionsjobb som ger unga nyanställda möjlighet att kombinera jobb med utbildning inom ett yrke
+    - skapa en 90-dagarsgaranti för unga. Den som är ung och utan arbete ska få stöd direkt och inom 90 dagar erbjudas ett riktigt jobb eller en utbildning som leder till jobb. Den som inte tar erbjudandet förlorar rätten till ersättning
+    - skapa utbildningskontrakt för att få unga som saknar gymnasiekompetens att avsluta sin gymnasieutbildning.
+  -
+    fraga: yrkesutbildning
+    asikt:
+    - att stärka branschkopplingen i gymnasiets yrkesprogram och utveckla fler yrkescollege
+    - att alla program i gymnasieskolan ska ge högskolebehörighet
+    - att alla elever på yrkesprogram ska få en praktik av hög kvalitet
+    - att yrkesvux byggs ut
+    - att yrkeshögskolan utvecklas med fler utbildningsplatser, större flexibilitet och bättre planeringsförutsättningar.

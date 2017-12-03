@@ -1,6 +1,4 @@
 ---
 title:  Miljö
-tags:
-    - Samhälle
-    - Miljö
+tags: miljo miljoochklimat
 ---

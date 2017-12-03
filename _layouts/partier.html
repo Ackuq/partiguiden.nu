@@ -16,28 +16,52 @@ $(document).ready(function(){
         </div>
     <div class="col-md-6 col-md-offset-2">
         {% assign path = page.id | remove: "/artiklar/" %}
-        {% if site.data[path].s != NULL %}
+
+        
         <div class="asikt">
-        {% assign s = site.data[path].s %}
-            <div id="S" class="partititle">
-                <h3>{{s.parti}}</h3>
-            </div>
-            <div class="slidetoggle">
-                <p>{{s.asikt}}</p>
-            </div>
+                    <div id="S" class="partititle">
+                        <h3>Socialdemokraterna</h3>
+                    </div>
+                    <div class="slidetoggle">
+        
+        {% assign S = site.data.socialdemokraterna.root.amne %}
+        {% for amne in S %}
+            {% for tag in page.tags %}
+            {% if amne.fraga == tag %}
+                
+                        <ul>
+                            {% for asikt in amne.asikt %}           
+                                    <li>{{asikt}}</li>
+                            {% endfor %}
+                        </ul>
+
+            {% endif %}
+            {% endfor %}
+        {% endfor %}
+                </div>
         </div>
-        {% endif %}
-        {% if site.data[path].m != NULL %}
-        <div class="asikt">
-        {% assign m = site.data[path].m %}
-            <div id="M" class="partititle">
-                <h3>{{m.parti}}</h3>
-            </div>
-            <div class="slidetoggle">
-                <p>{{m.asikt}}</p>
-            </div>
-        </div>
-        {% endif %}
+        
+        
+        {% assign M = site.data.moderaterna.root.amne %}
+        {% for amne in M %}
+            {% for tag in page.tags %}
+            {% if amne.fraga == tag %}
+                <div class="asikt">
+                    <div id="M" class="partititle">
+                        <h3>Moderaterna</h3>
+                    </div>
+                    <div class="slidetoggle">
+                        <ul>
+                            {% for asikt in amne.asikt %}           
+                                    <li>{{asikt}}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            {% endif %}
+            {% endfor %}
+        {% endfor %}
+        
         {% if site.data[path].sd != NULL %}
         <div class="asikt">
         {% assign sd = site.data[path].sd %}
@@ -104,18 +128,21 @@ $(document).ready(function(){
             </div>
         </div>
         {% endif %}
+        
+
+        
     </div>
         <div class="col-md-3">
             <div class="relaterade">
                 <h4>Relaterade artiklar</h4>
-                {% for page_tag in page.tags %}
+                {% for page_cat in page.categories %}
                     {% for sida in site.artiklar %}
                         {% if sida != page %}
-                            {% for tag in sida.tags %}
-                                {% if tag == page_tag %}
-                                    {% if tag != current_tag %}
+                            {% for cat in sida.categories %}
+                                {% if cat == page_cat %}
+                                    {% if cat != current_cat %}
                                         <div class="bokstav">
-                                            <header>{{tag}}</header>
+                                            <header>{{cat}}</header>
                                         </div>
                                     {% endif %}
                                     <div class="listobjekt" style="width:100%">
@@ -123,7 +150,7 @@ $(document).ready(function(){
                                             <span>{{sida.title}}</span>
                                         </a>    
                                     </div>
-                                    {% assign current_tag = tag %}
+                                    {% assign current_cat = cat %}
                                 {% endif %}
                             {% endfor %}
                         {% endif %}
