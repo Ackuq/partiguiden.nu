@@ -1,5 +1,6 @@
 ---
-title:  Välfärd
-tags: valfard
+title: Välfärd
+tags:
+    - Välfärd
 categories: Välfärd
 ---

@@ -1,5 +1,11 @@
 ---
-title:  Skola och utbildning
-tags: skolaochutbildning skola utbildning betyg
-categories: Välfärd
+title: Skola och utbildning
+tags:
+    - Skola
+    - Skola och utbildning
+    - Högskola
+    - Förskola
+    - Betyg
+    - Gymansium
+categories: Samhälle
 ---

@@ -1,4 +1,7 @@
 ---
 title: Bostad
-tags: bostad bostader
+tags:
+    - Bostad
+    - Bostäder
+categories: Samhälle
 ---

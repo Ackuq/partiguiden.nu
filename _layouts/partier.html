@@ -9,6 +9,12 @@ $(document).ready(function(){
 });
 </script>
 
+<script type="text/javascript">
+    function showStuff(id) {
+    document.getElementById(id).style.display = 'block';
+}
+</script>
+
 <div class="container">
     <div class="row">
         <div class="col-md-6 col-md-offset-2">
@@ -17,50 +23,57 @@ $(document).ready(function(){
     <div class="col-md-6 col-md-offset-2">
         {% assign path = page.id | remove: "/artiklar/" %}
 
-        
-        <div class="asikt">
-                    <div id="S" class="partititle">
-                        <h3>Socialdemokraterna</h3>
-                    </div>
-                    <div class="slidetoggle">
-        
-        {% assign S = site.data.socialdemokraterna.root.amne %}
-        {% for amne in S %}
-            {% for tag in page.tags %}
-            {% if amne.fraga == tag %}
-                
-                        <ul>
-                            {% for asikt in amne.asikt %}           
-                                    <li>{{asikt}}</li>
-                            {% endfor %}
-                        </ul>
 
-            {% endif %}
-            {% endfor %}
-        {% endfor %}
-                </div>
+        <div id="Socialdemokraterna" class="asikt">
+            <div id="S" class="partititle">
+                <h3>Socialdemokraterna</h3>
+            </div>
+            <div class="slidetoggle">
+                {% assign amne_list = site.data.socialdemokraterna.root.amne %}
+                {% for amne in amne_list %}
+                    {% for tag in page.tags %}
+                        {% if amne.fraga == tag %}
+                            <h4>{{tag}}</h4>
+                            <script>
+                                showStuff('Socialdemokraterna')
+                            </script>
+                            <h5>Socialdemokraterna vill:</h5>
+                            <ul>
+                                {% for asikt in amne.asikt %}           
+                                    <li>{{asikt}}</li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </div>
         </div>
         
         
-        {% assign M = site.data.moderaterna.root.amne %}
-        {% for amne in M %}
-            {% for tag in page.tags %}
-            {% if amne.fraga == tag %}
-                <div class="asikt">
-                    <div id="M" class="partititle">
-                        <h3>Moderaterna</h3>
-                    </div>
-                    <div class="slidetoggle">
-                        <ul>
-                            {% for asikt in amne.asikt %}           
+        <div id="Moderaterna" class="asikt">
+            <div id="M" class="partititle">
+                <h3>Moderaterna</h3>
+            </div>
+            <div class="slidetoggle">
+                {% assign amne_list = site.data.moderaterna.root.amne %}
+                {% for amne in amne_list %}
+                    {% for tag in page.tags %}
+                        {% if amne.fraga == tag %}
+                            <h4>{{tag}}</h4>
+                            <script>
+                                showStuff('Moderaterna')
+                            </script>
+                            <ul>
+                                {% for asikt in amne.asikt %}           
                                     <li>{{asikt}}</li>
-                            {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            {% endif %}
-            {% endfor %}
-        {% endfor %}
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
+        
         
         {% if site.data[path].sd != NULL %}
         <div class="asikt">
