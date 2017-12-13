@@ -21,7 +21,8 @@ title: Sök
         {% for page in site.artiklar %}
             "{{page.url | slugify}}": {
                 "title": "{{page.title | xml_escape}}",
-                "url": "{{site.baseurl}}{{page.url | xml_escape}}"
+                "url": "{{site.baseurl}}{{page.url | xml_escape}}",
+                "tags": "{% for tag in page.tags %}{{tag}}{% unless forloop.last %}, {% endunless %}{% endfor %}"
             }
             {% unless forloop.last %},{% endunless %}
         {% endfor %}

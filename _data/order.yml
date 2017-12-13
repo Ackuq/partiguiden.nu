@@ -1,0 +1,24 @@
+---
+root:
+  parti:
+  -
+    namn: Socialdemokraterna
+    syntax: S
+  -
+    namn: Moderaterna
+    syntax: M
+  -
+    namn: Sverigedemokraterna
+    syntax: SD
+  -
+    namn: Miljöpartiet
+    syntax: MP
+  -
+    namn: Centerpartiet
+    syntax: C
+  -
+    namn: Liberalerna
+    syntax: L
+  -
+    namn: Kristdemokraterna
+    syntax: KD

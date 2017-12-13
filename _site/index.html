@@ -2,10 +2,10 @@
 <html lang="sv">
 
 <head>
-    <link rel="icon" type="image/x-icon" href="{{site.baseurl}}/media/favicon.ico"/>
+    <link rel="icon" type="image/x-icon" href="/partiguiden/media/favicon.ico"/>
     <meta charset="utf-8">
     <meta name="theme-color" content="#00796B" />
-    <title>{{ page.title }}</title>
+    <title>Partiguiden</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -13,12 +13,12 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet">
-    <link href="{{ site.baseurl }}/css/styles.css" rel="stylesheet" type="text/css"> 
+    <link href="/partiguiden/css/styles.css" rel="stylesheet" type="text/css"> 
     <script src="https://use.fontawesome.com/75907f1e3b.js"></script>
-    <script src="{{ site.baseurl }}/js/rippleEffect.js"></script>
+    <script src="/partiguiden/js/rippleEffect.js"></script>
 
-    {%if page.url == '/'%}
-    <script src="{{ site.baseurl }}/js/typed.min.js"></script>
+    
+    <script src="/partiguiden/js/typed.min.js"></script>
     <script>
         $(function () {
             $(".element").typed({
@@ -27,7 +27,7 @@
                 , backDelay: 1000
             });
         });
-    </script> {% endif %} 
+    </script>  
     
     </head>
 <body>
@@ -35,12 +35,12 @@
         <nav class="navbar navbar-default navbar-fixed-top navbar-absolute">
             <div class="container">
                 <div class="navbar-header" id="title">
-                    <a href="{{ site.baseurl }}/index.html" style="height:100%" class="titlelink"><img style="max-height:100%" src="{{ site.baseurl }}/media/partiguiden_logo.svg" alt="Partiguiden logo"></a>
+                    <a href="/partiguiden/index.html" style="height:100%" class="titlelink"><img style="max-height:100%" src="/partiguiden/media/partiguiden_logo.svg" alt="Partiguiden logo"></a>
                     <button type="button" class="navbar-toggle container" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                     <div class="search desktop">
-                        <form data-ripple action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form">
+                        <form data-ripple action="/partiguiden/search.html" method="get" autocomplete="off" class="search-form">
                             <input type="text" name="query" placeholder="Sök"> 
-                            <input type="image" src="{{site.baseurl}}/media/search.svg" alt="Search" class="simg">
+                            <input type="image" src="/partiguiden/media/search.svg" alt="Search" class="simg">
                         </form> 
                         </div>
                 </div>
@@ -48,23 +48,49 @@
                     <ul class="nav navbar-nav">
                         <li>
                             <div class="search phone container">
-                                <form action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
+                                <form action="/partiguiden/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
                                     <input type="text" name="query" placeholder="Sök">
-                                    <input type="image" src="{{site.baseurl}}/media/search.svg" alt="Search" class="simg"> </form>
+                                    <input type="image" src="/partiguiden/media/search.svg" alt="Search" class="simg"> </form>
                             </div>
                         </li>
-                        <li {% if page.url=='/' %} class="active" {% endif %}><a href="{{ site.baseurl }}/index.html">Hem</a></li>
-                        <li {% if page.url=='/partiernas-stallning.html' %} class="active" {% endif %}><a href="{{ site.baseurl }}/partiernas-stallning.html">Partiernas ställning</a></li>
-                        <!--<li {% if page.url=='/riksdagspartierna.html' %} class="active" {% endif %}><a href="{{ site.baseurl }}/riksdagspartierna.html">Riksdagspartierna</a></li>-->
-                        <li {% if page.url=='/om-oss.html' %} class="active" {% endif %}><a href="{{ site.baseurl }}/om-oss.html">Om oss</a></li>
-                        <li {% if page.url=='/kontakt.html' %} class="active" {% endif %}><a href="{{ site.baseurl }}/kontakt.html">Kontakt</a></li>
+                        <li  class="active" ><a href="/partiguiden/index.html">Hem</a></li>
+                        <li ><a href="/partiguiden/partiernas-stallning.html">Partiernas ställning</a></li>
+                        <!--<li ><a href="/partiguiden/riksdagspartierna.html">Riksdagspartierna</a></li>-->
+                        <li ><a href="/partiguiden/om-oss.html">Om oss</a></li>
+                        <li ><a href="/partiguiden/kontakt.html">Kontakt</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
     </div>
-    <div id="content" {% if page.url == '/' %} style="padding-top:0" {% endif %}>
-    {{ content }}
+    <div id="content"  style="padding-top:0" >
+      <div class="jumbotron text-center" id="hemjumbotron">
+    <h2 class="noMargin"> Hur vill partierna förbättra <span class="element" id="typeText"></span> <span class="typed-cursor"></span> </h2>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6 col-sm-offset-3 text-center">
+        <h4 class="boxTitle">Guiden som hjälper dig välja rätt</h4>
+        <hr class="line">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat</p>
+        <hr class="lineLarge">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-sm-offset-4 text-center">
+        <h4 class="boxTitle">Populära frågor</h4>
+          <hr class="line">
+        <ul class="list-unstyled">
+          <li>lorem</li>
+          <li>ipsum</li>
+          <li>dolor</li>
+          <li>sit</li>
+          <li>amet</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
     </div>
     <footer id="footer">
         <div class="container">
