@@ -15,42 +15,134 @@ $(document).ready(function(){
 }
 </script>
 
-
-
 <div class="container">
     <div class="row">
         <div class="col-md-6 col-md-offset-2">
             <h1 id="pageTitle">{{page.title}}</h1>
         </div>
     <div class="col-md-6 col-md-offset-2">
-    
-        {% for parti in site.data.order.root.parti %}
-            <div id="{{parti.namn}}" class="asikt">
-                <div data-ripple="#bdc3c7" id="{{parti.syntax}}" class="partititle">
-                    <h3>{{parti.namn}}</h3>
-                </div>
-                <div class="slidetoggle">
-                    {% assign amne_list = site.data[parti.syntax].root.amne %}
-                    {% for amne in amne_list %}                    
-                        {% for tag in page.tags %}
-                            {% if amne.fraga == tag %}
-                                <h4>{{tag}}</h4>
-                                <script>showStuff('{{parti.namn}}')</script>
-                                <div class="opinion_box">
-                                    <ul>
-                                        {% for asikt in amne.asikt %}           
-                                            <li>{{asikt}}</li>
-                                        {% endfor %}
-                                    </ul>
-                                    <a href="{{amne.adress}}">Läs mer »</a>
-                                </div>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </div>
+        {% assign path = page.id | remove: "/artiklar/" %}
+
+
+        <div id="Socialdemokraterna" class="asikt">
+            <div id="S" class="partititle">
+                <h3>Socialdemokraterna</h3>
             </div>
-        {% endfor %}
+            <div class="slidetoggle">
+                {% assign amne_list = site.data.socialdemokraterna.root.amne %}
+                {% for amne in amne_list %}
+                    {% for tag in page.tags %}
+                        {% if amne.fraga == tag %}
+                            <h4>{{tag}}</h4>
+                            <script>
+                                showStuff('Socialdemokraterna')
+                            </script>
+                            <h5>Socialdemokraterna vill:</h5>
+                            <ul>
+                                {% for asikt in amne.asikt %}           
+                                    <li>{{asikt}}</li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
         
+        
+        <div id="Moderaterna" class="asikt">
+            <div id="M" class="partititle">
+                <h3>Moderaterna</h3>
+            </div>
+            <div class="slidetoggle">
+                {% assign amne_list = site.data.moderaterna.root.amne %}
+                {% for amne in amne_list %}
+                    {% for tag in page.tags %}
+                        {% if amne.fraga == tag %}
+                            <h4>{{tag}}</h4>
+                            <script>
+                                showStuff('Moderaterna')
+                            </script>
+                            <ul>
+                                {% for asikt in amne.asikt %}           
+                                    <li>{{asikt}}</li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </div>
+        </div>
+        
+        
+        {% if site.data[path].sd != NULL %}
+        <div class="asikt">
+        {% assign sd = site.data[path].sd %}
+            <div id="SD" class="partititle">
+                <h3>{{sd.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{sd.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].mp != NULL %}
+        <div class="asikt">
+        {% assign mp = site.data[path].mp %}
+            <div id="MP" class="partititle">
+                <h3>{{mp.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{mp.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].v != NULL %}
+        <div class="asikt">
+        {% assign v = site.data[path].v %}
+            <div id="V" class="partititle">
+                <h3>{{v.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{v.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].l != NULL %}
+        <div class="asikt">
+        {% assign l = site.data[path].l %}
+            <div id="L" class="partititle">
+                <h3>{{l.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{l.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].c != NULL %}
+        <div class="asikt">
+        {% assign c = site.data[path].c %}
+            <div id="C" class="partititle">
+                <h3>{{c.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{c.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        {% if site.data[path].kd != NULL %}
+        <div class="asikt">
+        {% assign kd = site.data[path].kd %}
+            <div id="KD" class="partititle">
+                <h3>{{kd.parti}}</h3>
+            </div>
+            <div class="slidetoggle">
+                <p>{{kd.asikt}}</p>
+            </div>
+        </div>
+        {% endif %}
+        
+
         
     </div>
         <div class="col-md-3">
