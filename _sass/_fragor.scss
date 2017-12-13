@@ -6,8 +6,8 @@
 }
 .asikt.active{
     background: #f6f6f6;
-
 }
+
 .slidetoggle li:before{
     background: #049372;
     content: "";
@@ -21,10 +21,20 @@
     height: 6px;
 }
 .slidetoggle ul{
-    padding: 0 0 10px 20px;
-    margin: 10px 0 0 0;
-    border-bottom: 2px solid #7f8c8d;
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
+.opinion_box{
+    border-bottom: 2px solid #00796B;
+}
+.opinion_box a{
+    display: inline-block;
+    color: #049372;
+    padding: 5px;
+    margin: 5px;
+}
+
 .slidetoggle li{
     list-style: none;
     position: relative;
@@ -64,16 +74,30 @@
     width: 50%;
     float: left;
 }
+.listobjekt > a:hover{
+    background-position:left bottom;
+    color: #fff;
+}
 .listobjekt > a{
     background-color: #f6f6f6;
     padding-left: 10px;
-    border-left: solid 2px #00796B;
+    border-left: solid 4px #00796B;
     text-decoration: none;
     display: block;
     font-weight: bold;
     color: #000;
     width: 100%;
     height: 100%;
+    //margin-left: 4px;
+    
+    background: linear-gradient(to left, #f6f6f6 50%, #00796B 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    -webkit-transition: all 0.5s ease;
+       -moz-transition: all 0.5s ease;
+        -ms-transition: all 0.5s ease;
+         -o-transition: all 0.5s ease;
+            transition: all 0.5s ease;
 }
 .listobjekt > a > span{
     display: block;
