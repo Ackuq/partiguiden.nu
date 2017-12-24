@@ -52,7 +52,11 @@
      inkscape:current-layer="svg10" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';letter-spacing:0px;word-spacing:0px;fill:#255255;fill-opacity:1;stroke:none;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;
+            font-family:'Noto Sans', sans-serif;
+            -inkscape-font-specification:'Noto Sans', sans-serif;
+            letter-spacing:0px;
+            word-spacing:0px;fill:#255255;fill-opacity:1;stroke:none;"
      x="4.0601563"
      y="120.4"
      id="text28"><tspan

@@ -4,7 +4,7 @@ layout: default
 <script type="text/javascript">
 $(document).ready(function(){
     $(".partititle").click(function(){
-        $(this).parent(".asikt").children('.slidetoggle').stop().slideToggle(300);
+        $(this).parent(".asikt").children('.slidetoggle').stop().slideToggle( 400,"easeInSine");
     })
 });
 </script>
@@ -37,11 +37,15 @@ $(document).ready(function(){
                                 <h4>{{tag}}</h4>
                                 <script>showStuff('{{parti.namn}}')</script>
                                 <div class="opinion_box">
-                                    <ul>
-                                        {% for asikt in amne.asikt %}           
-                                            <li>{{asikt}}</li>
-                                        {% endfor %}
-                                    </ul>
+                                    {% if amne.asikt[1] %}
+                                        <ul>
+                                            {% for asikt in amne.asikt %}           
+                                                <li>{{asikt}}</li>
+                                            {% endfor %}
+                                        </ul>
+                                    {% else %}
+                                        <p>{{amne.asikt}}</p>
+                                    {% endif %}
                                     <a href="{{amne.adress}}">Läs mer »</a>
                                 </div>
                             {% endif %}

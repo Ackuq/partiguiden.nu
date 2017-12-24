@@ -17,6 +17,9 @@ root:
     namn: Centerpartiet
     syntax: C
   -
+    namn: Vänsterpartiet
+    syntax: V
+  -
     namn: Liberalerna
     syntax: L
   -

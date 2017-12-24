@@ -19,29 +19,121 @@
     box-shadow: 0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
 }
 
-#V{
-    border: solid 2px #CF000F;
+#Socialdemokraterna{
+    li:before{
+        background: #C0392B !important;
+    }
+    a{
+        color: #C0392B;
+    }
+    .opinion_box{
+        border-bottom-color: #C0392B;
+    }
+    .partititle{
+        border: solid 2px #C0392B;
+    }
 }
-#S
-{
-    border: solid 2px #C0392B;
+
+#Moderaterna{
+    li:before{
+        background: #3A539B !important;
+    }
+    a{
+        color: #3A539B;
+    }
+    .opinion_box{
+        border-bottom-color: #3A539B;
+    }
+    .partititle{
+        border: solid 2px #3A539B;
+    }
 }
-#KD
-{
-    border: solid 2px #22A7F0;
+
+#Sverigedemokraterna{
+    li:before{
+        background: #F4D03F !important;
+    }
+    a{
+        color: #F4D03F;
+    }
+    .opinion_box{
+        border-bottom-color: #F4D03F;
+    }
+    .partititle{
+        border: solid 2px #F4D03F;
+    }
 }
-#M{
-    border: solid 2px #3A539B;
+
+#Miljöpartiet{
+    li:before{
+        background: #26A65B !important;
+    }
+    a{
+        color: #26A65B;
+    }
+    .opinion_box{
+        border-bottom-color: #26A65B;
+    }
+    .partititle{
+        border: solid 2px #26A65B;
+    }
 }
-#C{
-    border: solid 2px #1E824C;
+
+#Centerpartiet{
+    li:before{
+        background: #1E824C !important;
+    }
+    a{
+        color: #1E824C;
+    }
+    .opinion_box{
+        border-bottom-color: #1E824C;
+    }
+    .partititle{
+        border: solid 2px #1E824C;
+    }
 }
-#L{
-    border: solid 2px #5C97BF;
+#Liberalerna{
+    li:before{
+        background: #5C97BF !important;
+    }
+    a{
+        color: #5C97BF;
+    }
+    .opinion_box{
+        border-bottom-color: #5C97BF;
+    }
+    .partititle{
+        border: solid 2px #5C97BF;
+    } 
 }
-#SD{
-    border: solid 2px #F4D03F;
+
+#Kristdemokraterna{
+    li:before{
+        background: #22A7F0 !important;
+    }
+    a{
+        color: #22A7F0;
+    }
+    .opinion_box{
+        border-bottom-color: #22A7F0;
+    }
+    .partititle{
+        border: solid 2px #22A7F0;
+    } 
 }
-#MP{
-    border: solid 2px #26A65B;
+#Vänsterpartiet{
+    li:before{
+        background: #CF000F !important;
+    }
+    a{
+        color: #CF000F;
+    }
+    .opinion_box{
+        border-bottom-color: #CF000F;
+    }
+    .partititle{
+        border: solid 2px #CF000F;
+    } 
 }
+

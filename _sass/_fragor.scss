@@ -47,16 +47,6 @@
     display: none;
     overflow: hidden;
 }
-.slidetoggle p{
-    white-space: pre-wrap;
-    overflow: visible;
-    word-break: normal;
-    word-wrap: normal;
-    padding: 0 10px;
-    position:relative; 
-    margin-top:10px;
-    margin-bottom:5px;
-}
 .partititle{
     background: #fbfbfb;
     cursor: pointer;
@@ -74,13 +64,12 @@
     width: 50%;
     float: left;
 }
-.listobjekt > a:hover{
+.listobjekt > a:hover > span{
     background-position:left bottom;
     color: #fff;
 }
 .listobjekt > a{
     background-color: #f6f6f6;
-    padding-left: 10px;
     border-left: solid 4px #00796B;
     text-decoration: none;
     display: block;
@@ -88,22 +77,21 @@
     color: #000;
     width: 100%;
     height: 100%;
-    //margin-left: 4px;
-    
+}
+.listobjekt > a > span{
+    display: inline-block;
+    line-height: 50px;
+    height: 50px;
+    padding: 0 14px 0 10px;
     background: linear-gradient(to left, #f6f6f6 50%, #00796B 50%);
     background-size: 200% 100%;
     background-position: right bottom;
-    -webkit-transition: all 0.5s ease;
-       -moz-transition: all 0.5s ease;
-        -ms-transition: all 0.5s ease;
-         -o-transition: all 0.5s ease;
-            transition: all 0.5s ease;
-}
-.listobjekt > a > span{
-    display: block;
-    line-height: 50px;
-    height: 50px;
-    width: 100%;
+    background-repeat: no-repeat;
+    -webkit-transition: all 0.3s ease;
+       -moz-transition: all 0.3s ease;
+        -ms-transition: all 0.3s ease;
+         -o-transition: all 0.3s ease;
+            transition: all 0.3s ease;
 }
 @media (max-width:767px){
     .listobjekt{
