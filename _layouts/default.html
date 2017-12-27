@@ -10,20 +10,20 @@
     
     {% case page.title %}
         {% when "Partiguiden" %}
-            <title>{{ page.title }}</title>
-            <meta name="description" content="Partiguiden.nu är en hemsida som hjälper dig att få kunskap om vad Sveriges partier tycker i olika sakfrågor.">
+            <title>{{ page.title }} - Startsida</title>
+            <meta name="description" content="Partiguiden.nu är en hemsida som hjälper dig att få kunskap om vad Sveriges partier tycker i olika sakfrågor för att ta reda på vilket parti man sympatiserar med mest. Informationen på hemsidan kommer direkt från partierna. Rösta rätt 2018!">
         {% when "Om oss" %}
             <title>{{ page.title }} | Partiguiden.nu</title>
             <meta name="description" content="Allmän information om Partiguiden.nu.">
         {% when "Kontakt" %}
             <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Här hittar du kontaktinformation till Partiguiden.nu.">
+            <meta name="description" content="Här hittar du kontaktinformation till oss på Partiguiden.nu.">
         {% when "Partiernas ställning"%}
             <title>{{ page.title }} | Partiguiden.nu</title>
             <meta name="description" content="Lista över ämnen som partierna har tagit ställning till.">
         {% else %}
             <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Vad har Sveriges partier för åsikter om {{ page.title }}">
+            <meta name="description" content="Vad har Sveriges partier för åsikter om ämnet {{ page.title }}">
     {% endcase %}
     
     
