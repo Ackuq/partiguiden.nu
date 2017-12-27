@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/artiklar/bostad</loc>
+<lastmod>2017-12-27T18:10:48+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/artiklar/forsvaret</loc>
+<lastmod>2017-12-27T18:10:48+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/artiklar/skola</loc>
+<lastmod>2017-12-27T18:10:48+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/artiklar/valfard</loc>
+<lastmod>2017-12-27T18:10:48+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/kontakt.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/om-oss.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/partiernas-stallning.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/search.html</loc>
+</url>
+</urlset>

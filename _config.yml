@@ -2,6 +2,9 @@
 name                : Partiguiden
 markdown            : kramdown
 baseurl             : /
+url                 : "http://partiguiden.nu"
+plugins             :
+    - jekyll-sitemap
 
 sass:
     sass_dir: _sass
