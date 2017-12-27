@@ -8,7 +8,9 @@
 @import "navigation";
 @import "typed";
 @import "fragor";
+@import "rippleEffect";
 
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
 
 html,body{
     height: 100%;
@@ -80,6 +82,9 @@ div > form > .simg{
 .noMargin {
     margin: 0;
 }
+.TypedText{
+    display: inline-block;
+}
 .line{
     height: 1px;
     width: 20%;
@@ -91,6 +96,10 @@ div > form > .simg{
     background-color: #ccc;
 }
 
+.center {
+    margin: auto;
+    width: 50%;
+}
 
 @media (max-width: 767px) {
     body {

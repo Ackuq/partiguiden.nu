@@ -1,5 +1,8 @@
 ---
 title:  Försvaret
 tags:
-    - Samhälle
+    - Försvar och krisberedskap
+    - Försvaret
+    - Försvar
+categories: Samhälle
 ---
