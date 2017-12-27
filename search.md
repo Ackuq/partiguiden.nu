@@ -6,9 +6,9 @@ title: Sök
     <div class="row">
         <div class="col-md-4 col-md-offset-4">
             <div class="search page" style="border-color:black">
-                <form action="{{ site.baseurl }}/search.html" method="get" autocomplete="off" class="search-form" style="width:100%">
+                <form action="/search.html" method="get" autocomplete="off" class="search-form" style="width:100%">
                     <input type="text" id="search-box" name="query" placeholder="Sök" style="border-color:#00796B;width:100%;font-size:20px">
-                    <input type="image" src="{{site.baseurl}}/media/search_alt.svg" alt="Search" class="simg" style="margin-top:7px" >
+                    <input type="image" src="/media/search_alt.svg" alt="Search" class="simg" style="margin-top:7px" >
                 </form>
             </div>
             <div class="bokstav" style="text-align:left;padding-left: 5px;margin-top:10px">Sökresultat</div>
@@ -21,7 +21,7 @@ title: Sök
         {% for page in site.artiklar %}
             "{{page.url | slugify}}": {
                 "title": "{{page.title | xml_escape}}",
-                "url": "{{site.baseurl}}{{page.url | xml_escape}}",
+                "url": "{{page.url | xml_escape}}",
                 "tags": "{% for tag in page.tags %}{{tag}}{% unless forloop.last %}, {% endunless %}{% endfor %}"
             }
             {% unless forloop.last %},{% endunless %}

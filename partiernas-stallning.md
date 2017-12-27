@@ -19,7 +19,7 @@ title: Partiernas ställning
                     {% endif %}
                     {% assign bokstav = page.title | truncate: 1, "" %}
                     <div class="listobjekt">
-                        <a href="{{ site.baseurl }}{{ page.url }}">
+                        <a href="{{ page.url }}">
                             <span>{{page.title}}</span>
                         </a>    
                     </div>

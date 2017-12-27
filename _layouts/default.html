@@ -2,7 +2,7 @@
 <html lang="sv">
 
 <head>
-    <link rel="icon" type="image/x-icon" href="{{site.baseurl}}/media/favicon.ico"/>
+    <link rel="icon" type="image/x-icon" href="/media/favicon.ico"/>
     <meta charset="utf-8">
     <meta name="theme-color" content="#00796B" />
     <title>{{ page.title }}</title>
@@ -41,9 +41,9 @@
                     <a href="/index.html" style="height:100%" class="titlelink"><img style="max-height:100%" src="/media/partiguiden_logo.svg" alt="Partiguiden logo"></a>
                     <button type="button" class="navbar-toggle container" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                     <div class="search desktop">
-                        <form action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form">
+                        <form action="/search.html" method="get" autocomplete="off" class="search-form">
                             <input type="text" name="query" placeholder="Sök"> 
-                            <input type="image" src="{{site.baseurl}}/media/search.svg" alt="Search" class="simg">
+                            <input type="image" src="/media/search.svg" alt="Search" class="simg">
                         </form> 
                         </div>
                 </div>
@@ -51,14 +51,14 @@
                     <ul class="nav navbar-nav">
                         <li>
                             <div class="search phone container">
-                                <form action="{{site.baseurl}}/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
+                                <form action="/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
                                     <input type="text" name="query" placeholder="Sök">
-                                    <input type="image" src="{{site.baseurl}}/media/search.svg" alt="Search" class="simg"> </form>
+                                    <input type="image" src="/media/search.svg" alt="Search" class="simg"> </form>
                             </div>
                         </li>
                         <li {% if page.url=='/' %} class="active" {% endif %}><a href="/index.html">Hem</a></li>
                         <li {% if page.url=='/partiernas-stallning.html' %} class="active" {% endif %}><a href="/partiernas-stallning.html">Partiernas ställning</a></li>
-                        <!--<li {% if page.url=='/riksdagspartierna.html' %} class="active" {% endif %}><a href="{{ site.baseurl }}/riksdagspartierna.html">Riksdagspartierna</a></li>-->
+                        <!--<li {% if page.url=='/riksdagspartierna.html' %} class="active" {% endif %}><a href="/riksdagspartierna.html">Riksdagspartierna</a></li>-->
                         <li {% if page.url=='/om-oss.html' %} class="active" {% endif %}><a href="/om-oss.html">Om oss</a></li>
                         <li {% if page.url=='/kontakt.html' %} class="active" {% endif %}><a href="/kontakt.html">Kontakt</a></li>
                     </ul>
