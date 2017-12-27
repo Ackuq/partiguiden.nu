@@ -12,6 +12,7 @@ tags:
     - Särskolan
     - Barn och förskola
     - Betyg
+    - Läxor
     - Högre utbildning
     - Kunskap och utbildning
     - Lärarutbildningen
