@@ -3,7 +3,10 @@ layout: default
 title: Partiguiden
 ---
   <div class="jumbotron text-center" id="hemjumbotron">
-    <h2 class="noMargin"> Hur vill partierna förbättra <span class="element" id="typeText"></span> <span class="typed-cursor"></span> </h2>
+    <h2 class="noMargin"> Hur vill partierna förbättra 
+        <span class="element" id="typeText"></span> 
+        <span class="typed-cursor"></span>
+      </h2>
   </div>
   <div class="container">
     <div class="row">

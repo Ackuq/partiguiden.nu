@@ -82,6 +82,9 @@ div > form > .simg{
 .noMargin {
     margin: 0;
 }
+.TypedText{
+    display: inline-block;
+}
 .line{
     height: 1px;
     width: 20%;
@@ -93,6 +96,10 @@ div > form > .simg{
     background-color: #ccc;
 }
 
+.center {
+    margin: auto;
+    width: 50%;
+}
 
 @media (max-width: 767px) {
     body {
