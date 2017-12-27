@@ -85,13 +85,18 @@ div > form > .simg{
 .TypedText{
     display: inline-block;
 }
-.line{
+.linesmall{
     height: 1px;
     width: 20%;
     background-color: #ccc;
 }
-.lineLarge{
+.lineMedium{
+    height: 1px;
     width: 50%;
+    background-color: #ccc;
+}
+.lineLarge{
+    width: 75%;
     height: 1px;
     background-color: #ccc;
 }
