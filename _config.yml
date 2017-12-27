@@ -1,7 +1,7 @@
 
 name                : Partiguiden
 markdown            : kramdown
-baseurl             : /partiguiden
+baseurl             : /
 
 sass:
     sass_dir: _sass
