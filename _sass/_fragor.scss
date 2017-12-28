@@ -103,6 +103,15 @@
         color: #000;
     }
 }
+.breadcrumb{
+    background: #fff;
+    margin-bottom: 0;
+    padding-left: 3px;
+}
+.breadcrumb > li > a{
+    color: #34495e;
+
+}
 .bokstav{
     z-index: 10;
     color: #fff;

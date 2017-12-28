@@ -18,12 +18,19 @@ $(document).ready(function(){
 
 
 <div class="container">
+
     <div class="row">
-        <div class="col-md-6 col-md-offset-2">
+        <div class="col-md-8 col-md-offset-2">
+            <ul class="breadcrumb">
+                <li><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+                <li><a href="/partiernas-stallning.html">Partiernas ställning</a></li>
+                <li class="active">{{page.title}}</li>
+            </ul>
+        </div>
+        <div class="col-md-8 col-md-offset-2">
             <h1 id="pageTitle">{{page.title}}</h1>
         </div>
-    <div class="col-md-6 col-md-offset-2">
-    
+        <div class="col-md-8 col-md-offset-2">
         {% for parti in site.data.order.root.parti %}
             <div id="{{parti.namn}}" class="asikt">
                 <div data-ripple="#bdc3c7" id="{{parti.syntax}}" class="partititle">
@@ -57,6 +64,7 @@ $(document).ready(function(){
         
         
     </div>
+    <!--
         <div class="col-md-3">
             <div class="relaterade">
                 <h4>Relaterade artiklar</h4>
@@ -83,5 +91,6 @@ $(document).ready(function(){
                 {% endfor %}
             </div>
         </div>
+        -->
     </div>
 </div>

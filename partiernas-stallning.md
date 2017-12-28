@@ -4,7 +4,13 @@ title: Partiernas ställning
 ---
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center">
+        <div class="col-md-8 col-md-offset-2">
+            <ul class="breadcrumb">
+                <li><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+                <li class="active">{{ page.title }}</li>
+            </ul>
+        </div>
+        <div class="col-md-8 col-md-offset-2">
             <h1 id="pageTitle">Partiernas ställning</h1>
         </div>
         <div class="col-md-8 col-md-offset-2">

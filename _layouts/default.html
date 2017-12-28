@@ -30,9 +30,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
+    
+    <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    
-    
     
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
@@ -88,7 +88,7 @@
         <nav class="navbar navbar-default navbar-fixed-top navbar-absolute">
             <div class="container">
                 <div class="navbar-header" id="title">
-                    <a href="/index.html" style="height:100%" class="titlelink"><img style="max-height:100%" src="/media/partiguiden_logo.svg" alt="Partiguiden logo"></a>
+                    <a href="/" style="height:100%" class="titlelink"><img style="max-height:100%" src="/media/partiguiden_logo.svg" alt="Partiguiden logo"></a>
                     <button type="button" class="navbar-toggle container" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                     <div class="search desktop">
                         <form action="/search.html" method="get" autocomplete="off" class="search-form">
@@ -106,7 +106,7 @@
                                     <input type="image" src="/media/search.svg" alt="Search" class="simg"> </form>
                             </div>
                         </li>
-                        <li {% if page.url=='/' %} class="active" {% endif %}><a href="/index.html">Hem</a></li>
+                        <li {% if page.url=='/' %} class="active" {% endif %}><a href="/">Hem</a></li>
                         <li {% if page.url=='/partiernas-stallning.html' %} class="active" {% endif %}><a href="/partiernas-stallning.html">Partiernas ställning</a></li>
                         <!--<li {% if page.url=='/riksdagspartierna.html' %} class="active" {% endif %}><a href="/riksdagspartierna.html">Riksdagspartierna</a></li>-->
                         <li {% if page.url=='/om-oss.html' %} class="active" {% endif %}><a href="/om-oss.html">Om oss</a></li>
