@@ -1,0 +1,27 @@
+#cookie-banner{
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    background: #009688;
+    overflow: hidden;
+    z-index: 1000;
+    padding: 10px;
+    bottom:0;
+    padding: 2.5rem 0;
+}
+.cookie-text{
+    padding-bottom: 2rem;
+}
+.cookies-button{
+    background: #fff;
+    width: 100%;
+    max-width: 27.5rem;
+    border: 2px solid #00796B;
+    color: #00796B;
+    transition: background-color 0.25s ease-out, color 0.25s ease-out;
+}
+.cookies-button:hover{
+    background-color: #00796B;
+    color: #fff;
+}

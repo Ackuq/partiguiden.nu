@@ -6,15 +6,21 @@
 }
 
 #search-results>a{
+    padding-left: 4px;
     display: block;
     width: inherit;
     text-decoration: none !important;
     color: #6C7A89;
 }
+#search-results>a:hover{
+    color: #000;
+}
+.search.desktop>form>input{
+    color: #fff;
+}
 #search-results{
     display: block;
     width: 100%;
-    padding: 4px;
     border: solid 1px #00796B;
     margin: 10px 0;
     font-size: 20px;
@@ -27,6 +33,9 @@
     background-color: inherit;
     color: inherit;
     border-bottom: 1px solid #fff;
+}
+.search{
+    color: #000;
 }
 
 .search form {

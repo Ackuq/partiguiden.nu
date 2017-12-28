@@ -55,12 +55,8 @@
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111642551-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-111642551-1');
-    </script>
+
+    <script src="{{site.url}}/js/cookie-consent.js"></script>
 
 
     <meta content="www.partiguiden.nu{{ page.url }}" name="URL">
@@ -117,6 +113,14 @@
     </div>
     <div id="content" {% if page.url == '/' %} style="padding-top:0" {% endif %}>
     {{ content }}
+    </div>
+    <div id="cookie-banner" style="display: none">
+        <div class="container">
+            <h4 class="cookie-text">Paritguiden.nu använder sig av cookies för att kunna analysera trafiken på hemsidan</h4>
+            <button onclick="gaOpt()" class="cookies-button btn">
+                <span>Jag godkänner</span>
+            </button>
+        </div>
     </div>
     <footer id="footer">
         <div class="container">

@@ -6,7 +6,7 @@ function displaySearchResults(results, store) {
 
     for (var i = 0; i < results.length; i++) {  // Iterate over the results
       var item = store[results[i].ref];
-      appendString += '<a href="' + item.url + '" class="search-results">'+ '<span class="search-title">' + item.title + '</span>' + '</a>';
+      appendString += '<a href="' + item.url + '" >'+ '<span class="search-title">' + item.title + '</span>' + '</a>';
     }
 
     searchResults.innerHTML = appendString;
