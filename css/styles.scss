@@ -2,6 +2,7 @@
 ---
 
 @charset "utf-8";
+@import "bootstrap";
 
 @import "partier";
 @import "search";
@@ -10,7 +11,7 @@
 @import "fragor";
 @import "rippleEffect";
 
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import "Noto_Sans";
 
 html,body{
     height: 100%;

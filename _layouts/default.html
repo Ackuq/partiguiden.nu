@@ -7,7 +7,6 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="theme-color" content="#00796B" />
     
-    
     {% case page.title %}
         {% when "Partiguiden" %}
             <title>{{ page.title }} - Startsida</title>
@@ -31,15 +30,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     
-    <!-- Bootstrap 3 -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Bootstrap 3.3.7 -->
+    <script src="{{ site.url }}/js/jquery-3.2.1.min.js"></script>
+    <script src="{{ site.url }}/js/jquery-ui.min.js"></script>
+    <script src="{{ site.url }}/js/bootstrap.min.js"></script>
     
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-    
+    <!-- Custom stylesheet -->
     <link href="{{ site.url }}/css/styles.css" rel="stylesheet" type="text/css"> 
+    
+    <!-- Font awesome -->
     <script src="https://use.fontawesome.com/75907f1e3b.js"></script>
+    
+    <!-- Ripple Effect js -->
     <script src="{{ site.url }}/js/rippleEffect.js"></script>
     
     <!-- Google AdSense -->
@@ -66,10 +68,8 @@
     
     
     {% if page.url == "/" %}
-
-        
+    <!-- Typed.js -->
     <script src="{{ site.url }}/js/typed.min.js"></script>
-    
     <script>
         $(function () {
             $(".element").typed({
@@ -79,7 +79,6 @@
             });
         });
     </script> 
-    
     {% endif %} 
     
     </head>
@@ -132,7 +131,7 @@
                         <i class="fa fa-envelope-o" aria-hidden="true"></i>
                         <a href="mailto:axel@pettersson.cc">axel@pettersson.cc</a>
                     </p>
-                    <a href="https://www.facebook.com/"> <i class="fa fa-facebook fa-2x"></i> </a>
+                    <a href="https://www.facebook.com/partiguiden/"> <i class="fa fa-facebook fa-2x"></i> </a>
                 </div>
             </div>
         </div>
