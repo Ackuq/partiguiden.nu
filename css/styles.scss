@@ -21,6 +21,9 @@ html,body{
 body {
     font-family: "Noto Sans", sans-serif;
     padding-top: 110px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 #header {
@@ -42,18 +45,15 @@ body {
     padding-top: 20px;
     margin-bottom: -109px;
     padding-bottom: 139px;
-    min-height: 100%;
+    flex: 1 0 auto;
 }
 
 #footer {
     padding-top: 10px;
     padding-bottom: 10px;
-    position: relative;
     width: 100%;
-    bottom: 0;
     color: #fff;
     background: #00796B;
-    height: auto;
     box-shadow: 0 -1px 3px rgba(34, 25, 25, 0.4);
 }
 
@@ -80,7 +80,10 @@ div > form > .simg{
     background-color: #009688;
 }
 
-
+#mail > a:hover,
+.footer_content > a:hover{
+    color: #bdc3c7;
+}
 .noMargin {
     margin: 0;
 }
