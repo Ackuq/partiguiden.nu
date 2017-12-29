@@ -26,4 +26,4 @@ defaults        :
 collections         :
     artiklar        :
         output      : true
-        permalink   : /artiklar/:path
+        permalink   : /amnen/:path

@@ -11,9 +11,10 @@ title: Om oss
             <i class="fa fa-info fa-4x" aria-hidden="true"></i>
         </div>
         <div class="col-md-8 col-md-offset-2">
-            <p class="text-center">Denna hemsida skapades för att enkelt kunna bli insatt i Sveriges politik.<br><br>
-            Utvecklingen av sidan påbörjades som ett fritidsprojekt för att utveckla kunskaper inom webbutveckling.
-            </p>
+            <h4 class="contentText">Partiguiden.nu skapades med syftet av att kunna erbjuda en platform där man lätt kan kolla upp partiernas ståndpunkter i olika ämnen och sakfrågor. Under utvecklingen av hemsidan togs det hänsyn till opererbarhet, begriplighet och användarvänlighet för att kunna erbjdua den bästa möjliga användarupplevensen.<br><br>
+            Utvecklingen av sidan påbörjades som ett fritidsprojekt år 2017 för att utveckla kunskaper inom webbutveckling.<br><br>
+            Informationen som presenteras från sidan är utvald information från partiernas egna hemsidor.
+            </h4>
         </div>
     </div>
 </div>

@@ -30,13 +30,6 @@ root:
     - Förbättra samplaneringen av bostäder och infrastruktur
     - Korta ner handläggningstiderna för överklagande
   -
-    fraga: Strandskydd
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/bostad/strandskydd.html
-    asikt:
-    - Ändra i strandskyddslagen så att det blir möjligt att bygga i områden med gles bebyggelse
-    - Att strandskyddet ska anpassas utifrån lokala förutsättningar så att landsbygden kan utvecklas
-    - Trygga allmänhetens tillgång till stränder och bevara goda livsvillkor för djur och växter
-  -
     fraga: Ekonomi och skatter
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/ekonomi-och-skatter.html
     asikt:
@@ -150,13 +143,6 @@ root:
     - Att reglerna för företagare ska bli enklare så att tiden kan användas till att skapa jobb istället för att fylla i blanketter
     - Ha en enda väg in till myndigheterna så att uppgifter bara behöver lämnas på ett ställe
     - Att det ska bli enklare och billigare för små och växande företag att erbjuda sina anställda delägarskap
-  -
-    fraga: Företagsklimat
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/foretagande/foretagsklimat.html
-    asikt:
-    - Göra det enklare att starta företag
-    - Sänka kostnaderna för att anställa med lägre och enklare skatter, särskilt för små och växande företag
-    - Särskilt gynna det aktiva och personliga ägandet och företagandet
   -
     fraga: Minskat regelkrångel
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/foretagande/minskat-regelkrangel.html
@@ -483,13 +469,6 @@ root:
     - Ge kvinnor förutsättningar att starta och driva företag.
     - Att svenska företag ska ta ansvar för att skapa en jämn könsfördelning på maktpositioner.
   -
-    fraga: Sexualbrott
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering/sexualbrott.html
-    asikt:
-    - Ha en samtyckeslag och ett oaktsamhetsrekvisit för sexualbrott
-    - Ta bort preskriptionstiden för sexualbrott mot barn
-    - Att fler ska dömas till längre straff för våldtäkt
-  -
     fraga: Kultur- media och idrott
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/kultur-media-och-idrott.html
     asikt:
@@ -624,13 +603,6 @@ root:
     - Att pengar som kommer från fastighetsskatten på industrifastigheter och elproduktionsenheter ska tillfalla de regioner där den betalas in
     - Att en statlig utredning undersöker hur fastighetsskatten på bästa sätt kan bli mer lokal
   -
-    fraga: Företagsklimat
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/foretagsklimat.html
-    asikt:
-    - Sänka kostnaderna för att anställa med lägre och enklare skatter, särskilt för små och växande företag
-    - Skattemässigt gynna mindre företag framför större
-    - Förenkla krånglet för småföretagare
-  -
     fraga: IT
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/it.html
     asikt:
@@ -651,13 +623,6 @@ root:
     - Ändra i strandskyddslagen så att det blir möjligt att bygga i områden med gles bebyggelse.
     - Att strandskyddet ska anpassas utifrån lokala förutsättningar så att landsbygden kan utvecklas.
     - Trygga allmänhetens tillgång till stränder och bevara goda livsvillkor för djur och växter.
-  -
-    fraga: Valfrihet i välfärden
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/valfrihet-i-valfarden.html
-    asikt:
-    - Uppmuntra fler att starta företag inom vård och omsorg
-    - Att det ska finnas goda möjligheter att driva vårdbolag var man än bor i landet
-    - Ha valfrihet även inom specialistvården
   -
     fraga: Varg och andra rovdjur
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/varg-och-andra-rovdjur.html
@@ -794,13 +759,6 @@ root:
     asikt:
     - Ha en internationell panel av forskare som är experter på biologisk mångfald
     - Låta markägarna få mer att säga till om i det viktiga jobbet att bevara mångfalden
-  -
-    fraga: Förnybar energi
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/fornybar-energi.html
-    asikt:
-    - Vindkraften har tiodubblats
-    - Elen från biobränslen har ökat med mer än 50 procent
-    - De mål som skulle nås år 2020 är redan uppnådda
   -
     fraga: Giftfri vardag
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/giftfri-vardag.html
@@ -1080,13 +1038,6 @@ root:
     - Se en äldreomsorg med samma valfrihet som i övrig vård och omsorg
     - Uppmuntra nya idéer och tankar för att höja kvaliteten i vården
   -
-    fraga: Abort
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/abort.html
-    asikt:
-    - Satsa på förebyggande arbete för att minska antalet aborter
-    - Att fria och säkra aborter ska vara en mänsklig rättighet.
-    - Arbeta för att aborter ska tillåtas i alla EU:s medlemsstater så att kvinnor i hela Europa får rätt att bestämma över sina egna kroppar och säkra aborter.
-  -
     fraga: Alkoholpolitik
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/alkoholpolitik.html
     asikt:
@@ -1111,14 +1062,6 @@ root:
     - Införa hälsosamtal för 40-, 50- och 60-åringar med Västerbottens modell som förebild
     - Inrätta nationella riktlinjer för att samordna tidiga insatser av barn och unga och deras familjer på lokal, regional och nationell nivå
     - Verka för införandet av ett nationellt äldrehälsovårdsprogram
-  -
-    fraga: Funktionsnedsättningar
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/funktionsnedsattningar.html
-    asikt:
-    - Ge människor med funktionsnedsättning ökade möjligheter att bestämma över sitt stöd, sin hjälp och sin service.
-    - Värna den personliga assistansen
-    - Att tillgången till den vanliga arbetsmarknaden för människor med funktionsnedsättning ska bli bättre.
-    - Öka möjligheterna för unga med funktionsnedsättning att arbeta eller studera.
   -
     fraga: Hemlöshet
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/hemloshet.html

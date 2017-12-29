@@ -1,6 +1,6 @@
 --- 
 layout: default 
-title: Partiernas ställning 
+title: Partiernas ståndpunkter 
 ---
 <div class="container">
     <div class="row">
@@ -11,7 +11,7 @@ title: Partiernas ställning
             </ul>
         </div>
         <div class="col-md-8 col-md-offset-2">
-            <h1 id="pageTitle">Partiernas ställning</h1>
+            <h1 id="pageTitle">{{ page.title }}</h1>
         </div>
         <div class="col-md-8 col-md-offset-2">
             {% assign sortera_partier = site.artiklar | sort: 'title' %}

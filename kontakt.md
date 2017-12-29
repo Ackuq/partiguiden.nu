@@ -10,8 +10,8 @@ title: Kontakt
         <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:20px">
             <i class="fa fa-phone fa-4x"></i>
         </div>
-        <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:20px">
-            <span>För allmäna frågor samt förslag på förbättringar maila <a href="mailto:axel@pettersson.cc">axel@pettersson.cc</a></span>
+        <div class="col-md-8 col-md-offset-2" style="margin-bottom:20px">
+            <h4 class="contentText">För allmäna frågor, upplysning om saknaden av viss information om partierna, eller förslag på förbättringar, skicka ett mail till <a href="mailto:axel@pettersson.cc">axel@pettersson.cc</a></h4>
         </div>
     </div>
 </div>

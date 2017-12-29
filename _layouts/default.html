@@ -10,19 +10,19 @@
     {% case page.title %}
         {% when "Partiguiden" %}
             <title>{{ page.title }} - Startsida</title>
-            <meta name="description" content="Partiguiden.nu är en hemsida som hjälper dig att få kunskap om vad Sveriges partier tycker i olika sakfrågor för att ta reda på vilket parti man sympatiserar med mest. Rösta rätt 2018!">
+            <meta name="description" content="Välkommen till Partiguiden.nu. Detta är en hemsida som hjälper dig att få kunskap om vad Sveriges partier tycker i olika sakfrågor för att ta reda på vilket parti man sympatiserar med mest. Rösta rätt 2018!">
         {% when "Om oss" %}
             <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Allmän information om Partiguiden.nu.">
+            <meta name="description" content="Partiguiden.nu erbjuder en platform där du kan jämföra vad olika partier tycker i sakfrågor för att det ska bli lättare att hitta det parti du sympatiserar med mest.">
         {% when "Kontakt" %}
             <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Här hittar du kontaktinformation till oss på Partiguiden.nu.">
-        {% when "Partiernas ställning"%}
+            <meta name="description" content="Skulle du vilja kontakta oss på Partiguiden.nu? Här hittar du kontaktinformation.">
+        {% when "Partiernas ståndpunkter"%}
             <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Lista över ämnen som partierna har tagit ställning till.">
+            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i olika ämnen och sakfrågor? Hitta det parti du sympatiserar mest med nu!">
         {% else %}
             <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Vad har Sveriges partier för åsikter om ämnet {{ page.title }}?">
+            <meta name="description" content="Vad tar Sveriges partier för ståndpunkt inom ämnet {{ page.title | downcase}}? Jämför och hitta det parti du sympatiserar mest med nu!">
     {% endcase %}
     
     
@@ -100,7 +100,7 @@
                             </div>
                         </li>
                         <li {% if page.url=='/' %} class="active" {% endif %}><a href="/">Hem</a></li>
-                        <li {% if page.url=='/partiernas-stallning.html' %} class="active" {% endif %}><a href="/partiernas-stallning.html">Partiernas ställning</a></li>
+                        <li {% if page.url=='/partiernas-standpunkter.html' %} class="active" {% endif %}><a href="/partiernas-standpunkter.html">Partiernas ståndpunkter</a></li>
                         <!--<li {% if page.url=='/riksdagspartierna.html' %} class="active" {% endif %}><a href="/riksdagspartierna.html">Riksdagspartierna</a></li>-->
                         <li {% if page.url=='/om-oss.html' %} class="active" {% endif %}><a href="/om-oss.html">Om oss</a></li>
                         <li {% if page.url=='/kontakt.html' %} class="active" {% endif %}><a href="/kontakt.html">Kontakt</a></li>
@@ -130,8 +130,7 @@
                         </script>
                         Axel Pettersson</p>
                     <p id="mail">
-                        <a href="mailto:axel@pettersson.cc">                        <i class="fa fa-envelope-o" aria-hidden="true"></i>
-axel@pettersson.cc</a>
+                        <a href="mailto:axel@pettersson.cc"><i class="fa fa-envelope-o" aria-hidden="true"></i>axel@pettersson.cc</a>
                     </p>
                     <a href="https://www.facebook.com/partiguiden/"> <i class="fa fa-facebook fa-2x"></i> </a>
                 </div>
