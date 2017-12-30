@@ -13,7 +13,7 @@ title: Partiguiden
       <div class="col-sm-8 col-sm-offset-2 text-center">
         <h1  class="boxTitle">Guiden som hjälper dig rösta rätt</h1>
         <hr class="lineLarge">
-        <h4>Klicka <a href="/partiernas-stallning.html">här</a> eller på fliken "Partiernas ställning" för att börja jämföra olika partiers ställning till sakfrågor!</h4>
+        <h4>Klicka <a href="/partiernas-standpunkter.html">här</a> eller på fliken "Partiernas ställning" för att börja jämföra olika partiers ställning till sakfrågor!</h4>
         <hr class="lineMedium">
       </div>
     </div>
