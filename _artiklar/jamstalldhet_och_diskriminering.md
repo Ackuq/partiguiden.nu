@@ -1,0 +1,36 @@
+---
+title: Jämställdhet och diskriminering
+tags:
+    - Jämställdhet och diskriminering
+    - Abort
+    - Funktionsnedsättningar
+    - Föräldraförsäkring
+    - HBTQ-frågor
+    - Jämställdhet och feminism
+    - Kvotering
+    - Diskriminering
+    - Funktionshinder och tillgänglighet
+    - HBTQ
+    - Jämställdhet
+    - Funktionshinder
+    - Antirasism
+    - Mobbning
+    - HBT-frågor
+    - Barnkonventionen
+    - Barnäktenskap
+    - Diskriminering
+    - Feminism
+    - Graviditetspeng
+    - HBT
+    - Hjälpmedel
+    - Homosexualitet
+    - Jämställdhet
+    - Kvinnojourer
+    - Kvinnors företagande
+    - Mänskliga fri- och rättigheter
+    - Barn och ungas rättigheter
+    - Fördelningspolitik
+    - Inkomstklyftor
+    - Lönegapet
+    - Minoritetspolitik
+---

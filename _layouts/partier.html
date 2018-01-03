@@ -40,7 +40,7 @@ $(document).ready(function(){
                     {% assign amne_list = site.data[parti.syntax].root.amne %}
                     {% for amne in amne_list %}                    
                         {% for tag in page.tags %}
-                            {% if amne.fraga == tag %}
+                            {% if amne.fraga == tag  %}
                                 <h4>{{tag}}</h4>
                                 <script>showStuff('{{parti.namn}}')</script>
                                 <div class="opinion_box">
@@ -64,15 +64,15 @@ $(document).ready(function(){
         
         
     </div>
-    <!--
-        <div class="col-md-3">
-            <div class="relaterade">
-                <h4>Relaterade artiklar</h4>
+        <div class="col-md-8 col-md-offset-2">
+            <div id="relaterade" style="display: none">
+                <h4>Relaterade ämnen</h4>
                 {% for page_cat in page.categories %}
                     {% for sida in site.artiklar %}
                         {% if sida != page %}
                             {% for cat in sida.categories %}
                                 {% if cat == page_cat %}
+                                    <script>showStuff('relaterade')</script>
                                     {% if cat != current_cat %}
                                         <div class="bokstav">
                                             <header>{{cat}}</header>
@@ -91,6 +91,5 @@ $(document).ready(function(){
                 {% endfor %}
             </div>
         </div>
-        -->
     </div>
 </div>

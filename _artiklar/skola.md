@@ -4,23 +4,45 @@ tags:
     - Skola
     - Skola och utbildning
     - Utbildning
-    - Högskola
     - Förskola
     - Grundskolan
+    - Grundskola
     - Gymnasieskolan
+    - Gymnasieskola
     - Förskolan
     - Särskolan
     - Barn och förskola
     - Betyg
     - Läxor
-    - Högre utbildning
     - Kunskap och utbildning
-    - Lärarutbildningen
     - Likvärdig skola
     - Gymansium
     - Skolpolitik
     - Friskola
+    - Friskolor
     - Skola till jobb
     - IT och skola
-categories: Samhälle
+    - Nyanlända elever
+    - Läsning
+    - Läxor och prov
+    - Lärarna
+    - Stärkt utbildning för nyanlända elever
+    - Fritidshem
+    - Nationella prov
+    - Rektorer
+    - Utbildningskontrakt
+    - Yrkesutbildning
+    - Bildning
+    - Elevhälsa
+    - Lärlingsprogram
+    - Modersmålsundervisning
+    - Pedagogisk mångfald
+    - Sex- och samlevnadsundervisning
+    - Skolmat
+    - Yrkesprogram
+    - Betyg och tidiga insatser
+    - Lärlingar
+    - Religiösa friskolor
+    - Studiero
+categories: Utbildning
 ---

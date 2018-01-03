@@ -233,6 +233,20 @@ root:
     - Vi anser att medicinska åldersbedömningar bör göras.
     - Vi anser att de som nekas asyl ska få stöd att återvända hem.
   -
+  - fraga: EU - Europeiska unionen
+    adress: https://www.liberalerna.se/politik/politikpolitikeu-europeiska-unionen/
+    asikt: 
+    - Vi vill att EU ska samarbeta för fler jobb.
+    - Vi försvarar den fria rörligheten för arbetstagare. 
+    - Vi vill att den inre marknaden fördjupas och stöder ett frihandelsavtal mellan EU och USA.
+    - EU ska ersätta fossila bränslen med koldioxidneutrala energislag som kärnkraft och förnybar energi.
+    - Medlemsländerna ska respektera mänskliga rättigheter. De som bryter mot de lagstadgade rättigheterna ska bestraffas.
+    - Vi vill inrätta ett Europas FBI, en europeisk polisstyrka mot allvarliga och gränsöverskridande brott.
+    - EU ska ha starkare djurskydd och en modern jordbrukspolitik.
+    - Vi vill att EU:s jordbruksstöd ska avvecklas och istället ska miljö- och landskapsvården utvecklas.
+    - Vi vill införa en gemensam koldioxidskatt i EU.
+    - Vi vill att Sverige går med i bankunionen och finanspakten
+  -
     fraga: EU och miljön
     adress: https://www.liberalerna.se/politik/eu-och-miljon/
     asikt:
@@ -255,6 +269,13 @@ root:
     fraga: Elevhälsa
     adress: https://www.liberalerna.se/politik/politikpolitikelevhalsa/
     asikt: Vi vill att Skolinspektionen ska granska att skolor lever upp till målen för elevhälsan.
+  -
+    fraga: EU och social trygghet
+    adress: https://www.liberalerna.se/politik/eu-och-social-trygghet/
+    asikt: 
+    - Ja till EU:s sociala pelare
+    - Grundläggande krav på sociala rättigheter inom EU
+    - Europa behöver mer samarbete
   -
     fraga: EU:s jordbrukspolitik
     adress: https://www.liberalerna.se/politik/eus-jordbrukspolitik/
@@ -335,6 +356,31 @@ root:
     - Våga satsa på de bästa forskarna och den bästa forskningen. Svensk forskning har bredd men för trubbig spets.
     - Skapa bättre villkor och tydligare karriärvägar för yngre.
     - Inför rätt till prövning för tillsvidareanställning efter en meriteringsanställning, så kallad Tenure track.
+  -
+    fraga: Försvarets personal
+    adress: https://www.liberalerna.se/politik/forsvarets-personal/
+    asikt:
+    - Vi vill ha ett system som är en kombination av yrkesförsvar och värnplikt.
+    - Färre i försvarets insatsförband ska vara heltidsanställda och fler kontraktsanställda.
+    - Även de som varit heltids-/kontraktsanställda ska stå kvar som krigsplacerade ett antal år efter avslutad tjänst.
+    - Alla officerare och soldater i försvaret ska vara krigsplacerade.
+    - Villkoren för anställda och veteraner ska förbättras.
+  -
+    fraga: Försvar
+    adress: https://www.liberalerna.se/politik/politikforsvar/
+    asikt:
+    - Stärk försvaret
+    - På sikt ska försvarsanslaget uppgå till minst två procent av BNP
+    - Sverige ska söka medlemskap i Nato
+    - Ytterligare förbättra den militära närvaron på Gotland
+    - Vi säger nej till den ryska gasledningen Nord Stream II. Kustbevakningen och Marinen ska inte flytta från Slite och Europas beroende av rysk gas ska inte öka ytterligare
+    - Aktivera värnplikten
+    - Förbättra anställningsvillkoren för soldaterna och belöna dem som fullgör sin utbildning och sina övningar
+    - Stärk stödet till veteranerna
+    - Utveckla kustartilleri med sjömålsrobotar och luftvärn. En motståndare ska kunna bekämpas innan han stiger i land
+    - Hemvärnet ska förses med Robot 70 som nu avses avvecklas i den ordinarie krigsorganisationen
+    - Totalförsvarets chefsnämnd ska på nytt tillsättas för ökad samordning
+    - Förbandsreserven om ytterligare fyra bataljoner ska bemannas och krigsförbandsövas under perioden fram till 2020
   -
     fraga: Försvarets radioanstalt
     adress: https://www.liberalerna.se/politik/forsvarets-radioanstalt/
@@ -551,24 +597,18 @@ root:
     - Bättre SFI, mer flexibla kurser och kombinera med praktik.
     - Motprestation - t ex att gå på SFI - ska krävas för att få ekonomiskt stöd från samhället.
     - Motverka traditionella könsroller. Begränsa föräldraförsäkringen för nyanlända - och nej till vårdnadsbidrag.
-    -
-    -
     - Nyanlända elever ska få mer tid att nå målen, loven ska kunna användas för extra undervisning. Mer svenska och fokus på vissa väsentliga ämnen. Förläng skolplikten till max 20 år när nyanlända elever behöver det.
     - Minska skolsegregationen. Jämnare fördelning av nyanlända elever mellan skolor. Garantera alla elevers valfrihet med aktivt skolval och gemensamt administrerat kösystem.
     - Särskilda karriärtjänster för lärare i utsatta områden. Fördela resurser utifrån socioekonomiska utmaningar.
     - Förskolan är viktig för barns språkutveckling.
-    -
-    -
     - Varje människa har rätt att leva, tro och älska som den vill i Sverige. Ingen ska behöva stå ut med hedersförtryck.
     - Överge inte förorterna. Fler myndigheter och kommunala förvaltningar till utsatta områden.
-    - Alla anmälningar av hedersrelaterade brott måste utredas. Inför Lex Fadime: straffskärpning för hedersbrott. Stärk lagarna mot tvångsäktenskap.
+    - Alla anmälningar av hedersrelaterade brott måste utredas. Inför Lex Fadime, straffskärpning för hedersbrott. Stärk lagarna mot tvångsäktenskap.
     - Pröva alltid utvisning av icke-svenska medborgare som döms för hedersrelaterade brott, grova vålds- och sexualbrott samt hatbrott.
     - Religiösa friskolor hotar integrationen. Stopp för nya religiösa friskolor.
     - Inga bidrag till odemokratiska organisationer.
     - Bekämpa rasism och diskriminering.
     - Bättre samhällsinformation för nyanlända, och språk- och samhällsprov vid ansökan om medborgarskap.
-    -
-    -
     - Bygg mer bostäder och blandade boendeformer. Enklare regler och tillfälliga bygglov behövs för både bostäder, förskolor och skolor.
     - Motverka bostadssegregationen. EBO (Eget boende) ska kunna begränsas eller stoppas i vissa fall.
     - Gör det lättare för privatpersoner att hyra ut till nyanlända. Men motverka trångboddhet, svartkontrakt och försäljning av fiktiva adresser.
@@ -629,7 +669,7 @@ root:
     adress: https://www.liberalerna.se/politik/politikjordbrukspolitik/
     asikt:
     - Avreglera EU:s gemensamma jordbrukspolitik och fasa ut direktstöden
-    - Landsbygdsprogrammet behålls men inriktas mer på miljöåtgärder och \"kollektiva nyttigheter\".
+    - Landsbygdsprogrammet behålls men inriktas mer på miljöåtgärder och "kollektiva nyttigheter".
     - Mer satsningar på landskapsvård, miljöskydd och bevarad biologisk mångfald.
     - Alla gränshinder ska tas bort. Export-, pris- och produktionsstöd bör avskaffas.
     - Minska övergödningen - inför en läckageskatt
@@ -738,7 +778,7 @@ root:
     - Vi vill öka kulturbudgeten.
     - Uppmuntra lusten till bildning. Det gör oss alla bättre på att ta ansvar för oss själva, våra närmaste och samhället.
     - Öka läslusten och läskunnigheten och främja kvalitetslitteratur.
-    - Även gymnasiet ska ha \"Skapande skola\": en satsning där barn och ungdomar möter professionella kulturskapare.
+    - Även gymnasiet ska ha "Skapande skola", en satsning där barn och ungdomar möter professionella kulturskapare.
     - Vi vill inrätta ett nationellt kunskapscentrum för musik- och kulturskolan.
     - Fri entré på statliga museer.
     - Öka jämställdheten inom svensk filmindustri.
@@ -759,7 +799,7 @@ root:
     fraga: Livsmedel
     adress: https://www.liberalerna.se/politik/livsmedel/
     asikt:
-    - Vi vill att livsmedelssäkerheten från \"jord till bord\" ska garanteras.
+    - Vi vill att livsmedelssäkerheten från "jord till bord" ska garanteras.
     - Utöka och tydliggör livsmedelsmärkningen och kontrollsystemen.
     - Vi vill att konkurrensen inom livsmedelsbranschen ökar.
     - Offentlig upphandling ska kunna rymma djuromsorg samt miljö och klimataspekter.
@@ -801,7 +841,7 @@ root:
     - Minska läsklyftorna och öka läslusten. Litteratur och läsande ska prioriteras.
     - Alla i skolan ska få läsa svenska och internationella klassiker.
     - Behåll de fria boklånen.
-    - Vi vill få bort den stereotypt manliga \"antipluggkulturen\" så att pojkar börjar plugga lika mycket som flickor.
+    - Vi vill få bort den stereotypt manliga "antipluggkulturen" så att pojkar börjar plugga lika mycket som flickor.
     - Hela utbildningssystemet ska genomsyras av ett genusperspektiv.
   -
     fraga: Lärarutbildningen
@@ -1275,7 +1315,7 @@ root:
     - Stödet till veteranorganisationer ska förbättras.
     - Vi tycker att hela utredningen om veteranpolitik ska bli verklighet i riksdagen.
     - Ansvaret för utlandstjänstgörande personal ska också omfatta vissa lokalanställda, som t ex tolkar.
-    - Inrätta \"riksdagens hedersmedalj för internationell insats\" som ges till den som gjort en särskilt bra gärning.
+    - Inrätta "riksdagens hedersmedalj för internationell insats" som ges till den som gjort en särskilt bra gärning.
   -
     fraga: Vuxenutbildning
     adress: https://www.liberalerna.se/politik/politikvuxenutbildning/

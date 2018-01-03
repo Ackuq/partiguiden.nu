@@ -8,5 +8,24 @@ tags:
     - Inkomstskatt
     - Moms
     - Regionala skattebaser
-categories: Välfärd
+    - Skatter
+    - Amorteringskrav
+    - FTT – finansiell transaktionsskatt
+    - Förmögenhetsskatt
+    - Graviditetspeng
+    - Inkomstskatter
+    - Jobbskatteavdraget
+    - Koldioxidskatt
+    - Kommunala skatteutjämningssystemet
+    - Maxtaxan
+    - Skuldavskrivningar
+    - Skuldsanering
+    - Statlig inkomstskatt
+    - Tjänstemoms
+    - Tonnageskatt
+    - Värnskatt
+    - Politikerlöner & partiskatt
+    - Pensionärsskatt
+    - Överskottsmålet
+    - Fastighetsskatt
 ---

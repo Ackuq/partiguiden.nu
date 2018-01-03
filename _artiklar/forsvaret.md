@@ -1,8 +1,22 @@
 ---
-title:  Försvaret
+title: Försvaret
 tags:
-    - Försvar och krisberedskap
-    - Försvaret
     - Försvar
-categories: Samhälle
+    - Försvar- och säkerhetssamarbeten
+    - Terrorism
+    - Alliansfrihet
+    - Försvar och krisberedskap
+    - Nedrustning
+    - NATO
+    - Försvaret
+    - Försvarets radioanstalt
+    - Försvarets personal
+    - Nato
+    - Värnplikt
+    - Försvarspolitik
+    - Fred och försvar
+    - Vapenexport
+    - Krigsmaterielexport 
+    - Säkerhetspolitik
+    - Veteraner
 ---

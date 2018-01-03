@@ -131,12 +131,6 @@ root:
     - Att människor som utsätter barn för brott ska straffas i högre omfattning än idag.
     - Instifta ett nytt barnfridskränkningsbrott
   -
-    fraga: Föräldraförsäkring
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/familjen/foraldraforsakring.html
-    asikt:
-    - Se över hur reglerna påverkar hur många föräldradagar varje förälder tar ut
-    - Ha en enkel, modern och tydlig föräldraförsäkring som fokuserar på barnets bästa
-  -
     fraga: Företagande
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/foretagande.html
     asikt:
@@ -158,7 +152,7 @@ root:
     - Att tillgången till kapital stärks, genom ett effektivare statligt riskkapital och ett förstärkt investeraravdrag.
     - Att arbetsgivaravgiften slopas för den första anställda, för att underlätta för företag att skapa jobb och växa.
     - Att det ska bli enklare och billigare för nystartade företag att erbjuda nyckelmedarbetare delägarskap.
-    - Att en ny och enkel företagsform skapas: ingångsföretag
+    - Att en ny och enkel företagsform skapas, ingångsföretag
   -
     fraga: Försvar
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar.html
@@ -284,26 +278,12 @@ root:
     - Frigöra mer utrymme i etern för bättre mobiltelefoni och surf
     - Att mobiloperatörerna tar sitt ansvar, samarbetar och bygger ut näten i hela landet
   -
-    fraga: IT
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/it-och-mobiltelefoni/it.html
-    asikt:
-    - Centerpartiet vill:Fortsätta bygga ut it-infrastrukturen så att fler kan ta del av digitaliseringens möjligheterav bredband på landsbygden
-    - Fortsätta prioritera utbyggnaden av bredband på landsbygden
-    - Att alla hushåll och arbetsplatser där efterfrågan finns, ska vara uppkopplade senast 2025
-  -
     fraga: Mobiltelefoni
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/it-och-mobiltelefoni/mobiltelefoni.html
     asikt:
     - stimulera mobiloperatörerna till ökat samarbete på landsbygden där mobiltäckningen är dålig
     - att 700-bandet används för att förbättra mobiltäckningen framförallt på landsbygden.
     - Att marknadens aktörer tar ett större ansvar för att minska störningar och leveransproblem för bredband och mobiltelefoni
-  -
-    fraga: Mobiltäckning
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/it-och-mobiltelefoni/mobiltackning.html
-    asikt:
-    - Att mobiloperatörerna samarbetar för att bygga ut täckningen
-    - Att 700-bandet används för att förbättra mobiltäckningen framför allt på landsbygden
-    - Införa en obligatorisk märkning för telefonernas mottagning på EU-nivå
   -
     fraga: Jobb
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jobb.html
@@ -367,13 +347,6 @@ root:
     - Att hållbara fiskodlingar ska utvecklas och uppmuntras liksom kustnära och småskalig fiskeföretag.
     - Ha mer forskning och rådgivning kring insjöfiske och vattenbruk.
   -
-    fraga: Jordbruk och djurhållning
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/jordbruk-och-djurhallning.html
-    asikt:
-    - Se till att alla djur i EU har det bra så att bonden konkurrerar på samma villkor som bönder i övriga EU-länder
-    - Förenkla så att varje bonde endast ska behöva ha en tillsynsman som blir deras kontaktväg till myndigheter
-    - Att lokalproduktion och djurens väl ska vara viktigare än detaljstyrning och standardisering
-  -
     fraga: Mat
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/mat.html
     asikt:
@@ -411,12 +384,6 @@ root:
     - Ha tydliga och förutsägbara regler kring vapen och snabbare tillståndsgivning än idag.
     - Se över EU-lagstiftningen om illegala vapen, men samtidigt värna jägares och sportskyttars användning av vapen.
     - I vissa delar kritisera EU-kommissionens förslag, utgångspunkten ska vara att inte ändra i befintlig lagstiftning som rör legala vapen.
-  -
-    fraga: Varg och andra rovdjur
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/varg-och-andra-rovdjur.html
-    asikt:
-    - Att den svenska jakten ska fortsätta vara en regional och nationell angelägenhet
-    - Att Sverige tillsammans med angränsande länder ska ha en livskraftig rovdjursstam
   -
     fraga: Jämställdhet och diskriminering
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering.html
@@ -574,14 +541,6 @@ root:
     - Att skolor ska vara skyldiga att polisanmäla om de har skäl att misstänka att ett barn utsatts för bland annat sexualbrott
     - Att fler ska dömas till längre straff för våldtäkt
   -
-    fraga: Terrorism
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/terrorism.html
-    asikt:
-    - Kriminalisera samröre med terrororganisationer och stödjande av terror.
-    - Att Sverige har en stark beredskap mot terror samtidigt som vi värnar om demokratiska rättigheter.
-    - Förbjuda offentliga medel till organisationer som sprider våldsbejakande budskap.
-    - Arbeta förebyggande för att hindra människor från att radikaliseras och att ett nationellt resursteam skapas som arbetar operativt med återvändande terrorister och radikala miljöer.
-  -
     fraga: Våld i nära relationer
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/vald-i-nara-relationer.html
     asikt:
@@ -637,22 +596,12 @@ root:
     - Att du ska ha rätt att välja vård, skola och omsorg var du än bor
     - Att det ska vara möjligt att studera med bibehållen aktivitetsersättning
     - Att Konkurrensverket ska få ett tydligare uppdrag för att granska och garantera lika villkor mellan privata och offentliga utförare
-    - Att du ska ha rätt att välja vård, skola och omsorg var du än bor.
-    - Att du ska ha rätt att välja vård, skola och omsorg var du än bor.
     - Att det ska vara möjligt att studera med bibehållen aktivitetsersättning.
     - Att Konkurrensverket ska få ett tydligare uppdrag för att granska och garantera lika villkor mellan privata och offentliga utförare.
     - Införa en gemensam allmän och obligatorisk arbetslivsförsäkring som ersätter dagens A-kassa och sjukförsäkring.
     - Att vården ska vara tillgänglig. Vi vill bygga ut vårdgarantin så att du får rätt till behandling inom en månad efter att läkare konstaterat att du behöver vård.
     - Att du själv ska få bestämma om vården ska ske i Sverige eller EU - under förutsättning att behandlingsbehov bedömts föreligga, behandlingen av tillståndet i Sverige bekostas med allmänna medel och att behandlingsmetoden är internationellt vedertagen.
     - Att en demokratisk utredning ska ser över hela finansieringsproblematiken på välfärdsområdet.
-  -
-    fraga: Mat
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat.html
-    asikt:
-    - Att det införs regler för mer restriktiv antibiotikaanvändning i EU
-    - Främja möjligheten att ställa krav på hållbar antibiotikaanvändning i produktionen vid inköp till offentliga kök
-    - Öka kunskapen bland personal som köper in, tillagar och serverar mat i offentlig sektor, för att främja säkra och sunda måltider
-    - Sätt gemensamt nordiskt mål att bli världsledande i restriktiv antibiotikaförskrivning.
   -
     fraga: Antibiotika
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat/antibiotika.html
@@ -662,7 +611,7 @@ root:
     - Skapa ett gemensamt EU-register för all antibiotikaanvändning
     - Göra det möjligt att vid offentlig upphandling ställa krav på hållbar antibiotikaanvändning i produktionen
   -
-    fraga: Djurskydd
+    fraga: Djurskydd - mat
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat/djurskydd.html
     asikt:
     - Fortsätta sänka avgifterna för svenska bönder
@@ -796,7 +745,7 @@ root:
     - Göra klimatsmarta investeringar mer lönsamma
     - Öka takten inom EU och i det internationella klimatarbetet så att Parisavtalets mål uppnås.
   -
-    fraga: Livsmedelsproduktion
+    fraga: Livsmedelsproduktion - maten vi äter
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/livsmedelsproduktion.html
     asikt:
     - Stödja utformningen av märkningar av livsmedel för både innehåll och ursprung
@@ -858,13 +807,6 @@ root:
     - Inkludera mindre företag i konsumentskyddet vid telefonförsäljning
     - Underlätta byte av bank genom att införa nummerportabilitet
     - Att spelmonopolet i sin nuvarande form avskaffas
-  -
-    fraga: Konsumentpolitik
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/spel-och-konsument/konsumentpolitik.html
-    asikt:
-    - Införa tydliga märkningar som anger om produkter är miljövänliga.
-    - Se ökade krav på skriftlig avtalsbekräftelse av köparen vid telefonförsäljning till konsument.
-    - Att offentliga tjänster ska omfattas av konsumentskyddet.
   -
     fraga: Trygghetssystem
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/trygghetssystem.html
@@ -1075,10 +1017,6 @@ root:
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/missbruk.html
     asikt:
     - Förhindra narkotikamissbruk genom förebyggande insatser
-    - Att sjukvården tar över ansvaret för missbruksvården
-    - Att man snabbt ska kunna få behandling om man vill bli fri från sitt missbruk
-    - Att sprutbytesprogram ska finnas i alla delar av landet där det finns behov
-    - Förhindra narkotikamissbruk genom förebyggande insatser
     - Att barn och unga ska prioriteras i det drogförebyggande arbetet
     - Öka samarbetet med ideella organisationer
     - Att man snabbt ska kunna få behandling om man vill bli fri från sitt missbruk
@@ -1112,7 +1050,14 @@ root:
     - Göra det lättare för dig som patient att jämföra priser genom att införa ett system med referenspriser
     - Ge dig som patient ökad makt över din tandvård
   -
-    fraga: Valfrihet i välfärden
+    fraga: Valfrihet i välfärden - landsbygden
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/valfrihet-i-valfarden.html
+    asikt:
+    - Uppmuntra fler att starta företag inom vård och omsorg
+    - Att det ska finnas goda möjligheter att driva vårdbolag var man än bor i landet
+    - Ha valfrihet även inom specialistvården
+  -
+    fraga: Valfrihet i välfärden - vården
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/valfrihet-i-valfarden.html
     asikt:
     - Uppmuntra fler att starta företag inom vård och omsorg

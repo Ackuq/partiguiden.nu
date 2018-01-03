@@ -29,8 +29,7 @@ root:
     fraga: Antirasism
     adress: http://www.vansterpartiet.se/politik/antirasism
     asikt:
-    - Rasism sorterar och underordnar människor, därför är rasism är ett hinder för rättvisa och jämlikhet. Kampen mot rasism måste föras på flera nivåer: mot strukturell rasism och diskriminering, mot uttalat rasistiska grupper och partier, mot rasistiska tendenser i etablerade partiers politik, mot ökande klasskillnader och för en generell välfärdspolitik som omfattar alla kvinnor och män - invandrade som infödda.
-    - Läs mer i ”Nolltolerans mot rasism - Vänsterpartiets antirasistiska strategi”:
+    - Rasism sorterar och underordnar människor, därför är rasism är ett hinder för rättvisa och jämlikhet. Kampen mot rasism måste föras på flera nivåer, mot strukturell rasism och diskriminering, mot uttalat rasistiska grupper och partier, mot rasistiska tendenser i etablerade partiers politik, mot ökande klasskillnader och för en generell välfärdspolitik som omfattar alla kvinnor och män - invandrade som infödda.
   -
     fraga: Apoteket
     adress: http://www.vansterpartiet.se/politik/apoteket
@@ -98,10 +97,6 @@ root:
   -
     fraga: Ekologisk mat
     adress: http://www.vansterpartiet.se/politik/ekologisk-mat
-    asikt: Vänsterpartiet vill införa tydliga mål och stöd för ökad ekologisk konsumtion och produktion. För att öka takten för ett hållbart jordbruk vill vi att Sverige antar ett mål som innebär att minst 30 procent av den svenska jordbruksmarken ska vara ekologiskt odlad år 2020. Idag uppgår andelen till ungefär 17 procent. Vi vill också ha ett mål om att hälften av maten som konsumeras i offentlig sektor ska vara ekologisk till år 2020. 
-  -
-    fraga: Ekologisk mat
-    adress: http://www.vansterpartiet.se/politik/ekologisk-mat-2
     asikt: Vänsterpartiet vill införa tydliga mål och stöd för ökad ekologisk konsumtion och produktion. För att öka takten för ett hållbart jordbruk vill vi att Sverige antar ett mål som innebär att minst 30 procent av den svenska jordbruksmarken ska vara ekologiskt odlad år 2020. Idag uppgår andelen till ungefär 17 procent. Vi vill också ha ett mål om att hälften av maten som konsumeras i offentlig sektor ska vara ekologisk till år 2020. 
   -
     fraga: Energi
@@ -277,8 +272,6 @@ root:
     adress: http://www.vansterpartiet.se/politik/politikerloner-partiskatt
     asikt:
     - Många politiker har idag inkomster som de flesta i Sverige bara kan drömma om. Till exempel tjänar de flesta partiledarna mellan 70 000 och 150 000 kronor i månaden. För att inte klyftan ska bli för stor vill Vänsterpartiet sänka riksdagsledamöternas arvoden. Vi har också en partiskatt som gör att våra företrädare inte tar ut mer än 27 700 kronor i månaden.
-    - Bakgrund:
-    -
   -
     fraga: Prostitution
     adress: http://www.vansterpartiet.se/politik/prostitution

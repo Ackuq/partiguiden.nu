@@ -10,7 +10,7 @@
     {% case page.title %}
         {% when "Partiguiden" %}
             <title>{{ page.title }} - Startsida</title>
-            <meta name="description" content="Välkommen till Partiguiden.nu. Detta är en hemsida som hjälper dig att få kunskap om vad Sveriges partier tycker i olika sakfrågor för att ta reda på vilket parti man sympatiserar med mest. Rösta rätt 2018!">
+            <meta name="description" content="Välkommen till Partiguiden.nu. Detta är en hemsida som hjälper dig att få kunskap om vad Sveriges partier tycker i olika sakfrågor för att ta reda på vilket parti man sympatiserar med mest genom att jämföra partiernas åsikter och ståndpunkter i sakfrågor. Rösta rätt 2018!">
         {% when "Om oss" %}
             <title>{{ page.title }} | Partiguiden.nu</title>
             <meta name="description" content="Partiguiden.nu erbjuder en platform där du kan jämföra vad olika partier tycker i sakfrågor för att det ska bli lättare att hitta det parti du sympatiserar med mest.">
@@ -20,6 +20,8 @@
         {% when "Partiernas ståndpunkter"%}
             <title>{{ page.title }} | Partiguiden.nu</title>
             <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i olika ämnen och sakfrågor? Hitta det parti du sympatiserar mest med nu!">
+        {% when "Sök" %}
+            <title>{{ page.title }} | Partiguiden.nu</title>
         {% else %}
             <title>{{ page.title }} | Partiguiden.nu</title>
             <meta name="description" content="Vad tar Sveriges partier för ståndpunkt inom ämnet {{ page.title | downcase}}? Jämför och hitta det parti du sympatiserar mest med nu!">
@@ -130,7 +132,7 @@
                         </script>
                         Axel Pettersson</p>
                     <p id="mail">
-                        <a href="mailto:axel@pettersson.cc"><i class="fa fa-envelope-o" aria-hidden="true"></i>axel@pettersson.cc</a>
+                        <a href="mailto:partiguidennu@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> partiguidennu@gmail.com</a>
                     </p>
                     <a href="https://www.facebook.com/partiguiden/"> <i class="fa fa-facebook fa-2x"></i> </a>
                 </div>

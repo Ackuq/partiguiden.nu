@@ -10,26 +10,11 @@ title: Partiguiden
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-sm-8 col-sm-offset-2 text-center">
-        <h1  class="boxTitle">Guiden som hjälper dig rösta rätt</h1>
+      <div class="col-sm-8 col-sm-offset-2">
+        <h1  class="boxTitle text-center">Guiden som hjälper dig rösta rätt i valet 2018!</h1>
         <hr class="lineLarge">
-        <h4>Klicka <a href="/partiernas-stallning.html">här</a> eller på fliken "Partiernas ställning" för att börja jämföra olika partiers ställning till sakfrågor!</h4>
-        <hr class="lineMedium">
+          
+        <h4>Klicka <a href="/partiernas-stallning.html">här</a> eller på fliken "Partiernas ståndpunkter" för att börja jämföra vad olika partier har för olika åsikter och ståndpunkter i sakfrågor!</h4>
       </div>
     </div>
-    <!--
-    <div class="row">
-      <div class="col-sm-4 col-sm-offset-4 text-center">
-        <h4 class="boxTitle">Populära frågor</h4>
-          <hr class="line">
-        <ul class="list-unstyled">
-          <li>lorem</li>
-          <li>ipsum</li>
-          <li>dolor</li>
-          <li>sit</li>
-          <li>amet</li>
-        </ul>
-      </div>
-    </div>
-    -->
   </div>

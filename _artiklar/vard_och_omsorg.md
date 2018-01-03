@@ -1,0 +1,39 @@
+---
+title: Vård och omsorg
+tags:
+    - Vård och omsorg
+    - Abort
+    - Dödshjälp
+    - Folkhälsa
+    - Funktionsnedsättningar
+    - Sjuksköterskor
+    - Sjukvård
+    - Tandvård
+    - Valfrihet i välfärden - vården
+    - Sjukvårdspolitik
+    - Funktionshinder och tillgänglighet
+    - Hälso- och sjukvård
+    - Funktionshinder
+    - Apotek
+    - Apoteket
+    - Psykiatri
+    - Anhörigvård
+    - Barnomsorg
+    - LOV
+    - LSS
+    - Personlig assistans / LSS
+    - Primärvård
+    - Privat vård
+    - Privata vårdförsäkringar
+    - Smittskydd
+    - Ungdomsmottagningar
+    - Vaccinationer
+    - Valfrihet inom vård och omsorg
+    - Vanvård
+    - Vård till papperslösa
+    - Psykisk ohälsa
+    - Assisterad befruktning
+    - Barn- och ungdomsvård
+    - Husläkare
+    - Vårdköerna
+---

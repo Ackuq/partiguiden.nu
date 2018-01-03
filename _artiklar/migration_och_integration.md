@@ -8,7 +8,6 @@ tags:
     - Flykting och asyl
     - Integration
     - Migration
-    - Tiggeri
     - Invandringspolitik
     - Flyktingpolitik
     - Migrationspolitik
@@ -16,5 +15,10 @@ tags:
     - Migration, asyl- och flyktingpolitik
     - Solidarisk arbetskraftsinvandring
     - Integration och mångfald
-categories: Samhälle
+    - Familjeåterförening
+    - Flyktingar
+    - Invandring
+    - Modersmålsundervisning
+    - SFI/Svenska för invandrare
+    - Medborgarskap
 ---

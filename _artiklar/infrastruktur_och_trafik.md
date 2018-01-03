@@ -1,0 +1,27 @@
+---
+title: Infrastruktur och trafik
+tags:
+    - Infrastruktur och trafik
+    - Infrastruktur
+    - Bil
+    - Cykel
+    - Flyg
+    - Förbifart Stockholm
+    - Förbifart
+    - Förbifarten
+    - Trängselskatt
+    - Sjöfart
+    - Lastbilar och tung trafik
+    - Kollektivtrafik
+    - Järnväg
+    - Bilar och bensinskatt
+    - Trafik
+    - Båtliv
+    - Alkolås
+    - Flygtrafik
+    - Kollektivtrafik
+    - Samhällsplanering och byggande
+    - Trafiksäkerhet
+    - Vägar
+    - Trängselskatt
+---

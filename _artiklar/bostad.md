@@ -6,5 +6,14 @@ tags:
     - Samhällsplanering
     - Strandskydd
     - Bostadspolitik
-categories: Samhälle
+    - Miljonprogrammet
+    - Bostadsbidrag
+    - Fastighetsskatt
+    - Flyttskatt
+    - Hushållstjänster
+    - Hyresrätt
+    - Hyresrätter
+    - ROT- och RUT-avdrag
+    - RUT
+    - Bolån
 ---
