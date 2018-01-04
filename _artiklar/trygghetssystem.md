@@ -6,17 +6,15 @@ tags:
     - A-kassa/arbetslöshetsersättning
     - A-kassan/Arbetslöshetsförsäkringen
     - Ekonomiskt bistånd
-    - Pension
     - Sjukförsäkring
     - A-kassa
     - A-kassan
-    - Pensioner
     - Statsbudgeten
     - Socialtjänst och social omsorg
     - Nittiodagarsgarantin
-    - Premiepension
     - Socialförsäkring
     - Socialbidrag
     - Anställningstrygghet
     - Bistånd
+categories: Trygghetssystem
 ---

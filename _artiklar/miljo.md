@@ -1,5 +1,5 @@
 ---
-title: Miljö
+title: Miljö och klimat
 tags:
     - Miljö
     - Biologisk mångfald
