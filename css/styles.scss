@@ -78,7 +78,11 @@ div > form > .simg{
     color: #fff;
     background-color: #009688;
 }
-
+@media (max-width: 767px) {
+    #hemjumbotron > h2{
+        font-size: 26px;
+    }
+}
 #mail > a:hover,
 .footer_content > a:hover{
     color: #bdc3c7;
@@ -89,6 +93,7 @@ div > form > .simg{
 .TypedText{
     display: inline-block;
 }
+// Lines
 .linesmall{
     height: 1px;
     width: 20%;
@@ -121,4 +126,31 @@ div > form > .simg{
 }
 .list-group-item{
     border-radius: 0 !important;
+}
+// Donate button and modal
+
+.modalButton{
+    background: #fff;
+    border: 2px solid #00796B;
+    color: #00796B;
+    margin: 10px 0;
+}
+.modal-title{
+    font-size: 2rem;
+}
+.modal-dialog {
+    max-width: 40vh;
+}
+.modal-body > img{
+    width: 100%;
+}
+@media (max-width: 767px) {
+    .modal-dialog{
+        max-width: 100%;
+    }
+    .modal-body > img{
+        margin: auto;
+        width: 60% !important;
+        display: block;
+    }
 }

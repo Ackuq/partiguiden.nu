@@ -136,9 +136,32 @@
                     </p>
                     <a href="https://www.facebook.com/partiguiden/"> <i class="fa fa-facebook fa-2x"></i> </a>
                 </div>
+                <div class="col-md-2 col-md-offset-2">
+                    <button data-ripple="#bdc3c7" class="btn modalButton" data-toggle="modal" data-target="#donationModal">Stöd mig</button>
+                </div>
             </div>
         </div>
     </footer>
+    
+    <!-- Modal -->
+    <div class="modal fade" id="donationModal" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <!-- Modal content -->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h5 class="modal-title">Stöd mig</h5>
+                </div>
+              <div class="modal-body">
+                <h4>Skicka donationer till mig genom att swisha numret här under eller genom att skanna QR-koden via Swish-appen:</h4>
+                <h4>070-965 36 95</h4>
+                <img src="{{site.url}}/media/swish-qr.jpg">
+              </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn modalButton" data-dismiss="modal" style="margin: 0">Stäng</button>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
-
 </html>
