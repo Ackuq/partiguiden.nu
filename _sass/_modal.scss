@@ -1,0 +1,27 @@
+// Donate button and modal
+
+.modalButton{
+    background: #fff;
+    border: 2px solid #00796B;
+    color: #00796B;
+    margin: 10px 0;
+}
+.modal-title{
+    font-size: 2rem;
+}
+.modal-dialog {
+    max-width: 40vh;
+}
+.modal-body > img{
+    width: 100%;
+}
+@media (max-width: 767px) {
+    .modal-dialog{
+        max-width: 100%;
+    }
+    .modal-body > img{
+        margin: auto;
+        width: 60% !important;
+        display: block;
+    }
+}

@@ -4,7 +4,16 @@
     height: 18px;
     width: 18px;
 }
-
+div > form > .search_img{
+    border: 0;
+    width: 22px;
+    height: 22px;
+    line-height: 0;
+}
+.search.page{
+    color: #000;
+    width: 100%;
+}
 #search-results>a{
     padding-left: 4px;
     display: block;
@@ -15,9 +24,7 @@
 #search-results>a:hover{
     color: #000;
 }
-.search.desktop>form>input{
-    color: #fff;
-}
+
 #search-results{
     display: block;
     width: 100%;
@@ -34,16 +41,10 @@
     color: inherit;
     border-bottom: 1px solid #fff;
 }
-.search{
-    color: #000;
-}
-
 .search form {
     display: flex;
 }
-.search.page{
-    width: 100%;
-}
+
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color:    #D2D2D2;
 }
