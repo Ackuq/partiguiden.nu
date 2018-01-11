@@ -14,6 +14,7 @@ title: Partiernas ståndpunkter
             <h1 id="pageTitle">{{ page.title }}</h1>
         </div>
         <div class="col-md-8 col-md-offset-2">
+            <div class="amneList">
             {% assign sortera_partier = site.artiklar | sort: 'title' %}
             {% for page in sortera_partier %}
                 {% if page.layout == 'partier'  %}
@@ -31,6 +32,7 @@ title: Partiernas ståndpunkter
                     </div>
                 {% endif %}
             {% endfor %}
+            </div>
         </div>
     </div>
 </div>

@@ -20,7 +20,7 @@ title: Partiguiden
         <hr class="lineLarge" style="margin-bottom: 0">
         </div>
         <div class="col-sm-6 col-sm-offset-3">
-            <h3>Viktiga frågor i valet 2018</h3>
+            <h3 style="margin-left: 7px">Viktiga frågor i valet 2018</h3>
             <div class="list-group">
               <a href="/amnen/vard_och_omsorg" class="list-group-item list-group-item-action">
                 Vård och omsorg
