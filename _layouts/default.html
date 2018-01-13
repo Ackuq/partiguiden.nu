@@ -94,6 +94,7 @@
     
     </head>
 <body>
+    <!-- Header -->
     <div id="header">
         <nav class="navbar navbar-default navbar-fixed-top navbar-absolute">
             <div class="container">
@@ -126,22 +127,13 @@
             </div>
         </nav>
     </div>
+    <!-- Content -->
     <div id="content" {% if page.url == '/' %} style="padding-top:0" {% endif %}>
     {{ content }}
     </div>
-    <div id="cookie-banner" style="display: none">
-        <button type="button" class="close bannerClose" onclick="closeBanner()">&times;</button>
-        <div class="container">
-            <h4 class="cookie-text">Partiguiden.nu använder webbkakor från Google för att personliggöra annonser och för att analysera trafik. Information om din användning av vår hemsida delas med Google för det ändamålet.</h4>
-            <button onclick="gaOpt()" class="cookies-button btn">
-                <span>Jag godkänner</span>
-            </button>
-            <a target="_blank" class="read-more btn" href="https://www.google.com/intl/en/policies/technologies/cookies/">
-                <span>Läs mer</span>
-            </a>
-        </div>
-    </div>
     {% if site.url != 'http://localhost:4000' %}
+    
+    <!-- Footer ad --> 
     <div align="center" style="margin-bottom: 3px">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Responsive ad -->
@@ -155,6 +147,8 @@
         </script>
     </div>
     {% endif %}
+    
+    <!-- footer -->
     <footer id="footer">
         <div class="container">
             <div class="row text-center">
@@ -175,6 +169,20 @@
             </div>
         </div>
     </footer>
+    
+    <!-- Cookie banner -->
+    <div id="cookie-banner" style="display: none">
+        <button type="button" class="close bannerClose" onclick="closeBanner()">&times;</button>
+        <div class="container">
+            <h4 class="cookie-text">Partiguiden.nu använder webbkakor från Google för att personliggöra annonser och för att analysera trafik. Information om din användning av vår hemsida delas med Google för det ändamålet.</h4>
+            <button onclick="gaOpt()" class="cookies-button btn">
+                <span>Jag godkänner</span>
+            </button>
+            <a target="_blank" class="read-more btn" href="https://www.google.com/intl/en/policies/technologies/cookies/">
+                <span>Läs mer</span>
+            </a>
+        </div>
+    </div>
     
     <!-- Modal -->
     <div class="modal fade" id="donationModal" role="dialog">

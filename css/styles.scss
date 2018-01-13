@@ -23,10 +23,21 @@
     box-shadow: 0 0 #FFFFFF inset, 0 1px 3px rgba(34, 25, 25, 0.4);
     color: #fff;
     background-color: #009688;
+    margin-bottom: 15px;
+}
+@media (min-width: 768px) {
+    #hemjumbotron{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
 }
 @media (max-width: 767px) {
     #hemjumbotron > h2{
         font-size: 26px;
+    }
+    #hemjumbotron{
+        padding-top: 48px;
+        padding-bottom: 48px;
     }
 }
 .noMargin {
