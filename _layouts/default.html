@@ -102,7 +102,7 @@
                     <a href="/" style="height:100%" class="titlelink"><img style="max-height:100%" src="/media/partiguiden_logo.svg" alt="Partiguiden logo"></a>
                     <button type="button" class="navbar-toggle container" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
                     <div class="search desktop">
-                        <form action="/search.html" method="get" autocomplete="off" class="search-form">
+                        <form action="/search" method="get" autocomplete="off" class="search-form">
                             <input type="text" name="query" placeholder="Sök"> 
                             <input type="image" src="/media/search.svg" alt="Search" class="search_img">
                         </form> 
@@ -112,16 +112,16 @@
                     <ul class="nav navbar-nav">
                         <li>
                             <div class="search phone container">
-                                <form action="/search.html" method="get" autocomplete="off" class="search-form" style="display:flex">
+                                <form action="/search" method="get" autocomplete="off" class="search-form" style="display:flex">
                                     <input type="text" name="query" placeholder="Sök">
                                     <input type="image" src="/media/search.svg" alt="Search" class="search_img"> </form>
                             </div>
                         </li>
                         <li {% if page.url=='/' %} class="active" {% endif %}><a href="/">Hem</a></li>
-                        <li {% if page.url=='/partiernas-standpunkter.html' %} class="active" {% endif %}><a href="/partiernas-standpunkter.html">Partiernas ståndpunkter</a></li>
+                        <li {% if page.url=='/partiernas-standpunkter' %} class="active" {% endif %}><a href="/partiernas-standpunkter">Partiernas ståndpunkter</a></li>
                         <!--<li {% if page.url=='/riksdagspartierna.html' %} class="active" {% endif %}><a href="/riksdagspartierna.html">Riksdagspartierna</a></li>-->
-                        <li {% if page.url=='/om-oss.html' %} class="active" {% endif %}><a href="/om-oss.html">Om oss</a></li>
-                        <li {% if page.url=='/kontakt.html' %} class="active" {% endif %}><a href="/kontakt.html">Kontakt</a></li>
+                        <li {% if page.url=='/om-oss' %} class="active" {% endif %}><a href="/om-oss">Om oss</a></li>
+                        <li {% if page.url=='/kontakt' %} class="active" {% endif %}><a href="/kontakt">Kontakt</a></li>
                     </ul>
                 </div>
             </div>
