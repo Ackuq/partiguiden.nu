@@ -130,15 +130,19 @@
     {{ content }}
     </div>
     <div id="cookie-banner" style="display: none">
+        <button type="button" class="close bannerClose" onclick="closeBanner()">&times;</button>
         <div class="container">
-            <h4 class="cookie-text">Partiguiden.nu använder sig av cookies för att kunna analysera trafiken på hemsidan</h4>
+            <h4 class="cookie-text">Partiguiden.nu använder webbkakor från Google för att personliggöra annonser och för att analysera trafik. Information om din användning av vår hemsida delas med Google för det ändamålet.</h4>
             <button onclick="gaOpt()" class="cookies-button btn">
                 <span>Jag godkänner</span>
             </button>
+            <a target="_blank" class="read-more btn" href="https://www.google.com/intl/en/policies/technologies/cookies/">
+                <span>Läs mer</span>
+            </a>
         </div>
     </div>
     {% if site.url != 'http://localhost:4000' %}
-    <div align="center">
+    <div align="center" style="margin-bottom: 3px">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Responsive ad -->
         <ins class="adsbygoogle"

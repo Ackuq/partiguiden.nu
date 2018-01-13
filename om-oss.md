@@ -4,11 +4,11 @@ title: Om oss
 ---
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            <h1 id="pageTitle" class="text-center">{{page.title}}</h1>
-        </div>
         <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:20px">
             <i class="fa fa-info fa-4x" aria-hidden="true"></i>
+        </div>
+        <div class="col-md-8 col-md-offset-2">
+            <h1 id="pageTitle" class="text-center">{{page.title}}</h1>
         </div>
         <div class="col-md-8 col-md-offset-2">
             <h4 class="contentText">Partiguiden.nu skapades med syftet av att kunna erbjuda en platform där man lätt kan kolla upp partiernas ståndpunkter i olika ämnen och sakfrågor. Under utvecklingen av hemsidan togs det hänsyn till opererbarhet, begriplighet och användarvänlighet för att kunna erbjdua den bästa möjliga användarupplevensen.<br><br>
