@@ -25,7 +25,7 @@ body {
 }
 
 #content {
-    padding-top: 20px;
+    padding-top: 5px;
     flex: 1 0 auto;
     margin-bottom: 15px;
 }
@@ -55,4 +55,36 @@ body {
 #mail > a:hover,
 .footer_content > a:hover{
     color: #bdc3c7;
+}
+.listItem{
+    position: relative;
+    display: block;
+    margin-bottom: -1px;
+    background-color: #20A294;
+    border: 1px solid #ddd;
+    color: #fff;
+    width: 100%;
+    padding: 20px 15px;
+    font-size: 15px;
+    transition:  background-color 0.25s ease-out, color 0.25s ease-out;
+}
+.list-container{
+    float: left;
+}
+@media (max-width: 767px){
+    .list-container{
+        width: 100%;
+    }
+}
+@media (min-width: 768px){
+    .list-container{
+        padding: 4px;
+        width: 50%;
+    }
+}
+.listItem:hover,
+.listItem:focus{
+    text-decoration: none;
+    color: #bdc3c7;
+    background-color: #009686;
 }

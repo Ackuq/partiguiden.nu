@@ -9,8 +9,8 @@
     
     {% case page.title %}
         {% when "Partiguiden" %}
-            <title>{{ page.title }} - Startsida</title>
-            <meta name="description" content="Välkommen till Partiguiden.nu. Detta är en hemsida som hjälper dig att få kunskap om vad Sveriges partier tycker i olika sakfrågor för att ta reda på vilket parti man sympatiserar med mest genom att jämföra partiernas åsikter och ståndpunkter i sakfrågor. Rösta rätt 2018!">
+            <title>{{ page.title }} - Jämför partiers politik</title>
+            <meta name="description" content="Välkommen till Partiguiden.nu. Detta är en tjänst för dig som vill få mer kunskap om svensk politik. Här kan du hitta information om vad Sveriges partier tar för ståndpunkter i olika politiska ämnen så att du kan jämföra och hitta det parti som du sympatiserar med mest. Rösta rätt 2018!">
         {% when "Om oss" %}
             <title>{{ page.title }} | Partiguiden.nu</title>
             <meta name="description" content="Partiguiden.nu erbjuder en platform där du kan jämföra vad olika partier tycker i sakfrågor för att det ska bli lättare att hitta det parti du sympatiserar med mest.">
@@ -19,12 +19,12 @@
             <meta name="description" content="Skulle du vilja kontakta oss på Partiguiden.nu? Här hittar du kontaktinformation.">
         {% when "Partiernas ståndpunkter"%}
             <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i olika ämnen och sakfrågor? Hitta det parti du sympatiserar mest med nu!">
+            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i olika ämnen och sakfrågor? Jämför Sveriges partier politik och hitta det parti du sympatiserar mest med nu!">
         {% when "Sök" %}
             <title>{{ page.title }} | Partiguiden.nu</title>
         {% else %}
             <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Vad tar Sveriges partier för ståndpunkt inom ämnet {{ page.title | downcase}}? Jämför och hitta det parti du sympatiserar mest med nu!">
+            <meta name="description" content="Vad tar Sveriges partier för ståndpunkt inom ämnet {{ page.title | downcase}}? Här hittar du informationen du behöver för att kunna jämföra och hitta det parti du sympatiserar med mest!">
     {% endcase %}
     
     

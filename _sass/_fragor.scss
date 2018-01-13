@@ -76,7 +76,6 @@
 }
 .listobjekt > a{
     background-color: #f6f6f6;
-    border-left: solid 4px #00796B;
     text-decoration: none;
     display: block;
     font-weight: bold;
@@ -99,6 +98,13 @@
          -o-transition: all 0.3s ease;
             transition: all 0.3s ease;
 }
+.listSection div:nth-child(2n+1){
+    border-right: solid 2px #00796B;
+    border-left: solid 4px #00796B;
+}
+.listSection div:nth-child(2n){
+    border-left: solid 2px #00796B;
+}
 @media (max-width:767px){
     .listobjekt{
         width:100%;
@@ -107,6 +113,9 @@
 @media (min-width:768){
     .listobjekt > a:hover{
         color: #000;
+    }
+    .listLine{
+        
     }
 }
 .breadcrumb{

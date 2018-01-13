@@ -16,13 +16,23 @@ title: Partiernas ståndpunkter
         <div class="col-md-8 col-md-offset-2">
             <div class="amneList">
             {% assign sortera_partier = site.artiklar | sort: 'title' %}
+            {% assign i = 0 %}
             {% for page in sortera_partier %}
                 {% if page.layout == 'partier'  %}
                     {% assign bok = page.title | truncate: 1, "" %}
                     {% if bok != bokstav  %}
+                        {% assign mod = i | modulo:2 %}
+                        {% if mod == 1 %}
+                            <div class="listobjekt"></div>
+                        {% endif %}
+                        {% assign i = 0 %}
+                        {% if bok != "A"%}
+                            </div>
+                        {% endif %}
                         <div class="bokstav">
                             <header>{{page.title | truncate: 1, ""}}</header>
                         </div>
+                        <div class="listSection">
                     {% endif %}
                     {% assign bokstav = page.title | truncate: 1, "" %}
                     <div class="listobjekt">
@@ -30,8 +40,10 @@ title: Partiernas ståndpunkter
                             <span>{{page.title}}</span>
                         </a>    
                     </div>
+                    {% assign i = i | plus: 1 %}
                 {% endif %}
             {% endfor %}
+                <div class="listobjekt"></div>
             </div>
         </div>
     </div>
