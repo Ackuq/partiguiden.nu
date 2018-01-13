@@ -4,15 +4,20 @@ layout: default
 <script type="text/javascript">
 $(document).ready(function(){
     $(".partititle").click(function(){
-        $(this).parent(".asikt").children('.slidetoggle').stop().slideToggle( 400,"easeInSine");
+        $(this).parent(".asikt").children('.slidetoggle').stop().slideToggle( $(this).parent(".asikt").find(".opinion_box").length * 100 ,"linear");
+    })
+    
+    $(".partiBox").click(function(){
+        var href = $(this).attr('href');
+        $(href).children('.slidetoggle').stop().slideToggle( $(href).find(".opinion_box").length * 100,"linear");
     })
 });
 </script>
 
 <script type="text/javascript">
     function showStuff(id) {
-    document.getElementById(id).style.display = 'block';
-}
+        document.getElementById(id).style.display = 'block';
+    }
     function showList(id) {
         document.getElementById(id).style.display = 'flex';
     }
@@ -20,19 +25,18 @@ $(document).ready(function(){
 
 <div class="siteNavCon">
     <div class="siteNav">
-        <a id="Stoggle" data-ripple="#bdc3c7" href="#Socialdemokraterna"  class="partititle">S</a>
-        <a id="Mtoggle" data-ripple="#bdc3c7" href="#Moderaterna"  class="partititle">M</a>
-        <a id="SDtoggle" data-ripple="#bdc3c7" href="#Sverigedemokraterna"  class="partititle">SD</a>
-        <a id="MPtoggle" data-ripple="#bdc3c7" href="#Miljöpartiet"  class="partititle">MP</a>
-        <a id="Ctoggle" data-ripple="#bdc3c7" href="#Centerpartiet"  class="partititle">C</a>
-        <a id="Vtoggle" data-ripple="#bdc3c7" href="#Vänsterpartiet"  class="partititle">V</a>
-        <a id="Ltoggle" data-ripple="#bdc3c7" href="#Liberalerna"  class="partititle">L</a>
-        <a id="KDtoggle" data-ripple="#bdc3c7" href="#Kristdemokraterna"  class="partititle">KD</a>
+        <a id="Stoggle" data-ripple="#bdc3c7" href="#Socialdemokraterna" class="partiBox">S</a>
+        <a id="Mtoggle" data-ripple="#bdc3c7" href="#Moderaterna" class="partiBox">M</a>
+        <a id="SDtoggle" data-ripple="#bdc3c7" href="#Sverigedemokraterna" class="partiBox">SD</a>
+        <a id="MPtoggle" data-ripple="#bdc3c7" href="#Miljöpartiet" class="partiBox">MP</a>
+        <a id="Ctoggle" data-ripple="#bdc3c7" href="#Centerpartiet" class="partiBox">C</a>
+        <a id="Vtoggle" data-ripple="#bdc3c7" href="#Vänsterpartiet" class="partiBox">V</a>
+        <a id="Ltoggle" data-ripple="#bdc3c7" href="#Liberalerna" class="partiBox">L</a>
+        <a id="KDtoggle" data-ripple="#bdc3c7" href="#Kristdemokraterna" class="partiBox">KD</a>
     </div>
 </div>
 
 <script type="text/javascript">
-    
     var menu = $(".siteNav");
     var isMobile = window.matchMedia("only screen and (max-width: 767px)");
     $(document).ready(function() {
