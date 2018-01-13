@@ -3,6 +3,9 @@
     margin-bottom: 15px;
     margin-top: 5px;
 }
+.asikt:last-child{
+    margin-bottom: 0;
+}
 .asikt.active{
     background: #f6f6f6;
 }
@@ -99,23 +102,29 @@
             transition: all 0.3s ease;
 }
 .listSection div:nth-child(2n+1){
-    border-right: solid 2px #00796B;
     border-left: solid 4px #00796B;
 }
-.listSection div:nth-child(2n){
-    border-left: solid 2px #00796B;
-}
+
 @media (max-width:767px){
     .listobjekt{
         width:100%;
     }
+    .listline{
+        display: none;
+    }
+    .listSection div:nth-child(2n){
+        border-left: solid 4px #00796B;
+    }
 }
-@media (min-width:768){
+@media (min-width:768px){
+    .listSection div:nth-child(2n){
+        border-left: solid 2px #00796B;
+    }
+    .listSection div:nth-child(2n+1){
+        border-right: solid 2px #00796B;
+    }
     .listobjekt > a:hover{
         color: #000;
-    }
-    .listLine{
-        
     }
 }
 .breadcrumb{

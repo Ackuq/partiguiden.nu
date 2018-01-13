@@ -23,7 +23,7 @@ title: Partiernas ståndpunkter
                     {% if bok != bokstav  %}
                         {% assign mod = i | modulo:2 %}
                         {% if mod == 1 %}
-                            <div class="listobjekt"></div>
+                            <div class="listobjekt listline"></div>
                         {% endif %}
                         {% assign i = 0 %}
                         {% if bok != "A"%}
@@ -43,7 +43,7 @@ title: Partiernas ståndpunkter
                     {% assign i = i | plus: 1 %}
                 {% endif %}
             {% endfor %}
-                <div class="listobjekt"></div>
+                <div class="listobjekt listline"></div>
             </div>
         </div>
     </div>
