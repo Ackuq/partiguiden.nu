@@ -11,9 +11,9 @@ title: Om oss
             <h1 id="pageTitle" class="text-center">{{page.title}}</h1>
         </div>
         <div class="col-md-8 col-md-offset-2">
-            <h4 class="contentText">Partiguiden.nu skapades med syftet av att kunna erbjuda en platform där man lätt kan kolla upp partiernas ståndpunkter i olika ämnen och sakfrågor. Under utvecklingen av hemsidan togs det hänsyn till opererbarhet, begriplighet och användarvänlighet för att kunna erbjdua den bästa möjliga användarupplevensen.<br><br>
+            <h4 class="contentText">Partiguiden.nu skapades med syftet av att kunna erbjuda en plattform där man lätt kan kolla upp partiernas ståndpunkter i olika ämnen och sakfrågor. Under utvecklingen av hemsidan togs det hänsyn till begriplighet och användarvänlighet för att kunna erbjuda den bästa möjliga användarupplevensen.<br><br>
             Utvecklingen av sidan påbörjades som ett fritidsprojekt år 2017 för att utveckla kunskaper inom webbutveckling.<br><br>
-            Informationen som presenteras från sidan är utvald information från partiernas egna hemsidor.
+            Informationen som presenteras på sidan är utvald information från partiernas egna hemsidor.
             </h4>
         </div>
     </div>
