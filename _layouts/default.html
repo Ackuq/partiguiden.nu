@@ -39,7 +39,7 @@
     <link href="{{ site.url }}/css/styles.css" rel="stylesheet" type="text/css"> 
     
     <!-- Font awesome -->
-    <script src="https://use.fontawesome.com/75907f1e3b.js"></script>
+    <script src="{{ site.url }}/js/fontawesome-all.js"></script>
     
     <!-- Ripple Effect js -->
     <script src="{{ site.url }}/js/rippleEffect.js"></script>
@@ -131,14 +131,13 @@
     <div id="content" {% if page.url == '/' %} style="padding-top:0" {% endif %}>
     {{ content }}
     </div>
+    
     {% if site.url != 'http://localhost:4000' %}
     
     <!-- Footer ad -->
-    <!--
     <div align="center">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
          Responsive ad -->
-        <!--
         <ins class="adsbygoogle"
              style="display:block"
              data-ad-client="ca-pub-3248338512924345"
@@ -150,7 +149,6 @@
     </div>
     {% endif %}
     
-    -->
     <!-- footer -->
     <footer id="footer">
         <div class="container">
@@ -162,9 +160,9 @@
                         </script>
                         Axel Pettersson</p>
                     <p id="mail">
-                        <a href="mailto:partiguidennu@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> partiguidennu@gmail.com</a>
+                        <a href="mailto:partiguidennu@gmail.com"><i class="far fa-envelope"></i> partiguidennu@gmail.com</a>
                     </p>
-                    <a href="https://www.facebook.com/partiguiden/"> <i class="fa fa-facebook fa-2x"></i> </a>
+                    <a href="https://www.facebook.com/partiguiden/"> <i class="fab fa-facebook-square fa-2x"></i> </a>
                 </div>
                 <div class="col-md-2 col-md-offset-2">
                     <button data-ripple="#bdc3c7" class="btn modalButton" id="donationButton" data-toggle="modal" data-target="#donationModal">Stöd mig</button>

@@ -4,7 +4,7 @@ title: Om oss
 ---
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:20px">
+        <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:10px">
             <i class="fa fa-info fa-4x" aria-hidden="true"></i>
         </div>
         <div class="col-md-8 col-md-offset-2">
