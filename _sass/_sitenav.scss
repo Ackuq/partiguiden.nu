@@ -17,13 +17,26 @@
     text-align: center;
     background: #fff;
 }
+#scrollUp{
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 200;
+    transform: translate(-50%, 50%);
+}
+.scrollArrow{
+    cursor: pointer;
+    color: #00796B;
+    width: 45.17px !important;
+}
 @media (min-width: 768px) {
     .siteNav{
         top: 50%;
         right: 0;
         transform: translate(-50%, -50%);
     }
-    .siteNav > a{
+    .partiBox{
         margin: 15px 0;
     }
 
@@ -39,11 +52,15 @@
         text-align: center;
         justify-content: center;
     }
-    .siteNav > a{
+    .partiBox{
         margin: 0 3px;
     }
 }
-
+@media(max-width: 340px){
+    .partiBox{
+        margin: 0 1px !important;
+    }
+}
 
 #Stoggle{
     padding: 10px;

@@ -23,6 +23,7 @@ $(document).ready(function(){
     }
 </script>
 
+<!-- Quick navigation bar -->
 <div class="siteNavCon">
     <div class="siteNav">
         <a id="Stoggle" data-ripple="#bdc3c7" href="#Socialdemokraterna" class="partiBox">S</a>
@@ -36,6 +37,9 @@ $(document).ready(function(){
     </div>
 </div>
 
+<!-- Scroll up button -->
+<a id="scrollUp"><i class="scrollArrow fas fa-chevron-up fa-2x"></i></a>
+
 <script type="text/javascript">
     var menu = $(".siteNav");
     var isMobile = window.matchMedia("only screen and (max-width: 767px)");
@@ -45,12 +49,24 @@ $(document).ready(function(){
             $(document).scroll(function(){
                 //when rich top of boxex than fire
                 if($( window ).height() + $(document).scrollTop() < $("#footer").offset().top) {
-                  $(menu).fadeIn(200)
+                  $(menu).fadeIn(200);
                 } else {
-                    $(menu).fadeOut(200)
+                    $(menu).fadeOut(200);
                 }
             })
         }
+        $("#scrollUp").click(function() {
+            $("html, body").animate({ scrollTop: 0 }, "slow");
+            return false;
+        });
+        
+        $(document).scroll(function(){
+            if($(document).scrollTop() > $( window ).height()){
+                $("#scrollUp").fadeIn(200);
+            } else {
+                $("#scrollUp").fadeOut(200);
+            }
+        })
     });
 </script>
 
