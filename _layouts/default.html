@@ -25,6 +25,14 @@
         {% else %}
             <title>{{ page.title }} | Partiguiden.nu</title>
             <meta name="description" content="Vad tar Sveriges partier för ståndpunkt inom ämnet {{ page.title | downcase}}? Här hittar du informationen du behöver för att kunna jämföra och hitta det parti du sympatiserar med mest!">
+            <script type="text/javascript">
+                function showStuff(id) {
+                document.getElementById(id).style.display = 'block';
+                }
+                function showList(id) {
+                    document.getElementById(id).style.display = 'flex';
+                }
+            </script>
     {% endcase %}
     
     
