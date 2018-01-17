@@ -6,12 +6,8 @@
     background: #009688;
     overflow: hidden;
     z-index: 1000;
-    padding: 10px;
     bottom:0;
     padding: 2.5rem 0;
-}
-.cookie-text{
-    padding-bottom: 2rem;
 }
 .cookies-button{
     background: #fff;
@@ -52,7 +48,13 @@
         width: 90%;
     }
     .read-more{
-        margin-top: 20px;
+        margin-top: 10px;
         width: 40%;
+    }
+    .bannerClose{
+        margin-top: -5px !important;
+    }
+    .cookie-text{
+        font-size: 15px;
     }
 }
