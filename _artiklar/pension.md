@@ -4,5 +4,7 @@ tags:
     - Pensioner
     - Pension
     - Premiepension
-categories: Trygghetssystem
+categories: 
+    - Trygghetssystem
+    - Äldrepolitik
 ---

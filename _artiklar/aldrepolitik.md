@@ -11,4 +11,6 @@ tags:
     - Pensionärsskatt
     - Hemtjänst
     - Äldre i arbetslivet
+categories:
+    - Äldrepolitik
 ---
