@@ -2,7 +2,7 @@
 name                : Partiguiden
 markdown            : kramdown
 baseurl             : /
-url                 : "http://partiguiden.nu"
+url                 : "https://partiguiden.nu"
 
 sass:
     sass_dir: _sass
