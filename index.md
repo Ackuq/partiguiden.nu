@@ -11,9 +11,9 @@ title: Partiguiden
   <div class="container">
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1">
-        <h1 class="boxTitle text-center">Guiden som hjälper dig rösta rätt i valet 2018!</h1>
+        <h1 class="boxTitle text-center">Parti guiden som hjälper dig rösta rätt i valet 2018!</h1>
         <hr class="lineLarge">
-          <h4 class="contentText">Vet du inte vad du ska rösta på till valet 2018? Känn dig inte ensam i så fall! I Sverige är det lätt att tappa bort sig i den politiska djungeln och bli förvirrad, därför har Partiguiden.nu blivit till. Partiguiden.nu är ett verktyg för dig som vill veta mer om vad olika partier tycker och vill ändra på inom olika områden för att du som röstare ska få hjälp att rösta på det som du tycker är rätt.
+          <h4 class="contentText">Vet du inte vad du ska rösta på till valet 2018? Känn dig inte ensam i så fall! I Sverige är det lätt att tappa bort sig i den politiska djungeln och bli förvirrad, därför har Partiguiden.nu blivit till. Denna parti guide är en tjänst för dig som vill veta mer om vad olika partier tycker och vill ändra på inom olika områden för att du som röstare ska få hjälp att rösta på det som du tycker är rätt.
           </h4>
         <hr class="lineLarge">          
             <h4 class="contentText">Klicka <a href="/partiernas-standpunkter.html">här</a> eller på fliken "Partiernas ståndpunkter" för att börja jämföra vad olika partier har för olika åsikter och ståndpunkter i sakfrågor!</h4>
