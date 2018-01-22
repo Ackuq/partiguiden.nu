@@ -29,10 +29,10 @@ $("#scrollUp").click(function () {
 });
 
 $(".partititle").click(function () {
-    $(this).parent(".asikt").children('.slidetoggle').stop().slideToggle($(this).parent(".asikt").find(".opinion_box").length * 100, "linear");
+    $(this).parent(".asikt").children('.slidetoggle').stop().slideToggle("fast", "linear");
 })
 
 $(".partiBox").click(function () {
     var href = $(this).attr('href');
-    $(href).children('.slidetoggle').stop().slideToggle($(href).find(".opinion_box").length * 100, "linear");
+    $(href).children('.slidetoggle').stop().slideToggle("fast", "linear");
 })
