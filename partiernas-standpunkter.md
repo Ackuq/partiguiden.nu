@@ -2,6 +2,7 @@
 layout: default 
 title: Partiernas ståndpunkter 
 ---
+<div id="content">
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
@@ -47,4 +48,5 @@ title: Partiernas ståndpunkter
             </div>
         </div>
     </div>
+</div>
 </div>

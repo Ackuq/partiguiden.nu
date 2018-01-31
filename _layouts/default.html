@@ -52,7 +52,6 @@
     
     <!-- Font awesome -->
     <script async src="{{ site.url }}/js/fa-brands.min.js"></script>
-    <script async src="{{ site.url }}/js/fa-regular.min.js"></script>
     <script async src="{{ site.url }}/js/fa-solid.min.js"></script>
     <script async src="{{ site.url }}/js/fontawesome.min.js"></script>
 
@@ -136,9 +135,7 @@
         </nav>
     </div>
     <!-- Content -->
-    <div id="content" {% if page.url == '/' %} style="padding-top:0" {% endif %}>
     {{ content }}
-    </div>
     
     {% if site.url != 'http://localhost:4000' %}
     
@@ -147,7 +144,6 @@
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- Responsive ad -->
         <ins class="adsbygoogle"
-             style="display:block"
              data-ad-client="ca-pub-3248338512924345"
              data-ad-slot="6515707043"
              data-ad-format="auto"></ins>

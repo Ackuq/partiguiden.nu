@@ -2,6 +2,7 @@
 layout: default
 title: Om oss
 ---
+<div id="content">
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:10px">
@@ -17,4 +18,5 @@ title: Om oss
             </h4>
         </div>
     </div>
+</div>
 </div>

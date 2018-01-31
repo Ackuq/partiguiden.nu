@@ -2,6 +2,7 @@
 layout: default 
 title: Sök 
 ---
+<div id="content">
 <div class="container">
     <div class="row">
         <div class="col-md-4 col-md-offset-4">
@@ -30,3 +31,4 @@ title: Sök
 </script>
 <script src="/js/lunr.min.js"></script>
 <script src="/js/search.js"></script>
+</div>

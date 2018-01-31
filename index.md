@@ -2,6 +2,7 @@
 layout: default
 title: Partiguiden
 ---
+<div id="content" class="ptop-0">
   <div class="text-center" id="hemjumbotron">
     <h2 class="noMargin"> Hur vill partierna förbättra <br>
         <span class="element" id="typeText"></span> 
@@ -44,3 +45,4 @@ title: Partiguiden
         </div>
     </div>
   </div>
+</div>

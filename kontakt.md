@@ -2,6 +2,7 @@
 layout: default
 title: Kontakt
 ---
+<div id="content">
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2 text-center" style="margin-bottom:10px">
@@ -14,4 +15,5 @@ title: Kontakt
             <h4 class="contentText">För allmäna frågor, upplysning om saknaden av viss information om partierna, eller förslag på förbättringar, skicka ett mail till <a href="mailto:contact@partiguiden.nu">contact@partiguiden.nu</a></h4>
         </div>
     </div>
+</div>
 </div>
