@@ -4,7 +4,7 @@ markdown            : kramdown
 baseurl             : /
 url                 : "https://partiguiden.nu"
 
-include             : /_headers
+include             :  ["/_headers"]
 sass:
     sass_dir: _sass
     style: compressed
