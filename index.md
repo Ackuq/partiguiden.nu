@@ -23,10 +23,10 @@ title: Partiguiden
             <h3 class="relevant_questions mgtop-0">Relevanta frågor i valet 2018</h3>
             <div class="list-group">
                 <div class="list-container">
-                  <a href="/amnen/vard_och_omsorg" class="listItem">Vård och omsorg</a>
+                  <a href="/amnen/vard-och-omsorg" class="listItem">Vård och omsorg</a>
                 </div>
                 <div class="list-container">
-                  <a href="/amnen/migration_och_integration" class="listItem">Migration och integration</a>
+                  <a href="/amnen/migration-och-integration" class="listItem">Migration och integration</a>
                 </div>
                 <div class="list-container">
                   <a href="/amnen/skola" class="listItem">Skola och utbildning</a>
@@ -35,7 +35,7 @@ title: Partiguiden
                   <a href="/amnen/miljo" class="listItem">Miljö och klimat</a>
                 </div>
                 <div class="list-container">
-                  <a href="/amnen/jamstalldhet_och_diskriminering" class="listItem">Jämställdhet och diskriminering</a>
+                  <a href="/amnen/jamstalldhet-och-diskriminering" class="listItem">Jämställdhet och diskriminering</a>
                 </div>
                 <div class="list-container">
                   <a href="/amnen/aldrepolitik" class="listItem">Äldrepolitik</a>
