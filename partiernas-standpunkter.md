@@ -29,13 +29,13 @@ title: Partiernas ståndpunkter
                         {% if bok != "A"%}
                             </div>
                         {% endif %}
-                        <div class="bokstav">
+                        <div class="bokstav w-100 pull-left">
                             <header>{{page.title | truncate: 1, ""}}</header>
                         </div>
                         <div class="listSection">
                     {% endif %}
                     {% assign bokstav = page.title | truncate: 1, "" %}
-                    <div class="listobjekt">
+                    <div class="listobjekt pull-left">
                         <a href="{{ page.url }}">
                             <span>{{page.title}}</span>
                         </a>    

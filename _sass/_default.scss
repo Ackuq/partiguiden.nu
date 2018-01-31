@@ -36,10 +36,13 @@ body {
 #footer {
     margin-top: 15px;
     padding: 20px 0;
-    width: 100%;
     color: #fff;
     background: #00796B;
     box-shadow: 0 -1px 3px rgba(34, 25, 25, 0.4);
+}
+
+.copyright{
+    font-weight: bold;
 }
 @media (max-width: 767px){
     #footer{
@@ -101,4 +104,14 @@ body {
     text-decoration: none;
     color: #34495e;
     background-color: #ecf0f1;
+}
+.titlelink > img{
+    max-height:100%; 
+    max-width: 80%;
+}
+.titlelink{
+    height:100%;
+}
+.relevant_questions{
+    margin-left: 7px;
 }

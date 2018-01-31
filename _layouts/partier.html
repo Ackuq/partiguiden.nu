@@ -49,11 +49,11 @@ layout: default
 
         <div class="col-md-8 col-md-offset-2">
         {% for parti in site.data.order.root.parti %}
-            <div id="{{parti.namn}}" class="asikt">
+            <div id="{{parti.namn}}" class="asikt display-none">
                 <div data-ripple="#bdc3c7" id="{{parti.syntax}}" class="partititle">
                     <h3>{{parti.namn}}</h3>
                 </div>
-                <div class="slidetoggle">
+                <div class="slidetoggle display-none">
                     {% assign amne_list = site.data[parti.syntax].root.amne %}
                     {% for amne in amne_list %}                    
                         {% for tag in page.tags %}
@@ -85,7 +85,7 @@ layout: default
         
     </div>
         <div class="col-md-8 col-md-offset-2">
-            <div id="relaterade" style="display: none">
+            <div id="relaterade" class="hidden">
                 <h4>Relaterade ämnen</h4>
                 {% for page_cat in page.categories %}
                     {% for sida in site.artiklar %}
@@ -94,11 +94,11 @@ layout: default
                                 {% if cat == page_cat %}
                                     <script>showStuff('relaterade')</script>
                                     {% if cat != current_cat %}
-                                        <div class="bokstav">
+                                        <div class="bokstav w-100 pull-left">
                                             <header>{{cat}}</header>
                                         </div>
                                     {% endif %}
-                                    <div class="listobjekt" style="width:100%">
+                                    <div class="listobjekt w-100">
                                         <a href="{{ sida.url }}">
                                             <span>{{sida.title}}</span>
                                         </a>    
@@ -113,4 +113,4 @@ layout: default
         </div>
     </div>
 </div>
-<script src="{{ site.url }}/js/amne.js"></script>
+<script async src="{{ site.url }}/js/amne.js"></script>

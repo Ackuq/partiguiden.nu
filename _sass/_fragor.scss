@@ -31,7 +31,7 @@
     border-bottom: 2px solid #00796B;
 }
 .opinion_box a{
-    display: inline-block;
+    display: flex;
     color: #049372;
     padding: 5px;
     margin: 5px;
@@ -48,7 +48,6 @@
     margin-top: 10px;
 }
 .asikt .slidetoggle{
-    display: none;
     overflow: hidden;
 }
 .partititle{
@@ -68,10 +67,9 @@
 .listobjekt{
     z-index: 20;
     position: relative;
-    display: inline-block;
+    display: flex;
     height: 50px;
     width: 50%;
-    float: left;
 }
 .listobjekt > a:hover > span{
     background-position:left bottom;
@@ -134,17 +132,14 @@
 }
 .breadcrumb > li > a{
     color: #34495e;
-
 }
 .bokstav{
     z-index: 10;
     color: #fff;
     background-color: #049372;
     display: block;
-    float: left;
     text-align: center;
     line-height: 30px;
     font-size: 20px;
-    width: 100%;
     height: 30px;
 }
