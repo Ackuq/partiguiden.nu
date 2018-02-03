@@ -43,6 +43,10 @@
     list-style: none;
     position: relative;
     line-height: 20px;
+    font-weight: 300;
+}
+.slidetoggle h4{
+    margin-top: 10px;
 }
 .slidetoggle li+li{
     margin-top: 10px;
@@ -85,6 +89,7 @@
     height: 100%;
 }
 .listobjekt > a > span{
+    font-weight: 400;
     display: inline-block;
     line-height: 50px;
     height: 50px;

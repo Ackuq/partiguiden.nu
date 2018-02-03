@@ -42,19 +42,32 @@
     <meta property="og:image" content="{{site.url}}/media/Partiguiden_logo.png" />
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">    
-    <!-- Bootstrap 3.3.7 -->
-    <script src="/js/jquery-3.2.1.min.js"></script>
-    <script src="/js/jquery-ui.min.js"></script>
-    <script async src="/js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+    
+    
+    <!-- JQuery -->
+    <script
+  src="http://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+    <script
+    src="http://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+    integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+    crossorigin="anonymous"></script>
+    <!-- Bootstrap 4 -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script async src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+    <!-- Roboto Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <!-- Custom stylesheet -->
     <link href="/css/styles.css" rel="stylesheet" type="text/css"> 
     
     <!-- Font awesome -->
-    <script async src="/js/fa-brands.min.js"></script>
-    <script async src="/js/fa-solid.min.js"></script>
-    <script async src="/js/fontawesome.min.js"></script>
-
+    <script async src="https://use.fontawesome.com/releases/v5.0.6/js/brands.js"></script>
+    <script async src="https://use.fontawesome.com/releases/v5.0.6/js/solid.js"></script>
+    <script async src="https://use.fontawesome.com/releases/v5.0.6/js/fontawesome.js"></script>
     <!-- Ripple Effect js -->
     <script async src="/js/rippleEffect.js"></script>
     
@@ -101,34 +114,44 @@
 <body>
     <!-- Header -->
     <div id="header">
-        <nav class="navbar navbar-default navbar-fixed-top navbar-absolute">
+        <nav class="navbar navbar-expand-md absolute-top navbar-inverse w-100" id="Navbar">
             <div class="container">
-                <div class="navbar-header" id="title">
-                    <a href="/" class="titlelink">
-                        <img src="/media/partiguiden_logo_opt.svg" alt="Partiguiden logo">
-                    </a>
-                    <button type="button" class="navbar-toggle container" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                    <div class="search desktop">
-                        <form action="/search" method="get" autocomplete="off" class="search-form">
-                            <input type="text" name="query" placeholder="Sök"> 
-                            <input type="image" src="/media/search.svg" alt="Search" class="search_img">
-                        </form> 
-                        </div>
+            <div id="title">
+                <a href="/" class="titlelink">
+                    <img src="/media/partiguiden_logo_opt.svg" alt="Partiguiden logo">
+                </a>
+                <div class="search desktop">
+                    <form action="/search" method="get" autocomplete="off" class="search-form">
+                    <input type="text" name="query" placeholder="Sök"> 
+                    <input type="image" src="/media/search.svg" alt="Search" class="search_img">
+                    </form> 
                 </div>
-                <div class="collapse navbar-collapse" id="myNavbar">
-                    <ul class="nav navbar-nav">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            
+                <div class="collapse navbar-collapse" id="navbarContent">
+                    <ul class="navbar-nav mr-auto mt-2 mt-md-0">
                         <li>
-                            <div class="search phone container">
+                            <div class="search phone">
                                 <form action="/search" method="get" autocomplete="off" class="search-form">
                                     <input type="text" name="query" placeholder="Sök">
                                     <input type="image" src="/media/search.svg" alt="Search" class="search_img"> </form>
                             </div>
                         </li>
-                        <li {% if page.url=='/' %} class="active" {% endif %}><a href="/">Hem</a></li>
-                        <li {% if page.url=='/partiernas-standpunkter' %} class="active" {% endif %}><a href="/partiernas-standpunkter">Partiernas ståndpunkter</a></li>
-                        <!--<li {% if page.url=='/riksdagspartierna.html' %} class="active" {% endif %}><a href="/riksdagspartierna.html">Riksdagspartierna</a></li>-->
-                        <li {% if page.url=='/om-oss' %} class="active" {% endif %}><a href="/om-oss">Om oss</a></li>
-                        <li {% if page.url=='/kontakt' %} class="active" {% endif %}><a href="/kontakt">Kontakt</a></li>
+                        <li {% if page.url=='/' %} class="active" {% endif %}>
+                            <a class="navLink" href="/">Hem</a>
+                        </li>
+                        <li {% if page.url=="/partiernas-standpunkter.html"%} class="active" {% endif %}>
+                            <a class="navLink" href="/partiernas-standpunkter">Partiernas ståndpunkter</a>
+                        </li>
+                        <li {% if page.url=='/om-oss.html' %} class="active"  {% endif %}>
+                            <a class="navLink" href="/om-oss">Om oss</a>
+                        </li>
+                        <li {% if page.url=='/kontakt.html' %} class=" active" {% endif %}>
+                            <a class="navLink" href="/kontakt">Kontakt</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -157,18 +180,18 @@
     <footer id="footer" class="w-100">
         <div class="container">
             <div class="row text-center">
-                <div class="col-md-4 col-md-offset-4 footer_content">
-                    <p class="copyright">©
+                <div class="col-md-4 offset-md-4 footer_content">
+                    <h6 class="copyright">©
                         <script type="text/javascript">
                             document.write(new Date().getFullYear());
                         </script>
-                        Axel Pettersson</p>
-                    <p id="mail">
+                        Axel Pettersson</h6>
+                    <h6 id="mail">
                         <a href="mailto:contact@partiguiden.nu"><i class="fas fa-envelope"></i> contact@partiguiden.nu</a>
-                    </p>
+                    </h6>
                     <a href="https://www.facebook.com/partiguiden/"> <i class="fab fa-facebook-square fa-2x"></i> </a>
                 </div>
-                <div class="col-md-2 col-md-offset-2">
+                <div class="col-md-2 offset-md-2">
                     <button data-ripple="#bdc3c7" class="btn modalButton" id="donationButton" data-toggle="modal" data-target="#donationModal">Stöd mig</button>
                 </div>
             </div>
@@ -179,7 +202,7 @@
     <div id="cookie-banner" class="display-none">
         <button type="button" class="close bannerClose" onclick="closeBanner()">&times;</button>
         <div class="container">
-            <h4 class="cookie-text">Partiguiden.nu använder webbkakor från Google för att personliggöra annonser och för att analysera trafik. Information om din användning av vår hemsida delas med Google för det ändamålet.</h4>
+            <p class="lead cookie-text">Partiguiden.nu använder webbkakor från Google för att personliggöra annonser och för att analysera trafik. Information om din användning av vår hemsida delas med Google för det ändamålet.</p>
             <button onclick="gaOpt()" class="cookies-button btn">
                 <span>Jag godkänner</span>
             </button>
@@ -195,12 +218,12 @@
             <!-- Modal content -->
             <div class="modal-content">
                 <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
                     <h5 class="modal-title">Stöd mig</h5>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
               <div class="modal-body">
-                <h4>Skicka donationer till mig genom att swisha numret här under eller genom att skanna QR-koden via Swish-appen:</h4>
-                <h4>070-965 36 95</h4>
+                <p>Skicka donationer till mig genom att swisha numret här under eller genom att skanna QR-koden via Swish-appen:</p>
+                <p>070-965 36 95</p>
                 <img class="w-100" src="/media/swish-qr.jpg" alt="Swish QR code">
               </div>
                 <div class="modal-footer">

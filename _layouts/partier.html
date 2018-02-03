@@ -21,16 +21,15 @@ layout: default
 
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            <ul class="breadcrumb">
-                <li><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-                <li><a href="/partiernas-standpunkter">Partiernas ståndpunkter</a></li>
-                <li class="active">{{page.title}}</li>
-            </ul>
-        </div>
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-8 offset-md-2">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+                    <li class="breadcrumb-item"><a href="/partiernas-standpunkter">Partiernas ståndpunkter</a></li>
+                  <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
+              </ol>
+            </nav>
             <h1 id="pageTitle">{{page.title}}</h1>
-        </div>
         <!-- Content ad -->
         {% if site.url != 'http://localhost:4000' %}
         
@@ -48,7 +47,6 @@ layout: default
         </div>
         {% endif %}
 
-        <div class="col-md-8 col-md-offset-2">
         {% for parti in site.data.order.root.parti %}
             <div id="{{parti.namn}}" class="asikt display-none">
                 <div data-ripple="#bdc3c7" id="{{parti.syntax}}" class="partititle">
@@ -56,14 +54,20 @@ layout: default
                 </div>
                 <div class="slidetoggle display-none">
                     {% assign amne_list = site.data[parti.syntax].root.amne %}
+                    {% assign c = 0 %}
                     {% for amne in amne_list %}                    
                         {% for tag in page.tags %}
                             {% if amne.fraga == tag  %}
                                 <h4>{{tag}}</h4>
+                                
+                                {% if c != 1%}
                                 <script>
                                     showStuff('{{parti.namn}}');
                                     showList('{{parti.syntax}}toggle');
                                 </script>
+                                {% endif %}
+                                {% assign c = 1 %}
+
                                 <div class="opinion_box">
                                     {% if amne.asikt[1] %}
                                         <ul>
@@ -84,9 +88,7 @@ layout: default
         {% endfor %}
         
         
-    </div>
-        <div class="col-md-8 col-md-offset-2">
-            <div id="relaterade" class="hidden">
+            <div id="relaterade" class="d-none">
                 <h4>Relaterade ämnen</h4>
                 {% for page_cat in page.categories %}
                     {% for sida in site.artiklar %}

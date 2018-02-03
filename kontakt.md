@@ -5,7 +5,7 @@ title: Kontakt
 <div id="content">
     <div class="container">
         <div class="row">
-            <div class="col-md-8 col-md-offset-2">
+            <div class="col-md-8 offset-md-2">
                 <div class="text-center">
                     <i class="fa fa-phone fa-4x"></i>
                 </div>

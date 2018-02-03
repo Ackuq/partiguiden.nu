@@ -2,7 +2,7 @@
 ---
 
 @charset "utf-8";
-@import "bootstrap";
+//@import "bootstrap";
 
 @import "cookies";
 @import "partier";
@@ -15,8 +15,13 @@
 @import "default";
 @import "sitenav";
 
-@import "Noto_Sans";
 
+h1{
+    margin-top: 15px;
+}
+h6,h4,h3,h1,h2{
+    font-weight: 300 !important;
+}
 #hemjumbotron {
     min-width: 100%;
     box-shadow: 0 0 #FFFFFF inset, 0 1px 3px rgba(34, 25, 25, 0.4);
@@ -49,12 +54,6 @@
     margin: auto;
     width: 50%;
 }
-
-@media (max-width: 767px) {
-    body {
-        padding-top: 70px;
-    }
-}
 .adsbygoogle{
     display:block;
 }
@@ -62,18 +61,14 @@
 .contentText{
     line-height: 1.6;
     margin: 40px 0;
+    font-size: 1.25rem;
+    font-weight: 300;
 }
 .list-group-item{
     border-radius: 0 !important;
 }
 .display-none{
     display: none;
-}
-.w-100{
-    width: 100%;
-}
-.w-50{
-    width:50%;
 }
 .noMargin {
     margin: 0;
@@ -83,4 +78,7 @@
 }
 .ptop-0{
     padding-top: 0 !important;
+}
+.w300{
+    font-weight: 300;
 }

@@ -5,16 +5,14 @@ title: Partiernas ståndpunkter
 <div id="content">
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-            <ul class="breadcrumb">
-                <li><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-                <li class="active">{{ page.title }}</li>
-            </ul>
-        </div>
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-8 offset-md-2">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+                    <li class="breadcrumb-item active">Partiernas ståndpunkter</li>
+                </ol>
+            </nav>
             <h1 id="pageTitle">{{ page.title }}</h1>
-        </div>
-        <div class="col-md-8 col-md-offset-2">
             <div class="amneList">
             {% assign sortera_partier = site.artiklar | sort: 'title' %}
             {% assign i = 0 %}
