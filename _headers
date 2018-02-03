@@ -1,6 +1,4 @@
 /media/*
-  Cache-Control: max-age: 604800
-  Expires: 604800
+  Cache-Control:public,  max-age: 604800
 /media/swish-qr.jpg
-  Cache-Control: max-age: 604800
-  Expires: 604800
+  Cache-Control: public, max-age: 604800
