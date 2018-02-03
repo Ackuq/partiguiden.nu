@@ -1,1 +1,31 @@
-var gaProperty="UA-111642551-1",disableStr="ga-disable-"+gaProperty;function gtag(){dataLayer.push(arguments)}function gaOpt(){jQuery(function(e){e("#cookie-banner").slideToggle()}),document.cookie="consent=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/"}function closeBanner(){jQuery(function(e){e("#cookie-banner").slideToggle()})}-1==document.cookie.indexOf("consent=true")&&(jQuery(function(e){e("#cookie-banner").slideToggle()}),window[disableStr]=!0),window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config",gaProperty);
+//    var gaProperty = 'UA-111642551-1';
+
+//    var disableStr = 'ga-disable-' + gaProperty;
+
+    //Check if user has accepted cookies
+    if (document.cookie.indexOf("consent=true") == -1) {
+        jQuery(function ($) {
+            $('#cookie-banner').slideToggle();
+        });
+       // window[disableStr] = true;
+    }
+    //window.dataLayer = window.dataLayer || [];
+
+    //function gtag() {
+      //  dataLayer.push(arguments);
+    //}
+    //gtag('js', new Date());
+    //gtag('config', gaProperty);
+
+    //Enable Analytics
+    function gaOpt() {
+        jQuery(function ($) {
+            $('#cookie-banner').slideToggle();
+        });
+        document.cookie = "consent=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/";
+    }
+    function closeBanner(){
+        jQuery(function ($) {
+            $('#cookie-banner').slideToggle();
+        });
+    }
