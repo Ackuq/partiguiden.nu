@@ -60,7 +60,7 @@
     <script async src="/js/rippleEffect.js"></script>
     
     <!-- Google AdSense -->
-    {% if site.url != 'http://localhost:4000' %}
+    {% if jekyll.environment == 'production' %}
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({
