@@ -6,13 +6,7 @@
     color: #00796B;
     margin: 10px 0;
 }
-.modal-dialog {
-    max-width: 40vh;
-}
 @media (max-width: 767px) {
-    .modal-dialog{
-        max-width: 100%;
-    }
     .modal-body > img{
         margin: auto;
         width: 60% !important;
