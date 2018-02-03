@@ -56,10 +56,6 @@
     <!-- Custom stylesheet -->
     <link href="/css/styles.css" rel="stylesheet" type="text/css"> 
     
-    <!-- Font awesome -->
-    <script async src="https://use.fontawesome.com/releases/v5.0.6/js/brands.js"></script>
-    <script async src="https://use.fontawesome.com/releases/v5.0.6/js/solid.js"></script>
-    <script async src="https://use.fontawesome.com/releases/v5.0.6/js/fontawesome.js"></script>
     <!-- Ripple Effect js -->
     <script async src="/js/rippleEffect.js"></script>
     
@@ -114,8 +110,10 @@
                 </a>
                 <div class="search desktop">
                     <form action="/search" method="get" autocomplete="off" class="search-form">
-                    <input type="text" name="query" placeholder="Sök"> 
-                    <input type="image" src="/media/search.svg" alt="Search" class="search_img">
+                    <input type="text" name="query" placeholder="Sök" class="text-white"> 
+                    <button class="btn search-button" type="submit">
+                        <i class="icon-font h4 text-white icon-search">&#xe800;</i>
+                        </button>
                     </form> 
                 </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -128,8 +126,11 @@
                         <li>
                             <div class="search phone">
                                 <form action="/search" method="get" autocomplete="off" class="search-form">
-                                    <input type="text" name="query" placeholder="Sök">
-                                    <input type="image" src="/media/search.svg" alt="Search" class="search_img"> </form>
+                                    <input type="text" name="query" placeholder="Sök" class="text-white">
+                                    <button class="btn search-button" type="submit">
+                                        <i class="icon-font icon-search text-white h3">&#xe800;</i>
+                                    </button>
+                                </form>
                             </div>
                         </li>
                         <li {% if page.url=='/' %} class="active" {% endif %}>
@@ -179,9 +180,9 @@
                         </script>
                         Axel Pettersson</h6>
                     <h6 id="mail">
-                        <a href="mailto:contact@partiguiden.nu"><i class="fas fa-envelope"></i> contact@partiguiden.nu</a>
+                        <a href="mailto:contact@partiguiden.nu"><i class="icon-font icon-mail-alt">&#xf0e0;</i> contact@partiguiden.nu</a>
                     </h6>
-                    <a target="_blank" href="https://www.facebook.com/partiguiden/"> <i class="fab fa-facebook-square fa-2x"></i> </a>
+                    <a target="_blank" href="https://www.facebook.com/partiguiden/"> <i class="icon-font h2 icon-facebook-squared">&#xf308</i> </a>
                 </div>
                 <div class="col-md-2 offset-md-2">
                     <button data-ripple="#bdc3c7" class="btn modalButton" id="donationButton" data-toggle="modal" data-target="#donationModal">Stöd mig</button>

@@ -14,7 +14,22 @@
 @import "default";
 @import "sitenav";
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+
+@font-face {
+      font-family: 'partiguiden-icons';
+      src: url('/media/fontello/font/partiguiden-icons.eot?25228842');
+      src: url('/media/fontello/font/partiguiden-icons.eot?25228842#iefix') format('embedded-opentype'),
+           url('/media/fontello/font/partiguiden-icons.woff?25228842') format('woff'),
+           url('/media/fontello/font/partiguiden-icons.ttf?25228842') format('truetype'),
+           url('/media/fontello/font/partiguiden-icons.svg?25228842#partiguiden_icons') format('svg');
+      font-weight: normal;
+      font-style: normal;
+}
+.icon-font{
+    font-family: 'partiguiden-icons';
+    font-style: normal;
+}
 
 html,body{
     height: 100%;

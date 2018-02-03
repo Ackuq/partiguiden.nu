@@ -8,7 +8,7 @@ title: Partiernas ståndpunkter
         <div class="col-md-8 offset-md-2">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+                    <li class="breadcrumb-item"><a href="/"><i class="icon-font icon-home">&#xe801;</i></a></li>
                     <li class="breadcrumb-item active">Partiernas ståndpunkter</li>
                 </ol>
             </nav>
