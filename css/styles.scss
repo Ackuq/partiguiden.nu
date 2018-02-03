@@ -15,6 +15,24 @@
 @import "default";
 @import "sitenav";
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
+
+html,body{
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 122px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 767px) {
+    body {
+        padding-top: 70px;
+    }
+}
 
 h1{
     margin-top: 15px;
