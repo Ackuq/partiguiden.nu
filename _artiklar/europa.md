@@ -15,4 +15,5 @@ tags:
     - EU och Euro
     - EMU och Euron
     - Tiggande EU-medborgare
+    - EU- miljön och klimatet
 ---

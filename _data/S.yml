@@ -169,13 +169,6 @@ root:
     - att Sverige mellan 2014 och 2020 ska öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att Sverige når lägst arbetslöshet i EU
     - att det finanspolitiska ramverket med mål för den offentliga sektorns sparande och utgiftstak ska förstärkas i enlighet med den breda blocköverskridande överenskommelse som finns på området.
   -
-    fraga: Ekonomiskt bistånd
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/ekonomiskt-bistand/
-    asikt:
-    - investera i utbildning, t.ex. Komvux och yrkesutbildningar så att fler kan få chansen att ta de jobb som finns
-    - höja barnbidragen
-    - förbättra de ekonomiska trygghetsnäten vid arbetslöshet och sjukdom och att kommunerna arbetar med att ge rätt stöd till de människor som har ekonomiskt bistånd.
-  -
     fraga: EU
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/eu/
     asikt:
@@ -183,19 +176,6 @@ root:
     - arbeta för ett socialt Europa där alla får ta del av tillväxt och utveckling
     - att EU ska ta en ledarroll i världen med en ambitiös klimat- och miljöpolitik
     - upprätta en gemensam, ansvarsfull och solidarisk flykting- och migrationspolitik i EU.
-  -
-    fraga: Energi
-    adress: https://www.socialdemokraterna.se/var-politik/a-till-o/energi/
-    asikt:
-    - Sverige behöver god tillgång till el med konkurrenskraftiga priser. Vårt land har unika förutsättningar för förnybar energi. Energi från vind, vatten och skog har stor potential att byggas ut under lång tid framöver. Vi socialdemokrater vill se ett land där vi samlas för att utveckla gemensamma lösningar. En stabil energiförsörjning är viktigt för fler jobb i Sverige.
-  -
-    fraga: Jämställdhet
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/feminism/
-    asikt:
-    - heltid ska vara norm på hela arbetsmarknaden
-    - jämställdhetsarbetet i skolan ska bedrivas kontinuerligt och inte i projekt för en begränsad tid, vare sig nationellt eller på den enskilda skolan
-    - genusperspektiv ska ha genomslag i forskning och utveckling och - om situationen inte snabbt förbättras - lagstifta om jämställda bolagsstyrelser
-    - alla som vill gå upp i arbetstid ska få möjlighet att göra det.
   -
     fraga: FN
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/fn/
@@ -218,6 +198,15 @@ root:
     - öka antalet platser inom folkhögskolan
     - möjliggöra för studieförbund och folkhögskolor att finnas över hela landet
     - göra det möjligt att läsa en hel gymnasieutbildning på folkhögskola direkt efter grundskolan.
+  -
+    fraga: Folkrörelse och civilsamhälle
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/folkrorelse-och-civilsamhalle/
+    asikt:
+    - värna civilsamhällets självständighet och särart
+    - skapa fler fysiska mötesplatser
+    - öka stödet till civilsamhällets organisationer
+    - skapa goda förutsättningar för idéburen verksamhet att bedriva offentligt finansierad välfärd
+    - stimulera tillväxten av civilsamhällets företagande.
   -
     fraga: Forskning
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/forskning/
@@ -321,7 +310,7 @@ root:
     fraga: Hemlöshet
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/hemloshet/
     asikt:
-    - bryta arbetslösheten och få fler människor i arbete. Vi har ett mål som är viktigare än alla andra, till år 2020 ska Sverige öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att vi når lägst arbetslöshet i EU
+    - bryta arbetslösheten och få fler människor i arbete. Vi har ett mål som är viktigare än alla andra: Till år 2020 ska Sverige öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att vi når lägst arbetslöshet i EU
     - förbättra missbrukarvården och stärka psykiatrin. Ambitionen måste vara att ingen ska vara hemlös
     - bygga fler studentbostäder och små hyreslägenheter.
   -
@@ -514,6 +503,14 @@ root:
     - se över grundskyddet (garantipension och bostadstillägg) för att förbättra för den som har en låg pension
     - förändra premiepensionssystemet
     - se till att fler kommer i jobb. På så sätt kommer per pengar in i pensionssystemet och pensionerna blir högre.
+  -
+    fraga: Polisen
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/polisen/
+    asikt:
+    - ha 10 000 fler polisanställda
+    - starta polisutbildning på två nya orter
+    - att Polisens arbetsmiljö ska förbättras
+    - öka resurserna till polisen med 7,1 miljarder kronor på tre år, varav 2 miljarder redan 2018.
   -
     fraga: Psykiatri
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/psykiatri/

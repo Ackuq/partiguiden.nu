@@ -28,4 +28,7 @@ tags:
     - Östersjön
     - Miljöbilar
     - Miljö- och naturvård
+    - Hav
+    - Miljö och natur
+    - Skogen
 ---

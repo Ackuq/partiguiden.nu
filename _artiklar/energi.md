@@ -13,4 +13,6 @@ tags:
     - Solenergi
     - Energi och elmarknaden
     - Elmarknad
+    - Energi och elmarknad
+    - Vattenkraft
 ---

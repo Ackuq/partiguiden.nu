@@ -8,4 +8,5 @@ tags:
     - Idéburna företag
     - Ideella organisationer
     - Religionsfrihet
+    - Folkrörelse och civilsamhälle
 ---

@@ -28,4 +28,5 @@ tags:
     - Pensionärsskatt
     - Överskottsmålet
     - Fastighetsskatt
+    - Flygskatt
 ---

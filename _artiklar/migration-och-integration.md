@@ -21,4 +21,6 @@ tags:
     - Modersmålsundervisning
     - SFI/Svenska för invandrare
     - Medborgarskap
+    - Ensamkommande barn och unga
+    - Språkkrav
 ---

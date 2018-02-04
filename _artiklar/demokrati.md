@@ -14,4 +14,6 @@ tags:
     - Rättssäkerhet
     - Valsystemet
     - Yttrandefrihet
+    - Valfrihet
+    - Religionsfrihet
 ---
