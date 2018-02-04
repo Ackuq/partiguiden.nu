@@ -12,8 +12,14 @@ title: Statistik
     <div class="container">
                 <canvas id="myChart" width="800" height="400"></canvas>
                 <script>
+                function jsUcfirst(string) 
+                {
+                    return string.charAt(0).toUpperCase() + string.slice(1);
+                }
                 function go(data){
+                    locale = "se-sv";
                     var myData = [];
+                    var myDate = new Date(data[0]["PublYearMonth"]); 
                     for(var i = 0; i <8;i++){
                         myData[i]=0;
                     }
@@ -63,7 +69,7 @@ title: Statistik
                             },
                             title: {
                                 display: true,
-                                text: 'Nuvarande opinionssiffror - ' + data[0]["PublYearMonth"]
+                                text: 'Nuvarande opinionssiffror - ' + jsUcfirst(myDate.toLocaleString(locale, { month: "long" })) + " " + myDate.getFullYear()
                             }
                         }
                     });

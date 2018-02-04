@@ -4,11 +4,16 @@
   top:0; left:0; bottom:0; right:0;
   overflow: hidden;
   -webkit-transform: translateZ(0); /* to contain zoomed ripple */
+  -moz-transform: translateZ(0);
+  -o-transform: translateZ(0);
   transform: translateZ(0);
   border-radius: inherit; /* inherit from parent (rounded buttons etc) */
   pointer-events: none; /* allow user interaction */
           animation: ripple-shadow 0.4s forwards;
   -webkit-animation: ripple-shadow 0.4s forwards;
+  -moz-animation: ripple-shadow 0.4s forwards;
+  -o-animation: ripple-shadow 0.4s forwards;
+    
 }
 .rippleWave{
   backface-visibility: hidden;
@@ -38,4 +43,10 @@
 }
 @-webkit-keyframes ripple {
   to {-webkit-transform: scale(24); opacity:0;}
+}
+@-moz-keyframes ripple{
+    to {-moz-transform: scale(24); opacity:0;}
+}
+@-o-keyframes ripple{
+    to {-o-transform: scale(24); opacity:0;}
 }
