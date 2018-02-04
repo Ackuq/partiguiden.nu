@@ -4,6 +4,5 @@ tags:
     - Integritet
     - Internet och integritet
     - Fildelning
-    - Integritet
     - Upphovsrätten
 ---

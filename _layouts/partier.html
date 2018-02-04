@@ -70,11 +70,11 @@ layout: default
                                     {% if amne.asikt[1] %}
                                         <ul>
                                             {% for asikt in amne.asikt %}           
-                                                <li>{{asikt}}</li>
+                                                <li>{{asikt | capitalize}}</li>
                                             {% endfor %}
                                         </ul>
                                     {% else %}
-                                        <p>{{amne.asikt}}</p>
+                                        <p>{{amne.asikt | capitalize}}</p>
                                     {% endif %}
                                     <a target="_blank" href="{{amne.adress}}">Läs mer på partiets hemsida »</a>
                                 </div>
