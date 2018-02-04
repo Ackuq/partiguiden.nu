@@ -77,7 +77,7 @@ layout: compress
 
     {% endif %}
     
-    <meta content="www.partiguiden.nu{{ page.url }}" name="URL">
+    <meta content="{{site.url}}{{ page.url }}" name="URL">
     
     {% if page.url == "/" %}
     <!-- Structured data -->
@@ -141,6 +141,11 @@ layout: compress
                         <li {% if page.url=="/partiernas-standpunkter.html"%} class="active" {% endif %}>
                             <a class="navLink" href="/partiernas-standpunkter">Partiernas ståndpunkter</a>
                         </li>
+                        {% if jekyll.environment != 'production' %}
+                        <li {% if page.url=="/statistik.html"%} class="active" {% endif %}>
+                            <a class="navLink" href="/statistik">Statistik</a>
+                        </li>
+                        {% endif %}
                         <li {% if page.url=='/om-oss.html' %} class="active"  {% endif %}>
                             <a class="navLink" href="/om-oss">Om oss</a>
                         </li>

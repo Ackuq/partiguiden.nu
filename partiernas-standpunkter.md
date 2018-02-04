@@ -5,7 +5,7 @@ title: Partiernas ståndpunkter
 <div id="content">
 <div class="container">
     <div class="row">
-        <div class="col-md-8 offset-md-2">
+        <div class="col-lg-8 offset-lg-2">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/"><i class="icon-font icon-home">&#xe801;</i></a></li>
