@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kontakt
+title: Statistik
 ---
 <script src="/js/papaparse.min.js"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -47,6 +47,9 @@ title: Kontakt
                         options:{
                             responsive: true,
                             maintainAspectRatio: false,
+                            legend: {
+                                display: false
+                            },
                             tooltips:{
                                 callbacks:{
                                     afterLabel: function(tooltipItem, dat){
