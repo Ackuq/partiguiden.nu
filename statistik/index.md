@@ -12,18 +12,38 @@ title: Statistik
     <div class="container">
                 <canvas id="myChart" width="800" height="400"></canvas>
                 <script>
-                function jsUcfirst(string) 
-                {
-                    return string.charAt(0).toUpperCase() + string.slice(1);
-                }
                 function go(data){
-                    locale = "se-sv";
                     var myData = [];
-                    var myDate = new Date(data[0]["PublYearMonth"]); 
-                    for(var i = 0; i <8;i++){
+                    switch(data[0]["PublYearMonth"].slice(5)){
+                    case "jan": var month = "Januari";
+                            break;
+                    case "feb": var month = "Februari";
+                            break;
+                    case "mar": var month = "Mars";
+                            break;
+                    case "apr": var month = "April";
+                            break;
+                    case "maj": var month = "Maj";
+                            break;
+                    case "jun": var month = "Juni";
+                            break;
+                    case "jul": var month = "Juli";
+                            break;
+                    case "aug": var month = "Augusti";
+                            break;
+                    case "sep": var month = "September";
+                            break;
+                    case "okt": var month = "Oktober";
+                            break;
+                    case "nov": var month = "November";
+                            break;
+                    case "dec": var month = "December";
+                            break;
+                    }
+                    for(var i = 0; i < 8;i++){
                         myData[i]=0;
                     }
-                    for(var i = 1; i<data.length;i++){
+                    for(var i = 0; i<data.length;i++){
                         myData[0] += parseFloat(data[i].S);
                         myData[1] += parseFloat(data[i].V);
                         myData[2] += parseFloat(data[i].MP);
@@ -34,7 +54,7 @@ title: Statistik
                         myData[7] += parseFloat(data[i].SD);
                     }
                     for(var i = 0; i <8;i++){
-                        myData[i]= Number((myData[i]/(data.length-1)).toFixed(1));
+                        myData[i]= Number((myData[i]/(data.length)).toFixed(1));
                     }
                     var ctx = document.getElementById("myChart").getContext("2d");
                     var myChart = new Chart(ctx,{
@@ -69,7 +89,7 @@ title: Statistik
                             },
                             title: {
                                 display: true,
-                                text: 'Nuvarande opinionssiffror - ' + jsUcfirst(myDate.toLocaleString(locale, { month: "long" })) + " " + myDate.getFullYear()
+                                text: 'Nuvarande opinionssiffror - ' + month + " " + data[0]["PublYearMonth"].slice(0,4)
                             }
                         }
                     });
@@ -79,14 +99,15 @@ title: Statistik
 </div>
 
 <script>
-function parseData(file, callBack) {
+/*function parseData(file, callBack) {
     Papa.parse(file, {
         complete: function(results) {
             console.log(results.data);
-            /*callBack(results.data);*/
+            callBack(results.data);
         }
     });
 }
+*/
 d3.csv("https://raw.githubusercontent.com/hjnilsson/SwedishPolls/master/Data/Polls.csv",function(csv){
    csv = csv.filter(function(row){
        return  row['PublYearMonth'] == csv[0]["PublYearMonth"];
