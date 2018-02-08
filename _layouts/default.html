@@ -87,13 +87,7 @@ layout: compress
         }
     }
     </script>
-    {% endif %}
-    
-    {% if page.url == "/" %}
-    <!-- Typed.js -->
-    {% asset typed.min.js %}
-    {% endif %} 
-    
+    {% endif %}    
     </head>
 <body>
     <!-- Header -->
@@ -227,4 +221,8 @@ layout: compress
     </div>
 </body>
     {% asset cookie-consent %}
+    {% if page.url == "/" %}
+    <!-- Typed.js -->
+    {% asset typed.min.js %}
+    {% endif %} 
 </html>

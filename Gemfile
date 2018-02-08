@@ -6,7 +6,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "jekyll"
 gem 'jekyll-analytics'
-gem 'uglifier'
 
 gem "jekyll-assets", {
   git: "https://github.com/jekyll/jekyll-assets.git", group: :jekyll_plugins
