@@ -90,6 +90,17 @@ title: Statistik
                             title: {
                                 display: true,
                                 text: 'Nuvarande opinionssiffror - ' + month + " " + data[0]["PublYearMonth"].slice(0,4)
+                            },
+                            scales:{
+                                yAxes:[
+                                    {
+                                        ticks: {
+                                            callback: function(label){
+                                                return label + "%";
+                                            }
+                                        }
+                                    }
+                                ]
                             }
                         }
                     });
@@ -97,7 +108,7 @@ title: Statistik
         </script>
     </div>
     <div class="container">
-        <canvas id="pastChart" style="position: relative; height:70vh; width:80vw"></canvas>
+        <canvas id="pastChart" style="position: relative; height:50vh; width:80vw"></canvas>
         <script>
             function past(data){
                 var pastData = [];
@@ -113,8 +124,11 @@ title: Statistik
                 sums.SD = [];
                 sums.count = [];
                 for(var i = data.length-1; i>=0;i--){
+                    var from = new Date(data[i]["collectPeriodFrom"]);
+                    var to = new Date(data[i]["collectPeriodTo"]);
+                    var avg = new Date((to.getTime() + from.getTime()) / 2);
                     if(data[i]["Company"] != "United Minds"){
-                        var currp = data[i]["collectPeriodTo"].slice(0,7);
+                        var currp = avg.toISOString().slice(0,7);
                         for(var prop in sums){
                             if(!sums[prop][currp] && prop != "count"){
                                 sums[prop][currp] = parseFloat(data[i][prop]);
@@ -147,54 +161,55 @@ title: Statistik
                             {
                                 label: "S",
                                 borderColor: "#C0392B",
-                                fill: false,
                                 data: Object.values(sums.S)
                             },
                             {
                                 label: "V",
-                                fill: false,
                                 borderColor: "#CF000F",
                                 data: Object.values(sums.V)
                             },
                             {
                                 label: "MP",
                                 borderColor: "#26A65B",
-                                fill: false,
                                 data: Object.values(sums.MP)
                             },
                             {
                                 label: "M",
                                 borderColor: "#3A539B",
-                                fill: false,
                                 data: Object.values(sums.M)
                             },
                             {
                                 label: "L",
                                 borderColor: "#5C97BF",
-                                fill: false,
                                 data: Object.values(sums.L)
                             },
                             {
                                 label: "C",
                                 borderColor: "#1E824C",
-                                fill: false,
                                 data: Object.values(sums.C)
                             },
                             {
                                 label: "KD",
                                 borderColor: "#22A7F0",
-                                fill: false,
                                 data: Object.values(sums.KD)
                             },
                             {
                                 label: "SD",
                                 borderColor: "#F4D03F",
-                                fill: false,
                                 data: Object.values(sums.SD)
                             }
                         ]
                     },
                     options: {
+                        elements:{
+                            point:{
+                                radius: 0
+                            },
+                            line:{
+                                borderWidth: 1,
+                                fill: false
+                            }
+                        },
                         responsive: true,
                         stacked: true,
                         title:{
@@ -208,6 +223,17 @@ title: Statistik
                         hover:{
                             mode: 'nearest',
                             intersect: true
+                        },
+                        scales:{
+                            yAxes:[
+                                {
+                                    ticks: {
+                                        callback: function(label){
+                                            return label + "%";
+                                        }
+                                    }
+                                }
+                            ]
                         }
                     }
                 });
