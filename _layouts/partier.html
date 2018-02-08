@@ -5,14 +5,14 @@ layout: default
 <!-- Quick navigation bar -->
 <div class="siteNavCon">
     <div class="siteNav">
-        <a id="Stoggle" data-ripple="#bdc3c7" href="#Socialdemokraterna" class="partiBox">S</a>
-        <a id="Mtoggle" data-ripple="#bdc3c7" href="#Moderaterna" class="partiBox">M</a>
-        <a id="SDtoggle" data-ripple="#bdc3c7" href="#Sverigedemokraterna" class="partiBox">SD</a>
-        <a id="MPtoggle" data-ripple="#bdc3c7" href="#Miljöpartiet" class="partiBox">MP</a>
-        <a id="Ctoggle" data-ripple="#bdc3c7" href="#Centerpartiet" class="partiBox">C</a>
-        <a id="Vtoggle" data-ripple="#bdc3c7" href="#Vänsterpartiet" class="partiBox">V</a>
-        <a id="Ltoggle" data-ripple="#bdc3c7" href="#Liberalerna" class="partiBox">L</a>
-        <a id="KDtoggle" data-ripple="#bdc3c7" href="#Kristdemokraterna" class="partiBox">KD</a>
+        <a id="Stoggle" href="#Socialdemokraterna" class="partiBox">S</a>
+        <a id="Mtoggle" href="#Moderaterna" class="partiBox">M</a>
+        <a id="SDtoggle" href="#Sverigedemokraterna" class="partiBox">SD</a>
+        <a id="MPtoggle" href="#Miljöpartiet" class="partiBox">MP</a>
+        <a id="Ctoggle" href="#Centerpartiet" class="partiBox">C</a>
+        <a id="Vtoggle"  href="#Vänsterpartiet" class="partiBox">V</a>
+        <a id="Ltoggle"  href="#Liberalerna" class="partiBox">L</a>
+        <a id="KDtoggle" href="#Kristdemokraterna" class="partiBox">KD</a>
     </div>
 </div>
 
@@ -47,7 +47,7 @@ layout: default
 
         {% for parti in site.data.order.root.parti %}
             <div id="{{parti.namn}}" class="asikt display-none">
-                <div data-ripple="#bdc3c7" id="{{parti.syntax}}" class="partititle">
+                <div id="{{parti.syntax}}" class="partititle">
                     <h3>{{parti.namn}}</h3>
                 </div>
                 <div class="slidetoggle display-none">

@@ -8,10 +8,11 @@
     display: none;
     flex-direction: column;
 }
-
-.siteNav > a:hover{
+.siteNav > a:hover,
+.siteNav > a:focus{
     text-decoration: none;
-    color: inherit;
+    background-color: #f1f2f6;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 .partiBox{
     text-align: center;

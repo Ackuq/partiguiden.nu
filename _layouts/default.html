@@ -59,9 +59,6 @@ layout: compress
     <!-- Custom stylesheet -->
     <link href="/css/styles.css" rel="stylesheet" type="text/css"> 
     
-    <!-- Ripple Effect js -->
-    <script async src="/js/rippleEffect.js"></script>
-    
     <!-- Google AdSense -->
     {% if jekyll.environment == 'production' %}
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -192,7 +189,7 @@ layout: compress
                     <a target="_blank" href="https://www.facebook.com/partiguiden/"> <i class="icon-font h2 icon-facebook-squared">&#xf308</i> </a>
                 </div>
                 <div class="col-md-2 offset-md-2">
-                    <button data-ripple="#bdc3c7" class="btn modalButton" id="donationButton" data-toggle="modal" data-target="#donationModal">Stöd mig</button>
+                    <button class="btn modalButton btn-light" id="donationButton" data-toggle="modal" data-target="#donationModal">Stöd mig</button>
                 </div>
             </div>
         </div>
@@ -227,11 +224,10 @@ layout: compress
                 <img class="w-100" src="/media/swish-qr.jpg" alt="Swish QR code">
               </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn modalButton noMargin" data-dismiss="modal">Stäng</button>
+                    <button type="button" class="btn btn-light modalButton noMargin" data-dismiss="modal">Stäng</button>
                 </div>
             </div>
         </div>
     </div>
 </body>
-
 </html>
