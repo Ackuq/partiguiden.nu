@@ -10,9 +10,9 @@ title: Statistik
 
 <div id="content">
     <div class="container">
-                <canvas id="myChart" width="800" height="400"></canvas>
-                <script>
-                function go(data){
+        <canvas id="myChart" width="800" height="400"></canvas>
+        <script>
+                function average(data){
                     var myData = [];
                     switch(data[0]["PublYearMonth"].slice(5)){
                     case "jan": var month = "Januari";
@@ -94,24 +94,142 @@ title: Statistik
                         }
                     });
                 }
-            </script>
+        </script>
+    </div>
+    <div class="container">
+        <canvas id="pastChart" style="position: relative; height:70vh; width:80vw"></canvas>
+        <script>
+            function past(data){
+                var pastData = [];
+                var dateLabels = [];
+                const sums = new Object;
+                sums.S = [];
+                sums.V = [];
+                sums.MP = [];
+                sums.M = [];
+                sums.L = [];
+                sums.C = [];
+                sums.KD = [];
+                sums.SD = [];
+                sums.count = [];
+                for(var i = data.length-1; i>=0;i--){
+                    if(data[i]["Company"] != "United Minds"){
+                        var currp = data[i]["collectPeriodTo"].slice(0,7);
+                        for(var prop in sums){
+                            if(!sums[prop][currp] && prop != "count"){
+                                sums[prop][currp] = parseFloat(data[i][prop]);
+                            }
+                            else if(prop != "count"){
+                                sums[prop][currp] += parseFloat(data[i][prop]);
+                            }
+                        }
+                        if(!sums["count"][currp]){
+                            sums["count"][currp] = 1;
+                            dateLabels.push(currp);
+                        }
+                        else
+                            sums["count"][currp]++;
+                    }
+                }
+                for(var i = 0; i < dateLabels.length;i++){
+                    for(var prop in sums){
+                        if(prop != "count")
+                            sums[prop][dateLabels[i]] = (sums[prop][dateLabels[i]] / sums.count[dateLabels[i]]).toFixed(1);
+                    }
+                }
+                var ctx = document.getElementById("pastChart").getContext("2d");
+                var myChart = new Chart(ctx,{
+                    type: 'line',
+                    data:{
+                        labels: dateLabels,
+                        datasets:
+                        [
+                            {
+                                label: "S",
+                                backgroundColor: "#C0392B",
+                                fill: false,
+                                data: Object.values(sums.S)
+                            },
+                            {
+                                label: "V",
+                                fill: false,
+                                backgroundColor: "#CF000F",
+                                data: Object.values(sums.V)
+                            },
+                            {
+                                label: "MP",
+                                backgroundColor: "#26A65B",
+                                fill: false,
+                                data: Object.values(sums.MP)
+                            },
+                            {
+                                label: "M",
+                                backgroundColor: "#3A539B",
+                                fill: false,
+                                data: Object.values(sums.M)
+                            },
+                            {
+                                label: "L",
+                                backgroundColor: "#5C97BF",
+                                fill: false,
+                                data: Object.values(sums.L)
+                            },
+                            {
+                                label: "C",
+                                backgroundColor: "#1E824C",
+                                fill: false,
+                                data: Object.values(sums.C)
+                            },
+                            {
+                                label: "KD",
+                                backgroundColor: "#22A7F0",
+                                fill: false,
+                                data: Object.values(sums.KD)
+                            },
+                            {
+                                label: "SD",
+                                backgroundColor: "#F4D03F",
+                                fill: false,
+                                data: Object.values(sums.SD)
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        stacked: true,
+                        title:{
+                            display: true,
+                            text: "Opionssiffor, idag - 4 år sen"
+                        },
+                        tooltips:{
+                            mode: 'index',
+                            intersect: false
+                        },
+                        hover:{
+                            mode: 'nearest',
+                            intersect: true
+                        }
+                    }
+                });
+            }
+        </script>
     </div>
 </div>
 
 <script>
-/*function parseData(file, callBack) {
-    Papa.parse(file, {
-        complete: function(results) {
-            console.log(results.data);
-            callBack(results.data);
-        }
-    });
-}
-*/
 d3.csv("https://raw.githubusercontent.com/hjnilsson/SwedishPolls/master/Data/Polls.csv",function(csv){
-   csv = csv.filter(function(row){
-       return  row['PublYearMonth'] == csv[0]["PublYearMonth"];
+    var check = true;
+    var pastd = csv.filter(function(row){
+        if(row['PublYearMonth'] == ((csv[0]["PublYearMonth"].slice(0,4)-4) + (csv[0]["PublYearMonth"].slice(4)))){
+           check = false;
+        }
+        if(check)
+            return row['PublYearMonth'];
     });
-    go(csv)
+    past(pastd);
+    var av = csv.filter(function(row){
+        return row['PublYearMonth'] == csv[0]["PublYearMonth"];
+    });
+    average(av);
 });
 </script>
