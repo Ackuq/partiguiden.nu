@@ -1,10 +1,12 @@
 
 name                : Partiguiden
 markdown            : kramdown
+baseurl             : /
+url                 : "https://partiguiden.nu"
+
 include             :  ["/_headers"]
 plugins             :
     - jekyll-analytics
-    - jekyll-assets
 sass:
     sass_dir: _sass
     style: compressed
@@ -32,8 +34,3 @@ jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
     id: UA-111642551-1      # Required - replace with your tracking id
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-assets:
-    liquid: true
-    prefix: "/assets"
-    compress:
-        js: true
