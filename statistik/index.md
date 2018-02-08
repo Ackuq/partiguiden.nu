@@ -146,49 +146,49 @@ title: Statistik
                         [
                             {
                                 label: "S",
-                                backgroundColor: "#C0392B",
+                                borderColor: "#C0392B",
                                 fill: false,
                                 data: Object.values(sums.S)
                             },
                             {
                                 label: "V",
                                 fill: false,
-                                backgroundColor: "#CF000F",
+                                borderColor: "#CF000F",
                                 data: Object.values(sums.V)
                             },
                             {
                                 label: "MP",
-                                backgroundColor: "#26A65B",
+                                borderColor: "#26A65B",
                                 fill: false,
                                 data: Object.values(sums.MP)
                             },
                             {
                                 label: "M",
-                                backgroundColor: "#3A539B",
+                                borderColor: "#3A539B",
                                 fill: false,
                                 data: Object.values(sums.M)
                             },
                             {
                                 label: "L",
-                                backgroundColor: "#5C97BF",
+                                borderColor: "#5C97BF",
                                 fill: false,
                                 data: Object.values(sums.L)
                             },
                             {
                                 label: "C",
-                                backgroundColor: "#1E824C",
+                                borderColor: "#1E824C",
                                 fill: false,
                                 data: Object.values(sums.C)
                             },
                             {
                                 label: "KD",
-                                backgroundColor: "#22A7F0",
+                                borderColor: "#22A7F0",
                                 fill: false,
                                 data: Object.values(sums.KD)
                             },
                             {
                                 label: "SD",
-                                backgroundColor: "#F4D03F",
+                                borderColor: "#F4D03F",
                                 fill: false,
                                 data: Object.values(sums.SD)
                             }
