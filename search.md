@@ -31,6 +31,6 @@ title: Sök
         {% endfor %}
     }
 </script>
-    {% asset lunr.min.js %}
-    {% asset search.js %}
+<script src="/js/lunr.min.js"></script>
+<script src="/js/search.js"></script>
 </div>

@@ -42,12 +42,10 @@ layout: compress
             </script>
     {% endcase %}
     <meta property="og:url" content="{{site.url}}{{page.url}}">
-    <meta property="og:image" content="{% asset Partiguiden_logo.png @path %}" />
+    <meta property="og:image" content="{{site.url}}/media/Partiguiden_logo.png" />
     
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">  
-    
-    
     <!-- JQuery -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
@@ -68,6 +66,9 @@ layout: compress
             enable_page_level_ads: true
         });
     </script>
+    <!-- Cookie consent -->
+
+    <script async src="/js/cookie-consent.js"></script>
 
     {% endif %}
     
@@ -87,7 +88,9 @@ layout: compress
         }
     }
     </script>
-    {% endif %}    
+    <!-- Typed.js -->
+    <script async src="/js/typed.min.js"></script>
+    {% endif %} 
     </head>
 <body>
     <!-- Header -->
@@ -96,7 +99,7 @@ layout: compress
             <div class="container">
             <div id="title">
                 <a href="/" class="titlelink">
-                    <img src="{% asset partiguiden_logo_opt.svg @path %}" alt="Partiguiden logo">
+                    <img src="/media/partiguiden_logo_opt.svg" alt="Partiguiden logo">
                 </a>
                 <div class="search desktop">
                     <form action="/search" method="get" autocomplete="off" class="search-form">
@@ -149,6 +152,7 @@ layout: compress
     {{ content }}
     
     {% if jekyll.environment == 'production' %}
+    
     <!-- Footer ad -->
     <div align="center">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -211,7 +215,7 @@ layout: compress
               <div class="modal-body">
                 <p>Skicka donationer till mig genom att swisha numret här under eller genom att skanna QR-koden via Swish-appen:</p>
                 <p>070-965 36 95</p>
-                <img class="w-100" src="{% asset swish-qr.jpg @path %}" alt="Swish QR code">
+                <img class="w-100" src="/media/swish-qr.jpg" alt="Swish QR code">
               </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-light modalButton noMargin" data-dismiss="modal">Stäng</button>
@@ -220,9 +224,4 @@ layout: compress
         </div>
     </div>
 </body>
-    {% asset cookie-consent %}
-    {% if page.url == "/" %}
-    <!-- Typed.js -->
-    {% asset typed.min.js %}
-    {% endif %} 
 </html>
