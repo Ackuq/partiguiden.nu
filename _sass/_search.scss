@@ -42,7 +42,11 @@
    opacity:  1;
 }
 ::-moz-placeholder{ /* Mozilla Firefox 19+ Mozilla Firefox 4 to 18 */
-
+   color:    #D2D2D2;
+   opacity:  1;
+}
+input[type="text"]{
+    padding-left: 4px;
 }
 
 @media (max-width: 767px) {
