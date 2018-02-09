@@ -1,13 +1,11 @@
 
 name                : Partiguiden
 markdown            : kramdown
-baseurl             : /
 url                 : "https://partiguiden.nu"
 
 include             :  ["/_headers"]
 plugins             :
     - jekyll-analytics
-    - jekyll-assets
 sass:
     sass_dir: _sass
     style: compressed
