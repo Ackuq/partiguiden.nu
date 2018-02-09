@@ -2,7 +2,7 @@
 layout: compress
 ---
 <!doctype html>
-<html lang="sv">
+<html class="h-100" lang="sv">
 
 <head>    
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -92,14 +92,14 @@ layout: compress
     <script async src="/js/typed.min.js"></script>
     {% endif %} 
     </head>
-<body>
+<body class="d-flex flex-column h-100">
     <!-- Header -->
     <div id="header">
-        <nav class="navbar navbar-expand-md absolute-top navbar-inverse w-100" id="Navbar">
-            <div class="container">
-            <div id="title">
+        <nav class="navbar navbar-expand-md absolute-top navbar-inverse w-100 position-absolute m-0 d-flex flex-wrap p-0" id="Navbar">
+            <div class="container flex-wrap">
+            <div class="position-relative mb-2 pt-3" id="title">
                 <a href="/" class="titlelink">
-                    <img src="/media/partiguiden_logo_opt.svg" alt="Partiguiden logo">
+                    <img src="/media/partiguiden_logo_opt.svg" class="h-100 pl-1" alt="Partiguiden logo">
                 </a>
                 <div class="search desktop">
                     <form action="/search" method="get" autocomplete="off" class="search-form">
@@ -109,7 +109,7 @@ layout: compress
                         </button>
                     </form> 
                 </div>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler mr-3 position-absolute" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
             </div>
@@ -168,7 +168,7 @@ layout: compress
     {% endif %}
     
     <!-- footer -->
-    <footer id="footer" class="w-100">
+    <footer id="footer" class="w-100 py-4 mt-3 text-white">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-4 offset-md-4 footer_content">
@@ -181,14 +181,14 @@ layout: compress
                         <a href="mailto:contact@partiguiden.nu"><i class="icon-font icon-mail-alt">&#xf0e0;</i> contact@partiguiden.nu</a>
                     </h6>
                     <a target="_blank" href="https://www.facebook.com/partiguiden/"> <i class="icon-font h2 icon-facebook-squared">&#xf308</i> </a>
+                    <div class="display-none mt-3 font-weight-light" id="swishDiv">
+                        <p>Skicka donationer till mig genom att swisha numret här under eller genom att skanna QR-koden via Swish-appen:</p>
+                        <p>070-965 36 95</p>
+                        <img class="w-75 rounded" src="/media/swish-qr.jpg" alt="Swish QR code">
+                    </div>
                 </div>
                 <div class="col-md-2 offset-md-2">
                     <button class="btn modalButton btn-light" id="donationButton">Stöd mig</button>
-                </div>
-                <div class="col-md-4 offset-md-4 display-none mt-3 font-weight-light" id="swishDiv">
-                    <p>Skicka donationer till mig genom att swisha numret här under eller genom att skanna QR-koden via Swish-appen:</p>
-                    <p>070-965 36 95</p>
-                    <img class="w-75" src="/media/swish-qr.jpg" alt="Swish QR code">
                 </div>
             </div>
         </div>

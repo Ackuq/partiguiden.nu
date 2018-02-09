@@ -4,32 +4,32 @@ layout: default
 <div id="content">
 <!-- Quick navigation bar -->
 <div class="siteNavCon">
-    <div class="siteNav">
-        <a id="Stoggle" href="#Socialdemokraterna" class="partiBox">S</a>
-        <a id="Mtoggle" href="#Moderaterna" class="partiBox">M</a>
-        <a id="SDtoggle" href="#Sverigedemokraterna" class="partiBox">SD</a>
-        <a id="MPtoggle" href="#Miljöpartiet" class="partiBox">MP</a>
-        <a id="Ctoggle" href="#Centerpartiet" class="partiBox">C</a>
-        <a id="Vtoggle"  href="#Vänsterpartiet" class="partiBox">V</a>
-        <a id="Ltoggle"  href="#Liberalerna" class="partiBox">L</a>
-        <a id="KDtoggle" href="#Kristdemokraterna" class="partiBox">KD</a>
+    <div class="siteNav d-flex">
+        <a id="Stoggle" href="#Socialdemokraterna" class="partiBox p-2 flex-column display-none bg-light text-center">S</a>
+        <a id="Mtoggle" href="#Moderaterna" class="partiBox p-2 flex-column bg-light  display-none text-center">M</a>
+        <a id="SDtoggle" href="#Sverigedemokraterna" class="partiBox p-2 flex-column display-none bg-light text-center">SD</a>
+        <a id="MPtoggle" href="#Miljöpartiet" class="partiBox p-2 flex-column display-none bg-light text-center">MP</a>
+        <a id="Ctoggle" href="#Centerpartiet" class="partiBox p-2 flex-column display-none bg-light text-center">C</a>
+        <a id="Vtoggle"  href="#Vänsterpartiet" class="partiBox p-2 flex-column display-none bg-light text-center">V</a>
+        <a id="Ltoggle"  href="#Liberalerna" class="p-2 partiBox flex-column display-none bg-light text-center">L</a>
+        <a id="KDtoggle" href="#Kristdemokraterna" class="p-2 partiBox flex-column display-none bg-light text-center">KD</a>
     </div>
 </div>
 
 <!-- Scroll up button -->
-<a id="scrollUp"><i class="scrollArrow fas fa-chevron-up fa-2x"></i></a>
+<a id="scrollUp" class="h2 display-none position-fixed"><i class="icon-font icon-up-big">&#xe804;</i></a>
 
 <div class="container">
     <div class="row">
         <div class="col-md-8 offset-md-2">
             <nav aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                  <li class="breadcrumb-item"><a href="/"><i class="icon-font icon-home">&#xe801;</i></a></li>
-                    <li class="breadcrumb-item"><a href="/partiernas-standpunkter">Partiernas ståndpunkter</a></li>
+              <ol class="breadcrumb bg-white mb-0 pl-1">
+                  <li class="breadcrumb-item"><a class="text-dark" href="/"><i class="icon-font icon-home">&#xe801;</i></a></li>
+                    <li class="breadcrumb-item"><a class="text-dark" href="/partiernas-standpunkter">Partiernas ståndpunkter</a></li>
                   <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
               </ol>
             </nav>
-            <h1 id="pageTitle">{{page.title}}</h1>
+            <h1 class="font-weight-light">{{page.title}}</h1>
         <!-- Content ad -->
         {% if jekyll.environment == 'production' %}
         <div align="center">
@@ -46,9 +46,9 @@ layout: default
         {% endif %}
 
         {% for parti in site.data.order.root.parti %}
-            <div id="{{parti.namn}}" class="asikt display-none">
-                <div id="{{parti.syntax}}" class="partititle">
-                    <h3 class="font-weight-light">{{parti.namn}}</h3>
+            <div id="{{parti.namn}}" class="display-none mb-3 mt-1 asikt">
+                <div id="{{parti.syntax}}" class="partititle text-center py-2">
+                    <h3 class="my-2 font-weight-light">{{parti.namn}}</h3>
                 </div>
                 <div class="slidetoggle display-none">
                     {% assign amne_list = site.data[parti.syntax].root.amne %}
@@ -56,7 +56,7 @@ layout: default
                     {% for amne in amne_list %}                    
                         {% for tag in page.tags %}
                             {% if amne.fraga == tag  %}
-                                <h4 class="font-weight-light">{{tag}}</h4>
+                                <h4 class="font-weight-light mt-2">{{tag}}</h4>
                                 
                                 {% if c != 1%}
                                 <script>
@@ -68,15 +68,15 @@ layout: default
 
                                 <div class="opinion_box">
                                     {% if amne.asikt[1] %}
-                                        <ul>
+                                        <ul class="font-weight-light pl-3 mt-2">
                                             {% for asikt in amne.asikt %}           
                                                 <li>{{asikt | capitalize}}</li>
                                             {% endfor %}
                                         </ul>
                                     {% else %}
-                                        <p>{{amne.asikt | capitalize}}</p>
+                                        <p class="font-weight-light mb-0">{{amne.asikt | capitalize}}</p>
                                     {% endif %}
-                                    <a target="_blank" href="{{amne.adress}}">Läs mer på partiets hemsida »</a>
+                                    <a target="_blank" class="d-flex p-1 m-1" href="{{amne.adress}}">Läs mer på partiets hemsida »</a>
                                 </div>
                             {% endif %}
                         {% endfor %}
@@ -84,8 +84,8 @@ layout: default
                 </div>
             </div>
         {% endfor %}
-            <div id="relaterade" class="d-none-i">
-                <h4>Relaterade ämnen</h4>
+            <div id="relaterade" class="display-none">
+                <h4 class="font-weight-light">Relaterade ämnen</h4>
                 {% for page_cat in page.categories %}
                     {% for sida in site.artiklar %}
                         {% if sida != page %}
@@ -93,13 +93,13 @@ layout: default
                                 {% if cat == page_cat %}
                                     <script>showStuff('relaterade')</script>
                                     {% if cat != current_cat %}
-                                        <div class="bokstav w-100 pull-left">
+                                        <div class="bokstav text-center text-white w-100 pull-left">
                                             <header>{{cat}}</header>
                                         </div>
                                     {% endif %}
                                     <div class="listobjekt w-100">
-                                        <a href="{{ sida.url }}">
-                                            <span>{{sida.title}}</span>
+                                        <a class="text-dark d-block" href="{{ sida.url }}">
+                                            <span class="px-2 d-inline-block">{{sida.title}}</span>
                                         </a>    
                                     </div>
                                     {% assign current_cat = cat %}

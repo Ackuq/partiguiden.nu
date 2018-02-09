@@ -41,6 +41,12 @@
       "css": "info",
       "code": 59395,
       "src": "iconic"
+    },
+    {
+      "uid": "95376bf082bfec6ce06ea1cda7bd7ead",
+      "css": "up-big",
+      "code": 59396,
+      "src": "fontawesome"
     }
   ]
 }

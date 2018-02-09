@@ -1,42 +1,29 @@
 .siteNav{
     position: fixed;
-    flex-direction: column;
     z-index: 100;
-    display: flex;
 }
-.siteNav > a{
-    display: none;
-    flex-direction: column;
-}
-.siteNav > a:hover,
-.siteNav > a:focus{
+.partiBox:focus,
+.partiBox:hover{
     text-decoration: none;
-    background-color: #f1f2f6;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: background-color .15s ease-in-out;
 }
 .partiBox{
-    text-align: center;
-    background: #fff;
     font-size: 14px;
 }
 #scrollUp{
-    display: none;
-    position: fixed;
+    color: #00796B;
     top: 0;
     right: 0;
     z-index: 200;
-    transform: translate(-50%, 50%);
-}
-.scrollArrow{
+    transform: translate(-75%, 50%);
     cursor: pointer;
-    color: #00796B;
-    width: 45.17px !important;
 }
 @media (min-width: 768px) {
     .siteNav{
         top: 50%;
         right: 0;
         transform: translate(-50%, -50%);
+        flex-direction: column;
     }
     .partiBox{
         margin: 15px 0;
@@ -45,7 +32,7 @@
 }
 @media (max-width: 767px) {
     .siteNav{
-        flex-direction: row !important;
+        flex-direction: row;
         bottom: 10px;
     }
     .siteNavCon{
@@ -60,55 +47,39 @@
 }
 @media(max-width: 340px){
     .partiBox{
-        margin: 0 1px !important;
+        margin: 0 1px;
     }
 }
 
 #Stoggle{
-    padding: 10px;
     color: #C0392B;
     border: solid 2px #C0392B;    
 }
-
-
 #Mtoggle{
-    padding: 10px;
     color: #3A539B;
     border: solid 2px #3A539B;    
 }
-
 #SDtoggle{
-    padding: 10px;
     color: #F4D03F;
     border: solid 2px #F4D03F;    
 }
-
 #MPtoggle{
-    padding: 10px;
     color: #26A65B;
     border: solid 2px #26A65B;    
 }
-
 #Ctoggle{
-    padding: 10px;
     color: #1E824C;
     border: solid 2px #1E824C;    
 }
-
 #Vtoggle{
-    padding: 10px;
     color: #CF000F;
     border: solid 2px #CF000F;    
 }
-
 #Ltoggle{
-    padding: 10px;
     color: #5C97BF;
     border: solid 2px #5C97BF;    
 }
-
 #KDtoggle{
-    padding: 10px;
     color: #22A7F0;
     border: solid 2px #22A7F0;    
 }

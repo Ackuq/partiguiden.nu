@@ -7,12 +7,12 @@ title: Partiernas ståndpunkter
     <div class="row">
         <div class="col-lg-8 offset-lg-2">
             <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/"><i class="icon-font icon-home">&#xe801;</i></a></li>
+                <ol class="breadcrumb bg-white mb-0 pl-1">
+                    <li class="breadcrumb-item"><a class="text-dark" href="/"><i class="icon-font icon-home">&#xe801;</i></a></li>
                     <li class="breadcrumb-item active">Partiernas ståndpunkter</li>
                 </ol>
             </nav>
-            <h1 id="pageTitle">{{ page.title }}</h1>
+            <h1 class="font-weight-light">{{ page.title }}</h1>
             <div class="amneList">
             {% assign sortera_partier = site.artiklar | sort: 'title' %}
             {% assign i = 0 %}
@@ -28,15 +28,15 @@ title: Partiernas ståndpunkter
                         {% if bok != "A"%}
                             </div>
                         {% endif %}
-                        <div class="bokstav w-100 pull-left">
+                        <div class="bokstav text-white text-center w-100 pull-left">
                             <header>{{page.title | truncate: 1, ""}}</header>
                         </div>
-                        <div class="listSection">
+                        <div class="flex-wrap d-flex">
                     {% endif %}
                     {% assign bokstav = page.title | truncate: 1, "" %}
                     <div class="listobjekt pull-left">
-                        <a href="{{ page.url }}">
-                            <span>{{page.title}}</span>
+                        <a class="text-dark d-block" href="{{ page.url }}">
+                            <span class="px-2 d-inline-block">{{page.title}}</span>
                         </a>    
                     </div>
                     {% assign i = i | plus: 1 %}

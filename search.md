@@ -14,8 +14,8 @@ title: Sök
                     </button>
                 </form>
             </div>
-            <div class="bokstav" style="text-align:left;padding-left: 5px;margin-top:10px">Sökresultat</div>
-            <div id="search-results" class="noMargin"></div>
+            <div class="bokstav text-white pl-1 mt-2">Sökresultat</div>
+            <div id="search-results" class="m-0"></div>
         </div>
     </div>
 </div>

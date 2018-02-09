@@ -1,17 +1,4 @@
-.asikt{
-    display: none;
-    margin-bottom: 15px;
-    margin-top: 5px;
-}
-.asikt:last-child{
-    margin-bottom: 0;
-}
-.asikt.active{
-    background: #f6f6f6;
-}
-
 .slidetoggle li:before{
-    background: #049372;
     content: "";
     position: absolute;
     left: -10px;
@@ -22,46 +9,19 @@
     width: 6px;
     height: 6px;
 }
-.slidetoggle ul{
-    padding-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 0px;
-}
 .opinion_box{
     border-bottom: 2px solid #00796B;
-}
-.opinion_box a{
-    display: flex;
-    color: #049372;
-    padding: 5px;
-    margin: 5px;
-}
-.opinion_box > p{
-    margin-bottom: 0;
 }
 .slidetoggle li{
     list-style: none;
     position: relative;
-    line-height: 20px;
-}
-.slidetoggle li,
-.slidetoggle p{
-    font-weight: 300;
-}
-.slidetoggle h4{
-    margin-top: 10px;
 }
 .slidetoggle li+li{
     margin-top: 10px;
 }
-.asikt .slidetoggle{
-    overflow: hidden;
-}
 .partititle{
     background: #fbfbfb;
     cursor: pointer;
-    padding:6px 0;
-    text-align: center;
     box-shadow: 0px 1px 3px rgba(0,0,0,0.2);
 }
 .partititle:hover,
@@ -69,20 +29,8 @@
     background-color: #f1f2f6;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
-.partititle > h3{
-    margin-top: 10px;
-}
 .amneList{
-    overflow: auto;
     background-color: #f6f6f6;
-    padding: 0;
-}
-.listobjekt{
-    z-index: 20;
-    position: relative;
-    display: flex;
-    height: 50px;
-    width: 50%;
 }
 .listobjekt > a:hover > span{
     background-position:left bottom;
@@ -90,19 +38,9 @@
 }
 .listobjekt > a{
     background-color: #f6f6f6;
-    text-decoration: none;
-    display: block;
-    font-weight: bold;
-    color: #000;
-    width: 100%;
-    height: 100%;
 }
 .listobjekt > a > span{
-    font-weight: 400;
-    display: inline-block;
     line-height: 50px;
-    height: 50px;
-    padding: 0 14px 0 10px;
     background: linear-gradient(to left, #f6f6f6 50%, #00796B 50%);
     background-size: 202% 100%;
     background-position: right bottom;
@@ -113,7 +51,7 @@
          -o-transition: all 0.3s ease;
             transition: all 0.3s ease;
 }
-.listSection div:nth-child(2n+1){
+.listobjekt:nth-child(2n+1){
     border-left: solid 4px #00796B;
 }
 
@@ -124,36 +62,25 @@
     .listline{
         display: none;
     }
-    .listSection div:nth-child(2n){
+    .listobjekt:nth-child(2n){
         border-left: solid 4px #00796B;
     }
 }
 @media (min-width:768px){
-    .listSection div:nth-child(2n){
+    .listobjekt:nth-child(2n){
         border-left: solid 2px #00796B;
     }
-    .listSection div:nth-child(2n+1){
+    .listobjekt:nth-child(2n+1){
         border-right: solid 2px #00796B;
     }
     .listobjekt > a:hover{
         color: #000;
     }
-}
-.breadcrumb{
-    background: #fff;
-    margin-bottom: 0;
-    padding-left: 3px;
-}
-.breadcrumb > li > a{
-    color: #34495e;
+    .listobjekt{
+        width: 50%;
+    }
 }
 .bokstav{
-    z-index: 10;
-    color: #fff;
     background-color: #049372;
-    display: block;
-    text-align: center;
-    line-height: 30px;
     font-size: 20px;
-    height: 30px;
 }

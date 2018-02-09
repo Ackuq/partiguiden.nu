@@ -27,59 +27,31 @@
     font-family: 'partiguiden-icons';
     font-style: normal;
 }
-
-html,body{
-    height: 100%;
-}
-
 body {
     font-family: 'Roboto', sans-serif;
-    padding-top: 122px;
-    display: flex;
-    flex-direction: column;
 }
-
+@media (min-width: 768px){
+    body{
+        padding-top: 114px;
+    }
+}
 @media (max-width: 767px) {
     body {
-        padding-top: 80px;
+        padding-top: 68px;
     }
 }
 #hemjumbotron {
-    min-width: 100%;
     box-shadow: 0 0 #FFFFFF inset, 0 1px 3px rgba(34, 25, 25, 0.4);
-    color: #fff;
     background-color: #009688;
-    margin-bottom: 15px;
-}
-@media (min-width: 768px) {
-    #hemjumbotron{
-        padding-top: 30px;
-        padding-bottom: 30px;
-    }
-}
-@media (max-width: 767px) {
-    #hemjumbotron > h2{
-        font-size: 26px;
-    }
-    #hemjumbotron{
-        padding-top: 48px;
-        padding-bottom: 48px;
-    }
 }
 // Lines
 .lineLarge{
     height: 1px;
     background-color: #ccc;
 }
-
-.center {
-    margin: auto;
-    width: 50%;
-}
 .adsbygoogle{
     display:block;
 }
-
 .contentText{
     line-height: 1.6;
     margin: 40px 0;
@@ -91,16 +63,4 @@ body {
 }
 .display-none{
     display: none;
-}
-.noMargin {
-    margin: 0;
-}
-.mgtop-0{
-    margin-top:0;
-}
-.ptop-0{
-    padding-top: 0 !important;
-}
-.w300{
-    font-weight: 300;
 }
