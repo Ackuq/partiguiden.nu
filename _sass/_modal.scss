@@ -1,14 +1,5 @@
 // Donate button and modal
-
-.modalButton{
-    border: 2px solid #00796B;
-    color: #00796B;
-    margin: 10px 0;
-}
-@media (max-width: 767px) {
-    .modal-body > img{
-        margin: auto;
-        width: 60% !important;
-        display: block;
-    }
+#swishDiv > img{
+    border-radius: 10px;
+    
 }
