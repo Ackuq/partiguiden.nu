@@ -13,7 +13,6 @@ layout: compress
     <meta name="theme-color" content="#ffffff">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="theme-color" content="#00796B" />
-    
     {% case page.title %}
         {% when "Partiguiden" %}
             <title>{{ page.title }} - Rösta rätt i valet 2018</title>
@@ -29,6 +28,9 @@ layout: compress
             <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i olika ämnen och sakfrågor? Jämför Sveriges partier politik och hitta det parti du sympatiserar mest med nu!">
         {% when "Sök" %}
             <title>{{ page.title }} | Partiguiden.nu</title>
+        {% when "Statistik" %}
+            <title>{{ page.title }} | Partiguiden.nu</title>
+            <meta name="description" content="Hur skulle Sverige rösta om det vore val idag? Här hittar du opinionsundersökningar sammanställda på ett enkelt och begripeligt sätt så du lätt kan jämföra.">
         {% else %}
             <title>{{ page.title }} | Partiguiden.nu</title>
             <meta name="description" content="Vad tar Sveriges partier för ståndpunkter inom ämnet {{ page.title | downcase}}? Här hittar du informationen du behöver för att kunna jämföra och hitta det parti du sympatiserar med mest!">
