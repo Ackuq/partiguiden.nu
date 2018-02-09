@@ -48,7 +48,7 @@ layout: default
         {% for parti in site.data.order.root.parti %}
             <div id="{{parti.namn}}" class="asikt display-none">
                 <div id="{{parti.syntax}}" class="partititle">
-                    <h3>{{parti.namn}}</h3>
+                    <h3 class="font-weight-light">{{parti.namn}}</h3>
                 </div>
                 <div class="slidetoggle display-none">
                     {% assign amne_list = site.data[parti.syntax].root.amne %}
@@ -56,7 +56,7 @@ layout: default
                     {% for amne in amne_list %}                    
                         {% for tag in page.tags %}
                             {% if amne.fraga == tag  %}
-                                <h4>{{tag}}</h4>
+                                <h4 class="font-weight-light">{{tag}}</h4>
                                 
                                 {% if c != 1%}
                                 <script>
