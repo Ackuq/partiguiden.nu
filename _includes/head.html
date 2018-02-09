@@ -1,0 +1,88 @@
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="theme-color" content="#00796B" />
+    {% case page.title %}
+        {% when "Partiguiden" %}
+            <title>{{ page.title }} - Rösta rätt i valet 2018</title>
+            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i sakfrågor? Här kan du jämföra och hitta det parti som du sympatiserar med mest så du kan rösta rätt i valet 2018!">
+        {% when "Om oss" %}
+            <title>{{ page.title }} | Partiguiden.nu</title>
+            <meta name="description" content="Partiguiden.nu erbjuder en platform där du kan jämföra vad olika partier tycker i sakfrågor för att det ska bli lättare att hitta det parti du sympatiserar med mest.">
+        {% when "Kontakt" %}
+            <title>{{ page.title }} | Partiguiden.nu</title>
+            <meta name="description" content="Skulle du vilja kontakta oss på Partiguiden.nu? Här hittar du kontaktinformation.">
+        {% when "Partiernas ståndpunkter"%}
+            <title>{{ page.title }} | Partiguiden.nu</title>
+            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i olika ämnen och sakfrågor? Jämför Sveriges partier politik och hitta det parti du sympatiserar mest med nu!">
+        {% when "Sök" %}
+            <title>{{ page.title }} | Partiguiden.nu</title>
+        {% when "Statistik" %}
+            <title>{{ page.title }} | Partiguiden.nu</title>
+            <meta name="description" content="Hur skulle Sverige rösta om det vore val idag? Här hittar du opinionsundersökningar sammanställda på ett enkelt och begripeligt sätt så du lätt kan jämföra.">
+        {% else %}
+            <title>{{ page.title }} | Partiguiden.nu</title>
+            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter inom ämnet {{ page.title | downcase}}? Här hittar du informationen du behöver för att kunna jämföra och hitta det parti du sympatiserar med mest!">
+            <script async type="text/javascript">
+                function showStuff(id) {
+                    document.getElementById(id).style.display = 'block';
+                }
+                function showList(id) {
+                    document.getElementById(id).style.display = 'flex';
+                }
+            </script>
+    {% endcase %}
+    <meta property="og:url" content="{{site.url}}{{page.url}}">
+    <meta property="og:image" content="{{site.url}}/media/Partiguiden_logo.png" />
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+    <!-- JQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script async src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    
+    <!-- Custom stylesheet --> 
+    <link href="/css/styles.css" rel="stylesheet" type="text/css"> 
+
+    <!-- Google AdSense -->
+    {% if jekyll.environment == 'production' %}
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3248338512924345",
+            enable_page_level_ads: true
+        });
+    </script>
+    <!-- Cookie consent -->
+
+    <script async src="/js/cookie-consent.js"></script>
+
+    {% endif %}
+    
+    <meta content="{{site.url}}{{ page.url }}" name="URL">
+    
+    {% if page.url == "/" %}
+    <!-- Structured data -->
+    <script async type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.partiguiden.nu/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.partiguiden.nu/search.html?query={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    <!-- Typed.js -->
+    <script async src="/js/typed.min.js"></script>
+    {% endif %} 

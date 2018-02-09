@@ -2,23 +2,6 @@
 layout: default
 ---
 <div id="content">
-<!-- Quick navigation bar -->
-<div class="siteNavCon">
-    <div class="siteNav d-flex">
-        <a id="Stoggle" href="#Socialdemokraterna" class="partiBox p-2 flex-column display-none bg-light text-center">S</a>
-        <a id="Mtoggle" href="#Moderaterna" class="partiBox p-2 flex-column bg-light  display-none text-center">M</a>
-        <a id="SDtoggle" href="#Sverigedemokraterna" class="partiBox p-2 flex-column display-none bg-light text-center">SD</a>
-        <a id="MPtoggle" href="#Miljöpartiet" class="partiBox p-2 flex-column display-none bg-light text-center">MP</a>
-        <a id="Ctoggle" href="#Centerpartiet" class="partiBox p-2 flex-column display-none bg-light text-center">C</a>
-        <a id="Vtoggle"  href="#Vänsterpartiet" class="partiBox p-2 flex-column display-none bg-light text-center">V</a>
-        <a id="Ltoggle"  href="#Liberalerna" class="p-2 partiBox flex-column display-none bg-light text-center">L</a>
-        <a id="KDtoggle" href="#Kristdemokraterna" class="p-2 partiBox flex-column display-none bg-light text-center">KD</a>
-    </div>
-</div>
-
-<!-- Scroll up button -->
-<a id="scrollUp" class="h2 display-none position-fixed"><i class="icon-font icon-up-big">&#xe804;</i></a>
-
 <div class="container">
     <div class="row">
         <div class="col-md-8 offset-md-2">
@@ -30,60 +13,15 @@ layout: default
               </ol>
             </nav>
             <h1 class="font-weight-light">{{page.title}}</h1>
+            {% include page-nav.html%}
         <!-- Content ad -->
         {% if jekyll.environment == 'production' %}
-        <div align="center">
-            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-            <!-- Responsive ad -->
-            <ins class="adsbygoogle d-block"
-                 data-ad-client="ca-pub-3248338512924345"
-                 data-ad-slot="6515707043"
-                 data-ad-format="auto"></ins>
-            <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-            </script>
-        </div>
+            
+        {% include ad.html %}
+        
         {% endif %}
-
-        {% for parti in site.data.order.root.parti %}
-            <div id="{{parti.namn}}" class="display-none mb-3 mt-1 asikt">
-                <div id="{{parti.syntax}}" class="partititle text-center py-2">
-                    <h3 class="my-2 font-weight-light">{{parti.namn}}</h3>
-                </div>
-                <div class="slidetoggle display-none">
-                    {% assign amne_list = site.data[parti.syntax].root.amne %}
-                    {% assign c = 0 %}
-                    {% for amne in amne_list %}                    
-                        {% for tag in page.tags %}
-                            {% if amne.fraga == tag  %}
-                                <h4 class="font-weight-light mt-2">{{tag}}</h4>
-                                
-                                {% if c != 1%}
-                                <script>
-                                    showStuff('{{parti.namn}}');
-                                    showList('{{parti.syntax}}toggle');
-                                </script>
-                                {% endif %}
-                                {% assign c = 1 %}
-
-                                <div class="opinion_box">
-                                    {% if amne.asikt[1] %}
-                                        <ul class="font-weight-light pl-3 mt-2">
-                                            {% for asikt in amne.asikt %}           
-                                                <li>{{asikt | capitalize}}</li>
-                                            {% endfor %}
-                                        </ul>
-                                    {% else %}
-                                        <p class="font-weight-light mb-0">{{amne.asikt | capitalize}}</p>
-                                    {% endif %}
-                                    <a target="_blank" class="d-flex p-1 m-1" href="{{amne.adress}}">Läs mer på partiets hemsida »</a>
-                                </div>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-                </div>
-            </div>
-        {% endfor %}
+            
+        {% include opinions.html %}
             <div id="relaterade" class="display-none">
                 <h4 class="font-weight-light">Relaterade ämnen</h4>
                 {% for page_cat in page.categories %}

@@ -5,210 +5,24 @@ layout: compress
 <html class="h-100" lang="sv">
 
 <head>    
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="theme-color" content="#ffffff">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="theme-color" content="#00796B" />
-    {% case page.title %}
-        {% when "Partiguiden" %}
-            <title>{{ page.title }} - Rösta rätt i valet 2018</title>
-            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i sakfrågor? Här kan du jämföra och hitta det parti som du sympatiserar med mest så du kan rösta rätt i valet 2018!">
-        {% when "Om oss" %}
-            <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Partiguiden.nu erbjuder en platform där du kan jämföra vad olika partier tycker i sakfrågor för att det ska bli lättare att hitta det parti du sympatiserar med mest.">
-        {% when "Kontakt" %}
-            <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Skulle du vilja kontakta oss på Partiguiden.nu? Här hittar du kontaktinformation.">
-        {% when "Partiernas ståndpunkter"%}
-            <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter i olika ämnen och sakfrågor? Jämför Sveriges partier politik och hitta det parti du sympatiserar mest med nu!">
-        {% when "Sök" %}
-            <title>{{ page.title }} | Partiguiden.nu</title>
-        {% when "Statistik" %}
-            <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Hur skulle Sverige rösta om det vore val idag? Här hittar du opinionsundersökningar sammanställda på ett enkelt och begripeligt sätt så du lätt kan jämföra.">
-        {% else %}
-            <title>{{ page.title }} | Partiguiden.nu</title>
-            <meta name="description" content="Vad tar Sveriges partier för ståndpunkter inom ämnet {{ page.title | downcase}}? Här hittar du informationen du behöver för att kunna jämföra och hitta det parti du sympatiserar med mest!">
-            <script async type="text/javascript">
-                function showStuff(id) {
-                    document.getElementById(id).style.display = 'block';
-                }
-                function showList(id) {
-                    document.getElementById(id).style.display = 'flex';
-                }
-            </script>
-    {% endcase %}
-    <meta property="og:url" content="{{site.url}}{{page.url}}">
-    <meta property="og:image" content="{{site.url}}/media/Partiguiden_logo.png" />
-    
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">  
-    <!-- JQuery -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-    <!-- Bootstrap 4 -->
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script async src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    
-    <!-- Custom stylesheet --> 
-    <link href="/css/styles.css" rel="stylesheet" type="text/css"> 
+    {% include head.html %}
+</head>
 
-    <!-- Google AdSense -->
-    {% if jekyll.environment == 'production' %}
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-3248338512924345",
-            enable_page_level_ads: true
-        });
-    </script>
-    <!-- Cookie consent -->
-
-    <script async src="/js/cookie-consent.js"></script>
-
-    {% endif %}
-    
-    <meta content="{{site.url}}{{ page.url }}" name="URL">
-    
-    {% if page.url == "/" %}
-    <!-- Structured data -->
-    <script async type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "url": "https://www.partiguiden.nu/",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://www.partiguiden.nu/search.html?query={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-    <!-- Typed.js -->
-    <script async src="/js/typed.min.js"></script>
-    {% endif %} 
-    </head>
 <body class="d-flex flex-column h-100">
-    <!-- Header -->
-    <div id="header">
-        <nav class="navbar navbar-expand-md absolute-top navbar-inverse w-100 position-absolute m-0 d-flex flex-wrap p-0" id="Navbar">
-            <div class="container flex-wrap">
-            <div class="position-relative mb-2 pt-3" id="title">
-                <a href="/" class="titlelink">
-                    <img src="/media/partiguiden_logo_opt.svg" class="h-100 pl-1" alt="Partiguiden logo">
-                </a>
-                <div class="search desktop">
-                    <form action="/search" method="get" autocomplete="off" class="search-form">
-                    <input type="text" name="query" placeholder="Sök" class="text-white"> 
-                    <button class="btn search-button" type="submit">
-                        <i class="icon-font h4 text-white icon-search">&#xe800;</i>
-                        </button>
-                    </form> 
-                </div>
-                <button class="navbar-toggler mr-3 position-absolute" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-            </div>
-            
-                <div class="collapse navbar-collapse" id="navbarContent">
-                    <ul class="navbar-nav mr-auto mt-2 mt-md-0">
-                        <li>
-                            <div class="search phone">
-                                <form action="/search" method="get" autocomplete="off" class="search-form">
-                                    <input type="text" name="query" placeholder="Sök" class="text-white">
-                                    <button class="btn search-button" type="submit">
-                                        <i class="icon-font icon-search text-white h3">&#xe800;</i>
-                                    </button>
-                                </form>
-                            </div>
-                        </li>
-                        <li {% if page.url=='/' %} class="active" {% endif %}>
-                            <a class="navLink" href="/">Hem</a>
-                        </li>
-                        <li {% if page.url=="/partiernas-standpunkter.html"%} class="active" {% endif %}>
-                            <a class="navLink" href="/partiernas-standpunkter">Partiernas ståndpunkter</a>
-                        </li>
-                        {% if jekyll.environment != 'production' %}
-                        <li {% if page.url=="/statistik/"%} class="active" {% endif %}>
-                            <a class="navLink" href="/statistik">Statistik</a>
-                        </li>
-                        {% endif %}
-                        <li {% if page.url=='/om-oss.html' %} class="active"  {% endif %}>
-                            <a class="navLink" href="/om-oss">Om oss</a>
-                        </li>
-                        <li {% if page.url=='/kontakt.html' %} class=" active" {% endif %}>
-                            <a class="navLink" href="/kontakt">Kontakt</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </div>
+    {% include header.html %}
     <!-- Content -->
     {{ content }}
     
     {% if jekyll.environment == 'production' %}
     
     <!-- Footer ad -->
-    <div align="center">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Responsive ad -->
-        <ins class="adsbygoogle"
-             data-ad-client="ca-pub-3248338512924345"
-             data-ad-slot="6515707043"
-             data-ad-format="auto"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
+    {% include ad.html %}
+    
     {% endif %}
     
-    <!-- footer -->
-    <footer id="footer" class="w-100 py-4 mt-3 text-white">
-        <div class="container">
-            <div class="row text-center">
-                <div class="col-md-4 offset-md-4 footer_content">
-                    <h6 class="copyright font-weight-light">©
-                        <script type="text/javascript">
-                            document.write(new Date().getFullYear());
-                        </script>
-                        Axel Pettersson</h6>
-                    <h6  class="font-weight-light" id="mail">
-                        <a href="mailto:contact@partiguiden.nu"><i class="icon-font icon-mail-alt">&#xf0e0;</i> contact@partiguiden.nu</a>
-                    </h6>
-                    <a target="_blank" href="https://www.facebook.com/partiguiden/"> <i class="icon-font h2 icon-facebook-squared">&#xf308</i> </a>
-                    <div class="display-none mt-3 font-weight-light" id="swishDiv">
-                        <p>Skicka donationer till mig genom att swisha numret här under eller genom att skanna QR-koden via Swish-appen:</p>
-                        <p>070-965 36 95</p>
-                        <img class="w-75 rounded" src="/media/swish-qr.jpg" alt="Swish QR code">
-                    </div>
-                </div>
-                <div class="col-md-2 offset-md-2">
-                    <button class="btn modalButton btn-light" id="donationButton">Stöd mig</button>
-                </div>
-            </div>
-        </div>
-    </footer>
+    {% include footer.html %}
     
-    <!-- Cookie banner -->
-    <div id="cookie-banner" class="display-none">
-        <button type="button" class="close bannerClose" onclick="closeBanner()">&times;</button>
-        <div class="container">
-            <p class="lead cookie-text">Partiguiden.nu använder webbkakor från Google för att personliggöra annonser och för att analysera trafik. Information om din användning av vår hemsida delas med Google för det ändamålet.</p>
-            <button onclick="gaOpt()" class="cookies-button btn">
-                <span>Jag godkänner</span>
-            </button>
-            <a target="_blank" class="read-more btn" href="https://www.google.com/intl/en/policies/technologies/cookies/">
-                <span>Läs mer</span>
-            </a>
-        </div>
-    </div>
+    {% include cookie-banner.html %}
 </body>
     <script>
         $( "#donationButton" ).click(function() {

@@ -1,0 +1,55 @@
+<!-- Header -->
+    <div id="header">
+        <nav class="navbar navbar-expand-md absolute-top navbar-inverse w-100 position-absolute m-0 d-flex flex-wrap p-0" id="Navbar">
+            <div class="container flex-wrap">
+            <div class="position-relative mb-2 pt-3" id="title">
+                <a href="/" class="titlelink">
+                    <img src="/media/partiguiden_logo_opt.svg" class="h-100 pl-1" alt="Partiguiden logo">
+                </a>
+                <div class="search desktop">
+                    <form action="/search" method="get" autocomplete="off" class="search-form">
+                    <input type="text" name="query" placeholder="Sök" class="text-white"> 
+                    <button class="btn search-button" type="submit">
+                        <i class="icon-font h4 text-white icon-search">&#xe800;</i>
+                        </button>
+                    </form> 
+                </div>
+                <button class="navbar-toggler mr-3 position-absolute" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            
+                <div class="collapse navbar-collapse" id="navbarContent">
+                    <ul class="navbar-nav mr-auto mt-2 mt-md-0">
+                        <li>
+                            <div class="search phone">
+                                <form action="/search" method="get" autocomplete="off" class="search-form">
+                                    <input type="text" name="query" placeholder="Sök" class="text-white">
+                                    <button class="btn search-button" type="submit">
+                                        <i class="icon-font icon-search text-white h3">&#xe800;</i>
+                                    </button>
+                                </form>
+                            </div>
+                        </li>
+                        <li {% if page.url=='/' %} class="active" {% endif %}>
+                            <a class="navLink" href="/">Hem</a>
+                        </li>
+                        <li {% if page.url=="/partiernas-standpunkter.html"%} class="active" {% endif %}>
+                            <a class="navLink" href="/partiernas-standpunkter">Partiernas ståndpunkter</a>
+                        </li>
+                        {% if jekyll.environment != 'production' %}
+                        <li {% if page.url=="/statistik/"%} class="active" {% endif %}>
+                            <a class="navLink" href="/statistik">Statistik</a>
+                        </li>
+                        {% endif %}
+                        <li {% if page.url=='/om-oss.html' %} class="active"  {% endif %}>
+                            <a class="navLink" href="/om-oss">Om oss</a>
+                        </li>
+                        <li {% if page.url=='/kontakt.html' %} class=" active" {% endif %}>
+                            <a class="navLink" href="/kontakt">Kontakt</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
