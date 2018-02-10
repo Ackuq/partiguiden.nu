@@ -9,6 +9,10 @@ title: Statistik
 
 <div id="content">
     <div class="container">
+        <h1 class="font-weight-light text-center">{{ page.title }}</h1>
+        <h5 class="text-center font-weight-light">Här kan du hitta sammanställd data från opinionsundersökningarn som har gjorts i Sverige. Mer grafer kommer komma.</h5>
+    </div>
+    <div class="container">
         <canvas id="myChart" width="800" height="400"></canvas>
         <script>
                 function average(data){
@@ -88,7 +92,7 @@ title: Statistik
                             },
                             title: {
                                 display: true,
-                                text: 'Nuvarande opinionssiffror - ' + month + " " + data[0]["PublYearMonth"].slice(0,4)
+                                text: 'Nuvarande opinionssiffor - ' + month + " " + data[0]["PublYearMonth"].slice(0,4)
                             },
                             scales:{
                                 yAxes:[
@@ -213,7 +217,7 @@ title: Statistik
                         stacked: true,
                         title:{
                             display: true,
-                            text: "Opionssiffor, idag - 4 år sen"
+                            text: "Medelvärde över tid, från 4 år sen till idag"
                         },
                         tooltips:{
                             mode: 'index',
@@ -238,6 +242,9 @@ title: Statistik
                 });
             }
         </script>
+    </div>
+    <div class="container text-center col-md-8 offset-md-2 mt-4">
+        <p>Dataunderlaget består av en CSV-fil skapad av Hampus Nilsson. Kolla in Hampus hemsida på: <a target="_blank" href="https://val.digital/">https://val.digital/</a></p>
     </div>
 </div>
 

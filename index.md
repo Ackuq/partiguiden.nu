@@ -15,7 +15,7 @@ title: Partiguiden
               <h1 class="font-weight-light text-center mt-2">Vilket parti ska man rösta på till valet 2018?</h1>
               <h4 class="contentText">Vet du inte vad du ska rösta på till valet 2018? Vet du inte vad Sveriges partier har för åsikter i olika sakfrågor? Känn dig inte ensam i så fall! Med så många partier i riksdagen kan det vara svårt att veta vad alla tar för ståndpunkter i olika frågor, därför har Partiguiden blivit till. Denna guide hjälper dig jämföra olika partiers partiprogram så att du lättare kan hitta det parti som du sympatiserar mest med. Gör rätt val i valet 2018.</h4>
               <h4 class="contentText">Klicka <a href="/partiernas-standpunkter.html">här</a> eller på fliken "Partiernas ståndpunkter" för att börja jämföra vad partierna har för åsikter i just de frågorna som du har nära till hjärtat!</h4>
-              <hr class="lineLarge w-100">
+              <hr class="my-3">
               <h3 class="relevant_questions mt-0 font-weight-light ml-1">Relevanta frågor i riksdagsvalet 2018</h3>
               <div class="list-group d-inline-block">
                   <div class="list-container float-left">
