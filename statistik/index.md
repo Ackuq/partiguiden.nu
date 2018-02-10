@@ -10,7 +10,7 @@ title: Statistik
 <div id="content">
     <div class="container">
         <h1 class="font-weight-light text-center">{{ page.title }}</h1>
-        <h5 class="text-center font-weight-light">Här kan du hitta sammanställd data från opinionsundersökningarn som har gjorts i Sverige. Mer grafer kommer komma.</h5>
+        <h5 class="text-center font-weight-light">Här kan du hitta sammanställd data från diverse opinionsundersökningar som har gjorts i Sverige. Mer grafer kommer komma.</h5>
     </div>
     <div class="container">
         <canvas id="myChart" width="800" height="400"></canvas>
