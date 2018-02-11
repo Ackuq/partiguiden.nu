@@ -267,7 +267,7 @@ title: Statistik
                             data: data
                         },{
                             label: "Blocken",
-                            labels: ["Rödgröna","Sverigedemokraterna","Alliansen"],
+                            labels: ["Vänsterblocket","Sverigedemokraterna","Borgliga blocket"],
                             backgroundColor: ["#c23616","#F4D03F","#1B9CFC"],
                             data: blocks
                             }
