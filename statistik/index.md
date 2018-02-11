@@ -17,6 +17,7 @@ title: Statistik
         <script>
                 function average(data){
                     var myData = [];
+                    year = data[0]["PublYearMonth"].slice(0,4);
                     switch(data[0]["PublYearMonth"].slice(5)){
                     case "jan": var month = "Januari";
                             break;
@@ -50,25 +51,26 @@ title: Statistik
                         myData[0] += parseFloat(data[i].S);
                         myData[1] += parseFloat(data[i].V);
                         myData[2] += parseFloat(data[i].MP);
-                        myData[3] += parseFloat(data[i].M);
-                        myData[4] += parseFloat(data[i].L);
-                        myData[5] += parseFloat(data[i].C);
-                        myData[6] += parseFloat(data[i].KD);
-                        myData[7] += parseFloat(data[i].SD);
+                        myData[3] += parseFloat(data[i].SD);
+                        myData[4] += parseFloat(data[i].M);
+                        myData[5] += parseFloat(data[i].L);
+                        myData[6] += parseFloat(data[i].C);
+                        myData[7] += parseFloat(data[i].KD);
                     }
+                    blocks(myData, year, month);
                     for(var i = 0; i <8;i++){
-                        myData[i]= Number((myData[i]/(data.length)).toFixed(1));
+                        myData[i]= (myData[i]/(data.length)).toFixed(1);
                     }
                     var ctx = document.getElementById("myChart").getContext("2d");
                     var myChart = new Chart(ctx,{
                         type: 'bar',
                         data:{
-                            labels: ["S","V","MP","M","L","C","KD","SD"],
+                            labels: ["S","V","MP","SD","M","L","C","KD"],
                             datasets: 
                             [
                                 {
                                     label: "Medelvärde",
-                                    backgroundColor: ["#C0392B", "#CF000F","#26A65B","#3A539B","#5C97BF","#1E824C","#22A7F0","#F4D03F"],
+                                    backgroundColor: ["#C0392B", "#CF000F","#26A65B","#F4D03F","#3A539B","#5C97BF","#1E824C","#22A7F0"],
                                     data: myData
                                 }
                             ]
@@ -92,7 +94,8 @@ title: Statistik
                             },
                             title: {
                                 display: true,
-                                text: 'Nuvarande opinionssiffor - ' + month + " " + data[0]["PublYearMonth"].slice(0,4)
+                                text: 'Nuvarande opinionssiffor - ' + month + " " + year,
+                                fontSize: 20
                             },
                             scales:{
                                 yAxes:[
@@ -214,10 +217,11 @@ title: Statistik
                             }
                         },
                         responsive: true,
-                        stacked: true,
+                        maintainAspectRatio: false,
                         title:{
                             display: true,
-                            text: "Medelvärde över tid, från 4 år sen till idag"
+                            text: "Medelvärde över tid, från 4 år sen till idag",
+                            fontSize: 20
                         },
                         tooltips:{
                             mode: 'index',
@@ -243,8 +247,58 @@ title: Statistik
             }
         </script>
     </div>
+    <div class="container d-flex justify-content-center">
+        <canvas id="blockChart" height="200" width="400"></canvas>
+        <script>
+            function blocks(data, year, month){
+                var blocks = [];
+                blocks[0] = (data[0] + data[1] + data[2]).toFixed(1);
+                blocks[1] = data[3].toFixed(1);
+                blocks[2] = (data[4] + data[5] + data[6] + data[7]).toFixed(1);
+                var ctx = document.getElementById("blockChart").getContext("2d");
+                var myChart = new Chart(ctx,{
+                    type: 'doughnut',
+                    data:{
+                        datasets:
+                        [{
+                            label: "Medelvärde",
+                            labels: ["S","V","MP","SD","M","L","C","KD"],
+                            backgroundColor: ["#C0392B", "#CF000F","#26A65B","#F4D03F","#3A539B","#5C97BF","#1E824C","#22A7F0"],
+                            data: data
+                        },{
+                            label: "Blocken",
+                            labels: ["Rödgröna","Sverigedemokraterna","Alliansen"],
+                            backgroundColor: ["#c23616","#F4D03F","#1B9CFC"],
+                            data: blocks
+                            }
+                        ]
+                    },
+                    options: {
+                        rotation: 1 * Math.PI,
+                        circumference: 1 * Math.PI,
+                        responsive: false,
+                        maintainAspectRatio: true,
+                        title:{
+                            display: true,
+                            fontSize: 20,
+                            text: 'Nuvarande blockskillnad - ' + month + " " + year
+                        },
+                        tooltips: {
+                            callbacks: {
+                                label: function(tooltipItem, data) {
+                                    var dataset = data.datasets[tooltipItem.datasetIndex];
+                                    var index = tooltipItem.index;
+                                    return dataset.labels[index] + ': ' + dataset.data[index];
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        </script>
+    </div>
     <div class="container text-center col-md-8 offset-md-2 mt-4">
-        <p>Dataunderlaget består av en CSV-fil skapad av Hampus Nilsson. Kolla in Hampus hemsida på: <a target="_blank" href="https://val.digital/">https://val.digital/</a></p>
+        <p>Dataunderlaget består av en CSV-fil skapad av Hampus Nilsson. Kolla in Hampus hemsida för mer grafer på: <a target="_blank" href="https://val.digital/">https://val.digital/</a></p>
     </div>
 </div>
 
