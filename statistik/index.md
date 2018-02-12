@@ -4,7 +4,7 @@ title: Statistik
 ---
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
 
 
 <div id="content">
@@ -61,6 +61,7 @@ title: Statistik
                     for(var i = 0; i <8;i++){
                         myData[i]= (myData[i]/(data.length)).toFixed(1);
                     }
+                    var canvas = document.getElementById("myChart");
                     var ctx = document.getElementById("myChart").getContext("2d");
                     var myChart = new Chart(ctx,{
                         type: 'bar',
@@ -107,6 +108,21 @@ title: Statistik
                                         }
                                     }
                                 ]
+                            },
+                            annotation: {
+                                annotations: [{
+                                    type: 'line',
+                                    mode: 'horizontal',
+                                    scaleID: 'y-axis-0',
+                                    value: '4',
+                                    borderColor: 'black',
+                                    borderWidth: 2,
+                                    label:{
+                                        fontSize: 9,
+                                        enabled: true,
+                                        content: "4%-spärren"
+                                    }
+                                }]
                             }
                         }
                     });
