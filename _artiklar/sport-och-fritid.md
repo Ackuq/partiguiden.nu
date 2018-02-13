@@ -4,4 +4,5 @@ tags:
     - Motorsport
     - Idrott
     - Snöskoter
+    - Hästsport
 ---

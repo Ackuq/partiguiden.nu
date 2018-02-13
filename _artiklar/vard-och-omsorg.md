@@ -9,7 +9,6 @@ tags:
     - Sjuksköterskor
     - Sjukvård
     - Tandvård
-    - Valfrihet i välfärden - vården
     - Sjukvårdspolitik
     - Funktionshinder och tillgänglighet
     - Hälso- och sjukvård
@@ -37,4 +36,5 @@ tags:
     - Husläkare
     - Vårdköerna
     - Barn som far illa
+    - Valfrihet i välfärden
 ---

@@ -7,4 +7,5 @@ tags:
     - Digitalisering
     - Bredband
     - IT-politik
+    - Mobiltäckning
 ---

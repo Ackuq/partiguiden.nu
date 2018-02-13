@@ -24,5 +24,6 @@ tags:
     - Inkomstklyftor
     - Lönegapet
     - Minoritetspolitik
+    - Lönegapet mellan kvinnor och män
 categories: Jämställdhet
 ---

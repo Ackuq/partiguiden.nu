@@ -23,11 +23,11 @@
                                     {% if amne.asikt[1] %}
                                         <ul class="font-weight-light pl-3 mt-2">
                                             {% for asikt in amne.asikt %}           
-                                                <li>{{asikt | capitalize}}</li>
+                                                <li>{{asikt}}</li>
                                             {% endfor %}
                                         </ul>
                                     {% else %}
-                                        <p class="font-weight-light mb-0">{{amne.asikt | capitalize}}</p>
+                                        <p class="font-weight-light mb-0">{{amne.asikt}}</p>
                                     {% endif %}
                                     <a target="_blank" class="d-flex p-1 m-1" href="{{amne.adress}}">Läs mer på partiets hemsida »</a>
                                 </div>

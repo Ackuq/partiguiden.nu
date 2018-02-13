@@ -29,4 +29,5 @@ tags:
     - Överskottsmålet
     - Fastighetsskatt
     - Flygskatt
+    - Finanspolitik
 ---

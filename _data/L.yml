@@ -3,1385 +3,1406 @@ root:
   amne:
   -
     fraga: Abort
-    adress: https://www.liberalerna.se/politik/politikpolitikabort/
+    adress: https://www.liberalerna.se/politik/abort/
     asikt:
-    - Vi vill behålla dagens abortlagstiftning.
-    - Vi vill minska  oönskade graviditeter genom bra sex- och samlevnadsundervisning.
-    - Alla ska erbjudas kuratorsamtal både före och efter abort.
+    - 'Vi vill behålla dagens abortlagstiftning.'
+    - 'Vi vill minska  oönskade graviditeter genom bra sex- och samlevnadsundervisning.'
+    - 'Alla ska erbjudas kuratorsamtal både före och efter abort.'
   -
     fraga: Alkohol
-    adress: https://www.liberalerna.se/politik/politikpolitikpolitikalkohol/
+    adress: https://www.liberalerna.se/politik/alkohol/
     asikt:
-    - Vi vill behålla Systembolagets monopol.
-    - Alkoholskatten är ett viktigt redskap för att hålla alkoholskadorna nere, därför vill vi behålla den.
-    - Missbruksproblem kan upptäckas tidigt genom förebyggande arbete.
-    - De med riskbruk ska få hjälp från sjukvården tidigt.
+    - 'Vi vill behålla Systembolagets monopol.'
+    - 'Alkoholskatten är ett viktigt redskap för att hålla alkoholskadorna nere, därför vill vi behålla den.'
+    - 'Missbruksproblem kan upptäckas tidigt genom förebyggande arbete.'
+    - 'De med riskbruk ska få hjälp från sjukvården tidigt.'
   -
     fraga: Arbetsmarknad
-    adress: https://www.liberalerna.se/politik/politikarbetsmarknad/
+    adress: https://www.liberalerna.se/politik/arbetsmarknad/
     asikt:
-    - Startjobb med slopade arbetsgivaravgifter och lägre lön öppnar dörrarna till svensk arbetsmarknad för fler.
-    - Obligatorisk a-kassa. Öka tryggheten för arbetssökande.
-    - Enklare att anställa - minska administrationen t ex genom att slå ihop instegsjobben och nystartsjobben.
-    - Billigare att anställa - inte dyrare. Utveckla RUT.
-    - Lägg ner arbetsförmedlingen och ersätt den med en ny myndighet. De som står längst ifrån arbetsmarknaden får inte det stöd de behöver.
-    - Höjd jobbstimulans till 40 procent - det skall alltid löna sig att arbeta.
+    - 'Inträdesjobb med slopade arbetsgivaravgifter och lägre lön öppnar dörrarna till svensk arbetsmarknad för fler'
+    - 'Ökad trygghet för arbetssökande genom obligatorisk a-kassa'
+    - 'Enklare att anställa - minska administrationen genom att slå ihop anställningsstöden'
+    - 'Billigare att anställa - inte dyrare. Utveckla RUT'
+    - 'Lägg ner arbetsförmedlingen och ersätt den med en ny myndighet'
+    - 'Rätten att kvarstå anställning högre upp i åldern'
+    - 'Förbättra kvinnors möjligheter till företagsamhet'
+    - 'Lätta på regelbördan för småföretagare'
   -
     fraga: Arbetsgivaravgiften
-    adress: https://www.liberalerna.se/politik/politikarbetsgivaravgifter/
+    adress: https://www.liberalerna.se/politik/arbetsgivaravgift/
     asikt:
-    - Vi vill införa startjobb för nyanlända och ungdomar, där arbetsgivarnas kostnad för att anställa halveras genom att arbetsgivaravgiften slopas och ingångslönen är lägre.
-    - Vi vill också att den särskilda löneskatten för äldre avskaffas.
+    - 'Vi vill införa inträdesjobb för nyanlända och ungdomar, där arbetsgivarnas kostnad för att anställa halveras genom att arbetsgivaravgiften slopas och ingångslönen är lägre'
+    - 'Vi vill avskaffa den särskilda löneskatten för äldre'
   -
     fraga: Arbetskraftsinvandring
     adress: https://www.liberalerna.se/politik/arbetskraftsinvandring/
     asikt:
-    - Svenska företag måste enkelt kunna anställa nyckelkompetens från andra länder.
-    - Det behövs enklare regler och kortare väntetider för att få arbetstillstånd.
-    - Mindre misstag ska inte tvinga människor som jobbar att lämna Sverige.
-    - Inför start-up visum.
-    - Utländska studenter ska kunna söka jobb under ett år efter avslutade studier.
+    - 'Svenska företag måste enkelt kunna anställa nyckelkompetens från andra länder.'
+    - 'Det behövs enklare regler och kortare väntetider för att få arbetstillstånd.'
+    - 'Mindre misstag ska inte tvinga människor som jobbar att lämna Sverige.'
+    - 'Inför start-up visum.'
+    - 'Utländska studenter ska kunna söka jobb under ett år efter avslutade studier.'
   -
     fraga: A-kassa
-    adress: https://www.liberalerna.se/politik/politikarbetsloshetsforsakring/
+    adress: https://www.liberalerna.se/politik/a-kassa/
     asikt:
-    - A-kassan ska vara statlig och obligatorisk.
-    - Fler ska kunna få a-kassa. Ta bort kravet på att ha arbetat 1 år för att få a-kassa och ersätt det med ett inkomstvillkor.
-    - Ställ krav på motprestation för försörjningsstöd, och låt den som har försörjningsstöd få behålla mer av sin inkomstökning om den tar ett deltidsjobb.
-    - Ändra turordningsreglerna så att kompetens går före anställningstid.
+    - 'A-kassan ska vara statlig och obligatorisk'
+    - 'Fler ska kunna få a-kassa. Ta bort kravet på arbetstid för att få a-kassa och ersätt det med ett inkomstvillkor'
+    - 'Ändra turordningsreglerna så att kompetens går före anställningstid'
+    - 'Inrätta en omställningspeng'
   -
     fraga: Arbetsrätt
-    adress: https://www.liberalerna.se/politik/politikarbetsratt/
+    adress: https://www.liberalerna.se/politik/arbetsratt/
     asikt:
-    - Startjobb med slopade arbetsgivaravgifter och lägre lön öppnar dörrarna till svensk arbetsmarknad för fler.
-    - Obligatorisk a-kassa. Öka tryggheten för arbetssökande.
-    - Enklare att anställa - minska administrationen t ex genom att slå ihop instegsjobben och nystartsjobben.
-    - Inför proportionalitetsprincipen på svensk arbetsmarknad. Sympatiåtgärder får inte tillåtas slå ut småföretagare.
-    - Ändra konfliktreglerna - fredsplikt skall gälla på arbetsplatser som har kollektivavtal.
-    - Liberalisera turordningsreglerna. Utgå ifrån kompetens istället för arbetstid och kompensera uppsagda på grund av arbetsbrist med uppsägningsavgift.
+    - 'Inträdesjobb med slopade arbetsgivaravgifter och lägre lön öppnar dörrarna till svensk arbetsmarknad för fler'
+    - 'Sympatiåtgärder får inte tillåtas slå ut småföretagare, därför behöver vi införa en proportionalitetsprincip på svensk arbetsmarknad'
+    - 'Ändra konfliktreglerna - fredsplikt skall gälla på arbetsplatser som har kollektivavtal'
+    - 'Liberalisera turordningsreglerna'
+    - 'Avskaffa företrädesrätten'
+    - 'Utöka tiden för provanställning till ett år'
+    - 'Öka tryggheten för arbetssökande genom obligatorisk a-kassa'
   -
     fraga: Assisterad befruktning
-    adress: https://www.liberalerna.se/politik/politikassisterad-befruktning/
+    adress: https://www.liberalerna.se/politik/assisterad-befruktning/
     asikt:
-    - Sverige ska tillåta värdmoderskap
-    - Båda kvinnorna i ett lesbiskt parförhållande ska få göra assisterad befukltning om de vill.
+    - 'Sverige ska tillåta värdmoderskap'
+    - 'Båda kvinnorna i ett lesbiskt parförhållande ska få göra assisterad befruktning om de vill'
+  -
+    fraga: Arbetsförmedlingen
+    adress: https://www.liberalerna.se/politik/arbetsformedlingen/
+    asikt:
+    - 'Myndigheten behöver göras om i grunden med mer kontakt med arbetsgivare och arbetssökande.'
+    - 'Stödet behöver riktas om för att de som står längst ifrån arbetsmarknaden ska få den hjälp de behöver.'
+    - 'Minska antalet arbetsmarknadsprogram och satsa på de som fungerar.'
+    - 'Minska den administrativa bördan för arbetsgivare och myndigheten. Inför inträdesjobb så att arbetsgivare inte behöver gå via arbetsförmedlingen för att anställa utsatta grupper.'
+    - 'Inför obligatorisk a-kassa. Detta bör den nya myndigheten ombesörja.'
+    - 'Låt privata aktörer konkurrera i större utsträckning med matchningen.'
+    - 'Kommuner och andra offentliga aktörer bör ta ett större ansvar.'
   -
     fraga: Bistånd
-    adress: https://www.liberalerna.se/politik/politikbistand/
+    adress: https://www.liberalerna.se/politik/bistand/
     asikt:
-    - Svenskt bistånd ska vara generöst. Vi värnar enprocentsmålet.
-    - Svenskt bistånd ska vara effektivt. För att biståndet ska göra så mycket nytta som möjligt ska det baseras på forskning och erfarenhet.
-    - Demokrati ska vara det övergripande målet för biståndet.
-    - Sverige ska särskilt vara en stark röst i frågor som är politiskt känsliga i andra biståndsgivarländer, till exempel jämställdhet, kvinnors rätt till sin kropp och sexualitet, rätten till fri, säker och laglig abort, samt HBTQ-personers rättigheter.
-    - Jämställdhet ska få ännu större prioritet i biståndet.
-    - Länder som år efter år fortsätter att bryta mot mänskliga rättigheter och motarbetar demokrati ska fasas ut från det bilaterala biståndet.
-    - Bistånd ska gå till utbildning.
+    - 'Svenskt bistånd ska vara generöst. Vi värnar enprocentsmålet.'
+    - 'Svenskt bistånd ska vara effektivt. För att biståndet ska göra så mycket nytta som möjligt ska det baseras på forskning och erfarenhet.'
+    - 'Demokrati ska vara det övergripande målet för biståndet.'
+    - 'Sverige ska särskilt vara en stark röst i frågor som är politiskt känsliga i andra biståndsgivarländer, till exempel jämställdhet, kvinnors rätt till sin kropp, rätten till fri OCH säker abort, samt HBTQ-personers rättigheter.'
+    - 'Jämställdhet och utbildning ska få ännu större prioritet i biståndet.'
+    - 'Länder som år efter år fortsätter att bryta mot mänskliga rättigheter och motarbetar demokrati ska fasas ut från det bilaterala biståndet.'
   -
     fraga: Bostäder
     adress: https://www.liberalerna.se/politik/politikbostader/
     asikt:
-    - Förenkla bostadsbyggandet. Friare regler och snabbare processer leder till fler och billigare bostäder.
-    - Förkorta överklagandeprocessen och se över möjligheterna till att begränsa kommunala särkrav.
-    - Vi vill förbättra arbetet med att ge hemlösa tak över huvudet.
-    - Utveckla systemet för hur hyrorna bestäms. Utveckla bruksvärdessystemet i dagens bostadsbestånd. Tillåt fri hyressättning i nybyggda hyreshus.
+    - 'Förenkla bostadsbyggandet. Friare regler och snabbare processer leder till fler och billigare bostäder.'
+    - 'Inför ett skattegynnat bosparande till den som vill spara till sin första egna bostad.'
+    - 'Slopa de dyra och ineffektiva byggsubventionerna, och ge i stället mer pengar till hushåll med låga inkomster.'
+    - 'Tillåt fri hyressättning i nybyggda hyreshus. I äldre hyreshus ska läget kunna påverka hyran mer än i dag.'
   -
     fraga: Brottsbekämpning
     adress: https://www.liberalerna.se/politik/brottsbekampning/
     asikt:
-    - Fler synliga poliser i hela landet, från dagens 20 000 till 25 000 poliser inom de närmaste 5-7 åren.
-    - Förbättra insatserna mot organiserad brottslighet.
-    - Vi vill skapa ett europeiskt FBI och en europeisk åklagarmyndighet för att bekämpa internationell brottslighet.
-    - Förbättra polisens och åklagarnas samarbete med andra myndigheter, till exempel Skatteverket och Tullen.
-    - Respekten för den personliga integriteten ska väga tungt i all brottsbekämpning.
+    - 'Fler poliser i hela landet, från dagens 20 000 till 25 000 poliser inom de närmaste sju åren.'
+    - 'Minst 2 000 fler kommunala trygghetsvakter som hjälper till att öka tryggheten och förebygga brott.'
+    - 'Ge polis och tull bättre redskap mot grov organiserad brottslighet.'
+    - 'Skapa ett europeiskt FBI och en europeisk åklagarmyndighet för att bekämpa internationell brottslighet.'
+    - 'Respekten för den personliga integriteten ska väga tungt i all brottsbekämpning.'
+    - 'Förbättra det brottsförebyggande arbetet.'
   -
     fraga: Brottsoffer
-    adress: https://www.liberalerna.se/politik/politikbrottsoffer/
+    adress: https://www.liberalerna.se/politik/brottsoffer/
     asikt:
-    - Brottsoffer ska slippa vänta på skadestånd. Staten ska betala och kräva tillbaka pengarna av den dömde.
-    - Vi vill ha barncentrum i hela landet för barn som utsatts för brott.
-    - Hanteringen av våldtäktsoffer måste bli bättre. Vi vill införa en nationell granskningskommission.
+    - 'Brottsoffer ska få stöd och skydd genom hela brottsprocessen.'
+    - 'Samarbeta mer med brottsofferjourerna.'
+    - 'Brottsoffer ska få ut sitt skadestånd snabbare än i dag.'
+    - 'Brottsoffer som hotas ska få långvarigt skydd, i vissa fall en permanent skyddad identitet.'
   -
     fraga: Barns rättigheter
     adress: https://www.liberalerna.se/politik/barns-rattigheter/
     asikt:
-    - Stärk barns rättigheter genom att göra FN:s barnkonvention till svensk lag
-    - Stärk barns rättigheter genom att komplettera föräldrabalken med en barnbalk
-    - Barn ska inte tvingas träffa en förälder som behandlat dem illa
+    - 'Stärk barns rättigheter genom att göra FN:s barnkonvention till svensk lag'
+    - 'Stärk barns rättigheter genom att komplettera föräldrabalken med en barnbalk'
+    - 'Barn ska inte tvingas träffa en förälder som behandlat dem illa'
   -
     fraga: Barnäktenskap
-    adress: https://www.liberalerna.se/politik/politikbarnaktenskap/
+    adress: https://www.liberalerna.se/politik/barnaktenskap/
     asikt:
-    - Vi vill täppa till de sista luckorna i förbuden mot barnäktenskap.
-    - Vi vill stärka det förebyggande arbetet mot barn- och tvångsäktenskap.
-    - Vi vill förbättra skyddet till den som hotas av barn- eller tvångsäktenskap.
-    - Vi vill se en haverikommission mot barnäktenskap
-    - Vi vill förbättra skyddet till den som hotas av barn- eller tvångsäktenskap.
+    - 'Vi vill att svensk lag alltid ska stå på den ungas sida.'
+    - 'Vi vill att personer under 18 år aldrig ska räknas som gifta i Sverige, även om de blev bortgifta utomlands.'
+    - 'Vi vill stärka det förebyggande arbetet mot barn- och tvångsäktenskap.'
+    - 'Vi vill se en haverikommission mot barnäktenskap.'
+    - 'Vi vill förbättra skyddet till den som hotas av barn- eller tvångsäktenskap.'
   -
     fraga: Barn som far illa
     adress: https://www.liberalerna.se/politik/barn-som-far-illa/
     asikt:
-    - Öka samverkan för att minska risken för att barn faller mellan stolarna
-    - Följ upp placerade barns hälsa
-    - Stärk socialsekreterarna - höj lönen och öka kraven på erfarenhet i barnärenden
-    - Inför mellantvång. Ge socialtjänsten rätt att kräva t ex att föräldrar deltar i behandling
-    - Satsa på skolan
-    - Tryggare familjehem genom utbildning och stöd. Större möjligheter för familjehem att bli vårdnadshavare eller adoptera
+    - 'Öka samverkan för att minska risken för att barn faller mellan stolarna'
+    - 'Följ upp placerade barns hälsa'
+    - 'Stärk socialsekreterarna - höj lönen och öka kraven på erfarenhet i barnärenden'
+    - 'Inför mellantvång. Ge socialtjänsten rätt att kräva t ex att föräldrar deltar i behandling'
+    - 'Satsa på skolan'
+    - 'Tryggare familjehem genom utbildning och stöd. Större möjligheter för familjehem att bli vårdnadshavare eller adoptera'
   -
     fraga: Biologisk mångfald
     adress: https://www.liberalerna.se/politik/biologisk-mangfald/
     asikt:
-    - Antalet hotade arter i Sverige ska minska
-    - Allemansrätten och ett starkt strandskydd ska värnas
-    - Övergödningen i våra hav och vattendrag ska minska
-    - Gammelskogarna måste skyddas
-    - Åtgärder krävs för att skydda våra hav och vattendrag
+    - 'Antalet hotade arter i Sverige ska minska'
+    - 'Allemansrätten och ett starkt strandskydd ska värnas'
+    - 'Övergödningen i våra hav och vattendrag ska minska'
+    - 'Gammelskogarna måste skyddas'
+    - 'Åtgärder krävs för att skydda våra hav och vattendrag'
   -
-    fraga: Bredband
-    adress: https://www.liberalerna.se/politik/politikbredband/
+    fraga: Bredband och digital uppkoppling
+    adress: https://www.liberalerna.se/politik/bredband-och-digital-uppkoppling/
     asikt:
-    - Alla ska ha tillgång till bredband i hemmet, i dagsläget måste glesbygden prioriteras.
-    - Alla hushåll och företag ska ha bra möjligheter att använda elektroniska samhällstjänster via bredband.
-    - Digitaliseringen måste bejakas och fler digitala verktyg introduceras i både offentlig och privat sektor.
-    - Staten ska förenkla för bredbandsmarknaden men inte ansvara för själva utbyggnaden.
+    - 'Alla ska ha tillgång till bredband i hemmet, i dagsläget måste glesbygden prioriteras'
+    - 'Alla hushåll och företag ska ha bra möjlighet att använda elektroniska samhällstjänster'
+    - 'Digitaliseringen ska bejakas och fler digitala verktyg introduceras i både offentlig och privat sektor'
+    - 'Staten ska underlätta för bredbandsmarknaden, men inte ansvara för själva utbyggnaden'
+    - 'Telefoni och postala tjänster ska finnas i hela landet'
   -
     fraga: Bibliotek
     adress: https://www.liberalerna.se/politik/bibliotek/
     asikt:
-    - Satsa på biblioteken
-    - Alla skolor ska ha bra bibliotek, med utbildade bibliotekarier
-    - Alla bibliotek ska vara trygga - lagstifta om biblioteksfrid
+    - 'Satsa på biblioteken'
+    - 'Alla skolor ska ha bra bibliotek, med utbildade bibliotekarier'
+    - 'Alla bibliotek ska vara trygga - lagstifta om biblioteksfrid'
+  -
+    fraga: Bolagsskatt och kapitalskatt
+    adress: https://www.liberalerna.se/politik/bolagsskatt-och-kapitalskatt/
+    asikt:
+    - 'Konkurrenskraftig bolagsskatt'
+    - 'Mer attraktiva personaloptioner'
+    - 'Skattefritt sparande'
   -
     fraga: Cykling
     adress: https://www.liberalerna.se/politik/politikcykling/
     asikt:
-    - Cykling är en självklar del av vår trafikpolitik. Vi vill ha fler sammanhängande stråk för enklare cykeltrafik.
-    - Vi vill att det ska vara lättare att ta med sig cykeln i kollektivtrafiken.
-    - Gör det säkrare att cykla. Som cyklist är du ofta utsatt för osäkra miljöer, det vill vi ändra på.
-    - Vi vill införa ett nationellt cykelkansli som stöttar kommuner vid byggnation och utveckling av cykelinfrastruktur.
-    - Gör cykeln till ett eget transportslag.
-    - Låt skatteintäkter från tränslegskatter gå till utbyggnad av cykelinfrastruktur.
+    - 'Cykling är en självklar del av vår trafikpolitik. Vi vill ha fler sammanhängande stråk för enklare cykeltrafik.'
+    - 'Vi vill att det ska vara lättare att ta med sig cykeln i kollektivtrafiken.'
+    - 'Gör det säkrare att cykla. Som cyklist är du ofta utsatt för osäkra miljöer, det vill vi ändra på.'
+    - 'Vi vill införa ett nationellt cykelkansli som stöttar kommuner vid byggnation och utveckling av cykelinfrastruktur.'
+    - 'Gör cykeln till ett eget transportslag.'
+    - 'Låt skatteintäkter från tränslegskatter gå till utbyggnad av cykelinfrastruktur.'
   -
     fraga: Demokrati
     adress: https://www.liberalerna.se/politik/demokrati/
     asikt:
-    - Demokratisering ska vara det övergripande målet i svensk utrikespolitik och i vårt bistånd till andra länder.
-    - Svenska ambassader ska prioritera demokrati och mänskliga rättigheter i sitt arbete.
-    - Vi vill ha ett demokrativillkor i svensk vapenexport. Sverige ska inte sälja vapen till diktaturer.
-    - Vi vill att Sverige ska ha en författningsdomstol för stärkt skydd av fri- och rättigheterna.
+    - 'Vi vill att Sverige ska ha en författningsdomstol för att stärka skydde för fri- och rättigheterna.'
+    - 'Demokratisering ska vara det övergripande målet i svensk utrikespolitik och i vårt utvecklingsbistånd till andra länder.'
+    - 'Svenska ambassader ska prioritera demokrati och mänskliga rättigheter i sitt arbete.'
+    - 'Vi vill ha ett demokrativillkor i svensk vapenexport. Sverige ska inte sälja vapen till diktaturer.'
   -
     fraga: Diskriminering
     adress: https://www.liberalerna.se/politik/diskriminering/
     asikt:
-    - Det behövs ett starkt skydd mot diskriminering, både i Sverige och i EU
-    - Den som drabbas av diskriminering ska kunna få hjälp att få upprättelse
-    - Det ska kosta att diskriminera
-    - Arbetsgivare ska arbeta aktivt för att motverka all diskriminering
+    - 'Det behövs ett starkt skydd mot diskriminering, både i Sverige och i EU'
+    - 'Den som drabbas av diskriminering ska kunna få hjälp att få upprättelse'
+    - 'Det ska kosta att diskriminera'
+    - 'Arbetsgivare ska arbeta aktivt för att motverka all diskriminering'
   -
     fraga: Djurskydd
     adress: https://www.liberalerna.se/politik/djurskydd/
     asikt:
-    - Djur ska skötas och behandlas väl
-    - Djurskyddslagstiftningen  ska vara skarp och tydlig
-    - Kontrollen av djurskydd ska vara effektiv och likadan i hela Sverige
-    - Efterlevnaden av EU:s djurskyddslag måste skärpas
-    - Antibiotikaanvändningen måste minska
-    - Djurtransporter ska begränsas - köttransporter istället för djurtransporter
-    - Fler mobila och mindre slakterier
+    - 'Djur ska skötas och behandlas väl'
+    - 'Djurskyddslagstiftningen  ska vara skarp och tydlig'
+    - 'Kontrollen av djurskydd ska vara effektiv och likadan i hela Sverige'
+    - 'Efterlevnaden av EU:s djurskyddslag måste skärpas'
+    - 'Antibiotikaanvändningen måste minska'
+    - 'Djurtransporter ska begränsas - köttransporter istället för djurtransporter'
+    - 'Fler mobila och mindre slakterier'
   -
     fraga: Ekonomi
-    adress: https://www.liberalerna.se/politik/politikekonomi/
+    adress: https://www.liberalerna.se/politik/ekonomi/
     asikt:
-    - Det ska löna sig att arbeta.
-    - Alla ska få behålla minst hälften av en löneökning.
-    - På sikt vill vi genomföra en större skattereform för att anpassa svenska skatter till den globala konkurrensen.
-    - Sverige ska ha ett företagsklimat i världsklass.
-    - Stark ekonomi gör att vi kan satsa på välfärden.
+    - 'Ta tillvara globaliseringens möjligheter'
+    - 'Bryt bidragsberoendet'
+    - 'Skydda det som bygger välfärden'
   -
     fraga: Energi och elmarknad
     adress: https://www.liberalerna.se/politik/politikpolitikenergi/
     asikt:
-    - 100 procent fossilfri elproduktion.
-    - Mer marknad - inte mer subventioner
-    - Mer forskning och utveckling
-    - Stärk konsumentens ställning på elmarknanden
-    - Export av svensk klimatsmart el minskar våra grannländers beroende av fossil energi och rysk gas
-    - Stoppa Nordstream II
-    - Vi står inte bakom energiöverenskommelsen
+    - '100 procent fossilfri elproduktion.'
+    - 'Mer marknad - inte mer subventioner'
+    - 'Mer forskning och utveckling'
+    - 'Stärk konsumentens ställning på elmarknanden'
+    - 'Export av svensk klimatsmart el minskar våra grannländers beroende av fossil energi och rysk gas'
+    - 'Stoppa Nordstream II'
+    - 'Vi står inte bakom energiöverenskommelsen'
   -
     fraga: Ensamkommande barn och unga
     adress: https://www.liberalerna.se/politik/ensamkommande-barn-och-unga/
     asikt:
-    - Ensamkommande unga ska få ett bra och tryggt mottagande
-    - Barn ska behandlas som barn - medicinska åldersbedömningar behövs
-    - Skyddsskälen avgör om man får stanna eller inte
-    - Förbättra samhällets stöd till unga asylsökande
-    - Ensamkommande unga ska få information om svenska lagar och om jämställdhet
-    - Väntan på asylbesked måste kortas
+    - 'Ensamkommande unga ska få ett bra och tryggt mottagande'
+    - 'Barn ska behandlas som barn - medicinska åldersbedömningar behövs'
+    - 'Skyddsskälen avgör om man får stanna eller inte'
+    - 'Förbättra samhällets stöd till unga asylsökande'
+    - 'Ensamkommande unga ska få information om svenska lagar och om jämställdhet'
+    - 'Väntan på asylbesked måste kortas'
   -
     fraga: EU- miljön och klimatet
     adress: https://www.liberalerna.se/politik/eu-miljon-och-klimatet/
     asikt:
-    - Mer EU-samarbete, inte mindre, behövs för att rädda miljön och klimatet
-    - EU ska ta klimattäten internationellt
-    - Inför en europeisk koldioxidskatt
-    - Inför en europeisk flygskatt
-    - Effektivisera EU:s system med handel av utsläppsrätter
-    - Utveckla EU:s energiunion, minska beroendet av fossil energi som rysk gas
-    - Stärk samarbetet för att rädda miljön och den biologiska mångfalden inklusive Östersjön och andra hotade havsmiljöer
-    - Tugg och gemensam kemikalielagstiftning på EU-nivå
+    - 'Mer EU-samarbete, inte mindre, behövs för att rädda miljön och klimatet'
+    - 'EU ska ta klimattäten internationellt'
+    - 'Inför en europeisk koldioxidskatt'
+    - 'Inför en europeisk flygskatt'
+    - 'Effektivisera EU:s system med handel av utsläppsrätter'
+    - 'Utveckla EU:s energiunion, minska beroendet av fossil energi som rysk gas'
+    - 'Stärk samarbetet för att rädda miljön och den biologiska mångfalden inklusive Östersjön och andra hotade havsmiljöer'
+    - 'Tugg och gemensam kemikalielagstiftning på EU-nivå'
   -
     fraga: EU- jobb och tillväxt
     adress: https://www.liberalerna.se/politik/eu-jobb-och-tillvaxt/
     asikt:
-    - Ta bort onödiga hinder på EU:s inre marknad. Fler reformer behövs för tjänstesektorn och e-handeln.
-    - Ett frihandelsavtal mellan EU och USA skulle ge fler jobb och ökad tillväxt.
-    - Alla EU-medborgare ska kunna utnyttja den fria rörligheten och arbeta eller studera överallt i unionen.
-    - Arbetstagare från andra EU-länder ska få det grundläggande skydd som regleras i svenska lagar och kollektivavtal.
-    - Sverige bör införa euron som valuta när så är möjligt.
-    - Sverige bör ingå i bankunionen men säga nej till euroobligationer.
+    - 'Ta bort onödiga hinder på EU:s inre marknad. Fler reformer behövs för tjänstesektorn och e-handeln.'
+    - 'Ett frihandelsavtal mellan EU och USA skulle ge fler jobb och ökad tillväxt.'
+    - 'Alla EU-medborgare ska kunna utnyttja den fria rörligheten och arbeta eller studera överallt i unionen.'
+    - 'Arbetstagare från andra EU-länder ska få det grundläggande skydd som regleras i svenska lagar och kollektivavtal.'
+    - 'Sverige bör införa euron som valuta när så är möjligt.'
+    - 'Sverige bör ingå i bankunionen men säga nej till euroobligationer.'
   -
     fraga: Elevhälsa
     adress: https://www.liberalerna.se/politik/elevhalsa/
     asikt:
-    - En väl fungerande elevhälsa gör att fler elever når kunskapsmålen.
-    - Skolinspektionen ska granska att skolor lever upp till målen för elevhälsan.
-    - Fokus på elevhälsa ska förbättra samarbetet med sjukvården och socialtjänsten.
+    - 'En väl fungerande elevhälsa gör att fler elever når kunskapsmålen.'
+    - 'Skolinspektionen ska granska att skolor lever upp till målen för elevhälsan.'
+    - 'Elevhälsan ska förbättra samarbetet med sjukvården och socialtjänsten.'
   -
     fraga: Europas FBI
     adress: https://www.liberalerna.se/politik/europas-fbi/
     asikt:
-    - Vi vill ha ett europeiskt FBI, en polisstyrka som kan utreda grov brottslighet som skett i flera länder.
-    - Skapa en europeisk åklagarmyndighet som kan bedriva förundersökningar om allvarliga gränsöverskridande brott.
-    - Stärk skyddet för den personliga integriteten i det rättsliga samarbetet i Europa.
+    - 'Vi vill ha ett europeiskt FBI, en polisstyrka som kan utreda grov brottslighet som skett i flera länder.'
+    - 'Skapa en europeisk åklagarmyndighet som kan bedriva förundersökningar om allvarliga gränsöverskridande brott.'
+    - 'Stärk skyddet för den personliga integriteten i det rättsliga samarbetet i Europa.'
   -
     fraga: EU och mänskliga rättigheter
     adress: https://www.liberalerna.se/politik/eu-och-manskliga-rattigheter/
     asikt:
-    - Vi vill att EU:s medlemmars respekt för mänskliga rättigheter granskas och rapporter offentliggörs.
-    - Om ett EU-land bryter mot de mänskliga rättigheterna ska det få konsekvenser.
-    - EU-kommissionen ska kunna starta rättsliga processer mot EU-länder som inte följer de avtal om MR som ingicks när de tecknade medlemskap. Sanktioner ska kunna införas om medlemmar bryter dessa överenskommelser. Det kan handla om frysta utbetalningar av EU-medel och att ett land förlorar rösträtten i rådet under en period.
+    - 'Vi vill att EU:s medlemmars respekt för mänskliga rättigheter granskas och rapporter offentliggörs.'
+    - 'Om ett EU-land bryter mot de mänskliga rättigheterna ska det få konsekvenser.'
+    - 'EU-kommissionen ska kunna starta rättsliga processer mot EU-länder som inte följer de avtal om MR som ingicks när de tecknade medlemskap. Sanktioner ska kunna införas om medlemmar bryter dessa överenskommelser. Det kan handla om frysta utbetalningar av EU-medel och att ett land förlorar rösträtten i rådet under en period.'
   -
     fraga: Flyktingar
     adress: https://www.liberalerna.se/politik/flyktingar/
     asikt:
-    - Varje människa har rätt att söka asyl
-    - Varje människas skyddsskäl avgör om man har rätt att få asyl
-    - Ventiler behövs som gör att personer utan asylskäl kan få stanna på grund av ömmande omständigheter
-    - EU:s länder ska ha gemensamma asylregler
-    - Fler lagliga vägar behövs till EU
-    - Fler kvotflyktingar måste få skydd
-    - Splittra inte barnfamiljer
-    - Korta handläggningstiderna för asylansökningar
-    - Obligatorisk samhällsinformation och svenskundervisning under asyltiden
-    - Sverige ska tillsammans med EU och FN underlätta återvändandet
+    - 'Varje människa har rätt att söka asyl'
+    - 'Varje människas skyddsskäl avgör om man har rätt att få asyl'
+    - 'Ventiler behövs som gör att personer utan asylskäl kan få stanna på grund av ömmande omständigheter'
+    - 'EU:s länder ska ha gemensamma asylregler'
+    - 'Fler lagliga vägar behövs till EU'
+    - 'Fler kvotflyktingar måste få skydd'
+    - 'Splittra inte barnfamiljer'
+    - 'Korta handläggningstiderna för asylansökningar'
+    - 'Obligatorisk samhällsinformation och svenskundervisning under asyltiden'
+    - 'Sverige ska tillsammans med EU och FN underlätta återvändandet'
   -
     fraga: Friskolor
     adress: https://www.liberalerna.se/politik/friskolor/
     asikt:
-    - Aktivt skolval där alla föräldrar och elever ges möjlighet att välja skola.Genom en skolpeng som följer elevens val kan elever och föräldrar välja skola oavsett tjockleken på deras plånböcker.
-    - Skolpengens storlek kan variera efter elevens behov. Skolpeng som följer elevens val gör att alla kan välja skola oavsett tjockleken på plånboken.
-    - Vinstdrivande företag ska kunna driva bra skolor.
-    - Skolor som inte uppfyller lag- och kvalitetskrav ska snabbare kunna stängas.
-    - Kommunerna ska inte kunna hindra etablering av friskolor.
-    - Nyanlända elever ska ges möjlighet att gå i friskolor.
+    - 'Aktivt skolval där alla föräldrar och elever ges möjlighet att välja skola'
+    - 'Skolpeng som följer elevens val gör att alla kan välja skola oavsett tjockleken på plånboken'
+    - 'Vinstdrivande företag ska kunna driva skolor'
+    - 'Skolor som inte uppfyller lag- och kvalitetskrav ska snabbare kunna stängas'
+    - 'Kommunerna ska inte kunna hindra etablering av friskolor'
+    - 'Nyanlända elever ska ges möjlighet att gå i friskolor'
   -
     fraga: Familjepolitik
-    adress: https://www.liberalerna.se/politik/politikfamiljepolitik/
+    adress: https://www.liberalerna.se/politik/familjepolitik/
     asikt:
-    - Vi vill öka stödet till familjer med problem.
-    - Förbättra situationen för ekonomiskt utsatta familjer.
-    - FN:s barnkonvention ska införlivas i svensk lag.
+    - 'Modernisera föräldraförsäkringen'
+    - 'Motverka barnfattigdom genom jobbpolitik'
+    - 'Ge snabb hjälp till familjer med problem'
   -
-    fraga: Fastighetsskatt
-    adress: https://www.liberalerna.se/politik/politikfastighetsskatt/
+    fraga: Fastighetsbeskattning och ränteavdrag
+    adress: https://www.liberalerna.se/politik/fastighetsskatt/
     asikt:
-    - Behåll dagens system med en låg och stabil fastighetsavgift istället för fastighetsskatt.
-    - Hela vinstbeloppet vid fastighetsförsäljning ska kunna skjutas upp och uppskovsbeloppet ska inte beläggs med ränta.
-    - Trappa ner ränteavdragen från 30 till 20 procent över tio år, och sänk taket för avdrag från 100 000 kronor till 75 000 kronor.
+    - 'Sänk flyttskatterna'
+    - 'Trappa ner ränteavdragen'
+    - 'Höj skatten på obebyggd tomtmark'
   -
     fraga: Fiske
     adress: https://www.liberalerna.se/politik/fiske/
     asikt:
-    - Fisket ska vara långsiktigt hållbart för att fisken inte ska ta slut
-    - Ett hållbart fiske vilar på vetenskaplig grund
-    - Akuta fiskestopp ska vara möjliga
-    - Premiera miljövänligt fiske med högre fiskekvoter
-    - Tydlig miljö- och ursprungsmärkning av fisk underlättar för konsumenter
-    - Plast, läkemedel och annat som smutsar ner haven måste bort
-    - EU:s reformerade fiskeripolitik ska införas inom hela EU.
+    - 'Fisket ska vara långsiktigt hållbart för att fisken inte ska ta slut'
+    - 'Ett hållbart fiske vilar på vetenskaplig grund'
+    - 'Akuta fiskestopp ska vara möjliga'
+    - 'Premiera miljövänligt fiske med högre fiskekvoter'
+    - 'Tydlig miljö- och ursprungsmärkning av fisk underlättar för konsumenter'
+    - 'Plast, läkemedel och annat som smutsar ner haven måste bort'
+    - 'EU:s reformerade fiskeripolitik ska införas inom hela EU.'
   -
-    fraga: Förenta nationerna
-    adress: https://www.liberalerna.se/politik/forenta-nationerna/
+    fraga: FN
+    adress: https://www.liberalerna.se/politik/fn/
     asikt:
-    - Reformera FN. Diktaturer ska inte kunna blockera insatser och åtgärder vid mänskliga tragedier och naturkatastrofer.
-    - Ge mellanstatliga regionala organisationer större möjlighet att förhindra folkmord då FN:s säkerhetsråd är lamslaget.
-    - Inför ett demokratikrav för medlemskap i FN:s råd för mänskliga rättigheter.
-    - Vi vill stärka Internationella brottmålsdomstolens roll för att åtala i brott mot mänskliga rättigheter.
+    - 'Gör FN:s barnkonvention till svensk lag'
+    - 'Reformera FN - diktaturer ska inte kunna blockera insatser och åtgärder vid mänskliga tragedier och naturkatastrofer'
+    - 'Ge mellanstatliga regionala organisationer större möjlighet att förhindra folkmord då FN:s säkerhetsråd är lamslaget'
+    - 'Inför ett demokratikrav för medlemskap i FN:s råd för mänskliga rättigheter'
+    - 'Vi vill stärka Internationella brottmålsdomstolens roll för att åtala i brott mot mänskliga rättigheter'
   -
     fraga: Forskning
     adress: https://www.liberalerna.se/politik/forskning/
     asikt:
-    - Mer pengar till forskning. Liberalerna vill fortsätta med alliansregeringens historiskt stora satsningar på forskning.
-    - Våga satsa på de bästa forskarna och den bästa forskningen.
-    - Skapa bättre villkor och tydligare karriärvägar för yngre forskare.
-    - Inför rätt till prövning för tillsvidareanställning efter en meriteringsanställning.
-    - Resursfördelning enligt tydliga kvalitetsindikatorer.
+    - 'Mer pengar till forskning. Liberalerna vill fortsätta med alliansregeringens historiskt stora satsningar på forskning'
+    - 'Våga satsa på de bästa forskarna och den bästa forskningen'
+    - 'Skapa bättre villkor och tydligare karriärvägar för yngre forskare'
+    - 'Inför rätt till prövning för tillsvidareanställning efter en meriteringsanställning'
+    - 'Resursfördelning enligt tydliga kvalitetsindikatorer'
   -
     fraga: Försvarets radioanstalt
     adress: https://www.liberalerna.se/politik/forsvarets-radioanstalt/
     asikt:
-    - Sverige ska ha en effektiv signalspaning som bidrar till ökad säkerhet för oss och våra samarbetspartners.
-    - Vi ska ha starkast möjliga skydd för den personliga integriteten vid signalspaning.
+    - 'Sverige ska ha en effektiv signalspaning som bidrar till ökad säkerhet för oss och våra samarbetspartners.'
+    - 'Vi ska ha starkast möjliga skydd för den personliga integriteten vid signalspaning.'
   -
     fraga: Frihandel
     adress: https://www.liberalerna.se/politik/frihandel/
     asikt:
-    - Vi vill stärka världshandelsorganisationen (WTO) och driva på för att handelsförhandlingarna slutförs.
-    - Stärk EUs inre marknaden. EU ska ha en öppen handelspolitik.
-    - Reformera Jordbrukspolitiken inom EU.
-    - Inför Euro som valuta.
-    - Vi vill ha ett globalt handelsavtal och frihandelsavtal mellan EU och USA, det så kallade TTIP-avtalet.
+    - 'Reformera jordbrukspolitiken inom EU'
+    - 'Stärk EUs inre marknad, EU ska ha en öppen handelspolitik'
+    - 'Vi vill stärka världshandelsorganisationen (WTO) och driva på för att handelsförhandlingarna slutförs'
+    - 'Vi vill ha ett frihandelsavtal mellan EU och USA'
+    - 'Sverige ska vara och konkurrera som en av världens främsta kunskapsnationer'
   -
     fraga: Funktionsnedsättning
     adress: https://www.liberalerna.se/politik/funktionsnedsattning/
     asikt:
-    - Bristande tillgänglighet är diskriminering
-    - Myndigheter ska samverka för att ge bästa möjliga stöd
-    - Bättre stöd i skolan till barn med funktionsnedsättning
-    - Inför fritt val av hjälpmedel i hela landet
-    - Återupprätta LSS och personlig assistans
+    - 'Bristande tillgänglighet är diskriminering'
+    - 'Myndigheter ska samverka för att ge bästa möjliga stöd'
+    - 'Bättre stöd i skolan till barn med funktionsnedsättning'
+    - 'Inför fritt val av hjälpmedel i hela landet'
+    - 'Återupprätta LSS och personlig assistans'
   -
     fraga: Fördelningspolitik
     adress: https://www.liberalerna.se/politik/fordelningspolitik/
     asikt:
-    - Alla ska ha rätt till en grundläggande ekonomisk standard.
-    - Alla ska ha rätt till välfärd med hög kvalitet.
-    - Vi vill att fler ska jobba så att fler kan försörja sig själva.
+    - 'Alla ska ha rätt till en grundläggande ekonomisk standard.'
+    - 'Alla ska ha rätt till välfärd med hög kvalitet.'
+    - 'Vi vill att fler ska jobba så att fler kan försörja sig själva.'
   -
     fraga: Företagande
-    adress: https://www.liberalerna.se/politik/politikforetagande/
+    adress: https://www.liberalerna.se/politik/foretagande/
     asikt:
-    - Vi vill att det ska vara lättare att bilda nya företag som kan växa.
-    - Företag ska kunna ha all kontakt med myndigheter på ett ställe, inte behöva rapportera samma sak till flera.
-    - Vi vill förenkla och förtydliga företagens informationslämning enligt miljöbalken och arbetsmiljölagen.
-    - Lagförslag från EU-kommissionen ska konsekvensbedömas när det gäller företag, särskilt de mindre.
-    - Alla ska få behålla minst hälften av en lönehöjning.
-    - Vi vill ha en obligatorisk arbetslöshetsförsäkring.
+    - 'Vi vill att det ska vara lättare att bilda nya företag som kan växa'
+    - 'Sänka bolagsskatten och arbetsgivaravgifterna'
+    - 'Slopa preliminärskatten'
+    - 'Företag ska kunna ha all kontakt med myndigheter på ett ställe, inte behöva rapportera samma sak till flera'
+    - 'Alla ska få behålla minst hälften av sin löneökning'
+    - 'Vi vill ha en obligatorisk arbetslöshetsförsäkring'
   -
     fraga: Förskolan
     adress: https://www.liberalerna.se/politik/forskolan/
     asikt:
-    - Målet ska vara att alla ska kunna läsandets grunder när de slutar förskolan.
-    - Vi vill att barn till föräldralediga och arbetslösa ska ha rätt till 30 timmars vistelse i veckan till skillnad från dagens 15 timmar. Det ska även finnas tillgång till nattis.
-    - Alla ska ha rätt att välja förskola för sina barn finansierad med förskolepeng.
-    - Alla förskolegrupper ska ledas av en förskollärare. Det ska finnas karriärtjänster för förskollärare.
-    - Inrätta en nationell förskoleinspektion.
+    - 'Målet ska vara att alla ska kunna läsandets grunder när de slutar förskolan'
+    - 'Barn till föräldralediga och arbetslösa ska ha rätt till 30 timmars vistelse i veckan'
+    - 'Alla ska ha rätt att välja förskola för sina barn finansierad med förskolepeng'
+    - 'Alla förskolegrupper ska ledas av en förskollärare. Det ska finnas karriärtjänster för förskollärare'
+    - 'En nationell förskoleinspektion ska inrättas'
+  -
+    fraga: Försvar
+    adress: https://www.liberalerna.se/politik/forsvar/
+    asikt:
+    - 'Vi vill återskaffa värnplikten men aktivt arbeta för att maximera antalet frivilligt sökande.'
+    - 'Öka antalet bataljoner och flygflottiljer'
+    - 'Behåll de äldre JAS-planen för att stärka vårt luftförsvar'
+  -
+    fraga: Försvarets personal
+    adress: https://www.liberalerna.se/politik/forsvarets-personal/
+    asikt:
+    - 'Vi vill återskaffa värnplikten men aktivt arbeta för att maximera antalet frivilligt sökande.'
+    - 'Villkoren för dem som tjänstgjort i utlandet ska förbättras och deras insatser ska uppmärksammas i större utsträckning.'
+    - 'Stödet till veteranorganisationer ska förbättras.'
+    - 'Ansvaret för utlandstjänstgörande personal ska också omfatta vissa lokalanställda, som exempelvis tolkar.'
+    - 'Inrätta &quot;riksdagens hedersmedalj för internationell insats&quot; som ges till den som gjort en särskilt ansenlig gärning.'
+    - 'Villkoren för anställda och veteraner ska förbättras.'
+    - 'Vi vill inrätta ett nationellt veterancenter.'
   -
     fraga: Försörjningsstöd
     adress: https://www.liberalerna.se/politik/forsorjningsstod/
     asikt:
-    - Det ska löna sig att arbeta - även för den som har försörjningsstöd.
-    - Öka jobbstimulansen i försörjningsstödet
-    - Socialtjänsten ska kunna ställa krav på motprestation från den som får försörjningsstöd
+    - 'Det ska löna sig att arbeta - även för den som har försörjningsstöd.'
+    - 'Öka jobbstimulansen i försörjningsstödet'
+    - 'Socialtjänsten ska kunna ställa krav på motprestation från den som får försörjningsstöd'
   -
     fraga: Föräldraförsäkring
-    adress: https://www.liberalerna.se/politik/politikforaldraforsakring/
+    adress: https://www.liberalerna.se/politik/foraldraforsakring/
     asikt:
-    - Höj jämställdhetsbonusen för ett mer jämställt uttag av föräldraförsäkringen.
-    - Ta bort regler som inte uppmuntrar till att börja jobba efter att man fått barn.
-    - Se över föräldraförsäkringen i grunden.
+    - 'Inför en helt ny föräldraförsäkring.'
+    - 'De flesta dagar ska tas ut när det behövs som allra mest - under barnets första två år. Resten ska kunna användas tills barnet börjat skolan.'
+    - 'Gör det möjligt att välja mellan två spår: färre dagar med 100 procent ersättning av lönen (upp till taket) eller lite fler dagar med 70 procent ersättning.'
+    - 'Lika många öronmärkta dagar som i dag, 90 dagar till vardera föräldern.'
+    - 'Familjer ser olika ut - gör det lättare att överlåta dagar till tredje person.'
+    - 'Höj ersättningstaket för vab (vård av sjukt barn).'
   -
     fraga: Förnybar energi
     adress: https://www.liberalerna.se/politik/fornybar-energi/
     asikt:
-    - All fossilfri elproduktion behövs för att rädda klimatet
-    - Mer marknad, inte mer subventioner
-    - Förnybar energi ska byggas där den behövs och när den behövs
-    - Förenklade regler för småskalig elproduktion
-    - Avskaffa solskatten
+    - 'All fossilfri elproduktion behövs för att rädda klimatet'
+    - 'Mer marknad, inte mer subventioner'
+    - 'Förnybar energi ska byggas där den behövs och när den behövs'
+    - 'Förenklade regler för småskalig elproduktion'
+    - 'Avskaffa solskatten'
   -
     fraga: Flygskatt
     adress: https://www.liberalerna.se/politik/flygskatt/
     asikt:
-    - Flyget ska stå för sina klimatkostnader
-    - Inför en europeisk flygskatt
-    - Effektivisera systemet med handel av utsläppsrätter
-    - Mer biodrivmedel i tanken - inför ett reduktionspliktssystem
-    - Inför differentierade landningsavgifter
-    - Obligatorisk klimatdeklaration i reklam och vid bokning av flygresor
+    - 'Flyget ska stå för sina klimatkostnader'
+    - 'Inför en europeisk flygskatt'
+    - 'Effektivisera systemet med handel av utsläppsrätter'
+    - 'Mer biodrivmedel i tanken - inför ett reduktionspliktssystem'
+    - 'Inför differentierade landningsavgifter'
+    - 'Obligatorisk klimatdeklaration i reklam och vid bokning av flygresor'
+  -
+    fraga: Finanspolitik
+    adress: https://www.liberalerna.se/politik/finanspolitik/
+    asikt:
+    - 'Respektera överskottsmålet'
+    - 'Öka det finansiella sparandet'
+    - 'Ja till bankunion, nej till bankskatt'
+    - 'Stärk Finanspolitiska rådet'
   -
     fraga: Globalisering
     adress: https://www.liberalerna.se/politik/politikglobalisering/
     asikt:
-    - Öppna Sverige för nya idéer och människor som kan och vill bidra till vår utveckling.
-    - Sverige ska vara en av världens främsta kunskapsnationer.
-    - Öka solidariteten med fattiga länder, förbättra biståndet och riv västvärldens tullmurar.
-    - Vi vill ha ett globalt handelsavtal och ett frihandelsavtal mellan EU och USA.
+    - 'Öppna Sverige för nya idéer och människor som kan och vill bidra till vår utveckling.'
+    - 'Sverige ska vara en av världens främsta kunskapsnationer.'
+    - 'Öka solidariteten med fattiga länder, förbättra biståndet och riv västvärldens tullmurar.'
+    - 'Vi vill ha ett globalt handelsavtal och ett frihandelsavtal mellan EU och USA.'
   -
     fraga: Grundlagen
     adress: https://www.liberalerna.se/politik/grundlagen/
     asikt:
-    - Vi vill införa en författningsdomstol, så att beslut som strider mot grundlagarna hindras.
-    - Sänk spärrarna till personvalet.
-    - Vi vill stärka meddelarskyddet i offentligt finansierad verksamhet, t ex sjukhus och vårdcentraler, som drivs privat.
+    - 'Inför en författningsdomstol, så att beslut som strider mot grundlagarna hindras.'
+    - 'Gör domstolarna mer oberoende mot politisk påverkan.'
+    - 'Sänk spärrarna till personvalet.'
   -
     fraga: Grön skatteväxling
     adress: https://www.liberalerna.se/politik/gron-skattevaxling/
     asikt:
-    - Förorenaren ska betala - den som smutsar ner ska betala mer.
-    - För att minska utsläppen och miljöskadliga verksamheter vill vi höja miljö- och klimatskatterna samtidigt som skatten på jobb sänks.
+    - 'Förorenaren ska betala - den som smutsar ner ska betala mer.'
+    - 'För att minska utsläppen och miljöskadliga verksamheter vill vi höja miljö- och klimatskatterna samtidigt som skatten på jobb sänks.'
   -
     fraga: Gymnasieskolan
-    adress: https://www.liberalerna.se/politik/politikgymnasieskolan/
+    adress: https://www.liberalerna.se/politik/gymnasieskolan/
     asikt:
-    - Det ska vara höga krav för att komma in i gymnasieskolan och ta examen. Ansträngning ska uppmuntras med meritpoäng.
-    - Yrkeseleverna ska inte tvingas läsa in högskolebehörighet, men det ska vara en möjlighet för alla.
-    - Lärlingsutbildning ska vara ett alternativ för den som vill lära sig ett yrke.
+    - 'Det ska vara höga krav för att komma in i gymnasieskolan och ta examen'
+    - 'Extra ansträngning ska uppmuntras med meritpoäng'
+    - 'Yrkeseleverna ska inte tvingas läsa in högskolebehörighet, men det ska vara en möjlighet för alla'
+    - 'Gymnasieskolan ska vara ämnesutformad, inte kursutformad'
+    - 'Ett avslutande nationellt examensprov ska införas'
   -
     fraga: Grundskolan
-    adress: https://www.liberalerna.se/politik/politikgrundskolan/
+    adress: https://www.liberalerna.se/politik/grundskolan/
     asikt:
-    - Vi vill uppvärdera läraryrket och öka lärares status genom karriärtjänster med högre lön.
-    - Ta krafttag mot mobbning, våld och skolk.
-    - Skolan ska vara statlig.
-    - Vi vill ha betyg från åk 4 och tioårig grundskola med tidigare skolstart.
-    - Satsa på mindre klasser, fler lärare och speciallärare i lågstadiet.
-    - Vi vill införa rätt till obligatorisk läxläsning för de som behöver i skolan.
-    - Inför sommarskola för dem som inte nått målen i högstadiet.
-    - Minska lärarnas administrationsbörda.
-    - Vi vill ha central rättning av de nationella proven.
-    - Vi vill att idrott i grundskolan ökar med 100 timmar.
+    - 'Lärarnas status ska höjas genom karriärtjänster med högre lön och bättre arbetsvillkor.'
+    - 'Krafttag och nolltolerans mot mobbning, våld och skolk.'
+    - 'Återförstatliga skolan.'
+    - 'Betyg från årskurs 4 och nationella prov från årskurs 3.'
+    - 'Nationella proven ska bli digitala och rättas externt.'
+    - 'Förskoleklassen blir årskurs 1 i en tio-årig tioårig grundskola.'
   -
     fraga: Hav
     adress: https://www.liberalerna.se/politik/hav/
     asikt:
-    - Rena hav - plast, läkemedel och annat måste bort från våra hav
-    - Rena stränder - stränder ska städas från plast och annat skräp
-    - Marina reservat skyddar fisk och andra djur och växter
-    - Övergödningen av våra hav måste stoppas - en läckageskatt ska införas
-    - Östersjön måste räddas
-    - Stoppa stranderosionen
-    - Ett hållbart fiske utgår från vetenskapliga rekommendationer
-    - Akuta fiskestopp ska vara möjligt
-    - Premiera miljövänligt fiske med högre fiskekvoter
-    - Enkel och tydlig märkning förenklar för konsumenten att välja bra fisk och skaldjur
+    - 'Rena hav - plast, läkemedel och annat måste bort från våra hav'
+    - 'Rena stränder - stränder ska städas från plast och annat skräp'
+    - 'Marina reservat skyddar fisk och andra djur och växter'
+    - 'Övergödningen av våra hav måste stoppas - en läckageskatt ska införas'
+    - 'Östersjön måste räddas'
+    - 'Stoppa stranderosionen'
+    - 'Ett hållbart fiske utgår från vetenskapliga rekommendationer'
+    - 'Akuta fiskestopp ska vara möjligt'
+    - 'Premiera miljövänligt fiske med högre fiskekvoter'
+    - 'Enkel och tydlig märkning förenklar för konsumenten att välja bra fisk och skaldjur'
   -
-    fraga: HBTQ-frågor
-    adress: https://www.liberalerna.se/politik/politikhbtq-fragor/
+    fraga: HBT-frågor
+    adress: https://www.liberalerna.se/politik/hbt-fragor/
     asikt:
-    - Vi vill att EU ska erkänna den samkönade familjen och stärka diskrimineringsskyddet för HBTQ-personer.
-    - Öka HBTQ-kompetensen i skola, vård, äldreomsorg och annan offentlig verksamhet.
-    - Vi vill stärka Sveriges internationella arbete för att stötta HBTQ-rörelsen i länder där rättigheter kränks.
+    - 'Sverige ska vara världens bästa land för hbt-personer.'
+    - 'Skolan ska vara en frizon från homo-, bi- och transfobi.'
+    - 'Öka hbt-kompetensen även i vård, äldreomsorg och andra verksamheter.'
+    - 'Erkänn den samkönade familjen i EU:s lagar.'
+    - 'Stärk EU:s diskrimineringsskydd för hbt-personer.'
+    - 'Öka Sveriges stöd till hbt-rörelsen i länder där rättigheter kränks.'
+    - 'Förföljda hbt-personer ska ha möjlighet till asyl i Sverige.'
+    - 'Ja till värdmoderskap där betalning inte är inblandad.'
+    - 'Skydda transpersoner i lagarna mot hatbrott.'
+    - 'Gör det lättare för unga transpersoner att ändra sitt juridiska kön och få könskorrigering.'
+    - 'Utred möjligheten till ett tredje kön i folkbokföringen.'
   -
     fraga: Hedersrelaterat våld och förtryck
     adress: https://www.liberalerna.se/politik/hedersrelaterat-vald-och-fortryck/
     asikt:
-    - Varje människas frihet måste försvaras
-    - Kultur eller religion är ingen ursäkt för att inskränka en persons frihet
-    - Arbetet mot hedersrelaterat våld och förtryck måste permanentas
-    - Avsätt ordentligt med resurser för arbete mot hedersförtryck
-    - Alla kommuner ska ha beredskap att hjälpa den som hotas av hedersrelaterat våld eller förtryck
-    - Högre straff för hedersrelaterade brott
-    - Ökat skydd för dem som lever med hot
-    - Stöd förortens feminister men inga pengar till organisationer som motverkar jämställdhet
-    - Skärp lagen mot barn- och tvångsäktenskap
+    - 'Varje människas frihet måste försvaras'
+    - 'Kultur eller religion är ingen ursäkt för att inskränka en persons frihet'
+    - 'Arbetet mot hedersrelaterat våld och förtryck måste permanentas'
+    - 'Avsätt ordentligt med resurser för arbete mot hedersförtryck'
+    - 'Alla kommuner ska ha beredskap att hjälpa den som hotas av hedersrelaterat våld eller förtryck'
+    - 'Högre straff för hedersrelaterade brott'
+    - 'Ökat skydd för dem som lever med hot'
+    - 'Stöd förortens feminister men inga pengar till organisationer som motverkar jämställdhet'
+    - 'Skärp lagen mot barn- och tvångsäktenskap'
   -
     fraga: Hemlöshet
-    adress: https://www.liberalerna.se/politik/politikhemloshet/
+    adress: https://www.liberalerna.se/politik/hemloshet/
     asikt:
-    - Hemlöshet hänger oftast ihop med andra problem, och det behövs bättre samverkan för att hjälpa människor ur hemlöshet.
-    - Vi vill inte förbjuda hemlöshet eller tiggeri. Det är orsakerna till hemlöshet som ska bekämpas, inte människorna.
-    - Att människor från andra EU-länder tigger i Sverige beror på fattigdom och diskriminering i hemländerna.
-    - Förbättra det förebyggande arbetet för att undvika vräkning, särskilt av barnfamiljer.
+    - 'Hemlöshet hänger oftast ihop med andra problem, och det behövs bättre samverkan för att hjälpa människor ur hemlöshet.'
+    - 'Vi vill inte förbjuda hemlöshet eller tiggeri. Det är orsakerna till hemlöshet som ska bekämpas, inte människorna.'
+    - 'Att människor från andra EU-länder tigger i Sverige beror på fattigdom och diskriminering i hemländerna.'
+    - 'Förbättra det förebyggande arbetet för att undvika vräkning, särskilt av barnfamiljer.'
   -
     fraga: Hemtjänst
     adress: https://www.liberalerna.se/politik/hemtjanst/
     asikt:
-    - RUT-tjänster ska i stor utsträckning ersätta hemtjänsten för den som inte behöver hjälp med omvårdnad.
-    - Den grundläggande kvalitén i den kommunala hemtjänsten bör garanteras.
-    - Utnyttja ny teknik för mer självständighet.
-    - Valfriheten måste ökas, en lösning fungerar inte för alla.
+    - 'RUT-tjänster ska i stor utsträckning ersätta hemtjänsten för den som inte behöver hjälp med omvårdnad.'
+    - 'Den grundläggande kvalitén i den kommunala hemtjänsten bör garanteras.'
+    - 'Utnyttja ny teknik för mer självständighet.'
+    - 'Valfriheten måste ökas, en lösning fungerar inte för alla.'
   -
     fraga: Hyresrätter
-    adress: https://www.liberalerna.se/politik/politikhyresratter/
+    adress: https://www.liberalerna.se/politik/hyresratter/
     asikt:
-    - Bruksvärdessystemet ska behållas för dagens bostadsbeståndet, och förändras så att konsumentens efterfrågan och individuella val speglas tydligare i hyran.
-    - Fri hyressättning ska tillåtas för den som flyttar in i ett nybyggt hus.
-    - Vi vill ha en öppen redovisning av hyresnivåerna som alla lätt kan ta del av.
+    - 'Hyresgästen ska kunna påverka sin hyra genom tillval och frånval.'
+    - 'Ändra systemet för hyressättning så att konsumentens efterfrågan speglas tydligare i hyran.'
+    - 'Tillåt fri hyressättning i helt nybyggda hus.'
+    - 'Gör det lättare för konsumenten att jämföra hyresnivåer i olika områden.'
   -
     fraga: Högre utbildning
     adress: https://www.liberalerna.se/politik/hogre-utbildning/
     asikt:
-    - För att höja kvaliteten i undervisningen krävs ett tydligt kvalitetssäkringssystem, högre inträdeskrav och en större andel lärarledd undervisning.
-    - Sommarkurserna ska utökas så att fler studenter snabbare ska kunna avsluta sina studier.
+    - 'Resursfördelningen ska styras av kvalitetskriterier'
+    - 'Inträdeskraven ska vara höga'
+    - 'Andel lärarledd undervisning ska öka'
+    - 'Inrätta ett Nobelstipendium'
   -
     fraga: Idrott
     adress: https://www.liberalerna.se/politik/idrott/
     asikt:
-    - Vi vill stärka det fria och ideella föreningslivet i Sverige
-    - Idrottsanläggningar ska vara tillgängliga för personer med funktionsnedsättning - för både publik och idrottare
-    - Öka antalet idrottstimmar i grundskolan med 100 timmar
-    - Det ska vara goda villkor för sponsring av idrott
-    - Arbetet för jämställdhet måste finnas med i all idrottsverksamhet
-  -
-    fraga: Idrottsvåld
-    adress: https://www.liberalerna.se/politik/idrottsvald/
-    asikt:
-    - Kända våldsverkare ska inte få vara i närheten av en arena när det är match.
-    - Öka kameraövervakningen på arenorna.
-    - Klubbarna och polisen ska ha bättre möjligheter att sköta säkerheten.
-    - Ta krafttag mot alkohol och narkotika på arenorna.
+    - 'Vi vill stärka det fria och ideella föreningslivet i Sverige'
+    - 'Idrottsanläggningar ska vara tillgängliga för personer med funktionsnedsättning - för både publik och idrottare'
+    - 'Öka antalet idrottstimmar i grundskolan med 100 timmar'
+    - 'Det ska vara goda villkor för sponsring av idrott'
+    - 'Arbetet för jämställdhet måste finnas med i all idrottsverksamhet'
   -
     fraga: Infrastruktur
     adress: https://www.liberalerna.se/politik/politikinfrastruktur/
     asikt:
-    - Upprusta och bygg ut väg- och järnvägsnätet. En bra infrastruktur behövs för jobben, tillväxten och välfärden.
-    - Gynna klimatsmarta transporter. Järnvägsnätet ska rustas upp kraftigt och befintliga banor byggas ut.
-    - Erkänn bilens roll på landsbygden.
-    - Satsa på cykelinfrastruktur och erkänn cykeln som eget transportmedel.
-    - Rusta upp regionala vägar. Vi säger nej till kilometerskatt, en straffskatt på företag i glesbygd.
-  -
-    fraga: Inkomstklyftor
-    adress: https://www.liberalerna.se/politik/inkomstklyftor/
-    asikt:
-    - Alla ska ha rätt till en grundläggande ekonomisk standard.
-    - Alla ska ha rätt till välfärd med hög kvalitet.
-    - Vi vill att fler ska jobba så att fler kan försörja sig själva.
+    - 'Upprusta och bygg ut väg- och järnvägsnätet. En bra infrastruktur behövs för jobben, tillväxten och välfärden.'
+    - 'Gynna klimatsmarta transporter. Järnvägsnätet ska rustas upp kraftigt och befintliga banor byggas ut.'
+    - 'Erkänn bilens roll på landsbygden.'
+    - 'Satsa på cykelinfrastruktur och erkänn cykeln som eget transportmedel.'
+    - 'Rusta upp regionala vägar. Vi säger nej till kilometerskatt, en straffskatt på företag i glesbygd.'
   -
     fraga: Integration
     adress: https://www.liberalerna.se/politik/integration/
     asikt:
-    - Gör det billigare och enklare att anställa - inför inträdesjobb
-    - Snabbare validering, inför yrkesskola, mer vuxenutbildning och lärlingsanställningar
-    - Språk - ökat deltagande i sfi, kombinera sfi med jobb
-    - Krav på motprestation för att få ekonomiskt stöd
-    - Mer tid för nyanlända elever i skolan
-    - Karriärtjänster för lärare i utsatta områden
-    - Bekämpa hedersrelaterat våld och förtryck
-    - Stopp för nya religiösa friskolor
-    - Obligatorisk samhällsinformation
-    - Inga pengar till föreningar som motverkar jämställhet och integration
-    - Språk- och samhällsprov vid ansökan om medborgarskap
-    - Motverka trångboddhet, svartkontrakt och försäljning av fiktiva adresser
-    - Begränsa EBO (sk. eget boende)
+    - 'Gör det billigare och enklare att anställa - inför inträdesjobb'
+    - 'Snabbare validering, inför yrkesskola, mer vuxenutbildning och lärlingsanställningar'
+    - 'Språk - ökat deltagande i sfi, kombinera sfi med jobb'
+    - 'Krav på motprestation för att få ekonomiskt stöd'
+    - 'Mer tid för nyanlända elever i skolan'
+    - 'Karriärtjänster för lärare i utsatta områden'
+    - 'Bekämpa hedersrelaterat våld och förtryck'
+    - 'Stopp för nya religiösa friskolor'
+    - 'Obligatorisk samhällsinformation'
+    - 'Inga pengar till föreningar som motverkar jämställhet och integration'
+    - 'Språk- och samhällsprov vid ansökan om medborgarskap'
+    - 'Motverka trångboddhet, svartkontrakt och försäljning av fiktiva adresser'
+    - 'Begränsa EBO (sk. eget boende)'
   -
     fraga: Integritet
     adress: https://www.liberalerna.se/politik/integritet/
     asikt:
-    - Gör om Datainspektionen till Integritetsinspektionen och ge dem mandat att bevaka integritetsfrågor i hela samhället.
-    - Vi vill se över grundlagens delar om integritetskränkande databastjänster på nätet.
-    - Inför en regel om att integritetsfrågan alltid måste analyseras innan nya lagar föreslås.
+    - 'När nya lagar tas fram ska effekterna på integriteten alltid analyseras på förhand.'
+    - 'Stärk konsumenters integritet på nätet.'
+    - 'Kameraövervakning bara där den verkligen behövs.'
   -
     fraga: Invandring
     adress: https://www.liberalerna.se/politik/invandring/
     asikt:
-    - Öppenhet gör vårt land rikare
-    - Sverige behöver fler som flyttar hit för att jobba och studera
-    - Vi vill förenkla för arbetskraftsinvandring både till Sverige och EU
-    - Människor som jobbar och gör rätt för sig ska inte utvisas
-    - Människor på flykt måste få stöd och hjälp av omvärlden
-    - Sverige och Europa ska stå upp för en human och solidarisk asylpolitik
+    - 'Öppenhet gör vårt land rikare'
+    - 'Sverige behöver fler som flyttar hit för att jobba och studera'
+    - 'Vi vill förenkla för arbetskraftsinvandring både till Sverige och EU'
+    - 'Människor som jobbar och gör rätt för sig ska inte utvisas'
+    - 'Människor på flykt måste få stöd och hjälp av omvärlden'
+    - 'Sverige och Europa ska stå upp för en human och solidarisk asylpolitik'
   -
     fraga: IT-politik
     adress: https://www.liberalerna.se/politik/politikit-politik/
     asikt:
-    - Utveckla IT-infrastrukturen. Staten ska fortsätta medfinansiera bredbandsutbyggnad utanför städer och i glesbygd.
-    - IT ska ha en naturlig roll i skolundervisningen.
-    - Det behövs en ny upphovsrättslag för bättre balans mellan upphovsrättshavarens intressen och allmänintresset.
+    - 'Utveckla IT-infrastrukturen. Staten ska fortsätta medfinansiera bredbandsutbyggnad utanför städer och i glesbygd.'
+    - 'IT ska ha en naturlig roll i skolundervisningen.'
+    - 'Det behövs en ny upphovsrättslag för bättre balans mellan upphovsrättshavarens intressen och allmänintresset.'
   -
     fraga: Inkomstskatt
     adress: https://www.liberalerna.se/politik/inkomstskatt/
     asikt:
-    - Värnskatten ska helt avskaffas.
-    - Brytpunkten för den statliga inkomstskatten ska kraftigt höjas.
-    - Åldersgränsen för det förstärkta jobbskatteavdraget för äldre ska sänkas till 63 år.
+    - 'Höj brytpunkten för statlig skatt'
+    - 'Avskaffa värnskatten'
+    - 'Återställ jobbskatteavdraget'
+    - 'Modernisera expertskatten'
+    - 'Förläng arbetslivet'
+    - 'Sänk skatten för pensionärerna'
   -
-    fraga: Jobb och ekonomi
-    adress: https://www.liberalerna.se/politik/politikjobb-och-ekonomi/
+    fraga: Inträdesjobb
+    adress: https://www.liberalerna.se/politik/intradesjobb/
     asikt:
-    - Alla ska få behålla minst hälften av en löneökning.
-    - På sikt vill vi genomföra en större skattereform, för att anpassa svenska skatter till den globala konkurrensen
-    - Sverige ska ha ett företagsklimat i världsklass.
-    - Sverige ska fortsätta att ha starka offentliga finanser, vilket ger en buffert i orostider och gör att vi kan värna och satsa på välfärden
-    - En human asylpolitik måste kombineras med en väl fungerande integrationspolitik med fokus på jobb
-    - En öppnare arbetsmarknad med lägre trösklar till jobb och modernare arbetsrätt för att öka rörligheten på arbetsmarknaden.
-    - Avskaffa vårdnadsbidraget som bidrar till att utestänga utrikes födda kvinnor från arbetsmarknaden
-    - Fortsatta satsningar på validering och kompletterande utbildningar
-    - Ökad individualisering av SFI-undervisningen samt underlätta en kombination av studier och praktik/arbete.
+    - 'Inträdesjobb är en förenklad anställning för nyanlända och unga upp till 23 år utan gymnasieexamen.'
+    - 'Lönen uppgår till 70 procent av rådande ingångslön i branschen, upp till ett tak om 21 000 kronor i bruttolön per månad. 30 procent av arbetstiden anses därmed gå till att lära sig arbetet eller till utbildning.'
+    - 'Det arbetsrättsliga skyddet motsvarar provanställning i två år som övergår i tillsvidareanställning därefter.'
+    - 'Anställningen får innehas i maximalt tre år. Om en person byter arbetsgivare fortsätter tiden att räknas ned.'
+    - 'Arbetsgivaravgiften slopas i tre år inom ramen för anställningsformen.'
   -
     fraga: Jakt
     adress: https://www.liberalerna.se/politik/jakt/
     asikt:
-    - Jakt är en viktig del av naturvården
-    - Vi värnar den biologiska mångfalden och livskraftiga viltstammar
-    - Vi vill både värna biologisk mångfald och minska rovdjursskador
-    - Vi vill ha en rovdjursförvaltning med bred förankring, särskilt bland boende i rovdjurstäta områden
-    - Vi ska leva upp till vårt EU-åtagande att skydda hotade djurstammar
-    - Förvaltningen av våra stora rovdjur ska, så långt möjligt, ligga på nationell nivå
-    - Fler ska kunna bli jägare
-    - Förbättrade möjligheter för handel med viltkött
+    - 'Jakt är en viktig del av naturvården'
+    - 'Vi värnar den biologiska mångfalden och livskraftiga viltstammar'
+    - 'Vi vill både värna biologisk mångfald och minska rovdjursskador'
+    - 'Vi vill ha en rovdjursförvaltning med bred förankring, särskilt bland boende i rovdjurstäta områden'
+    - 'Vi ska leva upp till vårt EU-åtagande att skydda hotade djurstammar'
+    - 'Förvaltningen av våra stora rovdjur ska, så långt möjligt, ligga på nationell nivå'
+    - 'Fler ska kunna bli jägare'
+    - 'Förbättrade möjligheter för handel med viltkött'
   -
     fraga: Jordbrukspolitik
     adress: https://www.liberalerna.se/politik/jordbrukspolitik/
     asikt:
-    - Jordbruket ger jobb, mat och biologisk mångfald
-    - Marknadskrafter, frihandel och hållbar produktion ger fler i världen bra mat
-    - Bioteknik (GMO) kan bidra till bättre skördar och näringsinnehåll
-    - Förenkla för jordbruket - sänk skatten på jobb och företagande
-    - Gärna ekologisk mat men konsumenternas efterfrågan ska styra - inte politikers uppsatta mål
-    - Jordbruket ska stå för sina miljö- och klimatkostnader men också ersättas för bidrag till naturvård och biologisk mångfald
-    - Matfusket inom EU måste bekämpas - "matens FBI" behövs
-    - Det ska vara enkelt att göra bra val - tydlig märkning behövs
-    - EU:s jordbrukspolitik måste liberaliseras - alla direktstöd ska tas bort
-    - Landsbygdsprogrammet måste inriktas mer på miljöåtgärder
+    - 'Jordbruket ger jobb, mat och biologisk mångfald'
+    - 'Marknadskrafter, frihandel och hållbar produktion ger fler i världen bra mat'
+    - 'Bioteknik (GMO) kan bidra till bättre skördar och näringsinnehåll'
+    - 'Förenkla för jordbruket - sänk skatten på jobb och företagande'
+    - 'Gärna ekologisk mat men konsumenternas efterfrågan ska styra - inte politikers uppsatta mål'
+    - 'Jordbruket ska stå för sina miljö- och klimatkostnader men också ersättas för bidrag till naturvård och biologisk mångfald'
+    - 'Matfusket inom EU måste bekämpas - &quot;matens FBI&quot; behövs'
+    - 'Det ska vara enkelt att göra bra val - tydlig märkning behövs'
+    - 'EU:s jordbrukspolitik måste liberaliseras - alla direktstöd ska tas bort'
+    - 'Landsbygdsprogrammet måste inriktas mer på miljöåtgärder'
   -
     fraga: Jämlikhet
     adress: https://www.liberalerna.se/politik/jamlikhet/
     asikt:
-    - Alla ska behandlas lika oavsett kön, ålder, etnicitet, religion, sexuell läggning, funktionsnedsättning etc.
-    - Vi vill att diskriminering motarbetas kraftfullt.
-    - Skolan ska ge alla goda chanser att göra vad de vill med sitt liv, oavsett bakgrund.
+    - 'Klyftorna ska överbryggas'
+    - 'Jobbpolitik är den bästa fördelningspolitiken'
+    - 'Klassresan börjar i klassrummet'
   -
     fraga: Järnvägar
     adress: https://www.liberalerna.se/politik/jarnvagar/
     asikt:
-    - Upprusta och bygg ut den befintliga järnvägen.
-    - Vi säger nej till byggnation av höghastighetsbanor mellan storstäder på grund av de skenande kostnaderna och för att finansieringen inte är fastställd.
-    - Järnvägens kapacitet ska utvecklas och vi ska knyta samman Nordens storstäder.
-    - Vi vill ha en ny fast, avgiftsfinansierad, tåg- och vägförbindelse mellan Helsingborg och Helsingör.
+    - 'Upprusta och bygg ut den befintliga järnvägen.'
+    - 'Vi säger nej till byggnation av höghastighetsbanor mellan storstäder på grund av de skenande kostnaderna och för att finansieringen inte är fastställd.'
+    - 'Järnvägens kapacitet ska utvecklas och vi ska knyta samman Nordens storstäder.'
+    - 'Vi vill ha en ny fast, avgiftsfinansierad, tåg- och vägförbindelse mellan Helsingborg och Helsingör.'
   -
     fraga: Jämställdhet och feminism
     adress: https://www.liberalerna.se/politik/liberal-feminism/
     asikt:
-    - Skärpta straff för hedersbrott och totalförbud mot barnäktenskap.
-    - Utveckla föräldraförsäkringen så att det blir lättare att både vara förälder och jobba. Behåll tre öronmärkta månader för varje förälder.
-    - Upp med lönerna i kvinnodominerade yrken. Det ska löna sig att studera - även för kvinnor.
-    - Inför en samtyckesregel i sexualbrottslagstiftningen.
-    - Öka skyddet för kvinnor som utsätts för våld av sin partner.
-    - Mer jämställda pensioner genom att en större del av pensionsrätterna delas vid skilsmässa.
-    - Stora arbetsplatser ska göra lönekartläggningar årligen för att motverka ojämställda löner.
+    - 'Skärpta straff för hedersbrott och totalförbud mot barnäktenskap.'
+    - 'Utveckla föräldraförsäkringen så att det blir lättare att både vara förälder och jobba. Behåll tre öronmärkta månader för varje förälder.'
+    - 'Upp med lönerna i kvinnodominerade yrken. Det ska löna sig att studera - även för kvinnor.'
+    - 'Inför en samtyckesregel i sexualbrottslagstiftningen.'
+    - 'Öka skyddet för kvinnor som utsätts för våld av sin partner.'
+    - 'Mer jämställda pensioner genom att en större del av pensionsrätterna delas vid skilsmässa.'
+    - 'Stora arbetsplatser ska göra lönekartläggningar årligen för att motverka ojämställda löner.'
   -
     fraga: Kunskap och utbildning
     adress: https://www.liberalerna.se/politik/kunskap-och-utbildning/
     asikt:
-    - Förstatliga skolan
-    - Ge fler lärare högre lön
-    - Ta krafttag mot mobbning, våld och skolk
-    - Inför betyg från åk 4
-    - Inför tioårig grundskola med tidigare skolstart
-    - Satsa på mindre klasser, fler lärare och speciallärare i lågstadiet
-    - Inför rätt till obligatorisk läxläsning för dem som behöver i skolan
-    - Minska lärarnas administrationsbörda
-    - Inför central rättning av de nationella proven
-    - Utöka antalet idrotts- och matematiklektioner
-    - Höj kvaliteten i högskolan
-    - Fortsätt bygga ut yrkeshögskolan
-    - Fortsätt satsa på forskningen
+    - 'Förstatliga skolan'
+    - 'Ge fler lärare högre lön'
+    - 'Ta krafttag mot mobbning, våld och skolk'
+    - 'Inför betyg från åk 4'
+    - 'Inför tioårig grundskola med tidigare skolstart'
+    - 'Satsa på mindre klasser, fler lärare och speciallärare i lågstadiet'
+    - 'Inför rätt till obligatorisk läxläsning för dem som behöver i skolan'
+    - 'Minska lärarnas administrationsbörda'
+    - 'Inför central rättning av de nationella proven'
+    - 'Utöka antalet idrotts- och matematiklektioner'
+    - 'Höj kvaliteten i högskolan'
+    - 'Fortsätt bygga ut yrkeshögskolan'
+    - 'Fortsätt satsa på forskningen'
   -
     fraga: Klimat
     adress: https://www.liberalerna.se/politik/klimat/
     asikt:
-    - Parisavtalets klimatmål måste nås
-    - Kunskap, teknikutveckling, marknadsekonomi och frihandel behövs för att rädda klimatet
-    - Koldioxidskatt och flygskatt bör införas på EU-nivå
-    - Grön skatteväxling, höj miljö- och klimatskatterna och sänk jobbskatterna
-    - Den som smutsar ner ska betala mer
-    - Utsläppen måste minska inom industrin, energiproduktionen, transportsektorn och jordbruket
-    - Subventioner till fossilt bränsle måste successivt avskaffas
-    - Klimatinvesteringar behövs t.ex. i tåg, elbussar, cykelbanor och laddstolpar
-    - Det ska vara lätt att göra rätt
+    - 'Parisavtalets klimatmål måste nås'
+    - 'Kunskap, teknikutveckling, marknadsekonomi och frihandel behövs för att rädda klimatet'
+    - 'Koldioxidskatt och flygskatt bör införas på EU-nivå'
+    - 'Grön skatteväxling, höj miljö- och klimatskatterna och sänk jobbskatterna'
+    - 'Den som smutsar ner ska betala mer'
+    - 'Utsläppen måste minska inom industrin, energiproduktionen, transportsektorn och jordbruket'
+    - 'Subventioner till fossilt bränsle måste successivt avskaffas'
+    - 'Klimatinvesteringar behövs t.ex. i tåg, elbussar, cykelbanor och laddstolpar'
+    - 'Det ska vara lätt att göra rätt'
   -
     fraga: Kommunal demokrati
     adress: https://www.liberalerna.se/politik/kommunal-demokrati/
     asikt:
-    - Vi slår vakt om det kommunala självstyret.
-    - Kommuner som själva vill gå samman ska få hjälp av staten att göra det.
+    - 'Skilda valdagar till kommuner och landsting.'
+    - 'Inga kommun- eller regionsammanslagningar utan att invånarna först fått säga sin mening.'
   -
     fraga: Konsumentpolitik
-    adress: https://www.liberalerna.se/politik/politikpolitikkonsumentpolitik/
+    adress: https://www.liberalerna.se/politik/konsumentpolitik/
     asikt:
-    - Vi vill ha en tydlig märkning av livsmedel och andra varor.
-    - Det ska finnas god tillgång till konsumentrådgivning i hela Sverige.
-    - Tillgängligheten för konsumenter med funktionsnedsättning måste förbättras.
+    - 'Konsumentpolitik handlar om konsumentmakt - inte om pekpinnar.'
+    - 'Stärk konsumentens rättigheter på nätet.'
+    - 'Vi vill ha en tydlig märkning av livsmedel och andra varor.'
+    - 'Det ska finnas god tillgång till konsumentrådgivning i hela Sverige.'
+    - 'Tillgängligheten för konsumenter med funktionsnedsättning måste förbättras.'
   -
     fraga: Kriminalvård
     adress: https://www.liberalerna.se/politik/politikkriminalvard/
     asikt:
-    - Vi vill öka möjligheten till arbete och utbildning i kriminalvården.
-    - Satsa mer på behandlingsprogram för dem som är dömda för våld mot kvinnor, sexualbrott och rattfylleri.
-    - Vi vill inte att villkorlig frigivning ska ske automatiskt, utan bara ges till dem som har skött sig bra.
+    - 'Villkorlig frigivning ska inte vara en rättighet, utan en möjlighet för den som skött sig bra.'
+    - 'Fler utländska medborgare ska avtjäna straffet i hemlandet.'
+    - 'Samarbeta med civilsamhället, till exempel stödorganisationer för före detta kriminella.'
+    - 'Öka möjligheten till arbete och utbildning i kriminalvården.'
   -
     fraga: Kärnkraft
     adress: https://www.liberalerna.se/politik/karnkraft/
     asikt:
-    - Vi vill ha ett 100 procent fossilfritt elsystem.
-    - Kärnkraften behövs för klimatets skull
-    - Gärna förnybart men i kombination med stabil kärnkraft och vattenkraft
-    - Mer marknad - nej till subventioner
-    - Forskning och utveckling av nästa generations kärnkraft
-  -
-    fraga: Könsstympning
-    adress: https://www.liberalerna.se/politik/konsstympning/
-    asikt:
-    - Könsstympning ska motverkas ännu mer.
-    - Alla de som direkt eller indirekt medverkar till brottet ska få hårda straff.
-    - Alla kommuner ska kunna förbättra sitt arbete mot könsstympning.
+    - 'Vi vill ha ett 100 procent fossilfritt elsystem.'
+    - 'Kärnkraften behövs för klimatets skull'
+    - 'Gärna förnybart men i kombination med stabil kärnkraft och vattenkraft'
+    - 'Mer marknad - nej till subventioner'
+    - 'Forskning och utveckling av nästa generations kärnkraft'
   -
     fraga: Konkurrens
     adress: https://www.liberalerna.se/politik/politikpolitikkonkurrens/
     asikt:
-    - När konjunkturen är rätt ska staten fortsätta att minska ägandet i företag som drivs bättre privat.
-    - Entreprenörer ska få större möjligheter inom den offentliga välfärdssektorn så att den utvecklas och förbättras.
-    - Lagstiftning och praxis om offentlig upphandling ska ändras så att det blir lättare för mindre företag att vara med.
+    - 'När konjunkturen är rätt ska staten fortsätta att minska ägandet i företag som drivs bättre privat.'
+    - 'Entreprenörer ska få större möjligheter inom den offentliga välfärdssektorn så att den utvecklas och förbättras.'
+    - 'Lagstiftning och praxis om offentlig upphandling ska ändras så att det blir lättare för mindre företag att vara med.'
   -
     fraga: Kultur
     adress: https://www.liberalerna.se/politik/kultur/
     asikt:
-    - Kulturen ska vara fri - kulturstöd ska gynna kvalitet
-    - Kulturen ska vara självständig - goda villkor för kulturföretagande
-    - Stärk kulturen i skolan
-    - Fler fristadsförfattare
+    - 'Kulturen ska vara fri - kulturstöd ska gynna kvalitet'
+    - 'Kulturen ska vara självständig - goda villkor för kulturföretagande'
+    - 'Stärk kulturen i skolan'
+    - 'Fler fristadsförfattare'
   -
     fraga: Livets slut
     adress: https://www.liberalerna.se/politik/livets-slut/
     asikt:
-    - Alla ska ha rätt att skriftligen eller i annan form uttrycka sig hur de vill att vården och omsorgen ska vara när döden närmar sig
-    - Den enskilde ska få bestämma om hen vill påbörja eller avsluta livsuppehållande behandling
-    - Vården ska alltid erbjuda palliativ behandling
-    - Ingen ska behöva dö ensam
-    - Vi vill inte tillåta aktiv dödshjälp
+    - 'Alla ska ha rätt att skriftligen eller i annan form uttrycka sig hur de vill att vården och omsorgen ska vara när döden närmar sig'
+    - 'Den enskilde ska få bestämma om hen vill påbörja eller avsluta livsuppehållande behandling'
+    - 'Vården ska alltid erbjuda palliativ behandling'
+    - 'Ingen ska behöva dö ensam'
+    - 'Vi vill inte tillåta aktiv dödshjälp'
   -
     fraga: Landsbygdspolitik
     adress: https://www.liberalerna.se/politik/landsbygdspolitik/
     asikt:
-    - Företagande och ekonomisk utveckling i hela landet.
-    - Satsa på bredbandsutbyggnad i hela landet.
-    - Vägar, järnvägar och flyg måste fungera
-    - Nej till kilometerskatt som leder till dyrare transporter
-    - Reseavdraget måste reformeras
+    - 'Företagande och ekonomisk utveckling i hela landet.'
+    - 'Satsa på bredbandsutbyggnad i hela landet.'
+    - 'Vägar, järnvägar och flyg måste fungera'
+    - 'Nej till kilometerskatt som leder till dyrare transporter'
+    - 'Reseavdraget måste reformeras'
   -
     fraga: Likvärdig skola
     adress: https://www.liberalerna.se/politik/politiklikvardig-skola/
-    asikt: Skolan ska ge alla elever en god grund inför resten av livet. Klassresan börjar i klassrummet.
+    asikt: 'Skolan ska ge alla elever en god grund inför resten av livet. Klassresan börjar i klassrummet.'
   -
     fraga: Livsmedel
     adress: https://www.liberalerna.se/politik/livsmedel/
     asikt:
-    - Bra mat för människa och miljö
-    - Matfusket ska bekämpas - öka kontrollerna
-    - Tydlig märkning underlättar bra val när vi handlar
-    - EU:s veterinärmyndighet ska vara "matens och märkningens FBI".
-    - Höga miljö- och djurkrav är en konkurrensfördel
-    - Antibiotikaanvändningen inom EU måste minska
-    - Livsmedelsproduktionen ska styras av marknadsekonomi och konsumenternas efterfrågan, inte av subventioner eller statliga produktionsmål
-    - Matavfallet måste minska för att få ner utsläppen
-    - Maträtter och tillagning är en viktig del av vårt kulturarv
+    - 'Bra mat för människa och miljö'
+    - 'Matfusket ska bekämpas - öka kontrollerna'
+    - 'Tydlig märkning underlättar bra val när vi handlar'
+    - 'EU:s veterinärmyndighet ska vara &quot;matens och märkningens FBI&quot;.'
+    - 'Höga miljö- och djurkrav är en konkurrensfördel'
+    - 'Antibiotikaanvändningen inom EU måste minska'
+    - 'Livsmedelsproduktionen ska styras av marknadsekonomi och konsumenternas efterfrågan, inte av subventioner eller statliga produktionsmål'
+    - 'Matavfallet måste minska för att få ner utsläppen'
+    - 'Maträtter och tillagning är en viktig del av vårt kulturarv'
   -
     fraga: Lärarna
-    adress: https://www.liberalerna.se/politik/politiklararna/
+    adress: https://www.liberalerna.se/politik/lararna/
     asikt:
-    - Vi vill höja lärarnas status genom högre löner och goda arbetsvillkor.
-    - Lärarna ska ges ökade befogenheter i klassrummet.
-    - Karriärmöjligheterna för lärare ska öka och lärarlegitimationen utvecklas.
-    - Lärarna ska ges ökade möjligheter till vidareutbildning.
+    - 'Lärarnas status måste höjas genom högre löner och goda arbetsvillkor'
+    - 'Lärarna ska ges ökade befogenheter i klassrummet'
+    - 'Karriärmöjligheterna för lärare ska öka och lärarlegitimationen utvecklas'
+    - 'Lärarna ska ges ökade möjligheter till vidareutbildning'
   -
     fraga: Lärlingar
-    adress: https://www.liberalerna.se/politik/politiklarlingsutbildning/
+    adress: https://www.liberalerna.se/politik/larlingar/
     asikt:
-    - Fler gymnasieutbildningar till hantverksyrken ska ske i form av lärlingar där utbildningen i stor utsträckning förläggs ute på ett hantverksföretag.
-    - Alla lärlingsutbildningar ska avslutas med ett gesällprov.
+    - 'Fler gymnasieutbildningar till hantverksyrken ska ske i form av lärlingar.'
+    - 'Utbildningen ska förläggas på hantverksföretag.'
+    - 'Alla lärlingsutbildningar ska avslutas med ett gesällprov.'
   -
-    fraga: Läxor och prov
-    adress: https://www.liberalerna.se/politik/politiklaxor/
+    fraga: Lönegapet mellan kvinnor och män
+    adress: https://www.liberalerna.se/politik/lonegapet/
     asikt:
-    - Läxor och prov gynnar elevernas kunskapsinhämtning.
-    - Alla elever ska ha rätt till läxhjälp i skolan.
-    - Nationella prov ska ges från årskurs 3.
-  -
-    fraga: Lönegapet
-    adress: https://www.liberalerna.se/politik/politiklonegapet/
-    asikt:
-    - Lika lön för lika arbete ska gälla. Diskrimineringslagstiftningen måste fungera.
-    - Vi accepterar aldrig att kvinnor diskrimineras och får lägre lön än män för samma arbete.
-    - Traditionella kvinnoyrken ska inte ha lägre lön än de traditionella mansyrkena.
-    - De som vill ska få jobba heltid och ha möjlighet att försörja sig på sin egen lön.
-  -
-    fraga: Läsning
-    adress: https://www.liberalerna.se/politik/lasning/
-    asikt:
-    - Utöka rätten till förskola så att grunden för läsning läggs tidigt.
-    - Återupprätta bildningsidealet och satsa på kvalitetslitteratur.
-    - Minska läsklyftorna och öka läslusten. Litteratur och läsande ska prioriteras.
-    - Alla i skolan ska få läsa svenska och internationella klassiker.
-    - Behåll de fria boklånen.
-    - Vi vill få bort den stereotypt manliga "antipluggkulturen" så att pojkar börjar plugga lika mycket som flickor.
-    - Hela utbildningssystemet ska genomsyras av ett genusperspektiv.
+    - 'Lika lön för lika arbete ska gälla. Diskrimineringslagstiftningen måste fungera.'
+    - 'Vi accepterar aldrig att kvinnor diskrimineras och får lägre lön än män för samma arbete.'
+    - 'Upp med lönerna i kvinnodominerade akademikeryrken som lärare och sjuksköterska.'
+    - 'Sätt press på kommuner och landsting att få bort den ofrivilliga deltiden.'
   -
     fraga: Lärarutbildningen
-    adress: https://www.liberalerna.se/politik/politiklararutbildningen/
+    adress: https://www.liberalerna.se/politik/lararutbildningen/
     asikt:
-    - Kraven på lärarutbildningen ska skärpas rejält för att höja utbildningens status.
-    - Koncentrera ämneslärarutbildningen till färre orter för att uppnå högre kvalitet.
-    - Mer internationellt utbyte
+    - 'Kraven på lärarutbildningen måste skärpas rejält för att höja utbildningens status'
+    - 'Koncentrera ämneslärarutbildningen till färre orter'
+    - 'Ämneslärarutbildningen ska motsvara en mastersexamen'
+    - 'Utöka det internationella utbytet'
   -
     fraga: Medborgarskap
     adress: https://www.liberalerna.se/politik/medborgarskap/
     asikt:
-    - Vi vill lyfta fram medborgarskapets betydelse i integrationen.
-    - Vi tycker att man ska ha grundläggande kunskaper i svenska för att få bli medborgare.
-    - Vi vill göra det lättare för barn som föds i Sverige att bli svenska medborgare.
+    - 'Medborgarskapet ska inte kunna återkallas'
+    - 'Medborgarskapet är slutet på integrationsprocessen'
+    - 'Inför språkkrav för att få bli medborgare'
+    - 'Inför samhällstest för att få bli medborgare'
+    - 'Enklare för barn som föds i Sverige att bli svenska medborgare'
+    - 'Öka skyddet mot barnäktenskap - ändra reglerna för att säga upp svenskt medborgarskap'
   -
     fraga: Miljö och natur
     adress: https://www.liberalerna.se/politik/miljo-och-natur/
     asikt:
-    - Fjäll-, skogs- och kustområden samt sjöar och vattendrag med höga naturvärden ska ha ett starkt skydd
-    - Allemansrätten ska värnas
-    - Antalet hotade arter i Sverige ska minska
-    - Gammelskogarna måste skyddas
-    - Åtgärder krävs för att skydda våra hav och vattendrag
-    - EU-samarbetet behövs för miljön
+    - 'Fjäll-, skogs- och kustområden samt sjöar och vattendrag med höga naturvärden ska ha ett starkt skydd'
+    - 'Allemansrätten ska värnas'
+    - 'Antalet hotade arter i Sverige ska minska'
+    - 'Gammelskogarna måste skyddas'
+    - 'Åtgärder krävs för att skydda våra hav och vattendrag'
+    - 'EU-samarbetet behövs för miljön'
   -
     fraga: Miljöbilar
     adress: https://www.liberalerna.se/politik/politikpolitikmiljobilar/
     asikt:
-    - Kraven för miljöbilar ska förenklas, förtydligas men också skärpas.
-    - Målet är en fossilfri fordonsflotta senast 2030
-    - Miljözoner bör införas i fler städer
-    - Det behövs fler laddstolpar och ökad användning av biodrivmedel
-    - Den som köper en ny bil som drivs av fossila bränslen ska betala mer i skatt än den som köper en ny elbil
-    - Reseavdraget ska begränsas där det finns välutbyggd kollektivtrafik
-    - Höjt förmånsvärdet för bilar som inte är miljöbilar
-    - Nej till bidrag för privata bilinköp
+    - 'Kraven för miljöbilar ska förenklas, förtydligas men också skärpas.'
+    - 'Målet är en fossilfri fordonsflotta senast 2030'
+    - 'Miljözoner bör införas i fler städer'
+    - 'Det behövs fler laddstolpar och ökad användning av biodrivmedel'
+    - 'Den som köper en ny bil som drivs av fossila bränslen ska betala mer i skatt än den som köper en ny elbil'
+    - 'Reseavdraget ska begränsas där det finns välutbyggd kollektivtrafik'
+    - 'Höjt förmånsvärdet för bilar som inte är miljöbilar'
+    - 'Nej till bidrag för privata bilinköp'
   -
     fraga: Minoritetspolitik
     adress: https://www.liberalerna.se/politik/minoritetspolitik/
     asikt:
-    - Samernas, sverigefinnarnas, tornedalingarnas, judarnas och romernas ställning som nationella minoriteter ska bevaras.
-    - Förbättra tillgången till förskola, äldreomsorg och annan service på minoritetsspråk.
-    - Rätten till modersmålsundervisning i ett nationellt minoritetsspråk ska stärkas.
-    - Antisemitism, antiziganism och fördomar mot andra nationella minoriteter måste bekämpas.
+    - 'Förbättra tillgången till förskola, äldreomsorg och annan service på minoritetsspråk.'
+    - 'Rätten till modersmålsundervisning i ett nationellt minoritetsspråk ska stärkas.'
+    - 'Synliggör de nationella minoriteterna och minoritetsspråken i grundlagen.'
+    - 'Bekämpa antisemitism, antiziganism och fördomar mot andra nationella minoriteter.'
   -
     fraga: Mobbning
     adress: https://www.liberalerna.se/politik/mobbning/
     asikt:
-    - Alla skolor ska ha åtgärdsprogram mot mobbning som bygger på forskning och beprövad erfarenhet.
-    - Mobbning ska kriminaliseras som eget brott.
-    - Rektor ska lättare kunna stänga av och flytta mobbare till andra skolor.
+    - 'Alla skolor ska ha åtgärdsprogram mot mobbning som bygger på forskning och beprövad erfarenhet'
+    - 'Mobbning ska kriminaliseras som eget brott'
+    - 'All mobbning ska polisanmälas'
+    - 'Rektor ska lättare kunna stänga av och flytta mobbare till andra skolor'
+    - 'Rektor ska ges rätt att besluta om mobilfri skoldag'
   -
     fraga: Monarki
     adress: https://www.liberalerna.se/politik/monarki/
-    asikt: Vi vill behålla den nuvarande kompromissen om Sveriges statsskick.
+    asikt: 'Vi vill behålla den nuvarande kompromissen om Sveriges statsskick.'
   -
     fraga: Människohandel
-    adress: https://www.liberalerna.se/politik/politikmanniskohandel/
+    adress: https://www.liberalerna.se/politik/manniskohandel/
     asikt:
-    - Vi vill skapa en nationell enhet mot organiserad brottslighet.
-    - Vi vill skapa ett europeiskt FBI för att stärka det europeiska polissamarbetet mot människohandel.
+    - 'Ha ett tydligt barnperspektiv i allt arbete mot människohandel.'
+    - 'Stärk det internationella samarbetet genom ett europeiskt FBI.'
+    - 'Hjälp till fattiga och krigsdrabbade länder bidrar att minska grogrunden för människohandel.'
+    - 'Offer för människohandel ska lättare kunna stanna i EU om de samarbetar med polisen.'
   -
     fraga: Mäns våld mot kvinnor
     adress: https://www.liberalerna.se/politik/mans-vald-mot-kvinnor/
     asikt:
-    - Skärp lagen om kontaktförbud och öka användningen av elektronisk fotboja.
-    - Vi vill fortsätta att öka stödet till kvinnojourer.
-    - Bekämpa hedersrelaterat våld och förtryck.
-    - Inför en samtyckeslagstiftning. Ett nej är alltid ett nej!
+    - 'Skärp lagen om kontaktförbud och öka användningen av elektronisk fotboja.'
+    - 'Vi vill fortsätta att öka stödet till kvinnojourer.'
+    - 'Bekämpa hedersrelaterat våld och förtryck.'
+    - 'Inför en samtyckeslagstiftning. Ett nej är alltid ett nej!'
   -
     fraga: Mänskliga rättigheter
     adress: https://www.liberalerna.se/politik/politikmanskliga-rattigheter/
     asikt:
-    - Respekten för mänskliga rättigheter måste stärkas inom EU. Brott mot mänskliga rättigheter ska få konsekvenser.
-    - Folkrätten ska vara ett tydligt stöd, inte ett hinder, för individers grundläggande rättigheter.
-    - Öka kampen mot könsrelaterat våld, människohandel för sexuella ändamål och efterfrågan på prostitution.
-    - Stå upp för sexuella och reproduktiva rättigheter i EU och övriga världen.
+    - 'Respekten för mänskliga rättigheter måste stärkas inom EU. Brott mot mänskliga rättigheter ska få konsekvenser.'
+    - 'Svenskt bistånd ska ha tydligare fokus på mänskliga rättigheter.'
+    - 'Stå upp för sexuella och reproduktiva rättigheter i EU och övriga världen.'
   -
     fraga: Medier och public service
     adress: https://www.liberalerna.se/politik/medier-och-public-service/
     asikt:
-    - Vi vill ha kvar public service-mediernas oberoende ställning.
-    - Avskaffa tv-licensen och ersätt med en avgift som alla betalar
+    - 'Vi vill ha kvar public service-mediernas oberoende ställning.'
+    - 'Avskaffa tv-licensen och ersätt med en avgift som alla betalar'
+  -
+    fraga: Mobilfri skola
+    adress: https://www.liberalerna.se/politik/mobilfri-skola/
+    asikt:
+    - 'Alla skolor ska vara mobilfria under lektionerna'
+    - 'Rektor ska bestämma om mobilfri skola under hela skoldagen'
+    - 'Elever som behöver digitala hjälpmedel i undervisningen ska kunna ha det'
   -
     fraga: Nato
-    adress: https://www.liberalerna.se/politik/politikpolitikalliansfrihetnato/
+    adress: https://www.liberalerna.se/politik/nato/
     asikt:
-    - Sverige ska söka medlemskap i Nato.
-    - Försvarsanslagen måste höjas. På sikt ska försvarsanslaget uppgå till minst två procent av BNP.
+    - 'Sverige ska söka medlemskap i Nato'
+    - 'Försvarsanslagen måste höjas. Inom tio år ska försvarsanslaget uppgå till minst två procent av BNP'
+    - 'Fördjupa försvarssamarbetet med andra länder i EU'
   -
     fraga: Narkotika
     adress: https://www.liberalerna.se/politik/narkotika/
     asikt:
-    - Vi vill ha nolltolerans mot all hantering av narkotika.
-    - Skärp straffen för de allra grövsta narkotikabrotten.
-    - Förbättra missbruksvården och gör den lättare att nå.
-    - Ja till möjlighet att byta sprutor
+    - 'Nolltolerans mot drogrelaterat lidande och död'
+    - 'Nej till avkriminalisering - det ska inte finnas några kryphål där langare kan gömma sig'
+    - 'Polisen ska fokusera på att hitta langare, smugglare och tillverkare'
+    - 'Den som döms för bruk av narkotika ska få vård, inte straff'
+    - 'Skärp straffen för de allra grövsta narkotikabrotten'
+    - 'Förbättra missbruksvården och gör den lättare att nå. Sjukvården ska ha huvudansvaret'
+    - 'Ja till möjlighet att byta sprutor'
+    - 'Det ska bli lättare att få tillgång till överdoshämmande läkemedel som naloxon'
   -
     fraga: Nyanlända elever
     adress: https://www.liberalerna.se/politik/nyanlanda-elever/
     asikt:
-    - Undervisning i svenska språket ska prioriteras för nyanlända elever.
-    - Nyanlända elever ska kunna få hjälp att nå kunskapsmålen i form av förlängd skolplikt.
-    - Möjlighet till förlängd skolplikt, för att hjälpa nyanlända elever nå kunskapsmålen.
-    - Karriärtjänster för lärare med högre löner i skolor i utsatta områden.
-    - Nyanlända elever ska ges undervisning i alla skolor och kommuner.
-    - Aktivt skolval för alla.
+    - 'Undervisning i svenska språket ska prioriteras för nyanlända elever'
+    - 'Nyanlända elever som riskerar att inte nå kunskapsmålen kan få förlängd skolplikt'
+    - 'Karriärtjänster för lärare med högre löner i skolor i utsatta områden'
+    - 'Nyanlända elever ska ges undervisning i alla skolor och kommuner'
+    - 'Aktivt skolval för alla, också för nyanlända'
   -
     fraga: Papperslösa
     adress: https://www.liberalerna.se/politik/papperslosa/
     asikt:
-    - Barn till papperslösa ska få gå i skola i väntan på hemresa
-    - Akutsjukvård ska ges till alla
-    - Papperslösa ska skyddas mot exploatering till exempel på arbetsmarknaden
-    - Papperslösa ska kunna få akut hjälp, men inte långvarigt ekonomiskt bistånd
+    - 'Barn till papperslösa ska få gå i skola i väntan på hemresa'
+    - 'Akutsjukvård ska ges till alla'
+    - 'Papperslösa ska skyddas mot exploatering till exempel på arbetsmarknaden'
+    - 'Papperslösa ska kunna få akut hjälp, men inte långvarigt ekonomiskt bistånd'
   -
     fraga: Pensioner
     adress: https://www.liberalerna.se/politik/pensioner/
     asikt:
-    - Ju fler som jobbar och betalar avgifter till pensionssystemet, desto bättre blir pensionerna.
-    - Vi vill fortsätta att sänka skatten för pensionärer. Alliansregeringen sänkte skatten på pension fem gånger.
-    - Gör det lättare för äldre att arbeta. Du ska bestämma själv, och rätten att jobbar kvar ska höjas till 71 år.
-    - Höj bostadsbidragen till dem som har låg pension
+    - 'Ju fler som jobbar och betalar avgifter till pensionssystemet, desto bättre blir pensionerna.'
+    - 'Vi vill fortsätta att sänka skatten för pensionärer. Alliansregeringen sänkte skatten på pension fem gånger.'
+    - 'Gör det lättare för äldre att arbeta. Du ska bestämma själv, och rätten att jobbar kvar ska höjas till 71 år.'
+    - 'Höj bostadsbidragen till dem som har låg pension'
   -
     fraga: Polisen
     adress: https://www.liberalerna.se/politik/polisen/
     asikt:
-    - Det behövs 5000 fler poliser för att stärka polisens närvaro i hela Sverige.
-    - Inför 2000 kommunala trygghetsvakter som kan hjälpa polisen.
-    - Högre polischefer ska vara poliser i grunden.
-    - Riv upp stora delar av polisreformen
-    - Skapa ett europeiskt FBI, så att polisen kan arbeta lika internationellt som brottslingarna.
-    - Vi vill att lagstiftningen ska ha starka garantier för rättssäkerhet.
+    - 'Det behövs 5000 fler poliser för att stärka polisens närvaro i hela Sverige.'
+    - 'Inför 2000 kommunala trygghetsvakter som kan hjälpa polisen.'
+    - 'Högre polischefer ska vara poliser i grunden.'
+    - 'Riv upp stora delar av polisreformen'
+    - 'Skapa ett europeiskt FBI, så att polisen kan arbeta lika internationellt som brottslingarna.'
+    - 'Vi vill att lagstiftningen ska ha starka garantier för rättssäkerhet.'
   -
     fraga: Prostitution
-    adress: https://www.liberalerna.se/politik/politikprostitution/
+    adress: https://www.liberalerna.se/politik/prostitution/
     asikt:
-    - Sexköp ska fortsätta vara förbjudet.
-    - Vi vill förbättra arbetet mot människohandel.
-    - Vi vill bygga ut hjälpen till prostituerade som vill bryta med sin tillvaro.
-    - Ge fler offer för människohandeln permanent uppehållstillstånd i Sverige.
+    - 'Sexköp ska fortsätta vara förbjudet.'
+    - 'Vi vill förbättra arbetet mot människohandel.'
+    - 'Vi vill bygga ut hjälpen till prostituerade som vill bryta med sin tillvaro.'
+    - 'Ge fler offer för människohandeln permanent uppehållstillstånd i Sverige.'
   -
     fraga: Psykiatri
     adress: https://www.liberalerna.se/politik/psykiatri/
     asikt:
-    - Unga med psykisk ohälsa ska få vård inom 30 dagar.
-    - Psykiatriambulanser ska finnas i hela landet för att hjälpa människor i kris och självmordssituationer.
-    - Avgifterna för människor i tvångsvård bör avskaffas.
-    - Skolhälsovården ska stärkas
+    - 'Unga med psykisk ohälsa ska få vård inom 30 dagar.'
+    - 'Psykiatriambulanser ska finnas i hela landet för att hjälpa människor i kris och självmordssituationer.'
+    - 'Avgifterna för människor i tvångsvård bör avskaffas.'
+    - 'Skolhälsovården ska stärkas'
   -
     fraga: Personlig assistans / LSS
     adress: https://www.liberalerna.se/lss
     asikt:
-    - Personer med omfattande funktionsnedsättningar ska kunna leva ett liv som andra. Det innebär olika saker för olika människor och insatserna kan därför inte standardiseras.
-    - Utred hur rätten till stöd enligt LSS kan avgöras utifrån behov, inte diagnos. Till exempel ska personer med grav synnedsättning kunna omfattas.
-    - Valfrihet och självbestämmande ska vara en självklarhet för alla insatser enligt LSS.
-    - Olika kommuners insatser måste bli mer jämlika så att även personer med funktionsnedsättning utan problem kan flytta från en kommun till en annan.
-    - Avskaffa de schablonmässiga tvåårsomprövningarna i den statliga assistansersättningen.
-    - Ett beslut om personlig assistans ska grundas på en samlad behovsbedömning. Avskaffa dagens uppdelning i grundläggande och andra personliga behov.
-    - Avskaffa den övre åldersgränsen för att kunna få assistans.
-    - Ersättningsnivåerna i assistansersättningen måste vara tillräckligt höga. Assistansföretag ska erbjuda sina anställda kollektivavtal eller kollektivavtalsliknande villkor.
-    - Ansvaret för insatsen personlig assistans ska helt övertas av staten och Försäkringskassan.
-    - Allt fusk med assistansmedel ska bekämpas. Tillsynen behöver skärpas, och myndigheter behöver få större möjligheter att samverka för att upptäcka och stoppa oseriösa företag.
-    - Se över hur det offentliga kan ge rättslig rådgivning och stöd till personer som söker insatser enligt LSS.
+    - 'Personer med omfattande funktionsnedsättningar ska kunna leva ett liv som andra. Det innebär olika saker för olika människor och insatserna kan därför inte standardiseras.'
+    - 'Utred hur rätten till stöd enligt LSS kan avgöras utifrån behov, inte diagnos. Till exempel ska personer med grav synnedsättning kunna omfattas.'
+    - 'Valfrihet och självbestämmande ska vara en självklarhet för alla insatser enligt LSS.'
+    - 'Olika kommuners insatser måste bli mer jämlika så att även personer med funktionsnedsättning utan problem kan flytta från en kommun till en annan.'
+    - 'Avskaffa de schablonmässiga tvåårsomprövningarna i den statliga assistansersättningen.'
+    - 'Ett beslut om personlig assistans ska grundas på en samlad behovsbedömning. Avskaffa dagens uppdelning i grundläggande och andra personliga behov.'
+    - 'Avskaffa den övre åldersgränsen för att kunna få assistans.'
+    - 'Ersättningsnivåerna i assistansersättningen måste vara tillräckligt höga. Assistansföretag ska erbjuda sina anställda kollektivavtal eller kollektivavtalsliknande villkor.'
+    - 'Ansvaret för insatsen personlig assistans ska helt övertas av staten och Försäkringskassan.'
+    - 'Allt fusk med assistansmedel ska bekämpas. Tillsynen behöver skärpas, och myndigheter behöver få större möjligheter att samverka för att upptäcka och stoppa oseriösa företag.'
+    - 'Se över hur det offentliga kan ge rättslig rådgivning och stöd till personer som söker insatser enligt LSS.'
   -
     fraga: Regelförenklingar
     adress: https://www.liberalerna.se/politik/politikregelforenklingar/
     asikt:
-    - Företag ska kunna ha all kontakt med myndigheter på ett ställe, inte behöva rapportera samma sak till flera.
-    - Vi vill förenkla och förtydliga företagens informationslämning enligt miljöbalken och arbetsmiljölagen.
-    - Lagförslag från EU-kommissionen ska konsekvensbedömas när det gäller företag, särskilt de mindre.
+    - 'Företag ska kunna ha all kontakt med myndigheter på ett ställe, inte behöva rapportera samma sak till flera.'
+    - 'Vi vill förenkla och förtydliga företagens informationslämning enligt miljöbalken och arbetsmiljölagen.'
+    - 'Lagförslag från EU-kommissionen ska konsekvensbedömas när det gäller företag, särskilt de mindre.'
   -
     fraga: Regionalpolitik
     adress: https://www.liberalerna.se/politik/politikregionalpolitik/
     asikt:
-    - Vi vill satsa på bredbandsutbyggnad i hela landet.
-    - Vi vill avskaffa pumplagen.
+    - 'Vi vill satsa på bredbandsutbyggnad i hela landet.'
+    - 'Vi vill avskaffa pumplagen.'
   -
     fraga: Rovdjur
     adress: https://www.liberalerna.se/politik/rovdjur/
     asikt:
-    - Sverige ska ha livskraftiga stammar av de fem stora rovdjuren, björn, järv, lo, varg och kungsörn
-    - Den regionaliserade rovdjursförvaltningen ska fortsätta
-    - Det är viktigt med dialog särskilt bland människor som lever i rovdjurstäta områden
-    - Vi är öppna för jakt som bygger på vetenskapligt underlag så att rovdjursstammarna inte äventyras
+    - 'Sverige ska ha livskraftiga stammar av de fem stora rovdjuren: björn, järv, lo, varg och kungsörn'
+    - 'Den regionaliserade rovdjursförvaltningen ska fortsätta'
+    - 'Det är viktigt med dialog särskilt bland människor som lever i rovdjurstäta områden'
+    - 'Vi är öppna för jakt som bygger på vetenskapligt underlag så att rovdjursstammarna inte äventyras'
   -
-    fraga: RUT och ROT
-    adress: https://www.liberalerna.se/politik/rut-och-rot/
+    fraga: RUT-avdraget
+    adress: https://www.liberalerna.se/politik/rut-avdraget/
     asikt:
-    - RUT- och ROT-avdragen ska behållas.
-    - RUT-avdraget ska höjas från 50 procent till 75 procent för äldre.
-    - Rätten till RUT-avdrag för läxhjälp ska återinföras.
+    - 'Äldre ska få större RUT-avdrag'
+    - 'Maxbeloppet för RUT-avdrag ska höjas kraftigt'
+    - 'RUT-avdraget ska omfatta ännu fler tjänster'
   -
     fraga: Rättssäkerhet
-    adress: https://www.liberalerna.se/politik/politikrattssakerhet/
+    adress: https://www.liberalerna.se/politik/rattssakerhet/
     asikt:
-    - Inrätta en författningsdomstol för garantier att riksdag, regering och myndigheter inte strider mot grundlagarna.
-    - Alla lagförslag ska granskas på förhand ur integritetssynpunkt.
-    - Förbättra den allmänna rättshjälpen. Det får aldrig bero på ekonomi om man har möjlighet att gå till domstol eller inte.
+    - 'Skapa en författningsdomstol som bevakar att det inte införs lagar och regler som bryter mot grundlagen.'
+    - 'Alla lagförslag ska granskas på förhand ur integritetssynpunkt.'
+    - 'Återinför ämbetsansvaret för offentliga tjänstemän.'
   -
     fraga: Religiösa friskolor
     adress: https://www.liberalerna.se/politik/religiosa-friskolor/
     asikt:
-    - Reglerna för religiösa förskolor och friskolor ska skärpas.
-    - Ett stopp för nya religiösa friskolor införs och befintliga religiösa skolor ska inte kunna utökas.
-    - Religiösa inslag ska vara frivilliga och får inte vara en del av undervisningen.
-    - Könsuppdelade lektioner kan aldrig motiveras av ideologiska, religiösa eller kulturella skäl.
+    - 'Reglerna för religiösa förskolor och friskolor ska skärpas.'
+    - 'Ett stopp för nya religiösa friskolor införs och befintliga religiösa skolor ska inte kunna utökas.'
+    - 'Religiösa inslag ska vara frivilliga och får inte vara en del av undervisningen.'
+    - 'Könsuppdelade lektioner kan aldrig motiveras av ideologiska, religiösa eller kulturella skäl.'
   -
     fraga: Sjukförsäkring
-    adress: https://www.liberalerna.se/politik/politiksjukforsakring/
+    adress: https://www.liberalerna.se/politik/sjukforsakring/
     asikt:
-    - Vi vill att det ska vara tydligt vilka rättigheter avgiften till sjukförsäkringen ger.
-    - Försäkringsavgifter ska bara betalas på den del av lönen som ligger under taket på sjukförsäkringen.
-    - Utöka samarbetet mellan Försäkringskassa och vård, så kallas Finsam.
-    - Gör det enklare för personer med sjukersättning att prova att arbeta utan att ersättningen minskar.
-    - Unga med funktionsnedsättning som behöver förlängd skolgång ska få studiemedel, inte aktivitetsersättning.
+    - 'Vi vill att det ska vara tydligt vilka rättigheter avgiften till sjukförsäkringen ger.'
+    - 'Försäkringsavgifter ska bara betalas på den del av lönen som ligger under taket på sjukförsäkringen.'
+    - 'Utöka samarbetet mellan Försäkringskassa och vård, så kallas Finsam.'
+    - 'Gör det enklare för personer med sjukersättning att prova att arbeta utan att ersättningen minskar.'
+    - 'Unga med funktionsnedsättning som behöver förlängd skolgång ska få studiemedel, inte aktivitetsersättning.'
   -
     fraga: Sjukvård
     adress: https://www.liberalerna.se/politik/sjukvard/
     asikt:
-    - Återinför kömiljarden
-    - Karriärtjänster med högre lön till specialistsjuksköterskor
-    - Fler enkla jobb i vården
-    - Valfrihet i vården överallt där det går
-    - Fast husläkare ska samordna vården
-    - Alla skall få välja vårdcentral
-    - Stoppa sjukvårdskarusellen för de mest sjuka äldre
-    - Modern IT även i vården
+    - 'Återinför kömiljarden'
+    - 'Karriärtjänster med högre lön till specialistsjuksköterskor'
+    - 'Fler enkla jobb i vården'
+    - 'Valfrihet i vården överallt där det går'
+    - 'Fast husläkare ska samordna vården'
+    - 'Alla skall få välja vårdcentral'
+    - 'Stoppa sjukvårdskarusellen för de mest sjuka äldre'
+    - 'Modern IT även i vården'
   -
     fraga: Skatter
-    adress: https://www.liberalerna.se/politik/politikskatter/
+    adress: https://www.liberalerna.se/politik/skatter/
     asikt:
-    - Vi vill sänka marginalskatten på arbete så att alla får behålla minst hälften av en löneökning.
-    - På sikt vill vi genomföra en stor skattereform och göra så att utbildning och arbete lönar sig ännu mer.
-    - Vi vill finansiera skattesänkningar med färre undantag och bredare skattebaser.
+    - 'En ny skattereform behövs'
+    - 'Sänkta skatter måste finansieras'
+    - 'Alla måste bidra - och få del av fördelarna'
   -
     fraga: Skola
     adress: https://www.liberalerna.se/skola
     asikt:
-    - Gör grundskolan tioårig och öka lektionstimmarna.
-    - Betyg från fyran, för att det är nödvändigt att mäta kunskaper om vi ska kunna sätta in stöd i rätt tid.
-    - Lugn och ro i klassrummet. Stötta lärarna med mer utbildning i ledarskap. En särskild ordningskommission som kan hjälpa skolor med stora problem. Ordningsbetyg från år 6.
-    - Uppvärdera läraryrket och öka lärares status, till exempel genom karriärtjänster med högre lön.
-    - Skolan ska vara statlig.
-    - Satsa på mindre klasser, fler lärare och speciallärare i lågstadiet.
-    - Inför sommarskola för dem som inte nått målen i högstadiet.
-    - Minska lärarnas administrationsbörda, med till exempel lärarassistenter och central rättning av de nationella proven.
-    - Öka idrottsämnet i grundskolan  med 100 timmar.
-  -
-    fraga: Säkerhetspolitik
-    adress: https://www.liberalerna.se/politik/politiksakerhetspolitik/
-    asikt:
-    - Vi vill att Sverige söker medlemskap i Nato
-    - Vi kan inte bara konsumera säkerhet. Vi måste också bidra till en mer stabil situation i vårt närområde. Därför vill vi snabbt rusta upp det svenska försvaret. Försvarsbudgeten bör i ljuset av utvecklingen i Östersjön på sikt närma sig 2 procent av BNP.
-    - Vi vill stärka EU:s gemensamma utrikes- och säkerhetspolitik i internationella sammanhang.
-    - Sverige ska fortsätta att delta i internationella militära och civila insatser som FN eller Nato står bakom.
+    - 'Gör grundskolan tioårig och öka lektionstimmarna.'
+    - 'Betyg från fyran, för att det är nödvändigt att mäta kunskaper om vi ska kunna sätta in stöd i rätt tid.'
+    - 'Lugn och ro i klassrummet. Stötta lärarna med mer utbildning i ledarskap. En särskild ordningskommission som kan hjälpa skolor med stora problem. Ordningsbetyg från år 6.'
+    - 'Uppvärdera läraryrket och öka lärares status, till exempel genom karriärtjänster med högre lön.'
+    - 'Skolan ska vara statlig.'
+    - 'Satsa på mindre klasser, fler lärare och speciallärare i lågstadiet.'
+    - 'Inför sommarskola för dem som inte nått målen i högstadiet.'
+    - 'Minska lärarnas administrationsbörda, med till exempel lärarassistenter och central rättning av de nationella proven.'
+    - 'Öka idrottsämnet i grundskolan  med 100 timmar.'
   -
     fraga: Samtycke
     adress: https://www.liberalerna.se/politik/politiksamtycke/
-    asikt: Vi vill att våldtäktslagstiftningen ska ha en samtyckesparagraf.
+    asikt: 'Vi vill att våldtäktslagstiftningen ska ha en samtyckesparagraf.'
   -
     fraga: Sexualbrott
-    adress: https://www.liberalerna.se/politik/politiksexualbrott/
+    adress: https://www.liberalerna.se/politik/sexualbrott/
     asikt:
-    - Vi vill komplettera sexualbrottslagstiftningen med en samtyckesregel.
-    - Alla sexualbrottslingar ska få behandling.
-    - Vi vill att dömda sexualbrottslingar som har hög återfallsrisk ska få vård även efter fängelsetiden.
+    - 'Heltäckande sexualbrottslag med tydlig samtyckesregel.'
+    - 'Alla sexualbrottslingar ska erbjudas behandling i fängelset.'
+    - 'Dömda sexualbrottslingar som har hög återfallsrisk ska få vård även efter fängelsetiden.'
+    - 'Gör hämndporr ska räknas som ett eget sexualbrott.'
   -
     fraga: Sjöfart
     adress: https://www.liberalerna.se/politik/sjofart/
     asikt:
-    - Vi vill ha rättvisa skattevillkor för svenska och utländska redare.
-    - Ett system med tonnageskatt ger rederinäringen möjligheter att konkurrera på lika villkor på en global marknad.
-    - Underlätta för insjöfarten. Vi ska följa EU:s regler utan onödiga särkrav för transporter på de inre vattenvägarna.
-    - Fler praktikplatser i sjöfartsutbildningen. Praktikplatser bör finnas både internationellt och under svenskt flagg.
+    - 'Vi vill ha rättvisa skattevillkor för svenska och utländska redare.'
+    - 'Ett system med tonnageskatt ger rederinäringen möjligheter att konkurrera på lika villkor på en global marknad.'
+    - 'Underlätta för insjöfarten. Vi ska följa EU:s regler utan onödiga särkrav för transporter på de inre vattenvägarna.'
+    - 'Fler praktikplatser i sjöfartsutbildningen. Praktikplatser bör finnas både internationellt och under svenskt flagg.'
   -
     fraga: Skogen
     adress: https://www.liberalerna.se/politik/skogen/
     asikt:
-    - Den svenska skogsindustrin är en av våra viktigare basnäringar
-    - Skogens potential inom förnybara material, kemiska produkter, textilier och energiproduktion ska tillvaratas
-    - Den svenska skogspolitiken vilar på två jämställda mål, produktionsmålet och miljömålet
-    - Miljöhänsynen inom skogsbruket måste öka
-    - Mer forskning kring frågor om alternativa bruknings- och avverkningsmetoder behövs
-    - De kvarvarande naturskogarna, gammelskogarna, måste skyddas
-    - Använd statligt ägd skog som inbyte för privatägd skyddsvärd skog
-    - Främja internationella samarbetet för att hejda skövling av framför allt regnskog
+    - 'Den svenska skogsindustrin är en av våra viktigare basnäringar'
+    - 'Skogens potential inom förnybara material, kemiska produkter, textilier och energiproduktion ska tillvaratas'
+    - 'Den svenska skogspolitiken vilar på två jämställda mål, produktionsmålet och miljömålet'
+    - 'Miljöhänsynen inom skogsbruket måste öka'
+    - 'Mer forskning kring frågor om alternativa bruknings- och avverkningsmetoder behövs'
+    - 'De kvarvarande naturskogarna, gammelskogarna, måste skyddas'
+    - 'Använd statligt ägd skog som inbyte för privatägd skyddsvärd skog'
+    - 'Främja internationella samarbetet för att hejda skövling av framför allt regnskog'
   -
-    fraga: Skuldsättning
-    adress: https://www.liberalerna.se/politik/politikskuldsattning/
+    fraga: Socialförsäkring
+    adress: https://www.liberalerna.se/politik/socialforsakring/
     asikt:
-    - Belåningsgraden på bostäder ska minska så att privatekonomin påverkas mindre av ändrade räntor eller bopriser.
-    - Reglerna för skuldsanering ska ändras. Ingen ska behöva vara skuldsatt för alltid.
-  -
-    fraga: Socialförsäkringen
-    adress: https://www.liberalerna.se/politik/socialforsakringen/
-    asikt:
-    - Du ska bara betala avgift på den del av lönen som ligger under taket.
-    - Taket bör höjas i takt med vad samhällsekonomin tillåter.
-    - Vi vill att arbetslöshetsförsäkringen ska vara obligatorisk.
-  -
-    fraga: Socialtjänsten
-    adress: https://www.liberalerna.se/politik/politiksocialtjansten/
-    asikt:
-    - Minska hemlösheten.
-    - Stärk utsatta barns rättigheter.
-    - Stärk barnperspektivet och socialtjänstens förutsättningar i den sociala barnavården.
-  -
-    fraga: Spel
-    adress: https://www.liberalerna.se/politik/politikspel/
-    asikt:
-    - Vi vill skapa ett licenssystem för spelarrangörer i Sverige.
-    - Spelföretag ska vara tvungna att ta ett socialt ansvar.
-    - Staten ska inte ordna lotterier.
-    - Vi vill öka insatserna mot spelmissbruk.
-    - Sälj Svenska Spel för att få en spelmarknad i balans.
+    - 'Du ska bara betala avgift på den del av lönen som ligger under taket.'
+    - 'Taket bör höjas i takt med vad samhällsekonomin tillåter.'
+    - 'Vi vill att arbetslöshetsförsäkringen ska vara obligatorisk.'
   -
     fraga: Statliga bolag
     adress: https://www.liberalerna.se/politik/statliga-bolag/
     asikt:
-    - Vi tycker att staten ska sälja sin andel i flygbolaget SAS.
-    - Sälj Vattenfalls utländska verksamhet.
-    - Vi vill se över och ifrågasätta statens ägande i andra bolag och att man säljer aktier där det är möjligt.
+    - 'Vi tycker att staten ska sälja sin andel i flygbolaget SAS.'
+    - 'Sälj Vattenfalls utländska verksamhet.'
+    - 'Vi vill se över och ifrågasätta statens ägande i andra bolag och att man säljer aktier där det är möjligt.'
   -
     fraga: Straff
     adress: https://www.liberalerna.se/politik/politikstraff/
     asikt:
-    - Straffen för organiserad brottslighet ska bli högre.
-    - Minska den så kallade mängdrabatten, som gör att man får straffrabatt om man begår många brott.
-    - Fler fängelsestraff ska vara tidsbestämda. Livstidsstraff ska bara finnas för de absolut grövsta brotten.
-    - Vi vill skärpa straffen för bostadsinbrott.
-    - Vi vill att dödsstraffet avskaffas i hela världen.
+    - 'Straffen för organiserad brottslighet ska bli högre.'
+    - 'Minska den så kallade mängdrabatten, som gör att man får straffrabatt om man begår många brott.'
+    - 'Fler fängelsestraff ska vara tidsbestämda. Livstidsstraff ska bara finnas för de absolut grövsta brotten.'
+    - 'Vi vill skärpa straffen för bostadsinbrott.'
+    - 'Vi vill att dödsstraffet avskaffas i hela världen.'
   -
     fraga: Strandskydd
     adress: https://www.liberalerna.se/politik/strandskydd/
     asikt:
-    - Ett starkt generellt strandskydd för att värna den biologiska mångfalden och allemansrätten
-    - Ett flexibelt strandskydd som mer styrs av de lokala förutsättningarna.
-  -
-    fraga: Studenter från andra länder
-    adress: https://www.liberalerna.se/politik/politikpolitikstudenter-fran-andra-lander/
-    asikt:
-    - Att svenska studenter studerar utomlands och utländska studenter här i Sverige är bra. Det binder oss närmare varandra.
-    - Svenska högskolor och universitet ska konkurrera med utbildning i världsklass, inte med låga priser.
-    - Erbjud fler stipendier till utländska studenter.
+    - 'Ett starkt generellt strandskydd för att värna den biologiska mångfalden och allemansrätten'
+    - 'Ett flexibelt strandskydd som mer styrs av de lokala förutsättningarna.'
   -
     fraga: Studiemedel
     adress: https://www.liberalerna.se/politik/studiemedel/
     asikt:
-    - Nivån på studiemedlen bör höjas och återbetalningskraven skärpas.
-    - Fribeloppet ska vara tillräckligt högt så att det lönar sig att arbeta under studierna.
-    - Den som studerar senare i livet och de som vårdar barn eller anhöriga ska ha goda villkor.
-    - Studier utomlands med studiemedel ska vara möjligt, men det får inte leda till att man slipper återbetalning vid utlandsflytt.
-    - De som på grund av funktionsnedsättning behöver förlängd skolgång ska få studiemedel, inte aktivitetsersättning.
+    - 'Nivån på studiemedlen bör höjas och återbetalningskraven skärpas'
+    - 'Fribeloppet ska vara tillräckligt högt så att det lönar sig att arbeta under studierna'
+    - 'Den som studerar senare i livet och de som vårdar barn eller anhöriga ska ha goda villkor'
+    - 'Studier utomlands med studiemedel ska vara möjligt, men det får inte leda till att man slipper återbetalning vid utlandsflytt'
+    - 'De som på grund av funktionsnedsättning behöver förlängd skolgång ska få studiemedel, inte aktivitetsersättning'
   -
     fraga: Studiero
     adress: https://www.liberalerna.se/politik/studiero/
     asikt:
-    - Utsatta skolor ska ges stöd för långsiktiga insatser för studiero.
-    - Lärarna ska ges ökade befogenheter i klassrummet.
-    - Ge skolorna möjlighet att införa ordningsomdömen.
-    - I första hand är det mobbaren, inte den mobbade, som ska tvingas byta skola.
-    - Elevhälsan måste byggas ut.
+    - 'Utsatta skolor ska ges stöd för långsiktiga insatser för studiero'
+    - 'Lärarna ska ges ökade befogenheter i klassrummet'
+    - 'Ge skolorna möjlighet att införa ordningsomdömen'
+    - 'I första hand är det mobbaren, inte den mobbade, som ska tvingas byta skola'
+    - 'Elevhälsan måste byggas ut'
+    - 'Mobilfri skola under lektionstid'
   -
     fraga: Särskolan
-    adress: https://www.liberalerna.se/politik/politiksarskolan/
-    asikt: Vi vill behålla särskolan som skolform.
+    adress: https://www.liberalerna.se/politik/sarskolan/
+    asikt:
+    - 'Vi vill behålla särskolan som skolform'
+    - 'Särskolan ska inte vara en återvändsgränd'
   -
     fraga: Självständighet
     adress: https://www.liberalerna.se/politik/sjalvstandighet/
     asikt:
-    - Startjobb - fler kan få jobb och egen lön om det blir billigare och enklare att anställa.
-    - Fler lärlingsplatser blir en snabbare väg in på arbetsmarknaden.
-    - Ibland är frihet inte gratis. Sluta snåla på den personliga assistansen.
+    - 'Startjobb - fler kan få jobb och egen lön om det blir billigare och enklare att anställa.'
+    - 'Fler lärlingsplatser blir en snabbare väg in på arbetsmarknaden.'
+    - 'Ibland är frihet inte gratis. Sluta snåla på den personliga assistansen.'
   -
     fraga: Terrorism
     adress: https://www.liberalerna.se/politik/politikterrorism/
     asikt:
-    - Täpp till luckorna i den svenska terroristlagstiftningen.
-    - Utveckla det internationella samarbetet för att bekämpa terrorismen.
-    - Skapa ett europeiskt FBI och en europeisk åklagarmyndighet för att bekämpa internationell brottslighet.
+    - 'Täpp till luckorna i den svenska terroristlagstiftningen.'
+    - 'Utveckla det internationella samarbetet för att bekämpa terrorismen.'
+    - 'Skapa ett europeiskt FBI och en europeisk åklagarmyndighet för att bekämpa internationell brottslighet.'
   -
-    fraga: Tiggande EU-medborgare
-    adress: https://www.liberalerna.se/politik/politikpolitiktiggande/
+    fraga: Tiggeri
+    adress: https://www.liberalerna.se/politik/tiggeri/
     asikt:
-    - Den fria rörligheten, som inbegriper både rättigheter och skyldigheter för den enskilde, är en hörnsten i Europasamarbetet och ska inte inskränkas.
-    - Lösningen på tiggeriproblematiken finns i länder som Rumänien och Bulgarien.
-    - Åtgärder krävs för att bekämpa diskriminering, rasism och antiziganism.
-    - Akut hjälp ska ges i Sverige men ska inte bidra till att hålla människor
-    - kvar i tiggeri.
-    - Svensk lagstiftning gäller lika för alla personer som vistats i vårt land. Diskriminering accepteras inte.
-    - Lösningen ligger inte i att förbjuda tiggeri eller förhindra människors
-    - vilja att hjälpa.
-    - Människor ska inte utnyttjas - det är oacceptabelt och måste bekämpas.
+    - 'Akut hjälp ska ges i Sverige men ska inte bidra till att hålla människor kvar i tiggeri'
+    - 'Diskriminering kan aldrig accepteras - i Sverige gäller svensk lagstiftning för alla som vistas i vårt land.'
+    - 'Lösningen på tiggeriproblematik ligger inte i att förbjuda tiggeri eller förbjuda människor att ge pengar'
+    - 'Människor ska inte utnyttjas - människohandel och att tvinga människor till tiggeri måste bekämpas som de grova brott de är'
+    - 'Åtgärder krävs för att bekämpa diskriminering, rasism och antiziganism'
   -
     fraga: Tobak
     adress: https://www.liberalerna.se/politik/tobak/
     asikt:
-    - Stoppa tobaksförsäljning till ungdomar
-    - Arbeta förebyggande mot rökning
-    - Satsa på rökavvänjning
-    - Rökförbud i utemiljöer bör beslutas lokalt
+    - 'Stoppa tobaksförsäljning till ungdomar'
+    - 'Arbeta förebyggande mot rökning'
+    - 'Satsa på rökavvänjning'
+    - 'Rökförbud i utemiljöer bör beslutas lokalt'
   -
     fraga: Trängselskatt
     adress: https://www.liberalerna.se/politik/politiktrangselskatt/
     asikt:
-    - Vi tycker att de kommuner som vill ha trängselskatt för bilar ska kunna införa det.
-    - Intäkterna ska kunna gå till byggnation av cykelinfrastruktur.
+    - 'Vi tycker att de kommuner som vill ha trängselskatt för bilar ska kunna införa det.'
+    - 'Intäkterna ska kunna gå till byggnation av cykelinfrastruktur.'
   -
     fraga: Trygghet
     adress: https://www.liberalerna.se/politik/trygghet/
     asikt:
-    - Frihet är också att vara trygg där du bor. Det behövs många fler poliser både i storstäderna och på landet, och dessutom trygghetsvakter på gator och torg.
-    - Om fler ska vilja bli poliser, behöver lönerna höjas ordentligt. Den genomsnittliga polislönen ska upp med 4000 kronor.
-    - Socialtjänst och polis ska ingripa snabbt när en ung människa hamnat snett.
-    - När omvärlden är osäker måste försvaret stärkas rejält. Och ensam är inte stark. Sverige ska bli medlem i Nato.
+    - 'Frihet är också att vara trygg där du bor. Det behövs många fler poliser både i storstäderna och på landet, och dessutom trygghetsvakter på gator och torg.'
+    - 'Om fler ska vilja bli poliser, behöver lönerna höjas ordentligt. Den genomsnittliga polislönen ska upp med 4000 kronor.'
+    - 'Socialtjänst och polis ska ingripa snabbt när en ung människa hamnat snett.'
+    - 'När omvärlden är osäker måste försvaret stärkas rejält. Och ensam är inte stark. Sverige ska bli medlem i Nato.'
   -
     fraga: Tandvård
     adress: https://www.liberalerna.se/politik/tandvard/
     asikt:
-    - Stärk högkostnadsskyddet
-    - Satsa på abonnemangstandvård
-    - Bättre tandvård för äldre
-  -
-    fraga: Ungdomsarbetslöshet
-    adress: https://www.liberalerna.se/politik/politikungdomsarbetsloshet/
-    asikt:
-    - Bygg ut lärlingsutbildningarna så att fler unga får möjlighet att lära sig ett yrke på en arbetsplats.
-    - Ändra arbetsrätten så att fler unga får jobb. Dagens turordningsregler är dåliga för unga.
-    - Vi vill att turordningsreglerna ska utgå från den enskildes kompetens.
-    - Skapa yrkesintroduktionsanställningar med handledning och lägre lön första tiden.
-    - Höga ingångslöner ska inte hindra ungas väg in på arbetsmarknaden.
+    - 'Stärk högkostnadsskyddet'
+    - 'Satsa på abonnemangstandvård'
+    - 'Bättre tandvård för äldre'
   -
     fraga: Ungdomsbrottslighet
     adress: https://www.liberalerna.se/politik/politikungdomsbrottslighet/
     asikt:
-    - Vi vill ha bättre samarbete mellan skola, polis och socialtjänst genom fler sociala insatsgrupper för unga i riskzonen.
-    - Snabba på samhällets reaktion vid brott genom en 48-timmarsgaranti på insatser från socialtjänsten.
-    - Satsa på fler fältarbetare och stödcentrum för unga brottsoffer.
+    - 'Vi vill ha bättre samarbete mellan skola, polis och socialtjänst genom fler sociala insatsgrupper för unga i riskzonen.'
+    - 'Snabba på samhällets reaktion vid brott genom en 48-timmarsgaranti på insatser från socialtjänsten.'
+    - 'Satsa på fler fältarbetare och stödcentrum för unga brottsoffer.'
   -
     fraga: Upphovsrätten
     adress: https://www.liberalerna.se/politik/upphovsratten/
     asikt:
-    - Värna upphovsrätten och modernisera den för att tillvarata lagliga möjligheter med fildelning och annan digital teknik.
-    - Bromsa utvecklingen mot allt längre skyddstider för konstnärliga verk.
-    - Inför en "digital allemansrätt" för att göra offentligt finansierad information mer tillgänglig.
+    - 'Värna upphovsrätten och modernisera den för att tillvarata lagliga möjligheter med fildelning och annan digital teknik.'
+    - 'Bromsa utvecklingen mot allt längre skyddstider för konstnärliga verk.'
+    - 'Inför en &quot;digital allemansrätt&quot; för att göra offentligt finansierad information mer tillgänglig.'
+  -
+    fraga: Utrikespolitik
+    adress: https://www.liberalerna.se/politik/utrikespolitik/
+    asikt:
+    - 'Sverige ska gå med i Nato.'
+    - 'Fortsätta reformeringen av FN. Diktaturer ska inte kunna blockera FN:s internationella insatser eller åtgärder vid humanitära och naturkatastrofer.'
+    - 'Inför ett demokratikrav i svensk krigsmaterielexport. Sverige ska inte sälja vapen till diktaturer.'
+    - 'Sverige ska nära sig eurozonen.'
+    - 'Fördjupa liberala samarbeten med EU.'
+    - 'Svenskt bistånd ska vara generöst. Vi vill att en procent av Sveriges BNI avsätts till bistånd.'
+    - 'Demokratisering ska vara det övergripande målet i svensk utrikespolitik och i det svenska biståndet.'
+    - 'Att Sverige ska vara en stark röst för jämställdhet samt HBTQ- personers rättigheter.'
   -
     fraga: Utsatta områden
     adress: https://www.liberalerna.se/politik/utsatta-omraden/
     asikt:
-    - Allas frihet måste försvaras
-    - Fler ska få jobb och en egen lön
-    - Satsa på skolan i utsatta områden
-    - Fler närvarande poliser
-    - Stopp för nya religiösa friskolor
-    - Bekämpa hedersrelaterat våld och förtryck
-    - Stötta förortens feminister
-    - Fler myndigheter och kommunala förvaltningar i områdena
-    - Tryggare och säkrare bostadsområden
-    - Öka insatserna mot våldsbejakande extremism
-    - Inrätta ett nationellt råd för utsatta områden
+    - 'Allas frihet måste försvaras'
+    - 'Fler ska få jobb och en egen lön'
+    - 'Satsa på skolan i utsatta områden'
+    - 'Fler närvarande poliser'
+    - 'Stopp för nya religiösa friskolor'
+    - 'Bekämpa hedersrelaterat våld och förtryck'
+    - 'Stötta förortens feminister'
+    - 'Fler myndigheter och kommunala förvaltningar i områdena'
+    - 'Tryggare och säkrare bostadsområden'
+    - 'Öka insatserna mot våldsbejakande extremism'
+    - 'Inrätta ett nationellt råd för utsatta områden'
   -
     fraga: Utbildning
     adress: https://www.liberalerna.se/politik/utbildning/
     asikt:
-    - Mer undervisningstid i skolan, så att fler kan lära sig mer.
-    - Aktivt skolval i alla kommuner, så att bostadssegregationen inte slår igenom så tungt som i dag. I utsatta områden vill vi lägga extra resurser på att skapa "superteam" av de bästa lärarna och skolledarna.
-    - Nyanlända elever ska få fler lektionstimmar, ett extra läsår och sommarskola när det behövs för att komma ikapp.
-    - Lugn och ro i alla klassrum, med en särskild ordningskommission, hjälp till lärarna att bli bättre på ledarskap och ett särskilt ordningsbetyg.
-    - De nationella proven ska digitaliseras och rättas nationellt. Då kan skolan använda sina resurser till mer undervisning.
-    - Starkare studie- och yrkesvägledning, så att elever tidigt kan få stöd för att hitta en annan väg än den de förväntas för att de är födda in i en viss omständighet.
+    - 'Mer undervisningstid i skolan, så att fler kan lära sig mer.'
+    - 'Aktivt skolval i alla kommuner, så att bostadssegregationen inte slår igenom så tungt som i dag. I utsatta områden vill vi lägga extra resurser på att skapa &quot;superteam&quot; av de bästa lärarna och skolledarna.'
+    - 'Nyanlända elever ska få fler lektionstimmar, ett extra läsår och sommarskola när det behövs för att komma ikapp.'
+    - 'Lugn och ro i alla klassrum, med en särskild ordningskommission, hjälp till lärarna att bli bättre på ledarskap och ett särskilt ordningsbetyg.'
+    - 'De nationella proven ska digitaliseras och rättas nationellt. Då kan skolan använda sina resurser till mer undervisning.'
+    - 'Starkare studie- och yrkesvägledning, så att elever tidigt kan få stöd för att hitta en annan väg än den de förväntas för att de är födda in i en viss omständighet.'
+  -
+    fraga: Utsatta grupper på arbetsmarknaden
+    adress: https://www.liberalerna.se/politik/utsatta-grupper-pa-arbetsmarknaden/
+    asikt:
+    - 'Fler enkla jobb'
+    - 'Inträdesjobb'
+    - 'En ny arbetsförmedling med ett tydligare fokus på personer som står längst ifrån arbetsmarknaden'
+    - 'Ökat stöd för personer med någon form av funktionsnedsättning'
+    - 'Rätt till vidareutbildning under arbetstid'
+    - 'Förbättrad validering'
+    - '10-årig grundskola'
+    - 'Flexiblare arbetsrätt'
+    - 'Utveckla RUT'
+    - 'Förlängd provanställning'
   -
     fraga: Valsystemet
     adress: https://www.liberalerna.se/politik/valsystemet/
     asikt:
-    - Vi vill förstärka personvalet ännu mer.
-    - Förbättra proportionaliteten i valen till kommunfullmäktige.
+    - 'Vi vill förstärka personvalet ännu mer.'
+    - 'Vi vill införa skilda valdagar till kommuner och landsting.'
   -
     fraga: Vapenexport
     adress: https://www.liberalerna.se/politik/vapenexport/
     asikt:
-    - Vi vill ha ett demokratikrav i svensk vapenexport. Sverige ska inte sälja vapen till diktaturer.
-    - Öka öppenheten. Protokollen med partiernas åsikter i Exportkontrollrådet bör vara offentliga.
-    - Slopa sekretessen hos Inspektionen för strategiska produkter (ISP) om mottagarland och typ av krigsmateriel.
-    - Förhindra statliga garantier av vapenexport via Exportkreditnämnden till icke-demokratier.
-    - Upprätthåll EU:s vapenförbud mot Kina.
+    - 'Vi vill ha ett demokratikrav i svensk vapenexport. Sverige ska inte sälja vapen till diktaturer.'
+    - 'Slopa sekretessen hos Inspektionen för strategiska produkter (ISP) om mottagarland och typ av krigsmateriel.'
+    - 'Upprätthåll EU:s vapenförbud mot Kina.'
   -
     fraga: Veteraner
     adress: https://www.liberalerna.se/politik/politikveteraner/
     asikt:
-    - Villkoren för dem som tjänstgjort i utlandet ska förbättras och deras insatser ska uppmärksammas bättre.
-    - Vi vill inrätta ett nationellt veterancenter.
-    - Stödet till veteranorganisationer ska förbättras.
-    - Vi tycker att hela utredningen om veteranpolitik ska bli verklighet i riksdagen.
-    - Ansvaret för utlandstjänstgörande personal ska också omfatta vissa lokalanställda, som t ex tolkar.
-    - Inrätta "riksdagens hedersmedalj för internationell insats" som ges till den som gjort en särskilt bra gärning.
+    - 'Villkoren för dem som tjänstgjort i utlandet ska förbättras och deras insatser ska uppmärksammas bättre.'
+    - 'Vi vill inrätta ett nationellt veterancenter.'
+    - 'Stödet till veteranorganisationer ska förbättras.'
+    - 'Vi tycker att hela utredningen om veteranpolitik ska bli verklighet i riksdagen.'
+    - 'Ansvaret för utlandstjänstgörande personal ska också omfatta vissa lokalanställda, som t ex tolkar.'
+    - 'Inrätta &quot;riksdagens hedersmedalj för internationell insats&quot; som ges till den som gjort en särskilt bra gärning.'
   -
     fraga: Vuxenutbildning
     adress: https://www.liberalerna.se/politik/politikvuxenutbildning/
     asikt:
-    - Fortsätt att bygga ut Yrkeshögskolan. Nästan nio av tio får jobb efter yrkeshögskolestudier.
-    - Alla som vill ska få läsa på Komvux.
-    - Anställda ska kunna gå ner i lön och arbetstid för att kompetensutveckla sig på deltid.
+    - 'Fortsätt att bygga ut den framgångsrika Yrkeshögskolan'
+    - 'Ge alla rätt att läsa in högskolebehörighet på Komvux'
+    - 'Låt studiemedelssystemet gälla hela livet'
+    - 'Inrätta individuella kompetenskonton'
   -
     fraga: Vårdköerna
     adress: https://www.liberalerna.se/politik/vardkoerna/
-    asikt: Återinför en modern kömiljard för att få landstingen att korta väntetiderna i vården.
+    asikt: 'Återinför en modern kömiljard för att få landstingen att korta väntetiderna i vården.'
   -
     fraga: Vägar
     adress: https://www.liberalerna.se/politik/politikvagar/
     asikt:
-    - Satsa på infrastrukturen, rusta upp vägnätet, förstärk broar och påfarter så att 74-tons lastbilar kan trafikera våra vägar.
-    - Inför en dubbdäcksavgift istället för dubbdäcksförbud - Polisens resurser behövs på andra ställen i samhället.
-    - Höj säkerheten på våra vägar. Rattfyllerister ska kunna få alkolås i sina bilar.
-    - Satsa på cykelvägar. Kommuner ska kunna välja att använda intäkter från trängselskatter till finansiering av cykelinfrastruktur.
-    - Vi uppmuntrar forskning kring el-vägar.
+    - 'Satsa på infrastrukturen, rusta upp vägnätet, förstärk broar och påfarter så att 74-tons lastbilar kan trafikera våra vägar.'
+    - 'Inför en dubbdäcksavgift istället för dubbdäcksförbud - Polisens resurser behövs på andra ställen i samhället.'
+    - 'Höj säkerheten på våra vägar. Rattfyllerister ska kunna få alkolås i sina bilar.'
+    - 'Satsa på cykelvägar. Kommuner ska kunna välja att använda intäkter från trängselskatter till finansiering av cykelinfrastruktur.'
+    - 'Vi uppmuntrar forskning kring el-vägar.'
   -
     fraga: Vattenkraft
     adress: https://www.liberalerna.se/politik/vattenkraft/
     asikt:
-    - Vattenkraften måste fortsatt vara kronan i vårt energisystem
-    - Subventioner till andra energislag slår mot vattenkraften
-    - Nationalälvarna ska fredas
-    - Småskalig vattenkraft behövs också
-    - Vattenkraften ska leva upp till dagens miljöregler
+    - 'Vattenkraften måste fortsatt vara kronan i vårt energisystem'
+    - 'Subventioner till andra energislag slår mot vattenkraften'
+    - 'Nationalälvarna ska fredas'
+    - 'Småskalig vattenkraft behövs också'
+    - 'Vattenkraften ska leva upp till dagens miljöregler'
   -
     fraga: Valfrihet
     adress: https://www.liberalerna.se/politik/valfrihet/
     asikt:
-    - Ja till valfrihet i skola, vård och omsorg
-    - Nej till vinstbegränsningar
-    - Höga kvalitetskrav och skarp tillsyn
+    - 'Ja till valfrihet i skola, vård och omsorg'
+    - 'Nej till vinstbegränsningar'
+    - 'Höga kvalitetskrav och skarp tillsyn'
   -
     fraga: Yttrandefrihet
-    adress: https://www.liberalerna.se/politik/politikyttrandefrihet/
+    adress: https://www.liberalerna.se/politik/yttrandefrihet/
     asikt:
-    - Vi vill införa en yttrandefrihetsmiljard i det svenska biståndet.
-    - Fler förföljda journalister, författare, och bloggare ska kunna få en fristad i Sverige.
+    - 'Öka svenskt bistånd till yttrandefrihet och fria medier.'
+    - 'Sätt press på EU-länder som inskränker det fria ordet.'
+    - 'Sveriges grundlagsskydd för fria medier måste fungera i dagens digitala miljö.'
   -
     fraga: Äktenskap
     adress: https://www.liberalerna.se/politik/politikaktenskap/
     asikt:
-    - Vi vill slå vakt om den könsneutrala äktenskapslagen.
-    - Behåll valfriheten mellan borgerlig vigsel och religiös vigsel.
-    - Täpp till de sista luckorna i förbudet mot barnäktenskap.
-    - Inför en tidsgräns för rätten att begära bodelning.
+    - 'Vi vill slå vakt om den könsneutrala äktenskapslagen.'
+    - 'Behåll valfriheten mellan borgerlig vigsel och religiös vigsel.'
+    - 'Täpp till de sista luckorna i förbudet mot barnäktenskap.'
+    - 'Inför en tidsgräns för rätten att begära bodelning.'
   -
     fraga: Äldre i arbetslivet
     adress: https://www.liberalerna.se/politik/aldre-i-arbetslivet/
     asikt:
-    - Rätten att få stanna i arbetslivet ska höjas från dagens 67 till 71 års ålder
-    - Äldre som arbetar ska betala mindre i skatt
+    - 'Rätten att få stanna i arbetslivet ska höjas från dagens 67 till 71 års ålder'
+    - 'Äldre som arbetar ska betala mindre i skatt'
   -
     fraga: Äldreomsorg
     adress: https://www.liberalerna.se/politik/aldreomsorg/
     asikt:
-    - Mer självbestämmande inom äldreomsorgen
-    - Mindre byråkrati kring biståndsbedömningen
-    - Fler platser i vård- och omsorgsboende och trygghetsboende
-    - Utveckla det sociala innehållet i äldreomsorgen
-    - Anhöriga ska inte slitas ut
+    - 'Mer självbestämmande inom äldreomsorgen'
+    - 'Mindre byråkrati kring biståndsbedömningen'
+    - 'Fler platser i vård- och omsorgsboende och trygghetsboende'
+    - 'Utveckla det sociala innehållet i äldreomsorgen'
+    - 'Anhöriga ska inte slitas ut'
   -
     fraga: Östersjön
     adress: https://www.liberalerna.se/politik/ostersjon/
     asikt:
-    - Östersjön måste räddas vilket kräver nationella och internationella åtgärder till exempel när det gäller transporter
-    - Ett rent Östersjön kräver att plast, läkemedel och utsläpp försvinner
-    - Rena stränder - stränder ska städas från plast och annat skräp
-    - Övergödningen måste stoppas - en läckageskatt ska införas
+    - 'Östersjön måste räddas vilket kräver nationella och internationella åtgärder till exempel när det gäller transporter'
+    - 'Ett rent Östersjön kräver att plast, läkemedel och utsläpp försvinner'
+    - 'Rena stränder - stränder ska städas från plast och annat skräp'
+    - 'Övergödningen måste stoppas - en läckageskatt ska införas'

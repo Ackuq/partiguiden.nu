@@ -15,5 +15,6 @@ tags:
     - Hyresrätter
     - ROT- och RUT-avdrag
     - RUT
+    - RUT-avdraget
     - Bolån
 ---

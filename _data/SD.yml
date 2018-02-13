@@ -5,143 +5,143 @@ root:
     fraga: Arbetsmarknadspolitik
     adress: https://sverigedemokraterna.se/var-politik/arbetsmarknadspolitik/
     asikt:
-    - Ja till jobbskatteavdrag – när ekonomin tillåter
-    - Sänkta arbetsgivaravgifter för mindre företag
-    - En ny anställningsform, lärlingsanställningar för unga
-    - Stärkt a-kassa så att fler får ut 80 % och förlängd tid för deltidsanställda
-    - Avskaffa Lex Laval
-    - Krafttag mot den obalanserade konkurrensen inom åkerinäringen
+    - 'Ja till jobbskatteavdrag – när ekonomin tillåter'
+    - 'Sänkta arbetsgivaravgifter för mindre företag'
+    - 'En ny anställningsform: Lärlingsanställningar för unga'
+    - 'Stärkt a-kassa så att fler får ut 80 % och förlängd tid för deltidsanställda'
+    - 'Avskaffa Lex Laval'
+    - 'Krafttag mot den obalanserade konkurrensen inom åkerinäringen'
   -
     fraga: Arbetsmiljö
     adress: https://sverigedemokraterna.se/var-politik/arbetsmiljo/
     asikt:
-    - Statlig investering för rätt till heltid för alla inom offentlig sektor
-    - Avskaffad karensdag för de som arbetar med vård och omsorg
-    - Avskaffade delade turer för de som så önskar
-    - Ökat stöd till företagshälsovården
-    - Utökade resurser till Arbetsmiljöverket
+    - 'Statlig investering för rätt till heltid för alla inom offentlig sektor'
+    - 'Avskaffad karensdag för de som arbetar med vård och omsorg'
+    - 'Avskaffade delade turer för de som så önskar'
+    - 'Ökat stöd till företagshälsovården'
+    - 'Utökade resurser till Arbetsmiljöverket'
   -
     fraga: Djurskydd
     adress: https://sverigedemokraterna.se/var-politik/djurskydd/
     asikt:
-    - Inrätta en djurpolis
-    - Utökade djurskyddskontroller
-    - Kompensation för konkurrensnackdelar för de som upprätthåller djurskyddet – ett djurvälfärdsbidrag
-    - Mycket höga krav på importerade djurrelaterade produkter
-    - Utökade resurser till Arbetsmiljöverket
+    - 'Inrätta en djurpolis'
+    - 'Utökade djurskyddskontroller'
+    - 'Kompensation för konkurrensnackdelar för de som upprätthåller djurskyddet – ett djurvälfärdsbidrag'
+    - 'Mycket höga krav på importerade djurrelaterade produkter'
+    - 'Utökade resurser till Arbetsmiljöverket'
   -
     fraga: Ekonomisk politik
     adress: https://sverigedemokraterna.se/var-politik/ekonomisk-politik/
     asikt:
-    - Skattesänkningar för småföretagare
-    - Obligatorisk arbetslöshetsförsäkring
-    - Förstärkt välfärd med bibehållen frihet
+    - 'Skattesänkningar för småföretagare'
+    - 'Obligatorisk arbetslöshetsförsäkring'
+    - 'Förstärkt välfärd med bibehållen frihet'
   -
     fraga: Invandringspolitik
     adress: http://sverigedemokraterna.se/var-politik/invandringspolitik/
     asikt:
-    - Stoppa massinvandringen
-    - Fokus på gemenskap och nej till mångkulturalism
-    - Gästarbetarsystem inom specialist- och bristyrken
-    - Använd temporära uppehållstillstånd istället för permanenta
-    - Försörjningskrav för att ta in anhöriga
-    - Ett generöst återvandringsbidrag
+    - 'Stoppa massinvandringen'
+    - 'Fokus på gemenskap och nej till mångkulturalism'
+    - 'Gästarbetarsystem inom specialist- och bristyrken'
+    - 'Använd temporära uppehållstillstånd istället för permanenta'
+    - 'Försörjningskrav för att ta in anhöriga'
+    - 'Ett generöst återvandringsbidrag'
   -
     fraga: Energipolitik
     adress: https://sverigedemokraterna.se/var-politik/energipolitik/
     asikt:
-    - Bygg ut, modernisera och satsa på kärnkraften – en ren och säker energikälla
-    - Låt energipolitiken präglas av rationalitet – inte önsketänkande
-    - Behåll Vattenfall i statlig ägo
-    - Orörda nationalälvar bör förbli orörda
-    - Satsa på forskning kring biogas och nya energikällor
+    - 'Bygg ut, modernisera och satsa på kärnkraften – en ren och säker energikälla'
+    - 'Låt energipolitiken präglas av rationalitet – inte önsketänkande'
+    - 'Behåll Vattenfall i statlig ägo'
+    - 'Orörda nationalälvar bör förbli orörda'
+    - 'Satsa på forskning kring biogas och nya energikällor'
   -
     fraga: EU-politik
     adress: https://sverigedemokraterna.se/var-politik/eu-politik/
     asikt:
-    - En folkomröstning om EU-medlemskapet
-    - Nej till Turkiet i EU
-    - Fortsatt nej till EMU
-    - Ett återupprättat gränsskydd genom omförhandling av Schengen-avtalet
+    - 'En folkomröstning om EU-medlemskapet'
+    - 'Nej till Turkiet i EU'
+    - 'Fortsatt nej till EMU'
+    - 'Ett återupprättat gränsskydd genom omförhandling av Schengen-avtalet'
   -
     fraga: Familjepolitik
     adress: https://sverigedemokraterna.se/var-politik/jamstalldhetspolitik/
     asikt:
-    - Inför frivillig sambeskattning
-    - Fler lediga dagar för föräldrar, för att vara hemma med sina barn och för att följa med dem på dagis
-    - Höjt bostadsbidrag för barnfamiljer
-    - Stärkt finansiering för att öka tillgången på s.k. Nattis
+    - 'Inför frivillig sambeskattning'
+    - 'Fler lediga dagar för föräldrar: För att vara hemma med sina barn och för att följa med dem på dagis'
+    - 'Höjt bostadsbidrag för barnfamiljer'
+    - 'Stärkt finansiering för att öka tillgången på s.k. Nattis'
   -
     fraga: Flyktingpolitik
     adress: https://sverigedemokraterna.se/var-politik/flyktingpolitik/
     asikt:
-    - Ökat bistånd till FN:s flyktingorgan UNHCR
-    - Biståndsbudgeten ska inte användas för att bekosta invandring till Sverige
-    - Kraftig begränsning av invandringen till Sverige
+    - 'Ökat bistånd till FN:s flyktingorgan UNHCR'
+    - 'Biståndsbudgeten ska inte användas för att bekosta invandring till Sverige'
+    - 'Kraftig begränsning av invandringen till Sverige'
   -
     fraga: Försvarspolitik
     adress: https://sverigedemokraterna.se/var-politik/forsvarspolitik/
     asikt:
-    - Stegvis höja anslagen till försvaret – rejält
-    - Minskat fokus på internationella insatser
-    - Återupprättad försvarsförmåga, hela Sverige ska försvaras
-    - Återinförd värnplikt
-    - Trygga framtiden för svensk vapenindustri
+    - 'Stegvis höja anslagen till försvaret – rejält'
+    - 'Minskat fokus på internationella insatser'
+    - 'Återupprättad försvarsförmåga: Hela Sverige ska försvaras'
+    - 'Återinförd värnplikt'
+    - 'Trygga framtiden för svensk vapenindustri'
   -
     fraga: Kriminalpolitik
     adress: https://sverigedemokraterna.se/var-politik/kriminalpolitik/
     asikt:
-    - Kraftigt skärpta straff för grov och upprepad brottslighet
-    - Avskaffa mängdrabatten för flerfaldigt dömda brottslingar
-    - Krossa den grova, organiserade kriminaliteten genom särskilt åtgärdspaket (SMOK)
-    - Garantera brottsoffers skadeståndsersättningar
+    - 'Kraftigt skärpta straff för grov och upprepad brottslighet'
+    - 'Avskaffa mängdrabatten för flerfaldigt dömda brottslingar'
+    - 'Krossa den grova, organiserade kriminaliteten genom särskilt åtgärdspaket (SMOK)'
+    - 'Garantera brottsoffers skadeståndsersättningar'
   -
     fraga: Kulturpolitik
     adress: https://sverigedemokraterna.se/var-politik/kulturpolitik/
     asikt:
-    - Bevara det svenska kulturarvet
-    - Stärk den nationella identiteten
-    - Inrätta en kulturarvsfond av norsk modell för projekt för bevarande och levandegörande av det svenska kulturarvet.
-    - Skapa en kulturkanon
-    - Digitalisera filmarkivet
-    - Inrätta särskild fond för skapande äldreomsorg
+    - 'Bevara det svenska kulturarvet'
+    - 'Stärk den nationella identiteten'
+    - 'Inrätta en kulturarvsfond av norsk modell för projekt för bevarande och levandegörande av det svenska kulturarvet.'
+    - 'Skapa en kulturkanon'
+    - 'Digitalisera filmarkivet'
+    - 'Inrätta särskild fond för skapande äldreomsorg'
   -
     fraga: Landsbygdspolitik
     adress: https://sverigedemokraterna.se/var-politik/landsbygdspolitik/
     asikt:
-    - Investeringar gruvnäring och skog skapar 25 000 nya jobb på landsbygden
-    - Höjning av milersättningen för att underlätta företagande
-    - Storsatsning på svensk matproduktion och matkultur. Stränga krav på import.
-    - Rejäl utbyggnad av järnväg, motorväg och bredband
-    - Sänkt och stabilt elpris genom kärnkraft. Nej till fler vindsnurror.
+    - 'Investeringar gruvnäring och skog skapar 25 000 nya jobb på landsbygden'
+    - 'Höjning av milersättningen för att underlätta företagande'
+    - 'Storsatsning på svensk matproduktion och matkultur. Stränga krav på import.'
+    - 'Rejäl utbyggnad av järnväg, motorväg och bredband'
+    - 'Sänkt och stabilt elpris genom kärnkraft. Nej till fler vindsnurror.'
   -
     fraga: Miljöpolitik
     adress: https://sverigedemokraterna.se/var-politik/miljopolitik/
     asikt:
-    - Utvecklad kärnkraft
-    - Bred satsning på Sverige som matland. Mer närodlat och ekologiskt, färre långa transporter
-    - Stoppa föroreningen av Östersjön
+    - 'Utvecklad kärnkraft'
+    - 'Bred satsning på Sverige som matland. Mer närodlat och ekologiskt, färre långa transporter'
+    - 'Stoppa föroreningen av Östersjön'
   -
     fraga: Sjukvårdspolitik
     adress: https://sverigedemokraterna.se/var-politik/sjukvardspolitik/
     asikt:
-    - Rätt till heltid för personal inom offentlig sektor – Fler händer i vården
-    - Stärkt högkostnadsskydd för vård och mediciner
-    - Ingen patientavgift för personer över 85 år
-    - Riktade statliga anslag för att åtgärda bristen på vårdplatser
+    - 'Rätt till heltid för personal inom offentlig sektor – Fler händer i vården'
+    - 'Stärkt högkostnadsskydd för vård och mediciner'
+    - 'Ingen patientavgift för personer över 85 år'
+    - 'Riktade statliga anslag för att åtgärda bristen på vårdplatser'
   -
     fraga: Skolpolitik
     adress: https://sverigedemokraterna.se/var-politik/skolpolitik/
     asikt:
-    - Ökad satsning på kunskaper i svenska språket
-    - Handlingsplan för ordning, reda och studiero i klassrummen
-    - Höja lärarnas befogenheter och yrkesstatus
-    - Återförstatligande och skärpta krav på friskolor
+    - 'Ökad satsning på kunskaper i svenska språket'
+    - 'Handlingsplan för ordning, reda och studiero i klassrummen'
+    - 'Höja lärarnas befogenheter och yrkesstatus'
+    - 'Återförstatligande och skärpta krav på friskolor'
   -
     fraga: Äldrepolitik
     adress: https://sverigedemokraterna.se/var-politik/aldrepolitik/
     asikt:
-    - Sänk pensionärernas skatt till samma nivå som löntagare. Fullt finansierat i vår budget.
-    - Höj garantipensionerna med minst 10 %. Det motsvarar ungefär 800 kronor i månaden.
-    - En stor satsning för god och näringsrik mat med hög kvalitet i äldreomsorgen.
-    - Många fler anställda inom vård och äldrevård inom ramen för Fler händer i vården.
+    - 'Sänk pensionärernas skatt till samma nivå som löntagare. Fullt finansierat i vår budget.'
+    - 'Höj garantipensionerna med minst 10 %. Det motsvarar ungefär 800 kronor i månaden.'
+    - 'En stor satsning för god och näringsrik mat med hög kvalitet i äldreomsorgen.'
+    - 'Många fler anställda inom vård och äldrevård inom ramen för Fler händer i vården.'
