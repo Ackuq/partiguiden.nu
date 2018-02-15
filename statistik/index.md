@@ -15,55 +15,51 @@ title: Statistik
     <div class="container">
         <canvas id="myChart" width="800" height="400"></canvas>
         <script>
-                function average(data){
+                function average(data, k){
                     var myData = [];
-                    year = data[0]["PublYearMonth"].slice(0,4);
-                    switch(data[0]["PublYearMonth"].slice(5)){
-                    case "jan": var month = "Januari";
+                    year = data[0]["year"];
+                    switch(data[0]["month"]){
+                    case 0: var month = "Januari";
                             break;
-                    case "feb": var month = "Februari";
+                    case 1: var month = "Februari";
                             break;
-                    case "mar": var month = "Mars";
+                    case 2: var month = "Mars";
                             break;
-                    case "apr": var month = "April";
+                    case 3: var month = "April";
                             break;
-                    case "maj": var month = "Maj";
+                    case 4: var month = "Maj";
                             break;
-                    case "jun": var month = "Juni";
+                    case 5: var month = "Juni";
                             break;
-                    case "jul": var month = "Juli";
+                    case 6: var month = "Juli";
                             break;
-                    case "aug": var month = "Augusti";
+                    case 7: var month = "Augusti";
                             break;
-                    case "sep": var month = "September";
+                    case 8: var month = "September";
                             break;
-                    case "okt": var month = "Oktober";
+                    case 9: var month = "Oktober";
                             break;
-                    case "nov": var month = "November";
+                    case 10: var month = "November";
                             break;
-                    case "dec": var month = "December";
+                    case 11: var month = "December";
                             break;
                     }
                     for(var i = 0; i < 8;i++){
                         myData[i]=0;
                     }
-                    var count = 0;
-                    for(var i = 0; i<data.length;i++){
-                        if(data[i].Company != "Skop"){
-                            myData[0] += parseFloat(data[i].S);
-                            myData[1] += parseFloat(data[i].V);
-                            myData[2] += parseFloat(data[i].MP);
-                            myData[3] += parseFloat(data[i].SD);
-                            myData[4] += parseFloat(data[i].M);
-                            myData[5] += parseFloat(data[i].L);
-                            myData[6] += parseFloat(data[i].C);
-                            myData[7] += parseFloat(data[i].KD);
-                            count++;
-                        }
+                    for(var i = 0; i < k;i++){
+                        myData[0] += parseFloat(data[i].S);
+                        myData[1] += parseFloat(data[i].V);
+                        myData[2] += parseFloat(data[i].MP);
+                        myData[3] += parseFloat(data[i].SD);
+                        myData[4] += parseFloat(data[i].M);
+                        myData[5] += parseFloat(data[i].L);
+                        myData[6] += parseFloat(data[i].C);
+                        myData[7] += parseFloat(data[i].KD);
                     }
                     blocks(myData, year, month);
                     for(var i = 0; i <8;i++){
-                        myData[i]= (myData[i]/(count)).toFixed(1);
+                        myData[i]= (myData[i]/(k)).toFixed(1);
                     }
                     var canvas = document.getElementById("myChart");
                     var ctx = document.getElementById("myChart").getContext("2d");
@@ -90,9 +86,8 @@ title: Statistik
                                 callbacks:{
                                     afterLabel: function(tooltipItem, dat){
                                         var values = [];
-                                        for(var i = 0;i<data.length;i++){
-                                            if(data[i].Company != "Skop")
-                                                values.push(data[i].Company +": "+data[i][tooltipItem.xLabel]);
+                                        for(var i = 0;i<k;i++){
+                                            values.push(data[i].Company +": "+data[i][tooltipItem.xLabel]);
                                         }
                                         return values;
                                     }    
@@ -150,10 +145,16 @@ title: Statistik
                 sums.KD = [];
                 sums.SD = [];
                 sums.count = [];
+                var k = 0;
+                var first = new Date(1999,01,01);
+                var firstData = new Object();
                 for(var i = data.length-1; i>=0;i--){
                     var from = new Date(data[i]["collectPeriodFrom"]);
                     var to = new Date(data[i]["collectPeriodTo"]);
                     var avg = new Date((to.getTime() + from.getTime()) / 2);
+                    if(avg.getTime() > first.getTime()){
+                        first = avg;
+                    }
                     if(data[i]["Company"] != "United Minds"){
                         var currp = avg.toISOString().slice(0,7);
                         for(var prop in sums){
@@ -172,6 +173,27 @@ title: Statistik
                             sums["count"][currp]++;
                     }
                 }
+                for(var i = 0; i< 15; i++){
+                    var from = new Date(data[i]["collectPeriodFrom"]);
+                    var to = new Date(data[i]["collectPeriodTo"]);
+                    var avg = new Date((to.getTime() + from.getTime()) / 2);
+                    if(avg.getMonth() == first.getMonth()){
+                        firstData[k] = new Object();
+                        firstData[k].M = data[i].M;
+                        firstData[k].S = data[i].S;
+                        firstData[k].V = data[i].V;
+                        firstData[k].MP = data[i].MP;
+                        firstData[k].KD = data[i].KD;
+                        firstData[k].C = data[i].C;
+                        firstData[k].L = data[i].L;
+                        firstData[k].SD = data[i].SD;
+                        firstData[k].Company = data[i].Company;
+                        firstData[k].year = avg.getFullYear();
+                        firstData[k].month = avg.getMonth();
+                        k++;
+                    }
+                }
+                average(firstData, k);
                 for(var i = 0; i < dateLabels.length;i++){
                     for(var prop in sums){
                         if(prop != "count")
@@ -334,9 +356,5 @@ d3.csv("https://raw.githubusercontent.com/hjnilsson/SwedishPolls/master/Data/Pol
             return row['PublYearMonth'];
     });
     past(pastd);
-    var av = csv.filter(function(row){
-        return row['PublYearMonth'] == csv[0]["PublYearMonth"];
-    });
-    average(av);
 });
 </script>
