@@ -47,19 +47,23 @@ title: Statistik
                     for(var i = 0; i < 8;i++){
                         myData[i]=0;
                     }
+                    var count = 0;
                     for(var i = 0; i<data.length;i++){
-                        myData[0] += parseFloat(data[i].S);
-                        myData[1] += parseFloat(data[i].V);
-                        myData[2] += parseFloat(data[i].MP);
-                        myData[3] += parseFloat(data[i].SD);
-                        myData[4] += parseFloat(data[i].M);
-                        myData[5] += parseFloat(data[i].L);
-                        myData[6] += parseFloat(data[i].C);
-                        myData[7] += parseFloat(data[i].KD);
+                        if(data[i].Company != "Skop"){
+                            myData[0] += parseFloat(data[i].S);
+                            myData[1] += parseFloat(data[i].V);
+                            myData[2] += parseFloat(data[i].MP);
+                            myData[3] += parseFloat(data[i].SD);
+                            myData[4] += parseFloat(data[i].M);
+                            myData[5] += parseFloat(data[i].L);
+                            myData[6] += parseFloat(data[i].C);
+                            myData[7] += parseFloat(data[i].KD);
+                            count++;
+                        }
                     }
                     blocks(myData, year, month);
                     for(var i = 0; i <8;i++){
-                        myData[i]= (myData[i]/(data.length)).toFixed(1);
+                        myData[i]= (myData[i]/(count)).toFixed(1);
                     }
                     var canvas = document.getElementById("myChart");
                     var ctx = document.getElementById("myChart").getContext("2d");
@@ -87,7 +91,8 @@ title: Statistik
                                     afterLabel: function(tooltipItem, dat){
                                         var values = [];
                                         for(var i = 0;i<data.length;i++){
-                                            values.push(data[i].Company +": "+data[i][tooltipItem.xLabel]);
+                                            if(data[i].Company != "Skop")
+                                                values.push(data[i].Company +": "+data[i][tooltipItem.xLabel]);
                                         }
                                         return values;
                                     }    
