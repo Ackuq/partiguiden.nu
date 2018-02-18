@@ -13,7 +13,7 @@ title: Statistik
         <h5 class="text-center font-weight-light">Här kan du hitta sammanställd data från diverse opinionsundersökningar som har gjorts i Sverige. Mer grafer kommer komma.</h5>
     </div>
     <div class="container">
-        <canvas id="myChart" width="800" height="400"></canvas>
+        <canvas id="currentChart" width="800" height="400"></canvas>
         <script>
                 function average(data, k){
                     var myData = [];
@@ -57,13 +57,18 @@ title: Statistik
                         myData[6] += parseFloat(data[i].C);
                         myData[7] += parseFloat(data[i].KD);
                     }
-                    blocks(myData, year, month);
+                    var blockArray = [
+                        ((myData[0]+myData[1]+myData[2])/k).toFixed(1),
+                        (myData[3]/k).toFixed(1),
+                        ((myData[4]+myData[5]+myData[6]+myData[7])/k).toFixed(1)
+                    ];
                     for(var i = 0; i <8;i++){
-                        myData[i]= (myData[i]/(k)).toFixed(1);
+                        myData[i] = (myData[i]/(k)).toFixed(1);
                     }
-                    var canvas = document.getElementById("myChart");
-                    var ctx = document.getElementById("myChart").getContext("2d");
-                    var myChart = new Chart(ctx,{
+                    blocks(myData, blockArray, year, month);                    
+                    var canvas = document.getElementById("currentChart");
+                    var ctx = document.getElementById("currentChart").getContext("2d");
+                    var currentChart = new Chart(ctx,{
                         type: 'bar',
                         data:{
                             labels: ["S","V","MP","SD","M","L","C","KD"],
@@ -201,7 +206,7 @@ title: Statistik
                     }
                 }
                 var ctx = document.getElementById("pastChart").getContext("2d");
-                var myChart = new Chart(ctx,{
+                var pastChart = new Chart(ctx,{
                     type: 'line',
                     data:{
                         labels: dateLabels,
@@ -293,13 +298,10 @@ title: Statistik
     <div class="container d-flex justify-content-center">
         <canvas id="blockChart" height="200" width="400"></canvas>
         <script>
-            function blocks(data, year, month){
-                var blocks = [];
-                blocks[0] = (data[0] + data[1] + data[2]).toFixed(1);
-                blocks[1] = data[3].toFixed(1);
-                blocks[2] = (data[4] + data[5] + data[6] + data[7]).toFixed(1);
+            function blocks(data, blocks, year, month){
                 var ctx = document.getElementById("blockChart").getContext("2d");
-                var myChart = new Chart(ctx,{
+                console.log(blocks);
+                var blockChart = new Chart(ctx,{
                     type: 'doughnut',
                     data:{
                         datasets:
