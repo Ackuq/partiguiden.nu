@@ -10,7 +10,7 @@ title: Statistik
 <div id="content">
     <div class="container">
         <h1 class="font-weight-light text-center">{{ page.title }}</h1>
-        <h5 class="text-center font-weight-light">Här kan du hitta sammanställd data från diverse opinionsundersökningar som har gjorts i Sverige. Mer grafer kommer komma.</h5>
+        <h5 class="text-center font-weight-light">Här kan du hitta sammanställd data från diverse opinionsundersökningar som har gjorts i Sverige.</h5>
     </div>
     <div class="container">
         <canvas id="currentChart" width="800" height="400"></canvas>
@@ -174,8 +174,9 @@ title: Statistik
                             sums["count"][currp] = 1;
                             dateLabels.push(currp);
                         }
-                        else
+                        else{
                             sums["count"][currp]++;
+                        }
                     }
                 }
                 for(var i = 0; i< 15; i++){
@@ -300,7 +301,6 @@ title: Statistik
         <script>
             function blocks(data, blocks, year, month){
                 var ctx = document.getElementById("blockChart").getContext("2d");
-                console.log(blocks);
                 var blockChart = new Chart(ctx,{
                     type: 'doughnut',
                     data:{
@@ -351,7 +351,7 @@ title: Statistik
 d3.csv("https://raw.githubusercontent.com/hjnilsson/SwedishPolls/master/Data/Polls.csv",function(csv){
     var check = true;
     var pastd = csv.filter(function(row){
-        if(row['PublYearMonth'] == ((csv[0]["PublYearMonth"].slice(0,4)-4) + (csv[0]["PublYearMonth"].slice(4)))){
+        if(row['PublYearMonth'] == ((csv[0]["PublYearMonth"].slice(0,4)-4) + (csv[0]["PublYearMonth"].slice(4,8)))){
            check = false;
         }
         if(check)
