@@ -14,6 +14,7 @@ root:
     fraga: Ekonomi
     adress: https://www.socialdemokraterna.se//var-politik/sakomraden/ekonomi/
     asikt:
+    - ' att investeringar i fler jobb och bättre skola går före fortsatta skattesänkningar'
     - 'Att Sverige mellan 2014 och 2020 ska öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att Sverige når lägst arbetslöshet i EU'
     - 'Att det finanspolitiska ramverket med mål för den offentliga sektorns sparande och utgiftstak ska förstärkas i enlighet med den breda blocköverskridande överenskommelse som finns på området.'
   -
@@ -51,8 +52,10 @@ root:
     fraga: Alkohol och narkotika
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/alkohol/
     asikt:
-    - 'Slå vakt om Systembolagets monopol eftersom det motverkar okontrollerad försäljning av alkohol. Vi säger nej till så kallad gårdsförsäljning. Åldersgränsen för att kunna köpa alkohol på Systembolaget ska även fortsättningsvis vara 20 år'
-    - 'Skärpt tillsyn över näthandel med alkohol eftersom dagens regler ofta inte följs'
+    - 'Slå vakt om Systembolagets monopol eftersom det motverkar okontrollerad försäljning av alkohol'
+    - 'Vi säger nej till så kallad gårdsförsäljning då det inte är förenligt med EU:s regler för att kunna ha detaljhandelsmonopol för alkoholdrycker'
+    - 'Åldersgränsen för att kunna köpa alkohol på Systembolaget ska även fortsättningsvis vara 20 år'
+    - 'Skärpta bestämmelser om näthandel med alkohol i syfte att värna Systembolagets ensamrätt'
     - 'Skärpta insatser mot smuggling av alkohol.'
   -
     fraga: Alliansfrihet
@@ -68,7 +71,9 @@ root:
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/apotek/
     asikt:
     - 'Att apotek ska finns tillgängliga i alla delar av landet'
-    - 'Att alla patienter ska ha tillgång till läkemedelskunnig personal på apoteken.'
+    - 'Att alla patienter ska ha tillgång till läkemedelskunnig personal på apoteken för rådgivning'
+    - 'Att du ska få de receptbelagda läkemedel du behöver inom 24 timmar'
+    - 'Att apoteken genom rådgivning och andra tjänster ska bidra till att alla får en trygg vård och en säker läkemedelsanvändning.'
   -
     fraga: Arbete
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/arbete/
@@ -110,20 +115,13 @@ root:
     fraga: Barn
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/barn/
     asikt:
-    - 'Göra FNs barnkonvention till svensk lag'
+    - 'Göra FN:s barnkonvention till svensk lag'
     - 'Höja barnbidragen och studiebidragen till gymnasister'
     - 'Ge barn till arbetslösa och föräldralediga föräldrar rätt att vara heltid i förskolan.'
   -
     fraga: Barnomsorg
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/barnomsorg/
     asikt: 'Att kommuner ska ha lagstadgad skyldighet att erbjuda barnomsorg på kvällar, nätter och helger.'
-  -
-    fraga: Beredskapsjobb
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/beredskapsjobb/
-    asikt:
-    - 'Utveckla den svenska modellen tillsammans med fack och arbetsgivare'
-    - 'Öka möjligheterna för fler att få och behålla ett arbete'
-    - 'Ha ordning och reda på arbetsmarknaden.'
   -
     fraga: Betyg
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/betyg/
@@ -147,13 +145,6 @@ root:
     - 'Vi vill se fler hyresrätter, bra bostäder för äldre, studentbostäder, blandade bostadsområden med både villor, radhus och flerfamiljshus som bryter den växande bostadssegregationen'
     - 'Förändra plan- och bygglagen för att snabba upp byggprocessen'
     - 'Föra en tydligare markpolitik, både från stat och kommun.'
-  -
-    fraga: Brottslighet
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/brottslighet/
-    asikt:
-    - '. Rekryteringen till gängen ska stoppas. Straffen för vapenbrott och grova våldsbrott ska vara kännbara. Mer sociala åtgärder ska riktas mot ungdomar i riskzonen.'
-    - '. Polisen ska finnas där den behövs som bäst. Polisen ska ha god förmåga att utreda brott och brottsoffer ska få ett bra bemötande.'
-    - '. Fler gärningsmän ska ställas inför rätta. Drabbade kvinnor ska få stöd och skydd. Stödet till barn som bevittnar våld ska förbättras.'
   -
     fraga: Den svenska modellen
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/den-svenska-modellen/
@@ -192,6 +183,12 @@ root:
     - 'Att EU ska ta en ledarroll i världen med en ambitiös klimat- och miljöpolitik'
     - 'Upprätta en gemensam, ansvarsfull och solidarisk flykting- och migrationspolitik i EU.'
   -
+    fraga: Extratjänster
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/extratjanster/
+    asikt:
+    - 'Ge fler chansen att gå till jobbet'
+    - 'Ha kollektivavtalade anställningsformer.'
+  -
     fraga: Jämställdhet
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/feminism/
     asikt:
@@ -218,7 +215,7 @@ root:
     fraga: Folkhögskola
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/folkhogskola/
     asikt:
-    - 'Öka antalet platser inom folkhögskolan'
+    - 'Fortsätta att öka antalet platser inom folkhögskolan'
     - 'Möjliggöra för studieförbund och folkhögskolor att finnas över hela landet'
     - 'Göra det möjligt att läsa en hel gymnasieutbildning på folkhögskola direkt efter grundskolan.'
   -
@@ -432,7 +429,8 @@ root:
     - 'Utveckla kulturlivet i hela landet'
     - 'Utveckla kultursamverkansmodellen'
     - 'Utöka fri entré till regionala museer'
-    - 'Utveckla konstnärernas villkor.'
+    - 'Utveckla konstnärernas villkor'
+    - 'Utveckla kultur- och musikskolan.'
   -
     fraga: Kyrkor och trossamfund
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/kyrkor-och-trossamfund/
@@ -446,6 +444,13 @@ root:
     asikt:
     - 'En ordnad övergång där kärnkraften successivt ersätts med förnybar energi och energieffektivisering. Vi ska ha ett väl fungerande och konkurrenskraftigt elsystem även när kärnkraften är borta'
     - 'Att Sverige ska ha god tillgång till el med konkurrenskraftiga priser.'
+  -
+    fraga: Lag och ordning
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/lag-och-ordning/
+    asikt:
+    - '. Rekryteringen till gängen ska stoppas. Straffen för vapenbrott och grova våldsbrott ska vara kännbara. Mer sociala åtgärder ska riktas mot ungdomar i riskzonen.'
+    - '. Polisen ska finnas där den behövs som bäst. Polisen ska ha god förmåga att utreda brott och brottsoffer ska få ett bra bemötande.'
+    - '. Fler gärningsmän ska ställas inför rätta. Drabbade kvinnor ska få stöd och skydd. Stödet till barn som bevittnar våld ska förbättras.'
   -
     fraga: Landsbygdspolitik
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/landsbygdspolitik/
@@ -489,13 +494,6 @@ root:
     - 'Att Sverige fortsätter arbeta för en global kärnvapennedrustning'
     - 'Att Sverige fortsätter vara en stark röst för internationell diplomati.'
   -
-    fraga: Nittiodagarsgarantin
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/nittiodagarsgarantin/
-    asikt:
-    - 'Införa en 90-dagarsgaranti för unga'
-    - 'Alla unga arbetssökande garanteras att senast inom 90 dagar få erbjudande om ett riktigt jobb, en praktikplats, en utbildning som leder till jobb eller en kombination av dessa'
-    - 'Göra Arbetsförmedlingen till en matchningsspecialist.'
-  -
     fraga: Nyanlända elever
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/nyanlanda-elever/
     asikt:
@@ -503,6 +501,13 @@ root:
     - 'Förbättra modersmålsundervisningen'
     - 'Att resurser ska fördelas mer rättvist'
     - 'Stärka elevhälsan.'
+  -
+    fraga: Nyanländas etablering
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/nyanlandas-etablering/
+    asikt:
+    - 'Införa etableringsjobb'
+    - 'Se över hur olika bidragssystem samspelar och påverkar utrikes födda kvinnors ekonomiska förutsättningar att studera och arbeta'
+    - 'Satsa på fler snabbspår och bristyrkesutbidlningar.'
   -
     fraga: Näringspolitik och konkurrenskraft
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/naringspolitik-och-konkurrenskraft/
@@ -531,9 +536,10 @@ root:
     fraga: Psykiatri
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/psykiatri/
     asikt:
-    - 'Öka tillgången till snabba insatser så att människor som behöver hjälp, stöd och vård ska kunna få det tidigare'
+    - 'Öka tillgången till snabba insatser så att människor som behöver hjälp, stöd och vård ska kunna få det tidigare än idag'
     - 'Förbättra möjligheterna för exempelvis skolhälsovård och ungdomsmottagningar att kunna möta unga som mår dåligt i ett tidigt skede så att de kan få hjälp snabbt'
-    - 'Bygga upp regionala center för kunskapsspridning och utveckling i psykiatrin.'
+    - 'Bygga upp regionala center för kunskapsspridning och utveckling i psykiatrin'
+    - 'Öka möjligheterna att få hjälp med psykisk ohälsa på vårdcentralerna.'
   -
     fraga: Public service och kommersiell media
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/public-service-och-kommersiell-media/
@@ -569,10 +575,11 @@ root:
     fraga: Sjukvård
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/sjukvard/
     asikt:
-    - 'Införa patientkontrakt för att stärka patientens ställning'
-    - 'Vård ska ges efter behov inte plånbokens storlek – ingen ska kunna köpa sig före i kön'
-    - 'Minska administrationen i vården så att anställda får mer tid till patienterna'
-    - 'Sluta de påverkbara hälsoklyftorna inom en generation.'
+    - 'Vi vill att 14 000 fler anställs i vården under nästa mandatperiod fram till år 2022'
+    - 'Arbetsmiljön i sjukvården ska förbättras. De som jobbar i välfärden ska hinna, orka och kunna ge patienter, brukare och klienter en god vård och omsorg av hög kvalitet'
+    - 'Fler sjuksköterskor ska få läsa till specialister med studielön eller utbildningsanställningar'
+    - 'Vi vill förstärka ambulanssjukvården och bygga ut täckningen med fler ambulanshelikoptrar i hela landet'
+    - 'Vi vill öka resurserna till en ny och utvecklad satsning på cancersjukvården. Väntetiderna ska kortas och den statliga finansieringen av Sveriges sex regionala cancercentra ska utvecklas.'
   -
     fraga: Skatter
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/skatter/
@@ -650,13 +657,6 @@ root:
     - 'Genomföra ett kraftigt kunskapslyft med fler utbildningsplatser inom vuxenutbildning, yrkeshögskola, folkhögskola och högskola och samtidigt investera i kvaliteten i utbildningen'
     - 'Att en ny kompetensförsäkring mellan staten och parterna på arbetsmarknaden skapas för att garantera återkommande kompetensutveckling för löntagarna'
     - 'En effektivare och mer individanpassad sfi. Det ger bättre förutsättningar att kombinera sfi med annan vuxenutbildning.'
-  -
-    fraga: Yrkesintroduktionsjobb
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/yrkesintroduktionsjobb/
-    asikt:
-    - 'Införa Yrkesintroduktionsjobb som ger unga nyanställda möjlighet att kombinera jobb med utbildning inom ett yrke'
-    - 'Skapa en 90-dagarsgaranti för unga. Den som är ung och utan arbete ska få stöd direkt och inom 90 dagar erbjudas ett riktigt jobb eller en utbildning som leder till jobb. Den som inte tar erbjudandet förlorar rätten till ersättning'
-    - 'Skapa utbildningskontrakt för att få unga som saknar gymnasiekompetens att avsluta sin gymnasieutbildning.'
   -
     fraga: Yrkesutbildning
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/yrkesutbildning/

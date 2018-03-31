@@ -16,4 +16,5 @@ tags:
     - Yttrandefrihet
     - Valfrihet
     - Religionsfrihet
+    - Alliansen
 ---

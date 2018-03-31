@@ -79,6 +79,13 @@ root:
     - 'Den som har en funktionsnedsättning ska ges möjligheten att delta i arbetslivet utifrån sina egna förutsättningar.'
     - 'Den som är i behov av vård, stöd eller service bör få större inflytande över sin situation. Utbudet av arbete, sysselsättning, boendeformer och hjälpmedel behöver bli mer varierat och anpassat till de individuella behov som finns.'
   -
+    fraga: Förskola
+    adress: https://moderaterna.se/forskola-och-forskoleklass
+    asikt:
+    - 'Förskolan ska omfattas av mätbara kunskapsmål.'
+    - 'Överlämningen mellan förskola och nästa skolform ska kvalitetssäkras.'
+    - 'Barn till föräldrar som står utanför arbetsmarknaden ska få mer tid i förskolan. Alla barn, vars föräldrar har fått försörjningsstöd mer än sex månader året innan, ska ha rätt till 30 timmar per vecka på förskolan.'
+  -
     fraga: HBTQ
     adress: https://moderaterna.se/hbtq
     asikt:
@@ -141,7 +148,7 @@ root:
     - 'Inför en fritidspeng riktad mot barn från de ekonomiskt mest utsatta miljöerna'
   -
     fraga: Jobb och arbetsmarknad 
-    adress: https://moderaterna.se/jobb-och-arbetsmarknad
+    adress: https://moderaterna.se/ekonomi-och-jobb
     asikt:
     - 'Moderaternas har två jobbmål: att i ett första steg halvera den farliga jobbklyftan mellan inrikes och utrikes födda och att en halv miljon nya jobb ska kunna skapas till år 2025.'
     - 'För att fler ska arbeta måste det alltid löna sig att jobba. Vi vill sänka skatten på arbete, särskilt för dem med lägre inkomster.'
@@ -198,6 +205,14 @@ root:
     - 'Paket för ökad livsmedelsexport.'
     - 'Nej till straffskatter på transporter.'
     - 'Det måste bli mer attraktivt att bosätta sig på landsbygden. Bland annat ska det gå att enklare att bygga nära vatten, därför behöver våra förslag för mer ändamålsenliga regler för strandskydd genomföras.'
+  -
+    fraga: Lag och ordning
+    adress: https://moderaterna.se/lag-och-ordning
+    asikt:
+    - 'Antalet poliser i Sverige ska närma sig nivåerna i andra europeiska länder och Sverige ska ha minst 25 000 poliser senast år 2025. Därutöver lika många fler civilanställda under samma period. Det innebär 10 000 fler anställda inom svensk polis till 2025.'
+    - 'Polisernas löner ska höjas med i genomsnitt 3 000 kronor per månad.'
+    - 'Straffen ska skärpas för bland annat bostadsinbrott, vapenbrott, sexualbrott och för attacker mot blåljuspersonal.'
+    - 'Öka möjligheterna till kamerabevakning och att polisen bland annat ska kunna bedriva kamerabevakning på brottsutsatta platser och strategiskt viktiga platser utan tillståndsplikt.'
   -
     fraga: Migrationspolitik
     adress: https://moderaterna.se/migrationspolitik

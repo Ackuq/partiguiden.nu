@@ -35,6 +35,7 @@ tags:
     - Barn- och ungdomsvård
     - Husläkare
     - Vårdköerna
+    - Vårdköer
     - Barn som far illa
     - Valfrihet i välfärden
 ---

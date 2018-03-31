@@ -5,4 +5,5 @@ tags:
     - Trygghet
     - Polis
     - Kriminalpolitik
+    - Lag och ordning
 ---

@@ -80,6 +80,13 @@ root:
     - 'Låt privata aktörer konkurrera i större utsträckning med matchningen.'
     - 'Kommuner och andra offentliga aktörer bör ta ett större ansvar.'
   -
+    fraga: Alliansen
+    adress: https://www.liberalerna.se/politik/alliansen/
+    asikt:
+    - 'Liberalerna vill bilda en ny alliansregering efter valet 2018.'
+    - 'En röst på Liberalerna bidrar till att göra alliansen till det största blocket i riksdagen.'
+    - 'Det är uteslutet för Liberalerna att samarbeta med Sverigedemokraterna.'
+  -
     fraga: Bistånd
     adress: https://www.liberalerna.se/politik/bistand/
     asikt:
@@ -175,14 +182,14 @@ root:
     - 'Skattefritt sparande'
   -
     fraga: Cykling
-    adress: https://www.liberalerna.se/politik/politikcykling/
+    adress: https://www.liberalerna.se/politik/cykling/
     asikt:
-    - 'Cykling är en självklar del av vår trafikpolitik. Vi vill ha fler sammanhängande stråk för enklare cykeltrafik.'
-    - 'Vi vill att det ska vara lättare att ta med sig cykeln i kollektivtrafiken.'
+    - 'Fler sammanhängande stråk för enklare cykeltrafik'
+    - 'Gör det lättare att ta med sig cykeln i kollektivtrafiken'
     - 'Gör det säkrare att cykla. Som cyklist är du ofta utsatt för osäkra miljöer, det vill vi ändra på.'
-    - 'Vi vill införa ett nationellt cykelkansli som stöttar kommuner vid byggnation och utveckling av cykelinfrastruktur.'
-    - 'Gör cykeln till ett eget transportslag.'
-    - 'Låt skatteintäkter från tränslegskatter gå till utbyggnad av cykelinfrastruktur.'
+    - 'Inför ett nationellt cykelkansli som stöttar kommuner vid byggnation och utveckling av cykelinfrastruktur'
+    - 'Gör cykeln till ett eget transportslag'
+    - 'Låt skatteintäkter från trängselskatter gå till utbyggnad av cykelinfrastruktur'
   -
     fraga: Demokrati
     adress: https://www.liberalerna.se/politik/demokrati/
@@ -219,7 +226,7 @@ root:
     - 'Skydda det som bygger välfärden'
   -
     fraga: Energi och elmarknad
-    adress: https://www.liberalerna.se/politik/politikpolitikenergi/
+    adress: https://www.liberalerna.se/politik/energi/
     asikt:
     - '100 procent fossilfri elproduktion.'
     - 'Mer marknad - inte mer subventioner'
@@ -239,27 +246,17 @@ root:
     - 'Ensamkommande unga ska få information om svenska lagar och om jämställdhet'
     - 'Väntan på asylbesked måste kortas'
   -
-    fraga: EU- miljön och klimatet
-    adress: https://www.liberalerna.se/politik/eu-miljon-och-klimatet/
+    fraga: EU - Europeiska unionen
+    adress: https://www.liberalerna.se/politik/eu-europeiska-unionen/
     asikt:
-    - 'Mer EU-samarbete, inte mindre, behövs för att rädda miljön och klimatet'
-    - 'EU ska ta klimattäten internationellt'
+    - 'Sverige bör införa euron som valuta 2020'
+    - 'Sverige ska gå med i bankunionen'
+    - 'Den inre marknaden ska värnas och fördjupas'
+    - 'EU:s arbete måste effektiviseras och jordbruksstödet avvecklas'
+    - 'Medlemsländerna ska respektera mänskliga rättigheter'
+    - 'Ja till EU:s sociala pelare'
+    - 'Inrätta ett Europas FBI och en europeisk åklagarmyndighet'
     - 'Inför en europeisk koldioxidskatt'
-    - 'Inför en europeisk flygskatt'
-    - 'Effektivisera EU:s system med handel av utsläppsrätter'
-    - 'Utveckla EU:s energiunion, minska beroendet av fossil energi som rysk gas'
-    - 'Stärk samarbetet för att rädda miljön och den biologiska mångfalden inklusive Östersjön och andra hotade havsmiljöer'
-    - 'Tugg och gemensam kemikalielagstiftning på EU-nivå'
-  -
-    fraga: EU- jobb och tillväxt
-    adress: https://www.liberalerna.se/politik/eu-jobb-och-tillvaxt/
-    asikt:
-    - 'Ta bort onödiga hinder på EU:s inre marknad. Fler reformer behövs för tjänstesektorn och e-handeln.'
-    - 'Ett frihandelsavtal mellan EU och USA skulle ge fler jobb och ökad tillväxt.'
-    - 'Alla EU-medborgare ska kunna utnyttja den fria rörligheten och arbeta eller studera överallt i unionen.'
-    - 'Arbetstagare från andra EU-länder ska få det grundläggande skydd som regleras i svenska lagar och kollektivavtal.'
-    - 'Sverige bör införa euron som valuta när så är möjligt.'
-    - 'Sverige bör ingå i bankunionen men säga nej till euroobligationer.'
   -
     fraga: Elevhälsa
     adress: https://www.liberalerna.se/politik/elevhalsa/
@@ -268,19 +265,13 @@ root:
     - 'Skolinspektionen ska granska att skolor lever upp till målen för elevhälsan.'
     - 'Elevhälsan ska förbättra samarbetet med sjukvården och socialtjänsten.'
   -
-    fraga: Europas FBI
-    adress: https://www.liberalerna.se/politik/europas-fbi/
+    fraga: Euron
+    adress: https://www.liberalerna.se/politik/euron/
     asikt:
-    - 'Vi vill ha ett europeiskt FBI, en polisstyrka som kan utreda grov brottslighet som skett i flera länder.'
-    - 'Skapa en europeisk åklagarmyndighet som kan bedriva förundersökningar om allvarliga gränsöverskridande brott.'
-    - 'Stärk skyddet för den personliga integriteten i det rättsliga samarbetet i Europa.'
-  -
-    fraga: EU och mänskliga rättigheter
-    adress: https://www.liberalerna.se/politik/eu-och-manskliga-rattigheter/
-    asikt:
-    - 'Vi vill att EU:s medlemmars respekt för mänskliga rättigheter granskas och rapporter offentliggörs.'
-    - 'Om ett EU-land bryter mot de mänskliga rättigheterna ska det få konsekvenser.'
-    - 'EU-kommissionen ska kunna starta rättsliga processer mot EU-länder som inte följer de avtal om MR som ingicks när de tecknade medlemskap. Sanktioner ska kunna införas om medlemmar bryter dessa överenskommelser. Det kan handla om frysta utbetalningar av EU-medel och att ett land förlorar rösträtten i rådet under en period.'
+    - 'Vi behöver införa Euron i Sverige senast 2022'
+    - 'Sverige måste stå bakom de reformförslag som nu läggs fram för att stärka eurosamarbetet'
+    - 'Sverige bör omedelbart gå med i eurozonens bankunion'
+    - 'Sverige ska vara en aktiv röst i EU för mer ekonomiskt samarbete'
   -
     fraga: Flyktingar
     adress: https://www.liberalerna.se/politik/flyktingar/
@@ -402,9 +393,18 @@ root:
     fraga: Försvar
     adress: https://www.liberalerna.se/politik/forsvar/
     asikt:
-    - 'Vi vill återskaffa värnplikten men aktivt arbeta för att maximera antalet frivilligt sökande.'
+    - 'Stärk försvaret'
+    - 'Inom tio år ska försvarsanslaget uppgå till minst två procent av BNP'
+    - 'Sverige ska söka medlemskap i Nato'
+    - 'Ytterligare förstärka den militära närvaron på Gotland'
+    - 'Vi vill återskaffa värnplikten men aktivt arbeta för att maximera antalet frivilligt sökande'
     - 'Öka antalet bataljoner och flygflottiljer'
     - 'Behåll de äldre JAS-planen för att stärka vårt luftförsvar'
+    - 'Förbättra anställningsvillkoren för soldaterna'
+    - 'Anordna en ny storskalig internationell stridsövning 2020-2021'
+    - 'Stärk stödet till veteranerna'
+    - 'Utveckla kustartilleri med sjömålsrobotar och luftvärn. En motståndare ska kunna bekämpas innan han stiger i land'
+    - 'Hemvärnet ska förses med Robot 70 som nu avses avvecklas i den ordinarie krigsorganisation'
   -
     fraga: Försvarets personal
     adress: https://www.liberalerna.se/politik/forsvarets-personal/
@@ -460,14 +460,6 @@ root:
     - 'Öka det finansiella sparandet'
     - 'Ja till bankunion, nej till bankskatt'
     - 'Stärk Finanspolitiska rådet'
-  -
-    fraga: Globalisering
-    adress: https://www.liberalerna.se/politik/politikglobalisering/
-    asikt:
-    - 'Öppna Sverige för nya idéer och människor som kan och vill bidra till vår utveckling.'
-    - 'Sverige ska vara en av världens främsta kunskapsnationer.'
-    - 'Öka solidariteten med fattiga länder, förbättra biståndet och riv västvärldens tullmurar.'
-    - 'Vi vill ha ett globalt handelsavtal och ett frihandelsavtal mellan EU och USA.'
   -
     fraga: Grundlagen
     adress: https://www.liberalerna.se/politik/grundlagen/
@@ -585,13 +577,14 @@ root:
     - 'Arbetet för jämställdhet måste finnas med i all idrottsverksamhet'
   -
     fraga: Infrastruktur
-    adress: https://www.liberalerna.se/politik/politikinfrastruktur/
+    adress: https://www.liberalerna.se/politik/infrastruktur/
     asikt:
-    - 'Upprusta och bygg ut väg- och järnvägsnätet. En bra infrastruktur behövs för jobben, tillväxten och välfärden.'
-    - 'Gynna klimatsmarta transporter. Järnvägsnätet ska rustas upp kraftigt och befintliga banor byggas ut.'
-    - 'Erkänn bilens roll på landsbygden.'
-    - 'Satsa på cykelinfrastruktur och erkänn cykeln som eget transportmedel.'
-    - 'Rusta upp regionala vägar. Vi säger nej till kilometerskatt, en straffskatt på företag i glesbygd.'
+    - 'Upprusta och bygg ut väg- och järnvägsnätet'
+    - 'Gynna klimatsmarta transporter. Järnvägsnätet ska rustas upp kraftigt och befintliga banor byggas ut'
+    - 'Erkänn bilens roll på landsbygden och utveckla klimatsmarta bränslen'
+    - 'Satsa på cykelinfrastruktur och erkänn cykeln som eget transportmedel'
+    - 'Rusta upp regionala vägar'
+    - 'Liberalerna säger nej till kilometerskatt, en straffskatt på företag i glesbygd'
   -
     fraga: Integration
     adress: https://www.liberalerna.se/politik/integration/
@@ -782,6 +775,16 @@ root:
     - 'Stärk kulturen i skolan'
     - 'Fler fristadsförfattare'
   -
+    fraga: Kunskap
+    adress: https://www.liberalerna.se/politik/utbildning/
+    asikt:
+    - 'Mer undervisningstid i skolan, så att fler kan lära sig mer.'
+    - 'Aktivt skolval i alla kommuner, så att bostadssegregationen inte slår igenom så tungt som i dag. I utsatta områden vill vi lägga extra resurser på att skapa &quot;superteam&quot; av de bästa lärarna och skolledarna.'
+    - 'Nyanlända elever ska få fler lektionstimmar, ett extra läsår och sommarskola när det behövs för att komma ikapp.'
+    - 'Lugn och ro i alla klassrum, med en särskild ordningskommission, hjälp till lärarna att bli bättre på ledarskap och ett särskilt ordningsbetyg.'
+    - 'De nationella proven ska digitaliseras och rättas nationellt. Då kan skolan använda sina resurser till mer undervisning.'
+    - 'Starkare studie- och yrkesvägledning, så att elever tidigt kan få stöd för att hitta en annan väg än den de förväntas för att de är födda in i en viss omständighet.'
+  -
     fraga: Livets slut
     adress: https://www.liberalerna.se/politik/livets-slut/
     asikt:
@@ -848,6 +851,16 @@ root:
     - 'Ämneslärarutbildningen ska motsvara en mastersexamen'
     - 'Utöka det internationella utbytet'
   -
+    fraga: Liberal EU-agenda 2022
+    adress: https://www.liberalerna.se/politik/liberal-eu-agenda-2022/
+    asikt:
+    - 'Sverige ska införa Euron senast 2022'
+    - 'Sverige ska omedelbart gå med i bankunionen'
+    - 'Sverige ska ingå i den europeiska åklagarmyndigheten'
+    - 'EU bör skapa ett europeiskt FBI'
+    - 'Inför en europeisk koldioxidskatt'
+    - 'Investera mer EU-resurser i forskning, utveckling och infrastruktur'
+  -
     fraga: Medborgarskap
     adress: https://www.liberalerna.se/politik/medborgarskap/
     asikt:
@@ -908,14 +921,6 @@ root:
     - 'Stärk det internationella samarbetet genom ett europeiskt FBI.'
     - 'Hjälp till fattiga och krigsdrabbade länder bidrar att minska grogrunden för människohandel.'
     - 'Offer för människohandel ska lättare kunna stanna i EU om de samarbetar med polisen.'
-  -
-    fraga: Mäns våld mot kvinnor
-    adress: https://www.liberalerna.se/politik/mans-vald-mot-kvinnor/
-    asikt:
-    - 'Skärp lagen om kontaktförbud och öka användningen av elektronisk fotboja.'
-    - 'Vi vill fortsätta att öka stödet till kvinnojourer.'
-    - 'Bekämpa hedersrelaterat våld och förtryck.'
-    - 'Inför en samtyckeslagstiftning. Ett nej är alltid ett nej!'
   -
     fraga: Mänskliga rättigheter
     adress: https://www.liberalerna.se/politik/politikmanskliga-rattigheter/
@@ -984,12 +989,16 @@ root:
     fraga: Polisen
     adress: https://www.liberalerna.se/politik/polisen/
     asikt:
-    - 'Det behövs 5000 fler poliser för att stärka polisens närvaro i hela Sverige.'
-    - 'Inför 2000 kommunala trygghetsvakter som kan hjälpa polisen.'
+    - 'Sverige ska ha minst 25 000 poliser inom sju år. Det är 5 000 fler än i dag.'
+    - 'Utbyggnaden av polisen måste märkas i hela Sverige, både i storstädernas utsatta områden och på landsbygden.'
+    - 'Höj polislönerna kraftigt, i snitt med 4 000 kronor i månaden.'
+    - 'Öronmärk pengar för kommunala trygghetsvakter som kan hjälpa polisen.'
+    - 'Inför en beredskapspolis på 5 000 personer som avlastar polisen vid stora händelser.'
+    - 'Rulla tillbaka byråkratisering så att minst 2 000 fler poliser kommer ut i yttre tjänst.'
+    - 'Renodla polisens arbetsuppgifter.'
     - 'Högre polischefer ska vara poliser i grunden.'
-    - 'Riv upp stora delar av polisreformen'
     - 'Skapa ett europeiskt FBI, så att polisen kan arbeta lika internationellt som brottslingarna.'
-    - 'Vi vill att lagstiftningen ska ha starka garantier för rättssäkerhet.'
+    - 'Lagstiftningen ska ha starka garantier för rättssäkerhet.'
   -
     fraga: Prostitution
     adress: https://www.liberalerna.se/politik/prostitution/
@@ -1153,12 +1162,14 @@ root:
     - 'Vi vill se över och ifrågasätta statens ägande i andra bolag och att man säljer aktier där det är möjligt.'
   -
     fraga: Straff
-    adress: https://www.liberalerna.se/politik/politikstraff/
+    adress: https://www.liberalerna.se/politik/straff/
     asikt:
-    - 'Straffen för organiserad brottslighet ska bli högre.'
-    - 'Minska den så kallade mängdrabatten, som gör att man får straffrabatt om man begår många brott.'
-    - 'Fler fängelsestraff ska vara tidsbestämda. Livstidsstraff ska bara finnas för de absolut grövsta brotten.'
-    - 'Vi vill skärpa straffen för bostadsinbrott.'
+    - 'Skärp straffen för organiserad brottslighet, bostadsinbrott och smugglingsbrott.'
+    - 'Ta bort den så kallade ungdomsrabatten för den som har fyllt 18 år och återfaller i brott.'
+    - 'Villkorlig frigivning ska inte vara en rättighet, utan en möjlighet för den som har skött sig i fängelset.'
+    - 'Skärp straffen för hedersrelaterade brott och grov kvinnofridskränkning.'
+    - 'Fler brott ska leda till utvisning för den som inte är svensk medborgare.'
+    - 'Livstidsstraff ska bara finnas för de absolut grövsta brotten.'
     - 'Vi vill att dödsstraffet avskaffas i hela världen.'
   -
     fraga: Strandskydd
@@ -1200,20 +1211,22 @@ root:
     - 'Ibland är frihet inte gratis. Sluta snåla på den personliga assistansen.'
   -
     fraga: Terrorism
-    adress: https://www.liberalerna.se/politik/politikterrorism/
+    adress: https://www.liberalerna.se/politik/terrorism/
     asikt:
-    - 'Täpp till luckorna i den svenska terroristlagstiftningen.'
-    - 'Utveckla det internationella samarbetet för att bekämpa terrorismen.'
-    - 'Skapa ett europeiskt FBI och en europeisk åklagarmyndighet för att bekämpa internationell brottslighet.'
+    - 'Luckorna i lagen ska tätas. Alla former av deltagande i terrorverksamhet ska kriminaliseras.'
+    - 'Ge Polismyndigheten ansvar för att samordna arbetet mot våldsbejakande extremism.'
+    - 'Skola, socialtjänst och polis ska samarbeta bättre för att stoppa radikalisering.'
+    - 'Stärk det europeiska samarbetet för att bekämpa terrorismen.'
+    - 'Gör inte folkgrupper till syndabockar för enskilda människors brott.'
   -
     fraga: Tiggeri
     adress: https://www.liberalerna.se/politik/tiggeri/
     asikt:
-    - 'Akut hjälp ska ges i Sverige men ska inte bidra till att hålla människor kvar i tiggeri'
-    - 'Diskriminering kan aldrig accepteras - i Sverige gäller svensk lagstiftning för alla som vistas i vårt land.'
-    - 'Lösningen på tiggeriproblematik ligger inte i att förbjuda tiggeri eller förbjuda människor att ge pengar'
-    - 'Människor ska inte utnyttjas - människohandel och att tvinga människor till tiggeri måste bekämpas som de grova brott de är'
-    - 'Åtgärder krävs för att bekämpa diskriminering, rasism och antiziganism'
+    - 'Tiggeri är ingen lösning på fattigdomen, men lösningen ligger inte heller i att förbjuda tiggeri eller förbjuda människor att ge pengar.'
+    - 'Akut hjälp ska ges, men ska inte bidra till att hålla människor kvar i tiggeri.'
+    - 'Svensk lag gäller för alla personer som vistas i vårt land. Diskriminering accepteras inte.'
+    - 'Människor ska inte utnyttjas - människohandel och att tvinga människor till tiggeri måste bekämpas som de grova brott de är.'
+    - 'Åtgärder krävs för att bekämpa diskriminering, rasism och antiziganism.'
   -
     fraga: Tobak
     adress: https://www.liberalerna.se/politik/tobak/
@@ -1233,7 +1246,6 @@ root:
     adress: https://www.liberalerna.se/politik/trygghet/
     asikt:
     - 'Frihet är också att vara trygg där du bor. Det behövs många fler poliser både i storstäderna och på landet, och dessutom trygghetsvakter på gator och torg.'
-    - 'Om fler ska vilja bli poliser, behöver lönerna höjas ordentligt. Den genomsnittliga polislönen ska upp med 4000 kronor.'
     - 'Socialtjänst och polis ska ingripa snabbt när en ung människa hamnat snett.'
     - 'När omvärlden är osäker måste försvaret stärkas rejält. Och ensam är inte stark. Sverige ska bli medlem i Nato.'
   -
@@ -1245,11 +1257,14 @@ root:
     - 'Bättre tandvård för äldre'
   -
     fraga: Ungdomsbrottslighet
-    adress: https://www.liberalerna.se/politik/politikungdomsbrottslighet/
+    adress: https://www.liberalerna.se/politik/ungdomsbrottslighet/
     asikt:
-    - 'Vi vill ha bättre samarbete mellan skola, polis och socialtjänst genom fler sociala insatsgrupper för unga i riskzonen.'
-    - 'Snabba på samhällets reaktion vid brott genom en 48-timmarsgaranti på insatser från socialtjänsten.'
-    - 'Satsa på fler fältarbetare och stödcentrum för unga brottsoffer.'
+    - 'Barn och unga i riskzonen måste få hjälp tidigt. Skola, polis och socialtjänst ska samarbeta mer.'
+    - 'Sätt in rätt insatser till den unges familj.'
+    - 'Polisen ska utreda brott även om den misstänkte är under 15 år.'
+    - 'Inför en 24-timmarsgaranti i socialtjänsten för unga som begått brott.'
+    - 'Inför jourdomstolar.'
+    - 'Ta bort straffrabatten för unga vuxna som återfaller i brott.'
   -
     fraga: Upphovsrätten
     adress: https://www.liberalerna.se/politik/upphovsratten/
@@ -1285,16 +1300,6 @@ root:
     - 'Öka insatserna mot våldsbejakande extremism'
     - 'Inrätta ett nationellt råd för utsatta områden'
   -
-    fraga: Utbildning
-    adress: https://www.liberalerna.se/politik/utbildning/
-    asikt:
-    - 'Mer undervisningstid i skolan, så att fler kan lära sig mer.'
-    - 'Aktivt skolval i alla kommuner, så att bostadssegregationen inte slår igenom så tungt som i dag. I utsatta områden vill vi lägga extra resurser på att skapa &quot;superteam&quot; av de bästa lärarna och skolledarna.'
-    - 'Nyanlända elever ska få fler lektionstimmar, ett extra läsår och sommarskola när det behövs för att komma ikapp.'
-    - 'Lugn och ro i alla klassrum, med en särskild ordningskommission, hjälp till lärarna att bli bättre på ledarskap och ett särskilt ordningsbetyg.'
-    - 'De nationella proven ska digitaliseras och rättas nationellt. Då kan skolan använda sina resurser till mer undervisning.'
-    - 'Starkare studie- och yrkesvägledning, så att elever tidigt kan få stöd för att hitta en annan väg än den de förväntas för att de är födda in i en viss omständighet.'
-  -
     fraga: Utsatta grupper på arbetsmarknaden
     adress: https://www.liberalerna.se/politik/utsatta-grupper-pa-arbetsmarknaden/
     asikt:
@@ -1308,6 +1313,16 @@ root:
     - 'Flexiblare arbetsrätt'
     - 'Utveckla RUT'
     - 'Förlängd provanställning'
+  -
+    fraga: Våld i nära relationer
+    adress: https://www.liberalerna.se/politik/vald-i-n%C3%A4ra-relationer/
+    asikt:
+    - 'Öka användningen av elektronisk fotboja.'
+    - 'Öka den skyddade zonen vid kontaktförbud - i grova fall ska gärningsmannen inte få vara i samma kommun som offret.'
+    - 'Ge kvinnojourerna stabilt och långsiktigt stöd.'
+    - 'Höj straffet för grov kvinnofridskränkning.'
+    - 'Bekämpa hedersrelaterat våld och förtryck.'
+    - 'Heltäckande sexualbrottslag med tydlig samtyckesregel.'
   -
     fraga: Valsystemet
     adress: https://www.liberalerna.se/politik/valsystemet/
@@ -1333,25 +1348,25 @@ root:
     - 'Inrätta &quot;riksdagens hedersmedalj för internationell insats&quot; som ges till den som gjort en särskilt bra gärning.'
   -
     fraga: Vuxenutbildning
-    adress: https://www.liberalerna.se/politik/politikvuxenutbildning/
+    adress: https://www.liberalerna.se/politik/vuxenutbildning/
     asikt:
     - 'Fortsätt att bygga ut den framgångsrika Yrkeshögskolan'
     - 'Ge alla rätt att läsa in högskolebehörighet på Komvux'
     - 'Låt studiemedelssystemet gälla hela livet'
     - 'Inrätta individuella kompetenskonton'
   -
-    fraga: Vårdköerna
-    adress: https://www.liberalerna.se/politik/vardkoerna/
+    fraga: Vårdköer
+    adress: https://www.liberalerna.se/politik/vardkoer/
     asikt: 'Återinför en modern kömiljard för att få landstingen att korta väntetiderna i vården.'
   -
     fraga: Vägar
-    adress: https://www.liberalerna.se/politik/politikvagar/
+    adress: https://www.liberalerna.se/politik/vagar/
     asikt:
-    - 'Satsa på infrastrukturen, rusta upp vägnätet, förstärk broar och påfarter så att 74-tons lastbilar kan trafikera våra vägar.'
-    - 'Inför en dubbdäcksavgift istället för dubbdäcksförbud - Polisens resurser behövs på andra ställen i samhället.'
-    - 'Höj säkerheten på våra vägar. Rattfyllerister ska kunna få alkolås i sina bilar.'
-    - 'Satsa på cykelvägar. Kommuner ska kunna välja att använda intäkter från trängselskatter till finansiering av cykelinfrastruktur.'
-    - 'Vi uppmuntrar forskning kring el-vägar.'
+    - 'Satsa på infrastrukturen så att 74-tons lastbilar kan trafikera våra vägar'
+    - 'Inför en dubbdäcksavgift istället för dubbdäcksförbud'
+    - 'Höj säkerheten på våra vägar. Rattfyllerister ska kunna få alkolås i sina bilar'
+    - 'Kommuner ska själva kunna välja hur de vill använda intäkter från trängselskatterna'
+    - 'Uppmuntra forskning kring el-vägar'
   -
     fraga: Vattenkraft
     adress: https://www.liberalerna.se/politik/vattenkraft/
@@ -1375,14 +1390,6 @@ root:
     - 'Öka svenskt bistånd till yttrandefrihet och fria medier.'
     - 'Sätt press på EU-länder som inskränker det fria ordet.'
     - 'Sveriges grundlagsskydd för fria medier måste fungera i dagens digitala miljö.'
-  -
-    fraga: Äktenskap
-    adress: https://www.liberalerna.se/politik/politikaktenskap/
-    asikt:
-    - 'Vi vill slå vakt om den könsneutrala äktenskapslagen.'
-    - 'Behåll valfriheten mellan borgerlig vigsel och religiös vigsel.'
-    - 'Täpp till de sista luckorna i förbudet mot barnäktenskap.'
-    - 'Inför en tidsgräns för rätten att begära bodelning.'
   -
     fraga: Äldre i arbetslivet
     adress: https://www.liberalerna.se/politik/aldre-i-arbetslivet/

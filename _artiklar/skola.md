@@ -15,6 +15,7 @@ tags:
     - Betyg
     - Läxor
     - Kunskap och utbildning
+    - Kunskap
     - Likvärdig skola
     - Gymansium
     - Skolpolitik

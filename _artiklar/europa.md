@@ -1,5 +1,5 @@
 ---
-title: Europa
+title: Europa och EU
 tags:
     - Europa
     - EU
@@ -15,5 +15,6 @@ tags:
     - EU och Euro
     - EMU och Euron
     - Tiggande EU-medborgare
+    - Liberal EU-agenda 2022
     - EU- miljön och klimatet
 ---

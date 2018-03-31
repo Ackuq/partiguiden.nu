@@ -100,8 +100,9 @@ root:
     adress: https://mp.se/politik/fred-och-forsvar
     asikt:
     - 'Bevara Sveriges militära alliansfrihet,'
-    - 'Ställa om försvaret för att hantera hela den moderna hotbilden,'
-    - 'Stärka Sveriges roll i konfliktförebyggande arbete,'
+    - 'Stå upp för internationella lagar och regler,'
+    - 'Stärka det civila försvaret, och'
+    - 'Stärka Sveriges roll i konfliktförebyggande arbete.'
   -
     fraga: Funktionshinder och tillgänglighet
     adress: https://mp.se/politik/tillganglighet
@@ -150,18 +151,17 @@ root:
     fraga: Internet och integritet
     adress: https://mp.se/politik/internet-och-integritet
     asikt:
-    - 'Skriva in ett skydd för allas rätt till anonymitet i grundlagen,'
     - 'Utveckla skyddet för personlig integritet inom såväl FN som EU,'
     - 'Riva upp och göra om FRA-lagen, och'
     - 'Göra fildelning för eget bruk laglig.'
+    - 'Skriva in ett skydd för allas rätt till anonymitet i grundlagen,'
   -
     fraga: Jämställdhet
     adress: https://mp.se/politik/jamstalldhet
     asikt:
     - 'Att kvinnor och män ska ha lika lön för lika arbete,'
-    - 'Att samtycke som krav för sex förs in i lagen,'
     - 'Ha ett jämställt föräldraskap där män använder fler föräldradagar, och'
-    - 'Sätta stopp för könsdiskriminerande reklam i det offentliga rummet. '
+    - 'Att skolan ska arbeta aktivt för jämställdhet'
   -
     fraga: Kemikalier
     adress: https://mp.se/politik/kemikalier
@@ -194,14 +194,6 @@ root:
     - 'Ersätta kärnkraften med förnybar energi och smartare energianvändning, '
     - 'Avveckla två gamla reaktorer redan de närmaste åren,'
     - 'Stoppa effekthöjningar och livstidsförlängningar av reaktorerna.'
-  -
-    fraga: Lands- och glesbygd
-    adress: https://mp.se/politik/lands-och-glesbygd
-    asikt:
-    - 'Sänka skatten och minska regelkrånglet för småföretagen,'
-    - 'Att maten till skola och äldreomsorg köps från de lokala bönderna,'
-    - 'Att samhällsservicen på landsbygden (exempelvis polis, post och arbetsförmedling) återuppbyggs,'
-    - 'Säkerställa att utbildning, tågtrafik och bredband finns i hela landet. '
   -
     fraga: Mat och jordbruk
     adress: https://mp.se/politik/mat-och-jordbruk
