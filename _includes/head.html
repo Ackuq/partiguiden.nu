@@ -65,10 +65,12 @@
 
     <script async src="/js/cookie-consent.js"></script>
 
+    {% include analytics.html %}
+    
     {% endif %}
     
     <meta content="{{site.url}}{{ page.url }}" name="URL">
-    
+
     {% if page.url == "/" %}
     <!-- Structured data -->
     <script async type="application/ld+json">
