@@ -7,6 +7,9 @@
 #search-box{
     border-color: #00796B;
 }
+#search-results>a:not(:last-child){
+    border-bottom: 1px solid #ecf0f1;
+} 
 #search-results>a{
     padding-left: 4px;
     display: block;

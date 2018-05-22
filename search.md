@@ -5,7 +5,7 @@ title: Sök
 <div id="content">
 <div class="container">
     <div class="row">
-        <div class="col-md-4 offset-md-4">
+        <div class="col-md-6 offset-md-3">
             <div class="search page w-100">
                 <form action="/search.html" method="get" autocomplete="off" class="search-form">
                     <input type="text" id="search-box" class="w-100 lead" name="query" placeholder="Sök">
