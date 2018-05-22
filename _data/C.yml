@@ -40,9 +40,9 @@ root:
     fraga: Ekonomi och skatter
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/ekonomi-och-skatter
     asikt:
-    - 'Att det ska bli billigare att anställa så att fler jobb kan skapas'
-    - 'Ha en bättre infrastruktur så att det går att jobba, oavsett var du bor'
-    - 'Att reglerna på arbetsmarknaden ska vara rättvisa så att företagare vågar anställa och de som är anställda vågar prova nya jobb'
+    - 'Göra det enklare och billigare att anställa, så fler jobb kan skapas'
+    - 'Rusta upp och bygga ut infrastrukturen så hela landet kan växa'
+    - 'Sänka skatterna på arbete och göra det dyrare att skada miljön'
   -
     fraga: Ekonomisk politik
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/ekonomi-och-skatter/ekonomisk-politik
@@ -51,11 +51,19 @@ root:
     - 'Ha en bättre infrastruktur så att det går att jobba, oavsett var du bor'
     - 'Att reglerna på arbetsmarknaden ska vara rättvisa så att företagare vågar anställa och de som är anställda vågar prova nya jobb'
   -
+    fraga: Grön skatteväxling
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/ekonomi-och-skatter/gron-skattevaxling
+    asikt:
+    - 'Införa en grön bilbonus och bonus för att tanka lastbilar med biobränsle'
+    - 'Införa en skatt på avfallsförbränning'
+    - 'Införa en breddad kemikalieskatt'
+  -
     fraga: Inkomstskatt
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/ekonomi-och-skatter/inkomstskatt
     asikt:
-    - 'Sänka skatten för äldre, över 64 år, som arbetar'
-    - 'Sänka den statliga inkomstskatten så att det blir mer lönsamt att utbilda sig eller driva företag'
+    - 'Ha en bred skattesänkning som främst gynnar de med de allra lägsta inkomsterna, både människor som jobbar och pensionärer'
+    - 'Höja gränsen för när statlig inkomstskatt ska betalas och återställa jobbskatteavdraget'
+    - 'Sänka skatten för äldre som arbetar, genom ett förstärkt jobbskatteavdrag'
   -
     fraga: Regionala skattebaser
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/ekonomi-och-skatter/regionala-skattebaser
@@ -656,9 +664,10 @@ root:
     fraga: Migration och integration
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration
     asikt:
-    - 'Förenkla reglerna så att alla som kommer till Sverige får jobba'
-    - 'Stå upp för asylrätten så att människor har möjlighet att komma till Sverige och Europa'
-    - 'Sänka kostnaderna så att vi kan fortsätta att ge dem som kommer ett bra mottagande'
+    - 'Asylrätten och familjeåterförening ska värnas.'
+    - 'Resurser ska i större utsträckning riktas mot de mest utsatta, såsom kvotflyktingar.'
+    - 'Rätten till skydd är viktigare än tillgång till alla välfärdsförmåner.'
+    - 'EU ska ta gemensamt ansvar med jämnare fördelning av flyktingar'
   -
     fraga: Anhöriginvandring
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/anhoriginvandring
@@ -670,9 +679,8 @@ root:
     fraga: Arbetskraftinvandring
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/arbetskraftinvandring
     asikt:
-    - 'Slopa kravet att den som arbetskraftsinvandrar måste jobba med ett visst yrke eller arbetsgivare'
-    - 'Värna möjligheten till spårbyte för asylsökande som får jobb'
-    - 'Utöka EU:s blåkort för så att fler kan arbeta i Europa'
+    - 'Problemen med orimliga utvisningar av arbetskraftsinvandrare som bidrar till samhället måste lösas snabbt.'
+    - 'Att värna företagarnas möjlighet att rekrytera kompetent personal från andra länder.'
   -
     fraga: Ensamkommande barn
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/ensamkommande-barn
@@ -685,16 +693,16 @@ root:
     fraga: Flykting och asyl
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/flykting-och-asyl
     asikt:
-    - 'Att Sverige står upp för människors rätt att söka asyl'
-    - 'Ha mer samarbete i EU för ett bättre flyktingmottagande'
-    - 'Att kostnaderna för mottagandet ska minska utan att tumma på öppenheten'
+    - 'Införa lagliga vägar för migration, bland annat genom underlättad arbetskraftsinvandring.'
+    - 'Återinföra särskilt och synnerligen ömmande omständigheter som skäl för uppehållstillstånd.'
+    - 'Skapa ett bättre mottagande i Sverige som gynnar integrationen.'
   -
     fraga: Integration
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/integration
     asikt:
-    - 'Att nyanländas kompetenser och erfarenheter ses över redan från första dagen'
-    - 'Att alla asylsökande får arbeta'
-    - 'Att asylsökande själva ansvarar för sitt boende'
+    - 'Införa obligatorisk samhällsinformation till asylsökande.'
+    - 'Höja kvaliteten i språkundervisningen'
+    - 'Att alla asylsökande får arbeta.'
   -
     fraga: Migration
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/migration

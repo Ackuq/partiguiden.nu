@@ -34,19 +34,20 @@ root:
     fraga: Ekonomi
     adress: https://moderaterna.se/ekonomi
     asikt:
-    - 'Bland annat måste bidragens andel av BNP fortsatt minskas för att göra utrymme för satsningar på jobb, trygghet och välfärd.'
-    - 'Sänkt skatt för alla som jobbar, med särskild förstärkning för lägre inkomster.'
-    - 'Inför ett bidragstak så att alltid lönar sig bättre att jobba än att leva på bidrag.'
-    - 'En budget för 2018 som sparar 10 miljarder mer än regeringen så att Sverige står starkt även i framtiden.'
-    - 'Nyanlända som kommer till Sverige – och inte arbetar – ska inte automatiskt få tillgång till hela den svenska välfärden.'
+    - 'Stärk drivkrafterna till arbete. Att så många som möjligt arbetar är avgörande för vårt välstånd. Skatteintäkterna blir högre och utgifterna lägre. Då finns mer pengar att fördela och mer pengar till vår gemensamma välfärd. För genomsnittliga inkomster innebär det en skattesänkning på ca 500 kronor i månaden.'
+    - 'För att ha råd med välfärden behöver bidragskostnaderna minska.'
+    - '10 miljarder kronor för att förstärka välfärden. Redan 2020 satsar vi på att stärka kommunernas och landstingens ekonomi och upprätthålla kvaliteten i välfärden.'
+    - 'Vi går till val på stora resurstillskott till statens kärnuppgifter. Vi gör den största satsningen på rättsväsendet på 20 år och vi tillför betydande resurser till försvaret.'
+    - 'Ett av de viktigaste medlen för att säkerställa hållbara offentliga finanser är att behålla överskottsmålet.'
   -
     fraga: EU
     adress: https://moderaterna.se/eu
     asikt:
-    - 'Sverige bör långsiktigt driva på för ett hållbart och kvotbaserat flyktingmottagande där prövning av asyl sker utanför EU eller vid EU:s gräns.'
-    - 'Reformerad EU-budget och säkra fortsatt inflytande för länder som inte använder euron.'
-    - 'Mer handel och utbyte av tjänster.'
-    - 'Det starkare inflytande för nationella parlament som trädde i kraft 2009 måste få effekt.'
+    - 'Sverige bör långsiktigt driva på för ett hållbart och rättvist kvotbaserat flyktingmottagande där prövning av asyl sker utanför EU eller vid EU:s gräns.'
+    - 'EU:s yttre gräns behöver förstärkas. Kontrollen vid yttre gräns och inresa i Schengen måste moderniseras och skärpas.'
+    - 'Den inre marknaden bör fördjupas, särskilt för tjänster och den digitala ekonomin.'
+    - 'EU bör avskaffa handelshinder gentemot länder som vidtar åtgärder som sänker växthusgaserna. '
+    - 'EU-budgeten bör reformeras och användas mer effektivt. Säkerhet, konkurrenskraft, forskning och klimatomställning bör prioriteras tydligare samtidigt som anslagen minskas för jordbrukspolitiken och regional- och strukturfonderna.'
   -
     fraga: Energi
     adress: https://moderaterna.se/trygg-energiforsorjning
@@ -193,12 +194,19 @@ root:
     - 'Stärk bibliotekens arbete med digitalisering för att nå nya grupper'
     - 'Erbjud en fristad till förföljda konstnärer'
   -
+    fraga: Klimat
+    adress: https://moderaterna.se/klimat
+    asikt:
+    - 'En miljö- och klimatpolitik som sänker utsläppen på riktigt, inte bara flyttar dem någon annanstans'
+    - 'Internationella klimatinvesteringar för största nytta per skattekrona'
+    - 'Förlängd supermiljöbilspremie och införande av bonus-malus-system'
+    - 'Skatteavdrag för företag som klimatkompenserar'
+  -
     fraga: Landsbygd
     adress: https://moderaterna.se/landsbygd
     asikt:
     - 'Se över och var beredd att förändra svenska särkrav för livsmedelsproduktion samtidigt som EU-regler förs in i svensk lag på ett sätt som värnar den svenska konkurrenskraften.'
     - 'Stärk företagande på landsbygden, bland annat genom att tillåta gårdsförsäljning men också genom att göra det lättare att starta livsmedelsföretag.'
-    - 'Öka skattereduktionen för jord- och skogsbrukets diesel.'
     - 'Stärka äganderätten för att säkerställa jord- och skogsbrukets konkurrenskraft.'
     - 'Värna det nationella självbestämmandet över skogsbruket och stärk äganderätten.'
     - 'Lantbruket behöver lägre kostnader för sin produktion, enklare regler och minskad administrativ börda.'
@@ -300,7 +308,7 @@ root:
     - 'Betyg från årskurs 3.'
     - 'Varje elev ska vara garanterad minst den undervisningstid som gäller i läroplanen.'
     - 'Gymnasiets lärlingsutbildningar ska hålla hög kvalitet.'
-    - 'Samtliga gymnasieprogram ska ge högskolebehörighet.'
+    - 'Samtliga gymnasieprogram ska kunna erbjuda högskolebehörighet'
     - 'Högre genomströmning.'
     - 'Fler utbildningar som håller hög kvalitet och leder till arbete.'
     - 'Forskning och utveckling i världsklass.'
@@ -348,12 +356,11 @@ root:
     - 'Ytterligare kriminalisera samröre med terroristorganisationer.'
     - 'Säkerställa att offentliga medel inte tilldelas verksamheter som riskerar att främja eller stödja radikalisering, våldsbejakande extremism eller terrorism.'
   -
-    fraga: Tiggeri
-    adress: https://moderaterna.se/problematiken-med-tiggeri
+    fraga: Tiggeriförbud
+    adress: https://moderaterna.se/tiggeriforbud
     asikt:
-    - 'Inför ett nationellt förbud mot tiggeri.'
-    - 'Sätta press på EU-länder vars medborgare kränks, diskrimineras och lever i varaktigt utanförskap, kännbara ekonomiska sanktioner bör kunna aktualiseras.'
-    - 'Säkerställa att markägare snabbt och enkelt kan få tillbaka sin mark från otillåtna bosättare samt begränsa markägarnas kostnader.'
+    - 'Enligt Moderaternas mening bör en ny bestämmelse införas i strafflagstiftningen med innebörd att den som gör sig skyldig till tiggeri begår ett brott. I bestämmelsen ska också anges att om brottet är att betrakta som ringa ska inte dömas till ansvar.'
+    - ' Genom att införa ett nationellt förbud mot tiggeri i strafflagstiftningen skapas vidare en laglig möjlighet för poliser och även ordningsvakter att avvisa tiggare från den plats där tiggeriet äger rum.'
   -
     fraga: Utanförskap
     adress: https://moderaterna.se/utanforskap
@@ -379,7 +386,7 @@ root:
     - 'Betyg från årskurs 3.'
     - 'Varje elev ska vara garanterad minst den undervisningstid som gäller i läroplanen.'
     - 'Gymnasiets lärlingsutbildningar ska hålla hög kvalitet.'
-    - 'Samtliga gymnasieprogram ska ge högskolebehörighet.'
+    - 'Samtliga gymnasieprogram ska kunna erbjuda högskolebehörighet'
     - 'Högre genomströmning.'
     - 'Fler utbildningar som håller hög kvalitet och leder till arbete.'
     - 'Forskning och utveckling i världsklass.'

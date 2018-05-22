@@ -23,4 +23,7 @@ tags:
     - Syrien
     - Förenta nationerna
     - Globalisering
+    - Bistånd och global rättvisa
+    - Bistånd/ Utvecklingspolitik
+    - Handelsavtal
 ---

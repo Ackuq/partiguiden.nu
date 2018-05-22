@@ -44,4 +44,6 @@ tags:
     - Idrottsvåld
     - Könsstympning
     - Lag och ordning
+    - Radikalisering
+    - Hedersvåld
 ---

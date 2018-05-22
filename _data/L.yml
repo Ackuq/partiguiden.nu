@@ -25,7 +25,7 @@ root:
     - 'Enklare att anställa - minska administrationen genom att slå ihop anställningsstöden'
     - 'Billigare att anställa - inte dyrare. Utveckla RUT'
     - 'Lägg ner arbetsförmedlingen och ersätt den med en ny myndighet'
-    - 'Rätten att kvarstå anställning högre upp i åldern'
+    - 'Rätten att behålla sin anställning högre upp i åldern'
     - 'Förbättra kvinnors möjligheter till företagsamhet'
     - 'Lätta på regelbördan för småföretagare'
   -
@@ -59,15 +59,14 @@ root:
     - 'Sympatiåtgärder får inte tillåtas slå ut småföretagare, därför behöver vi införa en proportionalitetsprincip på svensk arbetsmarknad'
     - 'Ändra konfliktreglerna - fredsplikt skall gälla på arbetsplatser som har kollektivavtal'
     - 'Liberalisera turordningsreglerna'
-    - 'Avskaffa företrädesrätten'
     - 'Utöka tiden för provanställning till ett år'
     - 'Öka tryggheten för arbetssökande genom obligatorisk a-kassa'
   -
     fraga: Assisterad befruktning
     adress: https://www.liberalerna.se/politik/assisterad-befruktning/
     asikt:
-    - 'Sverige ska tillåta värdmoderskap'
-    - 'Båda kvinnorna i ett lesbiskt parförhållande ska få göra assisterad befruktning om de vill'
+    - 'Sverige ska tillåta värdmoderskap utan ersättning'
+    - 'Förenkla reglerna för bekräftande av föräldraskap'
   -
     fraga: Arbetsförmedlingen
     adress: https://www.liberalerna.se/politik/arbetsformedlingen/
@@ -340,12 +339,6 @@ root:
     - 'Inför rätt till prövning för tillsvidareanställning efter en meriteringsanställning'
     - 'Resursfördelning enligt tydliga kvalitetsindikatorer'
   -
-    fraga: Försvarets radioanstalt
-    adress: https://www.liberalerna.se/politik/forsvarets-radioanstalt/
-    asikt:
-    - 'Sverige ska ha en effektiv signalspaning som bidrar till ökad säkerhet för oss och våra samarbetspartners.'
-    - 'Vi ska ha starkast möjliga skydd för den personliga integriteten vid signalspaning.'
-  -
     fraga: Frihandel
     adress: https://www.liberalerna.se/politik/frihandel/
     asikt:
@@ -371,15 +364,15 @@ root:
     - 'Alla ska ha rätt till välfärd med hög kvalitet.'
     - 'Vi vill att fler ska jobba så att fler kan försörja sig själva.'
   -
-    fraga: Företagande
-    adress: https://www.liberalerna.se/politik/foretagande/
+    fraga: Företag
+    adress: https://www.liberalerna.se/politik/foretag/
     asikt:
-    - 'Vi vill att det ska vara lättare att bilda nya företag som kan växa'
-    - 'Sänka bolagsskatten och arbetsgivaravgifterna'
-    - 'Slopa preliminärskatten'
-    - 'Företag ska kunna ha all kontakt med myndigheter på ett ställe, inte behöva rapportera samma sak till flera'
-    - 'Alla ska få behålla minst hälften av sin löneökning'
-    - 'Vi vill ha en obligatorisk arbetslöshetsförsäkring'
+    - 'Avskaffa onödiga regleringar såsom den otidsenliga hotell- och pensionatslagen'
+    - 'Förenkla och underlätta upphandlingen av offentliga tjänster genom en gemensam plattform'
+    - 'Likställ trygghetssystemen mellan företagare och anställda'
+    - 'Inget vinstförbud för företag inom skola, vård och omsorg'
+    - 'Modernisera arbetsrätten'
+    - 'Bygg ut bredband och digital uppkoppling i hela landet'
   -
     fraga: Förskolan
     adress: https://www.liberalerna.se/politik/forskolan/
@@ -461,6 +454,15 @@ root:
     - 'Ja till bankunion, nej till bankskatt'
     - 'Stärk Finanspolitiska rådet'
   -
+    fraga: Flyg
+    adress: https://www.liberalerna.se/politik/flyg/
+    asikt:
+    - 'Inför en flygskatt på EU-nivå som bygger på flygplanets miljöpåverkan'
+    - 'Utveckla Arlanda med ytterligare en landningsbana'
+    - 'Öka det regionala flygets konkurrenskraft genom att tillsvidare behålla Bromma'
+    - 'Vidta åtgärder för att minska flygets miljöpåverkan'
+    - 'Gör marktransporterna till flygplatserna miljövänliga'
+  -
     fraga: Grundlagen
     adress: https://www.liberalerna.se/politik/grundlagen/
     asikt:
@@ -478,20 +480,22 @@ root:
     adress: https://www.liberalerna.se/politik/gymnasieskolan/
     asikt:
     - 'Det ska vara höga krav för att komma in i gymnasieskolan och ta examen'
-    - 'Extra ansträngning ska uppmuntras med meritpoäng'
+    - 'Fler ska stimuleras att läsa moderna språk'
     - 'Yrkeseleverna ska inte tvingas läsa in högskolebehörighet, men det ska vara en möjlighet för alla'
+    - 'Tvåårig yrkesskola ska införas'
     - 'Gymnasieskolan ska vara ämnesutformad, inte kursutformad'
     - 'Ett avslutande nationellt examensprov ska införas'
   -
     fraga: Grundskolan
     adress: https://www.liberalerna.se/politik/grundskolan/
     asikt:
-    - 'Lärarnas status ska höjas genom karriärtjänster med högre lön och bättre arbetsvillkor.'
-    - 'Krafttag och nolltolerans mot mobbning, våld och skolk.'
-    - 'Återförstatliga skolan.'
-    - 'Betyg från årskurs 4 och nationella prov från årskurs 3.'
-    - 'Nationella proven ska bli digitala och rättas externt.'
-    - 'Förskoleklassen blir årskurs 1 i en tio-årig tioårig grundskola.'
+    - 'Lärarnas status ska höjas genom karriärtjänster med högre lön och bättre arbetsvillkor'
+    - 'Krafttag och nolltolerans mot mobbning, våld och skolk'
+    - 'Återförstatliga skolan'
+    - 'Ge fler elever möjlighet att gå om'
+    - 'Betyg från årskurs 4 och nationella prov från årskurs 3'
+    - 'Nationella proven ska bli digitala och rättas externt'
+    - 'Förskoleklassen blir årskurs 1 i en tioårig grundskola'
   -
     fraga: Hav
     adress: https://www.liberalerna.se/politik/hav/
@@ -595,6 +599,7 @@ root:
     - 'Krav på motprestation för att få ekonomiskt stöd'
     - 'Mer tid för nyanlända elever i skolan'
     - 'Karriärtjänster för lärare i utsatta områden'
+    - 'Obligatorisk språkförskola för barn till nyanlända'
     - 'Bekämpa hedersrelaterat våld och förtryck'
     - 'Stopp för nya religiösa friskolor'
     - 'Obligatorisk samhällsinformation'
@@ -621,11 +626,13 @@ root:
     - 'Sverige och Europa ska stå upp för en human och solidarisk asylpolitik'
   -
     fraga: IT-politik
-    adress: https://www.liberalerna.se/politik/politikit-politik/
+    adress: https://www.liberalerna.se/politik/it-politik/
     asikt:
-    - 'Utveckla IT-infrastrukturen. Staten ska fortsätta medfinansiera bredbandsutbyggnad utanför städer och i glesbygd.'
-    - 'IT ska ha en naturlig roll i skolundervisningen.'
-    - 'Det behövs en ny upphovsrättslag för bättre balans mellan upphovsrättshavarens intressen och allmänintresset.'
+    - 'Utveckla IT-infrastrukturen i Sverige'
+    - 'Staten ska fortsätta medfinansiera bredbandsutbyggnad och digital uppkoppling i hela landet'
+    - 'Avveckla kopparnätet först när bredband och digital uppkoppling är utbyggd'
+    - 'IT och datorkunskap ska ha en naturlig roll i skolan'
+    - 'Det behövs en ny upphovsrättslag för bättre balans mellan upphovsrättshavarens intressen och allmänintresset'
   -
     fraga: Inkomstskatt
     adress: https://www.liberalerna.se/politik/inkomstskatt/
@@ -682,10 +689,12 @@ root:
     fraga: Järnvägar
     adress: https://www.liberalerna.se/politik/jarnvagar/
     asikt:
-    - 'Upprusta och bygg ut den befintliga järnvägen.'
-    - 'Vi säger nej till byggnation av höghastighetsbanor mellan storstäder på grund av de skenande kostnaderna och för att finansieringen inte är fastställd.'
-    - 'Järnvägens kapacitet ska utvecklas och vi ska knyta samman Nordens storstäder.'
-    - 'Vi vill ha en ny fast, avgiftsfinansierad, tåg- och vägförbindelse mellan Helsingborg och Helsingör.'
+    - 'Upprusta och bygg ut den befintliga järnvägen i en högre takt än idag'
+    - 'Investeringen i en höghastighetsbana är för riskabel'
+    - 'Järnvägens kapacitet ska utvecklas och Nordens storstäder ska knytas samman.'
+    - 'Vi vill ha en ny fast, avgiftsfinansierad, tåg- och vägförbindelse mellan Helsingborg och Helsingör'
+    - 'Konkurrensen på järnvägsnätet bör utökas'
+    - 'Tillåt längre och tyngre godståg'
   -
     fraga: Jämställdhet och feminism
     adress: https://www.liberalerna.se/politik/liberal-feminism/
@@ -697,23 +706,6 @@ root:
     - 'Öka skyddet för kvinnor som utsätts för våld av sin partner.'
     - 'Mer jämställda pensioner genom att en större del av pensionsrätterna delas vid skilsmässa.'
     - 'Stora arbetsplatser ska göra lönekartläggningar årligen för att motverka ojämställda löner.'
-  -
-    fraga: Kunskap och utbildning
-    adress: https://www.liberalerna.se/politik/kunskap-och-utbildning/
-    asikt:
-    - 'Förstatliga skolan'
-    - 'Ge fler lärare högre lön'
-    - 'Ta krafttag mot mobbning, våld och skolk'
-    - 'Inför betyg från åk 4'
-    - 'Inför tioårig grundskola med tidigare skolstart'
-    - 'Satsa på mindre klasser, fler lärare och speciallärare i lågstadiet'
-    - 'Inför rätt till obligatorisk läxläsning för dem som behöver i skolan'
-    - 'Minska lärarnas administrationsbörda'
-    - 'Inför central rättning av de nationella proven'
-    - 'Utöka antalet idrotts- och matematiklektioner'
-    - 'Höj kvaliteten i högskolan'
-    - 'Fortsätt bygga ut yrkeshögskolan'
-    - 'Fortsätt satsa på forskningen'
   -
     fraga: Klimat
     adress: https://www.liberalerna.se/politik/klimat/
@@ -760,12 +752,15 @@ root:
     - 'Mer marknad - nej till subventioner'
     - 'Forskning och utveckling av nästa generations kärnkraft'
   -
-    fraga: Konkurrens
-    adress: https://www.liberalerna.se/politik/politikpolitikkonkurrens/
+    fraga: Konkurrens och statligt ägande
+    adress: https://www.liberalerna.se/politik/konkurrens-och-statligt-agande/
     asikt:
-    - 'När konjunkturen är rätt ska staten fortsätta att minska ägandet i företag som drivs bättre privat.'
-    - 'Entreprenörer ska få större möjligheter inom den offentliga välfärdssektorn så att den utvecklas och förbättras.'
-    - 'Lagstiftning och praxis om offentlig upphandling ska ändras så att det blir lättare för mindre företag att vara med.'
+    - 'Färre statliga monopol'
+    - 'Staten bör fortsätta att minska ägandet i företag som drivs bättre privat'
+    - 'Entreprenörer ska få större möjligheter att verka inom den offentliga välfärdssektorn'
+    - 'Offentlig upphandling ska ändras så att det blir lättare för mindre företag att delta'
+    - 'Inget vinstförbud för privata företag som verkar i skola, vård och omsorg'
+    - 'Lagen om valfrihet (LOV) ska tillämpas i alla kommuner, landsting och regioner'
   -
     fraga: Kultur
     adress: https://www.liberalerna.se/politik/kultur/
@@ -775,16 +770,6 @@ root:
     - 'Stärk kulturen i skolan'
     - 'Fler fristadsförfattare'
   -
-    fraga: Kunskap
-    adress: https://www.liberalerna.se/politik/utbildning/
-    asikt:
-    - 'Mer undervisningstid i skolan, så att fler kan lära sig mer.'
-    - 'Aktivt skolval i alla kommuner, så att bostadssegregationen inte slår igenom så tungt som i dag. I utsatta områden vill vi lägga extra resurser på att skapa &quot;superteam&quot; av de bästa lärarna och skolledarna.'
-    - 'Nyanlända elever ska få fler lektionstimmar, ett extra läsår och sommarskola när det behövs för att komma ikapp.'
-    - 'Lugn och ro i alla klassrum, med en särskild ordningskommission, hjälp till lärarna att bli bättre på ledarskap och ett särskilt ordningsbetyg.'
-    - 'De nationella proven ska digitaliseras och rättas nationellt. Då kan skolan använda sina resurser till mer undervisning.'
-    - 'Starkare studie- och yrkesvägledning, så att elever tidigt kan få stöd för att hitta en annan väg än den de förväntas för att de är födda in i en viss omständighet.'
-  -
     fraga: Livets slut
     adress: https://www.liberalerna.se/politik/livets-slut/
     asikt:
@@ -793,15 +778,6 @@ root:
     - 'Vården ska alltid erbjuda palliativ behandling'
     - 'Ingen ska behöva dö ensam'
     - 'Vi vill inte tillåta aktiv dödshjälp'
-  -
-    fraga: Landsbygdspolitik
-    adress: https://www.liberalerna.se/politik/landsbygdspolitik/
-    asikt:
-    - 'Företagande och ekonomisk utveckling i hela landet.'
-    - 'Satsa på bredbandsutbyggnad i hela landet.'
-    - 'Vägar, järnvägar och flyg måste fungera'
-    - 'Nej till kilometerskatt som leder till dyrare transporter'
-    - 'Reseavdraget måste reformeras'
   -
     fraga: Likvärdig skola
     adress: https://www.liberalerna.se/politik/politiklikvardig-skola/
@@ -970,6 +946,16 @@ root:
     - 'Nyanlända elever ska ges undervisning i alla skolor och kommuner'
     - 'Aktivt skolval för alla, också för nyanlända'
   -
+    fraga: Obligatorisk språkförskola
+    adress: https://www.liberalerna.se/politik/obligatorisk-sprakforskola/
+    asikt:
+    - 'Obligatorisk språkförskola för alla barn till nyanlända från tre år, minst 15 timmar i veckan'
+    - 'Satsa på förskolan och dess roll för barns språkutveckling i svenska'
+    - 'Aktivt förskoleval ökar möjligheterna för fler att välja förskola'
+    - 'Kommuner ska arbeta uppsökande för att få fler barn till nyanlända till förskolan'
+    - 'Kommuner ska anordna kurser i svenska för föräldralediga'
+    - 'Att delta i svenskundervisning ska vara en motprestation för att få försörjningsstöd'
+  -
     fraga: Papperslösa
     adress: https://www.liberalerna.se/politik/papperslosa/
     asikt:
@@ -1038,12 +1024,6 @@ root:
     - 'Vi vill förenkla och förtydliga företagens informationslämning enligt miljöbalken och arbetsmiljölagen.'
     - 'Lagförslag från EU-kommissionen ska konsekvensbedömas när det gäller företag, särskilt de mindre.'
   -
-    fraga: Regionalpolitik
-    adress: https://www.liberalerna.se/politik/politikregionalpolitik/
-    asikt:
-    - 'Vi vill satsa på bredbandsutbyggnad i hela landet.'
-    - 'Vi vill avskaffa pumplagen.'
-  -
     fraga: Rovdjur
     adress: https://www.liberalerna.se/politik/rovdjur/
     asikt:
@@ -1065,6 +1045,15 @@ root:
     - 'Skapa en författningsdomstol som bevakar att det inte införs lagar och regler som bryter mot grundlagen.'
     - 'Alla lagförslag ska granskas på förhand ur integritetssynpunkt.'
     - 'Återinför ämbetsansvaret för offentliga tjänstemän.'
+  -
+    fraga: Regional utveckling
+    adress: https://www.liberalerna.se/politik/regional-utveckling/
+    asikt:
+    - 'Företagande och ekonomisk utveckling i hela landet.'
+    - 'Satsa på bredbandsutbyggnad i hela landet.'
+    - 'Vägar, järnvägar och flyg måste fungera'
+    - 'Nej till kilometerskatt som leder till dyrare transporter'
+    - 'Reseavdraget måste reformeras'
   -
     fraga: Religiösa friskolor
     adress: https://www.liberalerna.se/politik/religiosa-friskolor/
@@ -1104,16 +1093,7 @@ root:
   -
     fraga: Skola
     adress: https://www.liberalerna.se/skola
-    asikt:
-    - 'Gör grundskolan tioårig och öka lektionstimmarna.'
-    - 'Betyg från fyran, för att det är nödvändigt att mäta kunskaper om vi ska kunna sätta in stöd i rätt tid.'
-    - 'Lugn och ro i klassrummet. Stötta lärarna med mer utbildning i ledarskap. En särskild ordningskommission som kan hjälpa skolor med stora problem. Ordningsbetyg från år 6.'
-    - 'Uppvärdera läraryrket och öka lärares status, till exempel genom karriärtjänster med högre lön.'
-    - 'Skolan ska vara statlig.'
-    - 'Satsa på mindre klasser, fler lärare och speciallärare i lågstadiet.'
-    - 'Inför sommarskola för dem som inte nått målen i högstadiet.'
-    - 'Minska lärarnas administrationsbörda, med till exempel lärarassistenter och central rättning av de nationella proven.'
-    - 'Öka idrottsämnet i grundskolan  med 100 timmar.'
+    asikt: 'Mer måste göras för att elever med olika bakgrund ska hamna i samma klassrum. Låt alla föräldrar ta ställning till olika skolor och göra ett aktivt val. Och alla skolor ska vara med och ta emot nyanlända och asylsökande.'
   -
     fraga: Samtycke
     adress: https://www.liberalerna.se/politik/politiksamtycke/
@@ -1210,6 +1190,29 @@ root:
     - 'Fler lärlingsplatser blir en snabbare väg in på arbetsmarknaden.'
     - 'Ibland är frihet inte gratis. Sluta snåla på den personliga assistansen.'
   -
+    fraga: Sfi - Svenska för invandrare
+    adress: https://www.liberalerna.se/politik/sfi/
+    asikt:
+    - 'Mer individanpassade sfi-studier utifrån varje människas grundkunskaper'
+    - 'Mer flexibel sfi - sfi även på kvällar och helger'
+    - 'Ökat deltagande men också ökat fokus på resultat i sfi-studier'
+    - 'Inför kontrollstation efter 52 veckors sfi-studier'
+    - 'Svenska på jobbet'
+    - 'Frånvaro ska leda till sänkt ersättning - bättre uppföljning av närvaro behövs'
+    - 'Föräldralediga måste få läsa svenska. Kommuner ska anordna kurser i svenska för föräldralediga'
+    - 'Att delta i svenskundervisning ska vara en motprestation för att få försörjningsstöd'
+  -
+    fraga: Svenska språket
+    adress: https://www.liberalerna.se/politik/svenska-spraket/
+    asikt:
+    - 'Svenska från dag ett'
+    - 'Mer individanpassad och flexibel sfi (svenska för invandrare)'
+    - 'Tydligare krav på resultat och närvaro i sfi'
+    - 'Obligatorisk språkförskola för nyanlända barn'
+    - 'Även föräldralediga ska lära sig svenska'
+    - 'Att delta i svenskundervisning ska vara en motprestation för att få försörjningsstöd'
+    - 'Språk- och samhällstest för medborgarskap'
+  -
     fraga: Terrorism
     adress: https://www.liberalerna.se/politik/terrorism/
     asikt:
@@ -1269,9 +1272,11 @@ root:
     fraga: Upphovsrätten
     adress: https://www.liberalerna.se/politik/upphovsratten/
     asikt:
-    - 'Värna upphovsrätten och modernisera den för att tillvarata lagliga möjligheter med fildelning och annan digital teknik.'
-    - 'Bromsa utvecklingen mot allt längre skyddstider för konstnärliga verk.'
-    - 'Inför en &quot;digital allemansrätt&quot; för att göra offentligt finansierad information mer tillgänglig.'
+    - 'Värna upphovsrätten och samtidigt modernisera den'
+    - 'Tillvarata lagliga möjligheter för fildelning och annan digital teknik'
+    - 'Bromsa utvecklingen mot allt längre skyddstider för konstnärliga verk'
+    - 'Inför en &quot;digital allemansrätt&quot; för att göra offentligt finansierad information mer tillgänglig'
+    - 'Gör en översyn av lagen om privatkopiering'
   -
     fraga: Utrikespolitik
     adress: https://www.liberalerna.se/politik/utrikespolitik/

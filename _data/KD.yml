@@ -4,7 +4,7 @@ root:
   -
     fraga: A-kassa/arbetslöshetsersättning
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'För att garantera de som blir arbetslösa en grundläggande ekonomisk trygghet vid arbetslöshet vill Kristdemokraterna införa en allmän och obligatorisk arbetslöshetsförsäkring. Vi vill också att taket i a-kassan indexeras. Arbetslöshetsförsäkringen bör finansieras genom enhetliga egenavgifter och arbetsgivaravgifter.'
+    asikt: 'Alla som arbetar och uppfyller villkoren för försäkringen bör omfattas av en arbetslöshetsförsäkring med rätt till inkomstrelaterad ersättning för den som blir arbetslös. Kristdemokraterna vill göra arbetslöshetsförsäkringsavgiften avdragsgill   motsvarande 25 procent av avgiften. Det gör anslutningen till försäkringen mindre kostsam vilket stimulerar till en högre anslutningsgrad.'
   -
     fraga: Abort
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -12,7 +12,7 @@ root:
   -
     fraga: Adoption
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Vid alla adoptioner ska barnets behov och rättigheter komma först. Ingen vuxen har rätt till barn, men varje barn har rätt till kännedom om sitt ursprung och att, så långt som möjligt, få bli omvårdad av sina föräldrar. När de biologiska föräldrarna av någon anledning inte kan ta hand om sitt barn ska samhället eftersträva att ge barnet en ny familj som ersätter barnet för den mamma och pappa som gått förlorade. Gifta par, ensamstående och samkönade par (gifta eller som ingått registrerat partnerskap) ska kunna prövas som adoptivföräldrar.'
+    asikt: 'Vid alla adoptioner ska barnets behov och rättigheter komma först. Ingen vuxen har rätt till barn, men varje barn har rätt till kännedom om sitt ursprung och att, så långt som möjligt, få bli omvårdad av sina föräldrar. När de biologiska föräldrarna av någon anledning inte kan ta hand om sitt barn ska samhället eftersträva att ge barnet en ny familj som ersätter barnet för den mamma och pappa som gått förlorade. Gifta par, ensamstående och samkönade par (gifta eller som ingått registrerat partnerskap) ska kunna prövas som adoptivföräldrar. För att i större utsträckning täcka de faktiska kostnaderna kring adoptionen och för att förhindra att ekonomiskt svaga grupper helt utestängs från möjligheten att adoptera vill vi höja adoptionsbidraget från 75 000 kr till 90 000 kr.'
   -
     fraga: Alkohol
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -20,13 +20,13 @@ root:
   -
     fraga: Alkolås
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna arbetar för att teknik som upptäcker och varnar om förare är påverkade av alkohol, droger eller trötthet ska bli standard i alla fordon. Vi driver även frågan på EU-nivå.'
+    asikt: 'Kristdemokraterna arbetar för att alkolås eller annan teknik som förhindrar rattfylleri ska bli standard i alla fordon. Vi driver även frågan på EU-nivå.'
   -
     fraga: Amorteringskrav
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna vill ha en flexibel amorteringsform så att hushåll kan klara av sina boendekostnader om oförutsedda omständigheter inträffar. Undantag ska kunna göras vid till exempel arbetslöshet, sjukdom, skilsmässa eller dödsfall. För att inte bromsa byggandet av nya bostäder bör nya bostadslån vid köp av nyproducerade bostäder undantas från amorteringskravet.'
+    asikt: 'Nuvarande amorteringskrav är för stränga och gör tröskeln till det ägda boendet för hög för många hushåll. Amorteringskrav bör vara flexibla så att hushåll kan klara sina boendekostnader även vid oförutsedda omständigheter. Undantag ska kunna göras vid till exempel arbetslöshet, sjukdom, skilsmässa eller dödsfall. För att inte bromsa byggandet av nya bostäder bör nya bostadslån vid köp av nyproducerade bostäder undantas från amorteringskravet.'
   -
-    fraga: ANDT (alkohol, narkotika, doping, tobak)
+    fraga: ANDTS (alkohol, narkotika, doping, tobak och spel)
     adress: https://kristdemokraterna.se/politik-a-o/
     asikt: 'Kristdemokraterna vill att alla människor ska kunna växa upp och leva utan risk att skadas på grund av eget eller andras bruk av alkohol, narkotika, dopningsmedel eller tobak. Tillgången till narkotika, dopningsmedel, alkohol och tobak måste minska och barn ska skyddas mot skadliga effekter. Missbruksvården måste bli mer tillgänglig och det internationella samarbetet mot ANDT ska fortsatt vara starkt.'
   -
@@ -48,15 +48,15 @@ root:
   -
     fraga: Arbetsförmedlingen
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna vill reformera Arbetsförmedlingen. Vi vill att den arbetssökande själv ska få välja jobbförmedlare. Vi vill minska antalet arbetsmarknadsåtgärder, avskaffa arbetsmarknadsutbildningarna och istället göra en kraftfull satsning på ytterligare platser i yrkesvux.'
+    asikt: 'Kristdemokraterna vill reformera Arbetsförmedlingen och lägga ner den i sin nuvarande form. Vi vill att den arbetssökande själv ska få välja jobbförmedlare. Vi vill minska antalet arbetsmarknadsåtgärder, avskaffa arbetsmarknadsutbildningarna och istället göra en kraftfull satsning på ytterligare platser i yrkesvux.'
   -
     fraga: Arbetskraftsinvandring
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna menar att öppenhet mot omvärlden är viktigt och vi vill se fler vägar in till Sverige för den som vill komma och arbeta. Arbetskraftsinvandringen är viktig för att möta utmaningen med Sveriges och Europas åldrande befolkning. EU har infört ett så kallat &quot;EU Blue Card&quot; som ger högkvalificerade personer rätt att invandra om man kan uppvisa ett anställningsbevis. Kristdemokraterna anser att personer ska kunna komma till EU och arbeta oavsett kvalifikationsgrad. Regeringen arbetar kontinuerligt med att motverka oseriösa arbetsgivare som utnyttjar människor.'
+    asikt: 'Växande ekonomi. Kristdemokraterna vill se fler vägar in till Sverige för den som vill komma hit och arbeta, vilket inte minst gäller inom yrken där det i dag råder brist på arbetskraft i Sverige.'
   -
     fraga: Arbetslöshet
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Arbetslöshet motverkas främst genom att nya jobb skapas genom satsningar på nya företag och att få befintliga att växa. Många unga och nyanlända får sina första jobb inom tjänstesektorn varför det är viktigt att tjänstemarknaden får möjlighet att utvidgas. Vi vill förenkla för de som står långt från arbetsmarknaden eller behöver få sitt första jobb genom introduktionsanställningar. Vi vill göra det lönsamt att gå från bidrag till arbete genom ett dubbelt jobbskatteavdrag för unga under 25 år, de som tagit en examen innan de fyllt 25 år, för nyanlända under deras första fem år i Sverige och för personer som kommer från en långvarig arbetslöshet. Arbetsförmedlingen behöver reformeras och enbart syssla med myndighetsutövning, matchningen mot arbeten kan andra aktörer utföra utifrån styrande och sunda incitament.'
+    asikt: 'Arbetslöshet motverkas främst genom att nya jobb skapas genom satsningar på nya företag och att få befintliga att växa. Många får sitt första jobb inom tjänstesektorn, det är viktigt att tjänstemarknaden får möjlighet att utvidgas. Vi vill förenkla för de som står långt från arbetsmarknaden eller behöver få sitt första jobb genom inträdesjobb. Vi vill göra det lönsamt att gå från bidrag till arbete genom ett dubbelt jobbskatteavdrag för unga under 25 år, de som tagit en examen innan de fyllt 25 år, för nyanlända under deras första fem år i Sverige och för personer som kommer från en långvarig arbetslöshet.'
   -
     fraga: Arbetsrätt
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -68,7 +68,7 @@ root:
   -
     fraga: Barnfattigdom
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Att skapa möjligheter för föräldrar att få arbete är grundläggande för att minska risken för att barn ska leva i ekonomisk utsatthet. Men det behövs också riktade insatser. grundnivån i föräldraförsäkringen höjdes vid årsskiftet 2016 till 250 kr/dag vilket var en viktig åtgärd. Vi Kristdemokrater införde tillsammans med Alliansen en fritidspeng som gör det möjligt för alla barn att delta i fritidsaktiviteter. S/MP-regeringen har tagit bort den men vi jobbar för att den ska komma tillbaka. Vi vill också höja bostadsbidraget för barnfamiljen med svag ekonomi.'
+    asikt: 'Att skapa möjligheter för föräldrar att få arbete är grundläggande för att minska risken för att barn ska leva i ekonomisk utsatthet. Men det behövs också riktade insatser. För att stötta de sämst ställda barnfamiljerna vill vi höja barndelen i bostadsbidraget med 350 kr för familjer med ett barn, 425 kr för familjer med två barn och 600 kr för familjer med tre barn. Vi vill också återinföra den fritidspeng som vänsterregeringen har tagit bort, som gjorde det möjligt för barn som har föräldrar med försörjningsstöd att delta i fritidsaktiviteter. Fritidspengen ska även gälla under sommarloven.'
   -
     fraga: Barnkonventionen
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -76,19 +76,19 @@ root:
   -
     fraga: Barnomsorg
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Barnomsorgen finns till för barnen och inte tvärtom. Därför är målet för Kristdemokraterna att föräldrar ska kunna välja den barnomsorg som är bäst för deras barn. Det ska finnas en förskola med hög kvalitet och tillräckligt små grupper för att kunna tillgodose barnens behov. Det ska vara obligatoriskt för kommunerna att införa ett maxtak för gruppernas storlek. Föräldrarna måste även kunna välja pedagogisk omsorg i hemmet i form av dagbarnvårdare, flerfamiljssystem eller egen omsorg. Föräldrar som själva ansvarar för barnomsorgen ska kunna få del av barnomsorgspengen.'
+    asikt: 'Barnomsorgen finns till för barnen och inte tvärtom. För att alla föräldrar ska hitta ett alternativ som passar just dem och deras barn måste det finnas en väl utbyggd barnomsorg med olika alternativ. Det ska finnas en mångfald av barnomsorgsformer med olika inriktning och huvudmän; förskolor, familjedaghem, öppna förskolor och fritidshem. Det ställer krav på att kommunerna kan erbjuda likvärdiga villkor för alla godkända barnomsorgs- och förskoleverksamheter. Målet för all barnomsorg bör vara att möta varje barns behov av trygg omsorg, stimulans, lek, gemenskap och utveckling. Barngrupperna i förskolan måste minska'
   -
     fraga: Barnomsorgspeng
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Barnomsorgspengen innebär att kommunerna också blir skyldiga att godkänna pedagogiska omsorgsformer i enskild regi, inte bara förskolor och fritidshem. Kristdemokraterna vill att barnomsorgspeng ska kunna betalas ut även till den som tar hand om enbart egna och anhörigas barn, mellan 1 och 3 år, i det egna hemmet. Pengen för egna barn bör vara 90 procent av kommunens kostnad för en plats i pedagogisk omsorg, betraktas som inkomst och vara skattepliktig.'
+    asikt: 'Barnomsorgspengen innebär att kommunerna också blir skyldiga att godkänna pedagogiska omsorgsformer i enskild regi, inte bara förskolor och fritidshem. Kristdemokraterna vill att det ska finnas möjlighet för föräldrar, som vill vara hemma med sina små barn, att få barnomsorgspeng för omsorg om egna barn i hemmet. Barnomsorgspengen, ska gälla barn 1-3 år, uppgå till 6 000 kronor per barn och månad, räknas som inkomst och vara pensionsgrundande.'
   -
     fraga: Barnäktenskap
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna vill förstärka arbetet mot barnäktenskap. Genom avtal och samarbete med andra länder ska Svenska UD kunna hämta hem barn som förts ut ur Sverige för att giftas bort. Vid misstanke om att ett barn förts ut ur landet för tvångsgifte ska en domstol kunna utfärda en order om att barnet ska återföras eller påbörja hemresa innan en viss tid (ofta 48 timmar). Om föräldrarna vägrar ska de kunna dömas till fängelse.'
+    asikt: 'Inget barn under 18 år ska kunna räknas som gift i Sverige, oavsett om det fanns anknytning till Sverige eller inte då äktenskapet ingicks. Kristdemokraterna vill förstärka arbetet mot barnäktenskap. Genom avtal och samarbete med andra länder ska Svenska UD behöver förstärka sina avtal och samarbetsformer med andra länder för att kunna hämta hem barn som förts ut ur Sverige för att giftas bort. Vid misstanke om att ett barn förts ut ur landet för tvångsgifte ska en domstol kunna utfärda en order om att barnet ska återföras eller påbörja hemresa innan en viss tid (ofta 48 timmar). Om föräldrarna vägrar ska de kunna dömas till fängelse.'
   -
     fraga: Betyg
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Betyg är ett viktigt verktyg för att ge elever och föräldrar information om hur eleven klarar kunskapsmålen. Betygen ska bidra till att elevernas kunskaper kontinuerligt följs upp och utvärderas, att resultaten kommuniceras med hemmen och stöd sätts in tidigt. Kristdemokraterna vill att betygen i högre grad ska avspegla resultaten i de nationella proven. Vi anser att avgångsbetyg, som påverkar framtida val till högre studier, bör kunna överklagas om eleven tror sig kunna påvisa att felbedömning skett.'
+    asikt: 'Är ett viktigt verktyg för att ge elever och föräldrar information om hur eleven klarar kunskapsmålen. Betygen ska bidra till att elevernas kunskaper kontinuerligt följs upp och utvärderas, att resultaten kommuniceras med hemmen och att stöd sätts in tidigt. Kristdemokraterna vill att betygen i högre grad ska avspegla resultaten i de nationella proven. Betyg ska ges första gången i årskurs 6.'
   -
     fraga: Bibliotek och muséer
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -112,7 +112,7 @@ root:
   -
     fraga: Bostad
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Under många år har det byggts för lite i Sverige, vilket har lett till bostadsbrist. Kristdemokraterna vill se fler aktörer på marknaden som pressar priserna tillsammans samt stärka det regionala inflytandet över bostadsplaneringen och förenkla regelkrånglet. Vi vill skapa långsiktiga villkor för såväl byggande som förvaltning och ägande. Vi vill också stimulera andrahandsuthyrning av bostäder. Delar av en villa eller lägenhet ska kunna hyras ut skattefritt. Det skulle snabbt skapa många nya bostäder och inte minst hjälpa unga att få en bostad.'
+    asikt: 'Under många år har det byggts för lite i Sverige, vilket har lett till bostadsbrist. Folk behöver olika boenden under olika delar av sitt liv. Det saknas idag billiga bostäder i Sverige, men vi har också ett kraftigt underskott av villor. Kristdemokraterna vill se fler aktörer på marknaden som pressar priserna tillsammans samt stärka det regionala inflytandet över bostadsplaneringen och förenkla regelkrånglet. Vi vill skapa långsiktiga villkor för såväl byggande som förvaltning och ägande. Vi vill också stimulera andrahandsuthyrning av bostäder. Delar av en villa eller lägenhet ska kunna hyras ut skattefritt. Det skulle snabbt skapa många nya bostäder och inte minst hjälpa unga att få en bostad.'
   -
     fraga: Bostadsbidrag
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -128,11 +128,11 @@ root:
   -
     fraga: Brottsoffer
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Den som blivit utsatt för ett brott ska få hjälp och stöd. Det är viktigt att de brottsoffer som så vill får bättre information om hur det går med utredningen. Vi vill ändra skadeståndsreglerna så att inte offret behöver ha direkt kontakt med förövaren för att få ersättning. Kristdemokraterna tycker att summan om 800 kronor som varje dömd person ska betala till brottsofferfonden när fängelse finns i straffskalan ska höjas till 1 000 kronor.'
+    asikt: 'Den som blivit utsatt för ett brott ska få hjälp och stöd. Det är viktigt att de brottsoffer som så vill får bättre information om hur det går med utredningen. Vi vill ändra skadeståndsreglerna så att staten betalar ut skadestånd direkt till brottsoffret. Idag måste brottsoffret själv kräva in skadeståndsbetalningen av gärningsmannen. Kristdemokraterna tycker att summan om 800 kronor som varje dömd person ska betala till brottsofferfonden när fängelse finns i straffskalan ska höjas till 1 000 kronor.'
   -
     fraga: Buggning
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'I dag kan buggning och avlyssning av telefon ske om det är starkt motiverat för att minska och utreda den grova brottsligheten. Kristdemokraterna anser att det ska ske med stor restriktivitet av hänsyn till den personliga integriteten. Mycket av kommunikationen mellan kriminella stället sker via internettjänster varför lagstiftningen bör ses över för att möjligen gälla även dessa tjänster. Här gäller, som alltid, att nyttan av åtgärden måste ägas mot det intrång i den personliga integriteten som sker.'
+    asikt: 'Polisen är idag i starkt behov av möjligheten att använda hemliga tvångsmedel, så som buggning. Idag kan det ske på telefonen, men vi vill utöka möjligheten att också avlyssna kommunikation över nätet. Här behövs en teknikneutral lagstiftning. Brottslingar kan inte tillåtas ligga ett steg före Polisen på grund av den tekniska utvecklingen. Möjligheterna till datalagring måste återinföras.'
   -
     fraga: Civilkurage
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -180,7 +180,7 @@ root:
   -
     fraga: Elevhälsa
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Elever måste få kontakt med elevhälsan inom 24 timmar efter att de sökt kontakt, det är målet för den elevhälsogaranti vi vill införa. Som ett steg dit har vi infört ett begrepp som heter samlad elevhälsa. Där möts skolläkare, skolsköterska, kurator, psykolog samt speciallärare/specialpedagog för att stödja eleverna. Både tillgänglighet och bred kompetens är en förutsättning för att alla elever ska kunna få ett tillräckligt elevhälsostöd.'
+    asikt: 'Måste rustas för att långsiktigt kunna möta och stödja barn och unga med psykisk ohälsa. En väl utvecklad elevhälsovård främjar det förebyggande arbetet med detta. Vi vill ge landstingen/regionerna ett samlat uppdrag för hela barn- och ungdomshälsovården. Det innebär att elevhälsan inte längre får skolan som huvudman. Skolsköterskan, skolläkare, kurator och skolpsykologer bör finnas ute i verksamheterna men bör ha samma huvudman som övrig vårdpersonal. Den samlade barn- och ungdomshälsan ska ha ett nära samarbete med skolledningar, lärare, specialpedagoger och kommunernas socialtjänst. Vi vill även införa en elevhälsogaranti som innebär att en elev ska kunna komma i kontakt med elevhälsan inom ett dygn.'
   -
     fraga: Elmarknad
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -188,11 +188,11 @@ root:
   -
     fraga: EMU och Euron
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Om Sverige bör gå mot ett fullt EMU- medlemskap och införa euron är upp till det svenska folket att avgöra i folkomröstning. Inom överskådlig framtid är ett fullt, svenskt deltagande i EMU bortom all, meningsfull diskussion. För att återuppta diskussionerna om EMU-medlemskap måste skuldkrisen i de nuvarande medlemsländerna lösas, och de nya regelverken finnas på plats och följas.'
+    asikt: 'Om Sverige bör gå mot ett fullt EMU- medlemskap och införa euron är upp till det svenska folket att avgöra i folkomröstning. Kristdemokraterna är inte för ett inträde i EMU och ett införande av euron som valuta och ser det inte som aktuellt under överskådlig tid. Innan diskussioner om detta kan föras måste de ekonomiska problem som omgärdar medlemsländerna lösas och överstatligheten motverkas.'
   -
     fraga: Energi
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna har tillsammans med övriga allianspartier slutit en energi- och klimatöverenskommelse som syftar till att ge energimarknadens aktörer långsiktiga och stabila spelregler, möjliggöra klimatomställningen och trygga energiförsörjningen för hushåll och företag. Vi vill att befintliga reaktorer ska få ersättas med nya säkrare och mer effektiva kärnkraftsverk samtidigt som vi satsar på förnybara energikällor.'
+    asikt: 'Kristdemokraterna har tillsammans med moderaterna, centerpartiet och regeringen slutit en energi- och klimatöverenskommelse som syftar till att ge energimarknadens aktörer långsiktiga och stabila spelregler, möjliggöra klimatomställningen och trygga energiförsörjningen för hushåll och företag. Vi vill att befintliga reaktorer ska få ersättas med nya säkrare och mer effektiva reaktorer samtidigt som vi satsar på förnybara energikällor.'
   -
     fraga: Energieffektivisering
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -200,11 +200,15 @@ root:
   -
     fraga: Ensamkommande barn
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna anser att en god man bör förordnas inom 24 timmar från ett ensamkommande barns ankomst. Det bör utarbetas rutiner för förbättrat samarbete mellan myndigheter kring ensamkommande barns ankomst. Vi vill ändra i EU-reglerna så att inga barn ska skickas tillbaka till länder där det finns risk att deras rättigheter kränks.'
+    asikt: 'Kristdemokraterna anser att en god man bör förordnas inom 24 timmar från ett ensamkommande barns ankomst. Vidare anser vi att ensamkommande barn och ungdomar i första hand ska placeras i familjehem. Kristdemokraterna har föreslagit att fler familjehem med beredskap att ta hand om dessa barn och unga ska rekryteras och utbildas. För att avlasta kommunernas socialtjänst krävs en förnyad ansvarsfördelning och nya arbetsformer. Vi anser därför att en nationell krissocialjour bör inrättas. När kommunerna bedömer att de behöver extra hjälp kan sådan avropas från den nationella krissocialjouren. Med en nationell organisation kan resurserna användas optimalt. Dessutom kan riskerna för att barnens trygghet och rättssäkerheten åsidosätts minimeras.'
   -
     fraga: EU
     adress: https://kristdemokraterna.se/politik-a-o/
     asikt: 'Kristdemokraterna är positiva till det svenska medlemskapet i EU. EU:s föregångare skapades i början av 50-talet för att länder som förut hade krigat mot varandra skulle kunna bevara freden, stärka demokratin och bygga välstånd tillsammans. Dessa grundläggande värden är viktiga också i vår tid. För Kristdemokraterna är det viktigt att EU används på rätt sätt - att gränsöverskridande utmaningar löses tillsammans, att beslut fattas på bästa ändamålsenliga nivå och att nationers olikheter respekteras i samarbetet.'
+  -
+    fraga: Extremism
+    adress: https://kristdemokraterna.se/politik-a-o/
+    asikt: 'Det finns anledning att med oro se på den växande extremismen i dagens samhälle. Vilsna unga, främst män, lockas av jihadism, nazism och vänsterextremism och drivs in i en våldsbejakande miljö.'
   -
     fraga: Facket
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -212,11 +216,11 @@ root:
   -
     fraga: Familjen
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna menar att familjen är den viktigaste enheten i samhället. Familjer ser olika ut men är alltid viktiga. Vår familjepolitik syftar till att stödja familjerna utifrån deras olika behov, möjliggöra mer tid för barnen och öka familjernas frihet. Vi tycker bland annat att alla politiska beslut ska analyseras utifrån vilka konsekvenser de får för familjer samt att det bör forskas om hur det alltmer gränslösa arbetslivet påverkar familjelivet, hälsan och barnen. Familjen är viktig hela livet. Därför arbetar vi bland annat för att ensamstående förälder som bor i annat land ska få möjlighet att bo tillsammans med familjen i Sverige.'
+    asikt: 'Familjen är den viktigaste gemenskapen och den grund som samhället står på. Barn som växer upp i trygga familjer får goda förutsättningar att klara livets utmaningar. Politiken ska därför stödja familjerna och föräldrarna, inte styra. Kristdemokraterna vill möjliggöra mer tid för barnen, öka familjers handlingsutrymme, uppvärdera föräldraskapet, möjliggöra olika barnomsorgsformer samt stärka barnfamiljers ekonomi. Alla politiska beslut ska analyseras utifrån vilka konsekvenser de får för familjer.'
   -
     fraga: Familjepolitik
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokratisk familjepolitik syftar till att stödja familjerna, möjliggöra mer tid för barnen och att öka familjernas frihet. Kristdemokraterna vill därför ge fler valmöjligheter för familjer att välja den barnomsorgsform som passar dem och deras barn bäst.'
+    asikt: 'Kristdemokraternas familjepolitik syftar till att möjliggöra mer tid för barnen, öka familjers handlingsutrymme, uppvärdera föräldraskapet, möjliggöra olika barnomsorgsformer samt stärka barnfamiljers ekonomi. Alla politiska beslut ska analyseras utifrån vilka konsekvenser de får för familjer.'
   -
     fraga: Familjerådgivning
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -228,7 +232,7 @@ root:
   -
     fraga: Fastighetsskatt
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna drev avskaffandet av den orättvisa och oberäkneliga fastighetsskatten och ersatte den med en betydligt lägre kommunal fastighetsavgift. I nästa steg vill vi ta bort taxeringssystemet och göra den kommunala fastighetsavgiften ytterligare mer förutsägbar och rättvis.'
+    asikt: 'Kristdemokraterna var starkt pådrivande för att avskaffa den orättvisa och oförutsägbara fastighetsskatten på boende. Skatten gjorde att människor som arbetat och sparat ett helt liv för att bo i sina egna hem på ålderns höst istället tvingades att sälja på grund av skatten. Med den betydligt lägre kommunala avgiften finns i stället en trygghet och förutsägbarhet för boende i egna hem och flerfamiljshus. För att undanröja hotet om framtida ny statlig fastighetsskatt vill vi även avskaffa fastighetstaxeringen av boende.'
   -
     fraga: Feminism
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -304,7 +308,7 @@ root:
   -
     fraga: Förmögenhetsskatt
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna har varit med och tagit bort förmögenhetsskatten. Den gav förhållandevis låga inkomster till staten och drev samtidigt massor av kapital ut ur landet. En förmögenhetsskatt är en form av dubbelbeskattning eftersom man redan har betalat skatt på inkomsten, och ska alltså inte återinföras i någon form.'
+    asikt: 'Kristdemokraterna var med och avvecklade förmögenhetsskatten. Det var en godtycklig och omoralisk skatt som drev stora mängder kapital ut ur landet. Den ska inte återinföras i någon form.'
   -
     fraga: Förnybar energi
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -312,11 +316,11 @@ root:
   -
     fraga: Förskola
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'För oss kristdemokrater är förskolans två ben lika viktiga: omsorg och pedagogisk verksamhet. Läroplanen bör betona vikten att arbeta med de minsta barnens anknytningsprocess. För barn är en trygg tillvaro med vuxna som prioriterar omsorgen mycket viktig. Andelen barn som går i förskolan ökar och grupperna blir större. Många grupper är så stora att skolverket bedömer att det inte går att bedriva ändamålsenlig verksamhet. Kristdemokraterna kämpar för mindre barngrupper och föreslår att kommunerna ska sätta ett tak för hur stora barngrupperna får vara.'
+    asikt: 'Barngrupperna i förskolan är för stora. Cirka 60 procent av de minsta barnen går i grupper som ligger över Skolverkets riktvärde för maximalt antal barn. Kristdemokraterna vill minska barngrupperna genom att kommunerna inför ett tak. Vi vill skärpa statsbidraget till kommunerna så att bara de kommuner som visar att de har uppnått eller arbetar mot målet om högst 12 barn i småbarnsgrupper, får del av satsningen. Vi satsar en halv miljard kronor i vår budget för att minska barngrupperna.'
   -
     fraga: Försvar
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Rätten till liv och respekten för den personliga värdigheten leder till rätten att försvara sig mot angrepp som hotar dessa värden. Den svenska försvarsmakten ska ha en sådan organisation och omfattning att den kan försvara Sverige, samverka och verka krigsavhållande vid säkerhetspolitiska kriser i närområdet. Försvaret ska också utföra insatser utanför närområdet då det främjar freden.'
+    asikt: 'Resurserna till försvaret måste öka. Kristdemokraterna vill att Sverige satsar 2 procent av BNP på försvarsbudgeten. Pengarna ska bland annat användas till att fördubbla armén. Vi vill också gå med i Nato. Detta krävs för att den svenska försvarsmakten ska ha en sådan organisation och omfattning att den kan försvara Sverige, samverka och verka krigsavhållande vid säkerhetspolitiska kriser i närområdet. Försvaret ska också utföra insatser utanför närområdet då det främjar freden.'
   -
     fraga: Försörjningsstöd
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -324,7 +328,7 @@ root:
   -
     fraga: Föräldraförsäkring
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'En nära relation till båda föräldrarna är viktigt och de ska ha samma möjligheter att ta ut föräldradagar, men det är föräldrarna - inte politiker - som ska bestämma hur dagarna används. Kristdemokraterna föreslår att den sjukpenninggrundande inkomsten och den föräldrapenninggrundande inkomsten ska skyddas i tre år och rätten till ledighet utvidgas så att mammor och pappor får ökade möjligheter att vara hemma under barnets tre första år. Vi vill också öka möjligheterna att överlåta föräldrapenningdagar till närstående under en tid och utöka rätten till hel tjänstledighet så att varje förälder, utöver att vara tjänstledig då föräldradagar tas ut, ges möjlighet att vara tjänstledig på heltid i ytterligare 20 månader.'
+    asikt: 'Det är föräldrarna - inte politiker - som bäst kan avgöra hur föräldrapenningdagar ska användas. Vi säger därför nej till kvotering av föräldraförsäkringen. Vi vill istället göra föräldraförsäkringen mer flexibel. Föräldrar ska fritt kunna överlåta föräldrapenningdagar till varandra eller till andra närstående som exempelvis mor-, farföräldrar eller en bonuspappa. Föräldraledigas inkomst ska skyddas under tre år och rätten till föräldraledighet på heltid utvidgas till tre år. Samtliga föräldrapenningdagar ska kunna användas som dubbeldagar.'
   -
     fraga: Genmodifierade produkter (GMO)
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -332,7 +336,7 @@ root:
   -
     fraga: Graviditetspeng
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna vill införa en generell graviditetspeng under den sista månaden i graviditeten. Ett stort antal av gravida har sådana besvär i graviditetens slutskede att de inte kan arbeta de sista veckorna. Dagens system med sjukskrivning, havandeskapspeng och förtida uttag av föräldrapenning blir orättvist och är dessutom administrativt kostsamt. Utformningen bör likna tilfällig föräldrapenning och antalet ersatta dagar bör uppgå till 20-23 dagar. Uttag ska kunna göras 60 dagar före beräknad födsel. Dagarna ska inte kunna sparas.'
+    asikt: 'Kristdemokraterna vill införa en generell graviditetspeng under den sista månaden i graviditeten. Ett stort antal av gravida har sådana besvär i graviditetens slutskede att de inte kan arbeta de sista veckorna. Dagens system med sjukskrivning, graviditetspenning (tidigare havandeskapspeng) och förtida uttag av föräldrapenning blir orättvist och är dessutom administrativt kostsamt. Utformningen bör likna tillfällig föräldrapenning. Dagarna ska inte kunna sparas.'
   -
     fraga: Grundskola
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -352,11 +356,11 @@ root:
   -
     fraga: Gårdsförsäljning
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Vi säger nej till så kallad gårdsförsäljning därför att vi värnar detaljhandelsmonopolet som ett av de viktigaste inslagen i den svenska alkoholpolitiken. Gårdsförsäljning öppnar för omfattande direktförsäljning till vem som helst av både svenska och utländska alkoholtillverkare. Monopolet bör försvaras.'
+    asikt: 'Vi är inte emot gårdsförsäljning av lokalproducerad alkohol i små volymer. Systembolagets detaljhandelsmonopol måste däremot kunna värnas. Om gårdsförsäljning skulle visa sig vara förenligt med Systembolagets monopol så skulle vi se positivt på ett sådant införande. Där är vi dock inte idag.'
   -
     fraga: Gängkriminalitet
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kriminella ungdomsgäng är en inkörsport till grövre brottslighet. För att förebygga att unga dras in i gäng behövs satsningar på familjer, skolan och jobb för unga. Det är också viktigt med tydliga reaktioner vid brott. Kristdemokraterna menar att fler bör dömas till ungdomstjänst med tydlig koppling till brottet, den som har förstört en lekplats ska hjälpa till att bygga upp den. Även brott som begås av personer under 15 år behöver utredas. Till varje skola bör det vara knuten en särskilt utnämnd polis. Det behövs mer stöd till personer som vill hoppa av kriminella gäng.'
+    asikt: 'Kriminella gäng bidrar till den våg av grov brottslighet som präglas Sverige med skjutningar, handgranater, narkotikaförsäljning och attacker mot poliser. De sätter framför allt skräck i de särskilt utsatta områdena. Det behövs fler poliser för att skapa ordning, och hårdare straff för den som ingår i kriminella gäng. Vi vill förbjuda samröre med organiserad kriminalitet, skärpa straffen för narkotikaförsäljning, införa hårdare straff för den som attackerar exempelvis sjukhus och så vidare.  Det behövs också förebyggande åtgärder i skolan, satsningar på familjen och jobb för unga.Även brott som begås av personer under 15 år behöver utredas. Till varje skola bör det vara knuten en särskilt utnämnd polis. Det behövs mer stöd till personer som vill hoppa av kriminella gäng.'
   -
     fraga: HBT
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -396,7 +400,7 @@ root:
   -
     fraga: Inkomstskatter
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Inkomstskatterna ska utformas så att arbete, studier och kompetensutveckling lönar sig. Den enskilde ska i största möjliga utsträckning få behålla sin egen lön. Vi har föreslagit att nyanlända och ungdomar under 25 år får tjäna sin första halvmiljon kronor skattefritt. Kristdemokraterna vill sänka skatten för pensionärerna samt för låg- och medelinkomsttagarna. Vi vill också införa ett förstärkt jobbskatteavdrag för dem som går från långtidsarbetslöshet till arbete - ett nystartsavdrag - och ett jobbskatteavdrag för dem som fyllt 64 år.'
+    asikt: 'Inkomstskatterna ska utformas så att arbete, utbildning och ansvarstagande lönar sig. Den enskilde ska i största möjliga utsträckning få behålla sin egen lön. Vårt mål är att ingen ska behöva betala mer än 50 procent i högsta marginalskatt samt att inte fler än 15 procent av inkomsttagarna ska betala statlig inkomstskatt. Vi föreslår breda skattesänkningar på all inkomst och riktade skattesänkningar till särskilda grupper som står långt från arbetsmarknaden. Det gäller långtidsarbetslösa, nyanlända, jobbskatteavdrag för dem som fyllt 64 och unga under 25 år. Föräldrar med barn under 18 år ska därutöver få en skattesänkning på 500 kr/månad och förälder. Kristdemokraterna vill också ta bort hela skillnaden i beskattning mellan pensionärer och löntagare, vilket minskar skatten väsentligt.'
   -
     fraga: Innovation
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -404,7 +408,7 @@ root:
   -
     fraga: Integration
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna vill ge personer som kommer till Sverige möjlighet att vara med och bygga samhället genom arbete, praktik och studier. Vi vill också följa upp de personer som finns i Sverige sedan många år tillbaka. Vi vill att de som kommer till Sverige och inte går in i regeringens etableringsreform ska få möjlighet till Svenska för invandrare och annan samhällsintroduktion. Vi vill också förbättra värderingen av akademiska kunskaper och arbetslivserfarenheter, så att kunskaper som man skaffat sig i andra länder går att använda på den svenska arbetsmarknaden.'
+    asikt: 'Kristdemokraterna vill ge personer som kommer till Sverige möjlighet att vara med och bygga samhället genom arbete, praktik och studier. Vi vill också följa upp de personer som finns i Sverige sedan många år tillbaka. Vi vill att de som kommer till Sverige från första dagen går in i ett asylprogram där sfi-studier i svenska påbörjas. Från början ska också överföringen av våra grundvärderingar påbörjas i form av samhällsorientering. Våra grundvärderingar kommer av den judisk-kristna etiken och kan sägas vara Sveriges etiska modersmål.'
   -
     fraga: Integritet
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -424,7 +428,7 @@ root:
   -
     fraga: Jobbskatteavdraget
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Alliansregeringen genomförde fem jobbskatteavdrag vilket inneburit skattesänkningar på en månadslön per år för heltidsarbetande samt att vi i dag har 70 000-100 000 fler som arbetar än vad vi annars hade haft. Kristdemokraterna har även föreslagit riktade jobbskatteavdrag för dem som varit sjukskrivna eller arbetslösa under längre tid, för personer under 25 år och nyanlända de fem första åren. Även föräldrar med barn under 18 år ska få jobbskatteavdragpå 500 kr/månad och förälder.'
+    asikt: 'Jobbskatteavdragen gör det mer lönsamt att arbeta och stärker ekonomin för de flesta hushåll, procentuellt allra mest till de med lägre inkomster. Alliansregeringen genomförde fem jobbskatteavdrag vilket inneburit skattesänkningar på en månadslön per år för heltidsarbetande samt att vi i dag har 70 000-100 000 fler som arbetar än vad vi annars hade haft. Kristdemokraterna har även föreslagit dubbelt jobbskatteavdrag för dem som varit sjukskrivna eller arbetslösa under längre tid, för personer under 25 år och nyanlända de fem första åren.'
   -
     fraga: Jordbruk
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -437,6 +441,10 @@ root:
     fraga: Järnväg
     adress: https://kristdemokraterna.se/politik-a-o/
     asikt: 'Järnvägen är ett omtyckt och klimateffektivt transportslag som behöver utvecklas mot större kapacitet och driftsäkerhet. Kristdemokraterna verkar för att en större andel av person- och godtransporter ska gå på järnväg. Alliansregeringen har fördubblat anslagen till järnvägens drift och underhåll, men insatserna måste fortsätta att öka både vad gäller underhåll och nyinvesteringar, bland annat i form av nya banor för snabbtåg.'
+  -
+    fraga: Kameraövervakning
+    adress: https://kristdemokraterna.se/politik-a-o/
+    asikt: 'Idag tvingas Polisen till tidsödande tillståndssökning för kameraövervakning i brottsbekämpande syfte. Ibland kan det ta flera år innan ett tillstånd ges. Vi vill ta bort Polisens tillståndsplikt för kameraövervakning på särskilt brottsutsatta platser och på platser med högt skyddsvärde, exempelvis där riskerna för en terrorattack är höga.'
   -
     fraga: Klassikerlista
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -500,7 +508,7 @@ root:
   -
     fraga: Kärnkraft
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna har varit drivande för att befintliga reaktorer ska få ersättas med nya säkrare och mer effektiva kärnkraftsverk. Kärnkraften uppfyller ett av de viktigaste kraven som i dag ställs på energiproduktion, nämligen låga utsläpp av växthusgaser. Kärnkraften ska omgärdas av strikta säkerhetskrav som även omfattar slutförvaring av utbränt bränsle. Morgondagens kärnkraft har potential att vara både säkrare och långt mer effektivare än dagens.'
+    asikt: 'Kristdemokraterna har varit drivande för att befintliga reaktorer ska få ersättas med nya säkrare och mer effektiva reaktorer. Kärnkraften uppfyller ett av de viktigaste kraven som i dag ställs på energiproduktion, nämligen låga utsläpp av växthusgaser. Kärnkraften ska omgärdas av strikta säkerhetskrav som även omfattar slutförvaring av utbränt bränsle. Morgondagens kärnkraft har potential att vara både säkrare och långt mer effektiva än dagens.'
   -
     fraga: Landsbygd
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -508,7 +516,7 @@ root:
   -
     fraga: LAS
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Lagen om anställningsskydd är en lagstiftning som utgör ett viktigt skydd för den enskilde på arbetsmarknaden. Ett alltför långtgående arbetsrättsligt skydd kan emellertid innebära ökade svårigheter för personer som står utanför arbetsmarknaden att få jobb, då det kan innebära att färre arbetsgivare vill anställa. Kristdemokraterna vill i första hand att arbetsmarkandens parter kommer överens om väl fungerande arbetsrättsliga regler på arbetsmarknaden, men vi vill också utöka företagens möjlighet till undantag från turordningsreglerna.'
+    asikt: 'Lagen om anställningsskydd är en lagstiftning som utgör ett viktigt skydd för den enskilde på arbetsmarknaden. Men ett alltför långtgående arbetsrättsligt skydd kan emellertid innebära ökade svårigheter för personer som står utanför arbetsmarknaden att få jobb, då det kan innebära att färre arbetsgivare vill anställa. Kristdemokraterna vill i första hand att arbetsmarknadens parter kommer överens om väl fungerande arbetsrättsliga regler på arbetsmarknaden, men vi vill också utöka företagens möjlighet till undantag från turordningsreglerna.'
   -
     fraga: LOV
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -520,7 +528,7 @@ root:
   -
     fraga: Lärare
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Lärarna är skolans viktigaste resurs. Vi vill stärka lärarnas status bland annat genom höjda löner och minskad administrativ börda. Det är också viktigt att lärare har goda utvecklingsmöjligheter och kan premieras lönemässigt. Statusen på lärarutbildningen behöver höjas och bli mer likvärdig. Därför vill vi höja antagningskraven till lärarutbildningen och att ämneslärarutbildningen ska centraliseras till de högskolor och universitet som har en gedigen ämneskunskap. Vi föreslår också ett speciallärarlyft som kan ge 6 000 fler speciallärare. Det kommer alla elever till hjälp men främst dem som behöver extra hjälp och stöd.'
+    asikt: 'Lärarna är skolans viktigaste resurs. Vi vill stärka lärarnas status bland annat genom höjda löner och minskad administrativ börda. Statusen på lärarutbildningen behöver höjas och bli mer likvärdig. Därför vill vi höja antagningskraven till lärarutbildningen, införa lämplighetstester och att ämneslärarutbildningen ska centraliseras till de högskolor och universitet som har en gedigen ämneskunskap. Vi föreslår också ett speciallärarlyft som kan ge 6 000 fler speciallärare. Det kommer alla elever till del men främst dem som behöver extra hjälp och stöd.'
   -
     fraga: Lärlingsprogram
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -540,7 +548,7 @@ root:
   -
     fraga: Migration
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna vill främja rörligheten mellan länder. Vi står för en reglerad invandring där rätten att få sitt skyddsbehov prövat i en rättssäker asylprocess är grundläggande. Barn är särskilt utsatta i migrationsprocessen och man bör ta hänsyn till den sammanvägda situationen när det gäller barn. Därför ska det räcka med särskilda skäl, i stället för synnerliga skäl, för att barn ska få uppehållstillstånd. De som inte uppfyller kriterierna för att förenas med sin familj, att arbeta eller få skydd i vårt land därmed ska återvända. När ursprungslandet inte tar emot måste det dock finnas en gräns för hur många gånger eller under hur lång tid verkställandet av beslutet ska kunna göras. Den som har alla sina kvarvarande släktingar i Sverige ska också kunna få tillbringa sin sista tid här.'
+    asikt: 'Kristdemokraterna vill främja rörligheten mellan länder. Vi står för en reglerad invandring där rätten att få sitt skyddsbehov prövat i en rättssäker asylprocess är grundläggande. Samtidigt ska vi kunna känna oss trygga i att asylprövningen är rättssäker, eftersom den som saknar skyddsskäl och får nej på sin asylansökan också ska lämna landet. Arbetskraftsinvandringen är en annan typ av migration som är viktig eftersom Sverige behöver god tillgång till kvalificerad arbetskraft. Arbetskraftsinvandring bidrar därigenom till att ett land utvecklas och till en växande ekonomi.'
   -
     fraga: Miljöpolitik
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -576,7 +584,7 @@ root:
   -
     fraga: Narkotika
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Vi vill ha ett narkotikafritt samhälle och arbetar för att stoppa alla tendenser till drogliberalisering. Det behövs ett förebyggande arbete, en bra vård och behandling om man fastnat i missbruk och en brottsbekämpande insats från tull och polis. Polis och tull har rätt att beslagta preparat som man misstänker är farliga. En åklagare kan besluta att varorna förstörs. Folkhälsoinstitutet och Läkemedelsverket kan också snabbt beställa preparat från Internet för att skynda på narkotikaklassningen. Hittills har samhället ofta legat steget efter, men vi ger inte upp kampen mot nätdrogerna.'
+    asikt: 'Vi vill ha ett narkotikafritt samhälle och arbetar för att stoppa alla tendenser till drogliberalisering. Insatserna ska riktas främst mot de som profiterar på narkotikan, smugglarna och försäljarna. Det behövs ett förebyggande arbete, en bra vård och behandling om man fastnat i missbruk och en brottsbekämpande insats från tull och polis. Polis och tull har rätt att beslagta preparat som man misstänker är farliga. En åklagare kan besluta att varorna förstörs. Folkhälsoinstitutet och Läkemedelsverket kan också snabbt beställa preparat från Internet för att skynda på narkotikaklassningen. Hittills har samhället ofta legat steget efter, men vi ger inte upp kampen mot nätdrogerna.'
   -
     fraga: Nationalism
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -588,7 +596,7 @@ root:
   -
     fraga: Nato
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Sverige kan inte självt trygga vår säkerhet i en situation där våra gränser och intressen hotas av en militär stormakt. Sverige är beroende av samarbete med andra. Den senaste tidens utveckling i omvärlden visar än mer på behovet av den demokratiska världens gemensamma solidariska ansträngningar. Därför vill vi verka för att Sverige skall ansöka om medlemskap i NATO.'
+    asikt: 'Kristdemokraterna är för ett svenskt Nato-medlemskap.'
   -
     fraga: Naturskydd
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -616,7 +624,7 @@ root:
   -
     fraga: Pension
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna står bakom pensionsöverenskommelsen mellan allianspartierna och Socialdemokraterna. Sverige har i dag ett pensionssystem som är långsiktigt hållbart och det vill Kristdemokraterna fortsätta att värna. Det egna ansvaret när det gäller tjänstepensioner och privat pensionssparande måste uppvärderas. Kristdemokraterna har föreslagit att skatten för pensionärer ska sänkas så att den hamnar på samma nivå som för löntagare.'
+    asikt: 'Kristdemokraterna står bakom pensionsöverenskommelsen mellan allianspartierna och Socialdemokraterna. Sverige har i dag ett pensionssystem som är långsiktigt hållbart och det vill Kristdemokraterna fortsätta att värna. Det egna ansvaret när det gäller tjänstepensioner och privat pensionssparande måste uppvärderas. Kristdemokraterna har föreslagit att skatten för pensionärer ska sänkas så att den hamnar på samma nivå som för löntagare. Garantipensionen måste stärkas. Vi vill också införa ytterligare ett barnrättsår och höja jämförelseinkomsten i pensionssystemet.'
   -
     fraga: Pensionärsskatt
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -624,7 +632,7 @@ root:
   -
     fraga: Polisen
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Polisens uppgift är att förebygga brott, upprätthålla ordningen samt att utreda och beivra brott. Det utåtriktade brottsförebyggande arbetet och samarbetet med socialtjänsten och skolan ska ges en hög prioritet. Kristdemokraterna menar att det behövs fler poliser och föreslår därför 30 000 poliser till 2025. Vi vill också se 500 fler civilanställda, vilket kommer ge fler poliser i yttre tjänst. Vi vill också att polisen ska få modern utrustning och alternativa icke-dödliga vapen för att kunna gripa våldsverkare.'
+    asikt: 'Polisens uppgift är att förebygga brott, upprätthålla ordningen samt att utreda och beivra brott. Det utåtriktade brottsförebyggande arbetet och samarbetet med socialtjänsten och skolan ska ges en hög prioritet. Kristdemokraterna menar att det behövs fler poliser och föreslår därför 10 000 fler poliser till 2025. Vi vill också se 500 fler civilanställda, vilket kommer ge fler poliser i yttre tjänst. Vi vill också att polisen ska få modern utrustning, tillgång till kameraövervakning och andra tvångsmedel och alternativa icke-dödliga vapen för att kunna gripa våldsverkare. Samtliga poliser måste också få personlig skyddsutrustning och förstärkningsvapen för deras säkerhet. Kränkningsersättning ska i högre utsträckning utbetalas till poliser som utsätts för våld och hot i tjänsten.'
   -
     fraga: Premiepension
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -656,11 +664,15 @@ root:
   -
     fraga: Public service/tv-avgift
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna är för ett oberoende Public service. Detta ska finansieras på ett modernt och teknikneutralt sätt. Kristdemokraterna föreslår en individuell separat avgift som tas in via skattsedeln, att tv-licensen avskaffas och att Radiotjänst läggs ned.'
+    asikt: 'Kristdemokraterna är för ett oberoende Public service som kan tillhandahålla oberoende och saklig nyhetsförmedling samt ett brett och högkvalitativt kulturutbud. Kristdemokraterna vill att dagens TV-licens ersätts med en individuell avgift som tas in via Skatteverket.'
   -
     fraga: Päls
     adress: https://kristdemokraterna.se/politik-a-o/
     asikt: 'Djur som föds upp på grund av sin päls ska hållas på sådant sätt att deras naturliga beteende främjas. Svensk djurskyddslagstiftning är en av världens strängaste och ställer höga krav för all djurhållning.'
+  -
+    fraga: Radikalisering
+    adress: https://kristdemokraterna.se/politik-a-o/
+    asikt: 'Radikalisering är ett allvarligt problem, som riskerar att leda till våldsbejakande extremism. Vi vill därför strypa alla bidrag till icke-demokratiska organisationer, stoppa utländsk finansiering av samfund och förening och erbjuda avhopparverksamhet i större utsträckning.'
   -
     fraga: Regelförenkling
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -700,7 +712,7 @@ root:
   -
     fraga: Samtyckeslag
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Det är positivt att en utredning pågår för att se hur krav på samtycke vid sexuella handlingar kan skrivas in i lagen. Vi menar att sex alltid ska bygga på frivillighet och är därför för en samtyckeslag. Vi vill också titta på om oaktsamhet skulle kunna göras straffbart.'
+    asikt: 'Sex ska alltid bygga på frivillighet. Därför är vi för samtyckeslagen. Men vi vill också, till skillnad från regeringen, skärpa minimistraffet för våldtäkt av normalgraden, som är 80 procent av fallen, från 2 till 3 års fängelse.'
   -
     fraga: Separationsstöd
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -716,7 +728,7 @@ root:
   -
     fraga: Sexualbrott
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Straffen för sexualbrott är nu föremål för en parlamentarisk utredning. De som begår brott ska bli straffade och brottsoffer ska synliggöras så att de kan återvinna tryggheten. Straffen ska stå i proportion till brottet så att brottsoffret får upprättelse. Vi menar att sex alltid ska bygga på frivillighet och är därför för en samtyckeslag. Vi vill också titta på om förövarens oaktsamhet skulle kunna bli straffbar. När det gäller sexualbrott mot barn vill vi att preskriptionstiden ska ses över, så att alla brott kan prövas.'
+    asikt: 'Straffen för sexualbrott ska skärpas. Sedan regeringen tillträdde har utsattheten för sexualbrott ökat med 140 procent. Det är en obehaglig upplösning av de mest grundläggande kraven på kvinnofrid. De som begår brott ska bli straffade och brottsoffer ska synliggöras så att de kan återvinna tryggheten. Straffen ska stå i proportion till brottet så att brottsoffret får upprättelse. Vi menar att sex alltid ska bygga på frivillighet och är därför för en samtyckeslag. Vi vill också titta på om förövarens oaktsamhet skulle kunna bli straffbar. När det gäller sexualbrott mot barn vill vi att preskriptionstiden avskaffas så att brotten kan åtalas oavsett hur lång tid det gått.'
   -
     fraga: SFI/Svenska för invandrare
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -792,7 +804,7 @@ root:
   -
     fraga: Socialt företagande/Social arbetsmarknad
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna ser sociala företag som mycket viktiga för den ekonomiska politiken och arbetar för att underlätta för dem. Sociala företag har innovativa lösningar på samhällsproblem och återinvesterar ofta vinsten i verksamheten eller sociala ändamål. Dessutom finns arbetsintegrerande sociala företag, där arbetet med att ge jobb åt människor som annars har svårt att ta sig fram på arbetsmarknaden och det demokratiska perspektivet är särskilt viktiga.'
+    asikt: 'Kristdemokraterna ser arbetsintegrerande sociala företag som mycket viktiga för den ekonomiska politiken och arbetar för att underlätta för dem. Dessa företag har innovativa lösningar på samhällsproblem och återinvesterar ofta vinsten i verksamheten eller sociala ändamål.'
   -
     fraga: Solenergi
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -808,7 +820,7 @@ root:
   -
     fraga: Straff
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'En person som begår ett brott måste sona sin handling mot brottsoffret och samhället genom att avtjäna ett straff. Genom straffet fördömer samhället brottet, men aldrig brottslingen. Ett avtjänat straff måste innebära att man är skuldfri. Det är viktigt att strafftiden också innebär någon form av vård så att den intagne får hjälp att leva ett fortsatt liv utan brottslighet.'
+    asikt: 'Straffen i Sverige har länge varit för låga. Det finns fler sätt att få rabatt på ett straff, än att få det skärpt. Det är fel. En person som begår ett brott måste sona sin handling mot brottsoffret och samhället genom att avtjäna ett straff. Vi vill därför kraftigt skärpa straffrabatterna, samtidigt som vi vill införa fler försvårande omständigheter vid brott, exempelvis om det har gjort som en del i organiserad brottslighet eller drabbat en viktig samhällsfunktion som en skola, ett sjukhus eller dylikt. Vi vill också avskaffa 2/3-delsfrigivning. Genom straffet fördömer samhället brottet, men aldrig brottslingen. Ett avtjänat straff måste innebära att man är skuldfri. Det är viktigt att strafftiden också innebär någon form av vård så att den intagne får hjälp att leva ett fortsatt liv utan brottslighet.'
   -
     fraga: Strandskydd
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -836,7 +848,7 @@ root:
   -
     fraga: Tiggeri
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Många EU-medborgare, primärt romska, från Rumänien och Bulgarien, lever under svåra förhållanden i sina hemländer och söker sig till Sverige för att tigga. Målsättningen för svensk politik måste vara att situa­tionen i hemländerna förändras. Tiggeri är ingen långsiktig lösning för dessa människor, i stället riskerar det att bidra till att problemen förvärras och permanentas. Det ska inte vara olagligt att be om en gåva, men kommunen måste dock få större befogenheter att säkerställa att ordningslagarna följs.'
+    asikt: 'Kommuner ska via den kommunala ordningsstadgan kunna förbjuda tiggeri på särskilda platser.  Många EU-medborgare, primärt romska, från Rumänien och Bulgarien, lever under svåra förhållanden i sina hemländer och söker sig till Sverige för att tigga. Målsättningen för svensk politik måste vara att situationen i hemländerna förändras. Tiggeri är ingen långsiktig lösning för dessa människor, i stället riskerar det att bidra till att problemen förvärras och permanentas. Vi behöver också via EU sätta press på dessa länder.'
   -
     fraga: Tjänstemoms
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -856,7 +868,11 @@ root:
   -
     fraga: Trafiksäkerhet
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'För att minska olyckorna i trafiken vill Kristdemokraterna att teknik installeras i alla nysålda bilar i Sverige för att upptäcka och varna för påverkade förare. Därutöver vill vi se en skärpning av straffen för rattfylleri.'
+    asikt: 'Kristdemokraterna anser att arbetet med att förverkliga en nollvision om antalet omkomna och allvarligt skadade i trafiken måste intensifieras för att nå etappmålet för 2020, vilket innebär att antalet omkomna i trafiken 2020 inte får vara fler än 220. Viktiga åtgärder för att förbättra trafiksäkerheten är att minska alkoholen i trafiken, upprusta och förbättra vägnätet samt kontroll och efterlevnad av hastighetsbegränsningarna.'
+  -
+    fraga: Tullen
+    adress: https://kristdemokraterna.se/politik-a-o/
+    asikt: 'Vi vill reformera Tullverket och stärka dess brottsbekämpande verksamhet. Tullen bör bevaka gränsen i större utsträckning än idag och kontrollera utförseln av varor. Idag kan Tullen exempelvis inte stoppa en lastbil med misstänkt stöldgods. Det vill vi ändra på.'
   -
     fraga: Turism
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -864,11 +880,11 @@ root:
   -
     fraga: Tv-avgift/Public service
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Kristdemokraterna är för ett oberoende Public service. Detta ska finansieras på ett modernt och teknikneutralt sätt. Kristdemokraterna föreslår en individuell separat avgift som tas in via skattsedeln, att tv-licensen avskaffas och att Radiotjänst läggs ned.'
+    asikt: 'Kristdemokraterna är för ett oberoende Public service som kan tillhandahålla oberoende och saklig nyhetsförmedling samt ett brett och högkvalitativt kulturutbud. Kristdemokraterna vill att dagens TV-licens ersätts med en individuell avgift som tas in via Skatteverket.'
   -
     fraga: Ungdomsarbetslöshet
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Vi har föreslagit att ungdomar under 25 år får tjäna sin första halvmiljon kronor skattefritt och att den sänkta arbetsgivaravgiften för unga upp till 22 år återinförs, för att underlätta för unga att ta sig in på arbetsmarknaden. Kristdemokraterna vill satsa mer på lärlingsutbildningar och lärlingsanställningar. Det är också viktigt att stärka kopplingen mellan skolan och näringslivet. Unga måste mötas av snabba insatser och konkret hjälp. Att starta eget företag ska finnas med som ett möjligt alternativ.'
+    asikt: 'Att få in en fot på arbetsmarknaden är helt avgörande för möjligheten att kunna bygga upp ett fungerande liv som vuxen. Utan arbete är det svårt att ordna med ett eget boende, att bygga upp en stabil privatekonomi och att bilda familj. Kristdemokraterna vill satsa mer på lärlingsutbildningar och lärlingsanställningar. Det är också viktigt att stärka kopplingen mellan skolan och näringslivet. Dessutom föreslår vi dubbelt jobbskatteavdrag för unga under 25 år och ytterligare ett jobbskatteavdrag för den som tagit sin examen före 25-årsdagen.'
   -
     fraga: Ungdomslöner
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -880,11 +896,11 @@ root:
   -
     fraga: Ungdomstjänst
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Ungdomstjänst är ett straff som innebär att den unge arbetar utan lön och genomgår ett påverkansprogram att avsluta en kriminell bana. Kristdemokraterna vill att fler unga ska dömas till ungdomstjänst. Ungdomstjänsten ska ha en tydlig koppling till brottet, exempelvis ska klottrare få sanera klotter.'
+    asikt: 'Ungdomstjänst är ett straff som innebär att den unge arbetar utan lön och genomgår ett påverkansprogram att avsluta en kriminell bana. Kristdemokraterna vill att fler unga ska dömas till ungdomstjänst. Ungdomstjänsten ska ha en tydlig koppling till brottet, exempelvis ska klottrare få sanera klotter. Vi vill också se särskilda ungdomsdomstolar som kan snabbehandla ungdomsbrott.'
   -
     fraga: Ungdomsvåld
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'För att ungdomskriminalitet och ungdomsvåld ska minska måste man arbeta förebyggande. Vi för en politik för att föräldrar ska få mer tid med sina barn. Det är brottsförebyggande. När unga ändå begår brott måste de brotten handläggas snabbt och effektivt. Ungas bruk av alkohol och droger är en viktig bakomliggande orsak till våld och bör bland annat därför motverkas.'
+    asikt: 'För att ungdomskriminalitet och ungdomsvåld ska minska måste man arbeta förebyggande. Vi för en politik för att föräldrar ska få mer tid med sina barn. Det är brottsförebyggande. När unga ändå begår brott måste de brotten handläggas snabbt och effektivt via särskilda ungdomsdomstolar. Ungas bruk av alkohol och droger är en viktig bakomliggande orsak till våld och bör bland annat därför motverkas.'
   -
     fraga: Uppehållstillstånd
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -896,7 +912,7 @@ root:
   -
     fraga: Utrikespolitik
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Utrikespolitiken skall vara värdegrundad och därmed fast förankrad i det okränkbara och universella människovärdet. Kristdemokraterna verkar för att ge arbetet för mänskliga fri- och rättigheter ökad tyngd inom Sveriges utrikes- och utvecklingspolitiska arbete. Så länge som medmänniskor i vår värld lider under fattigdom, ofrihet, förtryck och svält så krävs större ansträningar. Vi stödjer en stark och bred utrikesförvaltning. Sverige behöver fler kontaktpunkter i utrikesrepresentationen, inte färre. För att främja världsfreden samt minska de globala klyftorna och miljöförstöringen krävs ökat internationellt samarbete. En globalt hållbar utveckling är för oss ett av utrikespolitikens viktigaste områden.'
+    asikt: 'Utrikespolitiken skall vara värdegrundad och därmed fast förankrad i det okränkbara och universella människovärdet. Kristdemokraterna verkar för att ge arbetet för mänskliga fri- och rättigheter ökad tyngd inom Sveriges utrikes- och utvecklingspolitiska arbete. Så länge som medmänniskor i vår värld lider under fattigdom, ofrihet, förtryck och svält så krävs större ansträngningar. Vi stödjer en stark och bred utrikesförvaltning. Sverige behöver fler kontaktpunkter i utrikesrepresentationen, inte färre. För att främja världsfreden samt minska de globala klyftorna och miljöförstöringen krävs ökat internationellt samarbete.'
   -
     fraga: Utsläppsrätter
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -944,7 +960,7 @@ root:
   -
     fraga: Våldtäkt
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Straffen för sexualbrott är nu föremål för en parlamentarisk utredning. De som begår brott ska bli straffade och brottsoffer ska synliggöras så att de kan återvinna tryggheten. Straffen ska stå i proportion till brottet så att brottsoffret får upprättelse. Vi menar att sex alltid ska bygga på frivillighet och är därför för en samtyckeslag. Vi vill också titta på om förövarens oaktsamhet skulle kunna bli straffbar.'
+    asikt: 'Vi vill skärpa straffet för våldtäkt av normalgraden från 2 till 3 års fängelse. De som begår brott ska bli straffade och brottsoffer ska synliggöras så att de kan återvinna tryggheten. Straffen ska stå i proportion till brottet så att brottsoffret får upprättelse. Vi menar att sex alltid ska bygga på frivillighet och är därför för en samtyckeslag där även oaktsamhet är straffbar.'
   -
     fraga: Vård till papperslösa
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -960,7 +976,7 @@ root:
   -
     fraga: Värnplikt
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'I fredstid ska inte längre allmän värnplikt råda, men totalförsvarsplikten gäller annars alla svenska medborgare. Den som av samvetsskäl inte vill göra vapentjänst ska beredas civil tjänst, då staten ytterst sett inte äger rätten till människans liv. Den som fullgör militärtjänst bör se sig som stående i fredens tjänst och som väktare av medmänniskors trygghet och frihet.'
+    asikt: 'Vi vill tredubbla antalet intagna till värnplikten, från dagen 4 000 till 12 000. Den som av samvetsskäl inte vill göra vapentjänst ska beredas civil tjänst, då staten ytterst sett inte äger rätten till människans liv. Den som fullgör militärtjänst bör se sig som stående i fredens tjänst och som väktare av medmänniskors trygghet och frihet.'
   -
     fraga: Värnskatt
     adress: https://kristdemokraterna.se/politik-a-o/
@@ -996,4 +1012,4 @@ root:
   -
     fraga: Östersjön
     adress: https://kristdemokraterna.se/politik-a-o/
-    asikt: 'Östersjön är ett världsunikt bräckvattenhav med ett unikt ekosystem. Långsam vattenomsättning gör att kemikalier stannar kvar i stället för att rinna ut i angränsande vatten. Tillförseln av fosfor är ett av Östersjöns största problem, algblomningen anses bero på övergödning av fosfor och kväve. Kristdemokraterna vill därför ytterligare minska övergödningen bland annat genom att införa ett system med överlåtelsebara utsläppsrätter för kväve och fosfor.'
+    asikt: 'Är ett världsunikt bräckvattenhav med ett unikt ekosystem. Långsam vattenomsättning gör att kemikalier stannar kvar i stället för att rinna ut i angränsande vatten. Tillförseln av fosfor är ett av Östersjöns största problem, algblomningen anses bero på övergödning av fosfor och kväve. Kristdemokraterna vill därför ytterligare minska övergödningen bland annat genom att införa ett system med överlåtelsebara utsläppsrätter för kväve och fosfor. Det behövs även mer radikala insatser för att rädda Östersjöns hälsa. Kristdemokraterna föreslår att syrerikt vatten pumpas ner i stor skala till bottnarna på områden med syrebrist. Kostnaderna för detta kompenseras mer än väl om torskbestånden kunde återhämta sig till nivåerna för 30-50 år sedan.'

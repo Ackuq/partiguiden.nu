@@ -7,4 +7,5 @@ tags:
     - Barn rättigheter
     - Ensamkommande barn och unga
     - Barn
+    - Barns och ungas rättigheter
 ---

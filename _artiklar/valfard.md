@@ -5,4 +5,5 @@ tags:
     - Välfärd
     - Vinster i välfärden
     - Valfrihet inom vård och omsorg
+    - Ekonomisk brottslighet riktad mot välfärden
 ---

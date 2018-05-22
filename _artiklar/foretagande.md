@@ -15,4 +15,5 @@ tags:
     - Socialt företagande/Social arbetsmarknad
     - Småföretagen
     - Regelförenklingar
+    - Företag
 ---

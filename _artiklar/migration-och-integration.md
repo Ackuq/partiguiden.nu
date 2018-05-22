@@ -24,4 +24,7 @@ tags:
     - Ensamkommande barn och unga
     - Språkkrav
     - Nyanländas etablering
+    - Obligatorisk språkförskola
+    - Svenska språket
+    - Sfi - Svenska för invandrare
 ---

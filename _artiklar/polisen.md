@@ -6,4 +6,5 @@ tags:
     - Polis
     - Kriminalpolitik
     - Lag och ordning
+    - Kameraövervakning
 ---

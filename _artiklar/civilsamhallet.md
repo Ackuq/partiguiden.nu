@@ -9,4 +9,5 @@ tags:
     - Ideella organisationer
     - Religionsfrihet
     - Folkrörelse och civilsamhälle
+    - Föreningsliv- folkbildning och idrott
 ---

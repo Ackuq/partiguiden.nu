@@ -30,4 +30,7 @@ tags:
     - Fastighetsskatt
     - Flygskatt
     - Finanspolitik
+    - Miljonärsskatt
+    - Penningpolitik
+    - Politikerarvoden och partiskatt
 ---

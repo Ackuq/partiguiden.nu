@@ -25,5 +25,6 @@ tags:
     - Lönegapet
     - Minoritetspolitik
     - Lönegapet mellan kvinnor och män
+    - Jämlikhet
 categories: Jämställdhet
 ---

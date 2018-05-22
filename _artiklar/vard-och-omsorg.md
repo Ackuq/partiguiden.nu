@@ -38,4 +38,7 @@ tags:
     - Vårdköer
     - Barn som far illa
     - Valfrihet i välfärden
+    - Funktionsnedsättning och tillgänglighet
+    - Funktionsnedsättning/ Normbrytande funktionalitet
+    - LSS/ Personlig assistans
 ---

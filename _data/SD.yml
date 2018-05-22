@@ -66,17 +66,18 @@ root:
     fraga: Familjepolitik
     adress: https://sverigedemokraterna.se/var-politik/jamstalldhetspolitik/
     asikt:
-    - 'Inför frivillig sambeskattning'
-    - 'Fler lediga dagar för föräldrar: För att vara hemma med sina barn och för att följa med dem till förskolan'
-    - 'Höjt bostadsbidrag för barnfamiljer'
-    - 'Stärkt finansiering för att öka tillgången på s.k. Nattis'
+    - 'Avkvotera föräldraförsäkringen'
+    - 'Slopa jämställdhetsbonusen'
+    - 'Möjliggör fler dagar som familj'
+    - 'Höj bostadsbidraget för barnfamiljer'
+    - 'Höj föräldrapenningen'
+    - 'Bygg ut vårdnadsbidraget'
   -
     fraga: Flyktingpolitik
     adress: https://sverigedemokraterna.se/var-politik/flyktingpolitik/
     asikt:
     - 'Ökat bistånd till FN:s flyktingorgan UNHCR'
     - 'Biståndsbudgeten ska inte användas för att bekosta invandring till Sverige'
-    - 'Kraftig begränsning av invandringen till Sverige'
   -
     fraga: Försvarspolitik
     adress: https://sverigedemokraterna.se/var-politik/forsvarspolitik/
@@ -108,11 +109,14 @@ root:
     fraga: Landsbygdspolitik
     adress: https://sverigedemokraterna.se/var-politik/landsbygdspolitik/
     asikt:
-    - 'Investeringar gruvnäring och skog skapar 25 000 nya jobb på landsbygden'
-    - 'Höjning av milersättningen för att underlätta företagande'
-    - 'Storsatsning på svensk matproduktion och matkultur. Stränga krav på import.'
-    - 'Rejäl utbyggnad av järnväg, motorväg och bredband'
-    - 'Sänkt och stabilt elpris genom kärnkraft. Nej till fler vindsnurror.'
+    - 'En satsning på skogsnäringen skapar nya jobb på landsbygden.'
+    - 'En höjning av milersättningen för lättare kunna arbeta och bo på landsbygden.'
+    - 'Sänkt skatt på drivmedel i jord- och skogsbruk.'
+    - 'Nej till ytterligare landsbygdsfientliga skatter.'
+    - 'En långsiktig livsmedelsstrategi'
+    - 'Utbyggnad av järnväg och motorväg'
+    - 'Tillgång till bredband i hela Sverige.'
+    - 'Bättre företagsklimat'
   -
     fraga: Miljöpolitik
     adress: https://sverigedemokraterna.se/var-politik/miljopolitik/

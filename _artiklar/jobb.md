@@ -37,4 +37,9 @@ tags:
     - Jobb och ekonomi
     - Självständighet
     - Extratjänster
+    - Arbetslivstrygghet
+    - Arbetsmarknad och arbetsliv
+    - Arbetstidsförkortning
+    - Fackföreningar
+    - Anställningstrygghet
 ---

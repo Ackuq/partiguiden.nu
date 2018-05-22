@@ -6,4 +6,5 @@ tags:
     - Fattigdom
     - Hemlöshet
     - Tiggande EU-medborgare
+    - Tiggeriförbud
 ---

@@ -17,4 +17,5 @@ tags:
     - RUT
     - RUT-avdraget
     - Bolån
+    - Hyresrätter
 ---

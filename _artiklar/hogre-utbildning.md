@@ -15,5 +15,6 @@ tags:
     - Yrkesintroduktionsjobb
     - Innovation
     - Studenter från andra länder
+    - Högre utbildning och forskning
 categories: Utbildning
 ---

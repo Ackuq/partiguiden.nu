@@ -2,46 +2,44 @@
 root:
   amne:
   -
+    fraga: Arbetslivstrygghet
+    adress: https://mp.se/politik/arbetslivstrygghet
+    asikt:
+    - 'På sikt införa en skattefinansierad allmän grundförsäkring vid sjukdom och arbetslöshet,'
+    - 'På sikt höja taket i a-kassan till samma nivå som i sjukförsäkringen, när det finns utrymme i statsbudgeten för det,'
+    - 'Att sjuka som inte kan arbeta ska ha rätt till ersättning från sjukförsäkringen.'
+  -
     fraga: Barn och förskola
     adress: https://mp.se/politik/barn-och-forskola
     asikt:
-    - 'Ha fler anställda och ge mer tid för eleverna i förskoleklass'
-    - 'Se fler specialpedagoger'
-    - 'Öka antalet utbildade vuxna per barn i förskolan'
-    - 'Att kommunerna ska erbjuda barnomsorg på kvällar, nätter och helger.'
+    - 'Ge statligt stöd för mindre barngrupper och mer personal på förskolor och fritidshem i hela landet,'
+    - 'Rusta upp skollokaler och skolgårdar,'
+    - 'Stimulera barnens lust att läsa redan i förskolan.'
   -
-    fraga: Barnfattigdom
-    adress: https://mp.se/politik/barnfattigdom
+    fraga: Bilar och bränsle
+    adress: https://mp.se/politik/bilar-och-bransle
     asikt:
-    - 'Ta fram en nationell handlingsplan mot barnfattigdom,'
-    - 'Ge alla föräldrar rätt till barnomsorg på obekväm arbetstid,'
-    - 'Införa nolltolerans mot vräkning av barn.'
+    - 'Göra det lättare att leva utan bil,'
+    - 'Att alla barn ska få växa upp med ren luft, även inne i våra städer,'
+    - 'Att sista droppen fossilt bränsle till vägtrafiken ska säljas 2030,'
+    - 'Att det ska vara billigare att köpa en bil som släpper ut mindre och dyrare att köpa en bil som släpper ut mer, och'
+    - 'Fördubbla kollektivtrafikresandet till 2030.'
   -
-    fraga: Bilar och bensinskatt
-    adress: https://mp.se/politik/bilar-och-bensinskatt
+    fraga: Bistånd och global rättvisa
+    adress: https://mp.se/politik/bistand
     asikt:
-    - 'Minska bilismen och fördubbla kollektivtrafiken, '
-    - 'Höja bensinskatten med en ”klimathundring”, och'
-    - 'Ge bonus till moderna energisnåla bilar och ta ut en avgift på smutsiga energislösande bilar.'
-  -
-    fraga: Bistånd och handel
-    adress: https://mp.se/politik/bistand-och-handel
-    asikt:
-    - 'Att Sveriges bistånd till världen ska uppgå till minst 1 % av BNI,'
-    - 'Att biståndet präglas av lokalt ägarskap, långsiktighet samt miljö- och klimatmässig hållbarhet, och'
-    - 'Att handelsrelationer ska ta full hänsyn till fattiga människors perspektiv och mänskliga rättigheter.'
-  -
-    fraga: Blockpolitik
-    adress: https://mp.se/politik/blockpolitik
-    asikt: 'Att Sveriges regering ska driva en politik som möter Sveriges miljömål och tar klimatansvar, som vänder utvecklingen i skolan så alla barn får en ärlig chans, och som bryter den höga arbetslösheten.'
+    - 'Stärka kvinnor och flickors rättigheter och hälsa i världen,'
+    - 'Att biståndet ska vara hållbart, långsiktigt och lokalt förankrat,'
+    - 'Verka för attden internationella humanitära hjälpen till människor i nöd utökas och gör snabbare insatser möjligt, samt'
+    - 'Motverka skatteparadis och kapital- och skatteflykt från fattiga länder.'
   -
     fraga: Bostäder
     adress: https://mp.se/politik/bostader
     asikt:
-    - 'Göra det enklare att bygga för små och medelstora byggföretag,'
-    - 'Att alla nya bostäder som byggs ska vara klimatsmarta,'
-    - 'Upprätta ett nationellt energicentrum för att underlätta klimatsmart byggande, och'
-    - 'Rusta upp miljonprogrammets bostäder.'
+    - 'Bygga fler bostäder som fler har råd med,'
+    - 'Bygga mer klimatsmart och mer i trä, minst vartannat flerbostadshus,'
+    - 'Bygga bort segregation med blandade upplåtelseformer och mer blandad bebyggelse,'
+    - 'Göra fler områden attraktiva med utbyggd kollektivtrafik.'
   -
     fraga: Demokrati och politik
     adress: https://mp.se/politik/demokrati-och-politik
@@ -54,10 +52,10 @@ root:
     fraga: Diskriminering
     adress: https://mp.se/politik/diskriminering
     asikt:
-    - 'De som diskriminerats ska få tillgång till hjälp och stöd i sin hemkommun genom en antidiskrimineringsbyrå'
-    - 'Diskrimineringstvister mellan enskilda och arbetsgivare ska lösas av tingsrätter i stället för Arbetsdomstolen'
-    - 'Tillåta positiv särbehandling; att vid lika meriter ge företräde för personer med en bakgrund som är underrepresenterad på arbetsplatsen'
-    - 'Nyanlända ska erbjudas undervisning i skolan på hemspråk för att snabbare komma in i samhället'
+    - 'Att ingen ska diskrimineras,'
+    - 'Att den som diskrimineras ska få hjälp och stöd från samhället,'
+    - 'Göra hatbrott till en prioriterad fråga för polisen, och'
+    - 'Att alla ska få möjlighet att använda det språk de kan bäst i kontakten med svenska myndigheter.'
   -
     fraga: Djur
     adress: https://mp.se/politik/djur
@@ -69,16 +67,19 @@ root:
     fraga: Ekonomi och skatter
     adress: https://mp.se/politik/ekonomi-och-skatter
     asikt:
-    - 'Sänka småföretagens skatt på arbete och höja skatten på det som smutsar ner miljön,'
-    - 'Fortsätta investera i bland annat energieffektivisering och hållbart byggande,'
-    - 'Fortsätta sänka kostnaderna på det som är bra för ekonomin som tex reparationer och återvinning'
+    - 'Göra Sverige till världens första fossilfria välfärdsland med cirkulär ekonomi,'
+    - 'Sänka småföretagens skatt på arbete och höja skatten på miljöförstöring,'
+    - 'Sänka kostnaderna på det som är bra för miljön, som reparationer, återvinning och second hand,'
+    - 'Investera i nya stambanor för höghastighetståg, hållbart byggande och förnybar energi samt få bort fossila investeringar och subventioner, och'
+    - 'Främja ekonomisk jämställdhet och jämlikhet.'
   -
     fraga: Energi
     adress: https://mp.se/politik/energi
     asikt:
-    - 'Satsa på utbyggnad av sol, vind och annan förnybar energi,'
-    - 'Ge stöd till alla som vill minska sin energianvändning, och'
-    - 'Att förnybar energi ersätter kärnkraft och fossila bränslen.'
+    - 'Ha hundra procent förnybar el och värme redan år 2030, genom att:'
+    - 'Satsa stort på solceller och vindkraft,'
+    - 'Ge stöd till alla som vill spara energi, och'
+    - 'Fasa ut all kärnkraft samt fossil olja, kol och gas.'
   -
     fraga: EU och Euro
     adress: https://mp.se/politik/eu-och-euro
@@ -104,20 +105,27 @@ root:
     - 'Stärka det civila försvaret, och'
     - 'Stärka Sveriges roll i konfliktförebyggande arbete.'
   -
-    fraga: Funktionshinder och tillgänglighet
+    fraga: Funktionsnedsättning och tillgänglighet
     adress: https://mp.se/politik/tillganglighet
     asikt:
-    - 'Att samhället blir tillgängligt för personer med fysisk eller psykisk funktionsnedsättning,'
-    - 'Att LSS förtydligas och garanterar alla möjlighet att delta fullt ut i samhället, och'
+    - 'Att LSS-lagen förtydligas så att människor får det stöd de har rätt till,'
+    - 'Att samhället blir tillgängligt för personer med psykisk eller fysisk funktionsvariation,'
     - 'Motverka diskrimineringen av personer med funktionsnedsättning på arbetsmarknaden.'
+  -
+    fraga: Föreningsliv- folkbildning och idrott
+    adress: https://mp.se/politik/foreningsliv-folkbildning-och-idrott
+    asikt:
+    - 'Ge mer stöd till föreningsliv och studieförbund,'
+    - 'Bryta civilsamhällets beroende av projektstöd,'
+    - 'Uppmuntra ungdomars engagemang och se till att det finns en jämlik och jämställd fördelning av resurserna.'
   -
     fraga: Företagande
     adress: https://mp.se/politik/foretagande
     asikt:
-    - 'Öka viljan att anställa, framför allt hos småföretag, genom att sänka arbetsgivaravgiften och minska sjuklönekostnaderna,'
-    - 'Minska regelkrånglet för Sveriges företag,'
-    - 'Jobba tillsammans med näringslivet för att nå klimat- och miljömålen,'
-    - 'Underlätta användning av personaloptioner för växande företag.'
+    - 'Att det ska bli enklare att starta och driva företag,'
+    - 'Förbättra tryggheten och minska regelkrånglet för företagare,'
+    - 'Skapa bättre förutsättningar för arbetsintegrerande sociala företag för att skapa jobb för människor som står långt från arbetsmarknaden, och'
+    - 'Skapa fler gröna jobb.'
   -
     fraga: Hav- vatten och fiske
     adress: https://mp.se/politik/hav-vatten-och-fiske
@@ -129,16 +137,11 @@ root:
     fraga: HBTQ
     adress: https://mp.se/politik/hbtq
     asikt:
-    - 'Att alla människor ska behandlas lika oavsett kön, könsidentitet, könsuttryck och sexuell läggning'
-    - 'Anpassa familjepolitiken så att den blir könsneutral,'
-    - 'Att transpersoner ska omfattas av hatbrotts- och hetslagstiftningen,'
-    - 'Att HBTQ-personer som flyr undan förföljelse ska få sina asylskäl tagna på allvar.'
-  -
-    fraga: Hemlöshet
-    adress: https://mp.se/politik/hemloshet
-    asikt:
-    - 'Att bostad ses som en mänsklig rättighet, precis som mat och utbildning,'
-    - 'Förbjuda att barnfamiljer vräks till hemlöshet.'
+    - 'Att alla människor ska behandlas lika oavsett kön, könsidentitet, könsuttryck och sexuell läggning,'
+    - 'Att lagen ska anpassas så att den passar alla familjer, oavsett om barn växer upp med en, två eller fler vuxna,'
+    - 'Anpassa familjepolitiken så att den blir könsneutral och stärka rättigheterna för stjärnfamiljer,'
+    - 'Stärka asylrätten för hbtq-personer,'
+    - 'Stärka insatserna för transpersoners psykiska hälsa.'
   -
     fraga: Hälso- och sjukvård
     adress: https://mp.se/politik/halso-och-sjukvard
@@ -148,6 +151,14 @@ root:
     - 'Att personalen får goda arbetsvillkor, rätt utbildning och arbetsuppgifter,'
     - 'Att samhället ska organiseras så att det främjar människors hälsa.'
   -
+    fraga: Högre utbildning och forskning
+    adress: https://mp.se/politik/hogre-utbildning-och-forskning
+    asikt:
+    - 'Att studenterna får fler lärarledda timmar och mer praktik,'
+    - 'Att studenter ska få mer i plånboken,'
+    - 'Att studenter ska omfattas av a-kassan och sjukförsäkringen på samma villkor som de som arbetar,'
+    - 'Göra det lättare att plugga på universitet eller högskola, oberoende av plats i landet eller var man kommer ifrån.'
+  -
     fraga: Internet och integritet
     adress: https://mp.se/politik/internet-och-integritet
     asikt:
@@ -156,20 +167,31 @@ root:
     - 'Göra fildelning för eget bruk laglig.'
     - 'Skriva in ett skydd för allas rätt till anonymitet i grundlagen,'
   -
+    fraga: Jobb
+    adress: https://mp.se/politik/jobb
+    asikt:
+    - 'Införa utvecklingstid för livslångt lärande,'
+    - 'Att de som idag står långt från arbetsmarknaden får komma in i jobb,'
+    - 'Att människor ska få mer makt över sin tid,'
+    - 'Ha jämställda löner och karriärmöjligheter, och'
+    - 'Lagstifta om könskvotering i bolagsstyrelser.'
+  -
     fraga: Jämställdhet
     adress: https://mp.se/politik/jamstalldhet
     asikt:
-    - 'Att kvinnor och män ska ha lika lön för lika arbete,'
-    - 'Ha ett jämställt föräldraskap där män använder fler föräldradagar, och'
-    - 'Att skolan ska arbeta aktivt för jämställdhet'
+    - 'Att kvinnor ska ha halva makten och hela lönen och pensionen,'
+    - 'Att män tar ut fler föräldradagar,'
+    - 'Att mäns våld mot kvinnor ska upphöra,'
+    - 'Motverka hedersrelaterat våld och förtryck, samt'
+    - 'Fortsätta att föra en feministisk utrikespolitik för klimat, bistånd och fred.'
   -
     fraga: Kemikalier
     adress: https://mp.se/politik/kemikalier
     asikt:
-    - 'Förbjuda alla farliga kemikalier i produkter som säljs i EU,'
-    - 'Att alla kemikalier testas och godkänns enligt hårda hälso- och miljökrav innan de får användas,'
-    - 'Att förorenade områden ska saneras, och'
-    - 'Att förskolor ska vara miljödiplomerade och giftfria.'
+    - 'Byta ut farliga kemikalier mot bättre alternativ,'
+    - 'Skärpa reglerna så att farliga ämnen inte hamnar i vår vardag,'
+    - 'Höja skatten på skadliga bekämpningsmedel, och'
+    - 'Förhindra spridning av mikroplaster.'
   -
     fraga: Klimat
     adress: https://mp.se/politik/klimat
@@ -179,6 +201,14 @@ root:
     - 'Ersätta fossila drivmedel med förnybart och el.'
     - 'Bygga attraktiva städer med mer trähus och grönska'
     - 'Planera i trafiken så att gång, cykel och kollektivtrafik går före bilen.'
+  -
+    fraga: Kollektivtrafik
+    adress: https://mp.se/politik/kollektivtrafik
+    asikt:
+    - 'Satsa på kollektivtrafik i hela landet, på tåg och spårväg såväl som buss,'
+    - 'Att du ska kunna få månadskort av jobbet utan att skatta,'
+    - 'Införa ett och samma biljettsystem för all kollektivtrafik i hela Sverige, och'
+    - 'Att kollektivtrafiken fördubblas på biltrafikens bekostnad.'
   -
     fraga: Kultur
     adress: https://mp.se/politik/kultur
@@ -190,19 +220,34 @@ root:
   -
     fraga: Kärnkraft
     adress: https://mp.se/politik/karnkraft
+    asikt: 'Ersätta kärnkraften med förnybar energi och smartare energianvändning.'
+  -
+    fraga: Lag och ordning
+    adress: https://mp.se/politik/lag-och-ordning
     asikt:
-    - 'Ersätta kärnkraften med förnybar energi och smartare energianvändning, '
-    - 'Avveckla två gamla reaktorer redan de närmaste åren,'
-    - 'Stoppa effekthöjningar och livstidsförlängningar av reaktorerna.'
+    - 'Arbeta förebyggande med tidiga insatser,'
+    - 'Förhindra att unga rekryteras till kriminalitet,'
+    - 'Ge polisen mer resurser och fler poliser närmare medborgarna,'
+    - 'Försvara demokratin mot organiserad brottslighet och våldsbejakande extremism,'
+    - 'Motverka mäns våld mot kvinnor och motverka hedersrelaterat våld och förtryck.'
+  -
+    fraga: Lands- och glesbygd
+    adress: https://mp.se/politik/lands-och-glesbygd
+    asikt:
+    - 'Sänka kostnaderna för att driva företag i glesbygd,'
+    - 'Bygga fler laddstationer för elbilar i hela landet,'
+    - 'Skapa fler lokala servicekontor,'
+    - 'Hjälpa svenska bönder att ställa om till giftfri ekologisk produktion, och'
+    - 'Satsa på natur- och ekoturism.'
   -
     fraga: Mat och jordbruk
     adress: https://mp.se/politik/mat-och-jordbruk
     asikt:
-    - 'Arbeta för att på sikt nå 100 procent ekologisk matproduktion i EU,'
-    - 'Att du ska kunna lita på att maten på tallriken är bra för dig, djur och natur,'
-    - 'Att försiktighetsprincipen ska gälla vid genetiskt modifierade grödor och avelsdjur (GMO). '
-    - 'Öka andelen vegetarisk mat, och'
-    - 'Öka livsmedelsproduktionen i Sverige.'
+    - 'Att fler ska kunna äta ekologiskt, vegetariskt och närproducerat,'
+    - 'Minska matsvinnet,'
+    - 'Införa en skatt på importerat fulkött,'
+    - 'Ursprungsmärka kött och fisk på restaurang,'
+    - 'Miljöanpassa svenskt jordbruk.'
   -
     fraga: Migration och lika rätt
     adress: https://mp.se/politik/migration-och-lika-ratt
@@ -213,15 +258,6 @@ root:
     - 'Att Sveriges tillfälligt mer restriktiva flyktingpolitik avskaffas så snart som möjligt'
     - 'Att barnen som kom ensamma år 2015 ska få stanna'
   -
-    fraga: Miljonprogrammet
-    adress: https://mp.se/politik/miljonprogrammet
-    asikt:
-    - 'Att Rot-avdraget också ska gälla hyreshus och uppmuntra åtgärder som sparar energi,'
-    - 'Placera lokala arbetsförmedlingar i miljonprogramsområden som kan hjälpa arbetslösa där att få jobb, bland annat med upprustningen,'
-    - 'Erbjuda sommarjobb till alla mellan 15 och 17 år,'
-    - 'Att skolor ska hålla lika hög kvalitet oavsett bostadsområde,'
-    - 'Skapa förutsättningar för en aktiv fritid för alla genom stöd till lokala satsningar på idrott och kultur.'
-  -
     fraga: Miljö
     adress: https://mp.se/politik/miljo
     asikt:
@@ -231,29 +267,21 @@ root:
     - 'Skydda mer natur och ha starkare skydd för utrotningshotade växter och djur, och'
     - 'Kämpa för friska hav världen över.'
   -
-    fraga: Nya jobb
-    adress: https://mp.se/politik/nya-jobb
-    asikt:
-    - 'Investera i kollektivtrafik, moderna bostäder och förnybar energi,'
-    - 'Att småföretagen ska kunna anställa billigare,'
-    - 'Modernisera industrin och satsa på grön teknik.'
-  -
     fraga: Pensioner
     adress: https://mp.se/politik/pensioner
     asikt:
-    - 'Ha en mer flexibel pensionsålder. Lägsta åldern ska fortsätta vara 61 år, men den som vill ska kunna jobba kvar längre än idag,'
-    - 'Att våra pensionspengar ska placeras på ett etiskt och miljömässigt hållbart sätt,'
-    - 'Göra om systemet med premiepensioner, den del av pensionen du själv kan placera i olika fonder. Vi vill ha färre fonder och att det ska vara enklare att jämföra de olika alternativen.'
-    - 'Utreda möjligheterna till större flexibilitet, så att man kan välja mera fritt när man vill ta ut pensionen.'
+    - 'Att pensionerna ska bli mer jämställda,'
+    - 'Höja garantipensionen,'
+    - 'Investera pensionspengarna så att de bidrar till hållbar utveckling, och'
+    - 'Ta bort skillnaden i hur pension och arbetsinkomst beskattas.'
   -
     fraga: Skog och biologisk mångfald
     adress: https://mp.se/politik/skog-och-biologisk-mangfald
     asikt:
-    - 'Stoppa avverkningen av skyddsvärd skog och öka naturskyddet '
-    - 'Ha hållbara gröna näringar som fiske, jordbruk och skogsbruk'
-    - 'Ha en fortsatt hävd av ängs- och betesmarker'
-    - 'Öka frivilliga former av naturskydd och miljöåtgärder'
-    - 'Värdesätta ekosystemtjänster i beslutsfattande'
+    - 'Bevara och utveckla den biologiska mångfalden,'
+    - 'Rädda pollinerande insekter och andra arter,'
+    - 'Skydda mer skog och annan värdefull natur, samt'
+    - 'Hållbart skogsbruk utan kalhyggen.'
   -
     fraga: Skola och utbildning
     adress: https://mp.se/politik/skola-och-utbildning
@@ -272,39 +300,45 @@ root:
     fraga: Trafik
     adress: https://mp.se/politik/trafik
     asikt:
-    - 'Minska bilismen genom att satsa på tåg, kollektivtrafik och cykel,'
-    - 'Att tåget ska vara billigare än inrikesflyget, och'
-    - 'Att mycket av dagens lastbilstransporter ska föras över till järnväg och sjöfart.'
+    - 'Förbättra möjligheten att cykla och öka resorna med kollektivtrafik,'
+    - 'Rusta upp järnvägen och bygga nya stambanor för höghastighetståg,'
+    - 'Minska flygets klimatpåverkan,'
+    - 'Storsatsa på elbilar och förnybart bränsle så att den sista droppen fossil bensin kan säljas senast år 2030,'
+    - 'Flytta mer gods från lastbil och bil till tåg och båt.'
   -
-    fraga: Ungdomsarbetslöshet
-    adress: https://mp.se/politik/ungdomsarbetsloshet
+    fraga: Tåg
+    adress: https://mp.se/politik/tag
     asikt:
-    - 'Skapa startcentraler - lokala arbetsförmedlingar för unga,'
-    - 'Göra det lättare att starta företag, och'
-    - 'Ge fler möjlighet att skaffa gymnasiekompetens och yrkesutbildning.'
+    - 'Bygga höghastighetsbanor som kortar restiderna så mycket att fler väljer tåg före flyg,'
+    - 'Rusta upp och bygga ut järnvägen i hela landet,'
+    - 'Ha nolltolerans för tågstrul, och'
+    - 'Ha nattåg och höghastighetståg till Europa.'
   -
-    fraga: Utrikespolitik och global rättvisa
+    fraga: Utrikespolitik
     adress: https://mp.se/politik/utrikespolitik-och-global-rattvisa
     asikt:
-    - 'Att Sverige fortsätter vara alliansfritt och säger nej till NATO-medlemskap,'
-    - 'Göra FN starkare,'
-    - 'Att EU skapar en civil fredskår, och'
-    - 'Att Sverige skänker mer pengar för utveckling och klimatarbete i fattiga länder.'
+    - 'Att Sverige ska vara en stark internationell röst för jämställdhet, demokrati och mänskliga rättigheter,'
+    - 'Att Sverige ska vara en ledande kraft i den globala klimatomställningen och investera resurser i klimat- och miljöarbete i fattiga länder, samt'
+    - 'Att Sverige ska bedriva en fri, rättvis och hållbar handel.'
   -
     fraga: Vapenexport
     adress: https://mp.se/politik/vapenexport
-    asikt: 'Stoppa svensk vapenexport. I första hand till diktaturer och länder som kränker mänskliga rättigheter.'
+    asikt:
+    - 'Stoppa svensk vapenexport till diktaturer,'
+    - 'Att Sverige är ledande i etiska krav på vår vapenexport, både vad gäller krigsmateriel för strid och övrigt krigsmateriel,'
+    - 'Att Sverige verkar för ökade materielsamarbeten och delade utvecklingskostnader med andra länder, samt'
+    - 'Att Sverige inom EU verkar för en gemensam försvarsmarknad, ökad öppenhet och minskad korruption.'
   -
     fraga: Vinster i välfärden
     adress: https://mp.se/politik/vinster-i-valfarden
     asikt:
-    - 'Att vinster i välfärden ska stanna i välfärden,'
-    - 'Att insynen i all offentlig finansierad verksamhet ska vara hög,'
-    - 'Att det ska finnas många olika aktörer som bedriver verksamhet av hög kvalitet.'
+    - 'Att vinster i välfärden ska stanna i välfärden, och'
+    - 'Att de som driver skolor ska ha som huvudsyfte att ge eleverna en utbildning med hög kvalitet.'
   -
-    fraga: Äldrepolitik
+    fraga: Äldreomsorg
     adress: https://mp.se/politik/aldrepolitik
     asikt:
-    - 'Att den som inte längre kan eller vill bo själv ska kunna välja mellan olika slags boenden till rimlig kostnad,'
-    - 'Värna mångfald samt öka kvalitet och bemanning i äldreomsorgen,'
-    - 'Att småbutiker och närservice ska finnas kvar i levande stadskärnor, med bra kollektivtrafik.'
+    - 'Att äldre får fortsätta bestämma över sitt boende och hur man vill leva sitt liv,'
+    - 'Att äldre som behöver det får trygg hjälp efter behov,'
+    - 'Bättre arbetsvillkor för de som jobbar inom äldreomsorgen,'
+    - 'Att den som vill, kan och orkar ska kunna jobba längre än till 67 år.'
