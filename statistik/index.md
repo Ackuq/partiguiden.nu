@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Statistik
+title: Opinionsundersökningar
 ---
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
