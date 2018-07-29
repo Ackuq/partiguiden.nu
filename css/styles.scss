@@ -70,3 +70,16 @@ body {
 .mt-30{
     margin-top: 30px;
 }
+
+@media (min-width: 401px){
+    #blockChart{
+        width: 400px;
+        height: 200px;
+    }
+}
+@media (max-width: 400px){
+    #blockChart{
+        width: 300px;
+        height: 150px;
+    }
+}

@@ -9,7 +9,7 @@ title: Opinionsundersökningar
 
 <div id="content">
     <div class="container">
-        <h1 class="font-weight-light text-center">{{ page.title }}</h1>
+        <h3 class="font-weight-light text-center">{{ page.title }}</h3>
         <h5 class="text-center font-weight-light">Här kan du hitta sammanställd data från diverse opinionsundersökningar som har gjorts i Sverige.</h5>
     </div>
     <div class="container">
