@@ -4,6 +4,7 @@ tags:
     - Skola
     - Skola och utbildning
     - Utbildning
+    - Skolan
     - Förskola
     - Grundskolan
     - Grundskola
