@@ -46,5 +46,7 @@ tags:
     - Lärlingar
     - Religiösa friskolor
     - Studiero
+    - Utbildning och forskning
+    - Ungdomspolitik
 categories: Utbildning
 ---

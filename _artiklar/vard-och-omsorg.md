@@ -41,4 +41,6 @@ tags:
     - Funktionsnedsättning och tillgänglighet
     - Funktionsnedsättning/ Normbrytande funktionalitet
     - LSS/ Personlig assistans
+    - Funktionsrätt
+    - Äldrepolitik
 ---

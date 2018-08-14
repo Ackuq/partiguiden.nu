@@ -10,4 +10,5 @@ tags:
     - Välfärd - landsbygden
     - Landsbygdspolitik
     - Lands- och glesbygd
+    - Landsbygden
 ---

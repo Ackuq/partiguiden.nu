@@ -15,4 +15,5 @@ tags:
     - Elmarknad
     - Energi och elmarknad
     - Vattenkraft
+    - Klimat och energi
 ---

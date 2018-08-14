@@ -2,149 +2,174 @@
 root:
   amne:
   -
-    fraga: Arbetsmarknadspolitik
-    adress: https://sverigedemokraterna.se/var-politik/arbetsmarknadspolitik/
+    fraga: Sjukvårdspolitik
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'Ja till jobbskatteavdrag – när ekonomin tillåter'
-    - 'Sänkta arbetsgivaravgifter för mindre företag'
-    - 'En ny anställningsform: Lärlingsanställningar för unga'
-    - 'Stärkt a-kassa så att fler får ut 80 % och förlängd tid för deltidsanställda'
-    - 'Krafttag mot den obalanserade konkurrensen inom åkerinäringen'
+    - 'Begränsa väntetiden till specialistsjukvården till max 30 dagar och 14 dagar vid särskilt allvarliga sjukdomar och psykisk ohälsa bland barn och tonåringar'
+    - 'Förbättra arbetsmiljön och höja vårdyrkets status genom kompetenslyft, yrkeslegitimation för undersköterskor, anställning av vårdservicepersonal och andra som kan avlasta vårdgivande personal samt utöka möjligheten till heltid respektive rätten till deltid för vårdpersona'
+    - 'Avskaffa den i praktiken kostnadsfria sjuk- och tandvården för illegala invandrare och införa tydliga regelverk för icke-medborgares rätt till skattefinansierad välfärd' 
+    - 'Förbättra tillgängligheten i förlossningsvården, barnsjukvården, primärvården och akutsjukvården'
+    - 'Göra sjukvården mer jämlik genom tydligare nationell reglering och utreda möjligheten att på sikt flytta huvudmannaskapet för hela eller delar av sjukvården från landstingen till staten'
+    - 'Införa en ny patienträttsgaranti som stärker patienternas rättsliga ställning och ger möjlighet att välja vårdgivare i hela landet'
+    - 'Införa en vårdplatsgaranti som garanterar en vårdplats på rätt nivå och personal med rätt kompetens'
+    - 'Inrätta säkerhetsklassade vårdplatser dit aggressiva och våldsamma patienter snabbt kan avskiljas'
   -
-    fraga: Arbetsmiljö
-    adress: https://sverigedemokraterna.se/var-politik/arbetsmiljo/
+    fraga: Migrationspolitik
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'Statlig investering för rätt till heltid för alla inom offentlig sektor'
-    - 'Avskaffad karensdag för de som arbetar med vård och omsorg'
-    - 'Avskaffade delade turer för de som så önskar'
-    - 'Ökat stöd till företagshälsovården'
-    - 'Utökade resurser till Arbetsmiljöverket'
-  -
-    fraga: Djurskydd
-    adress: https://sverigedemokraterna.se/var-politik/djurskydd/
-    asikt:
-    - 'Inrätta en djurpolis'
-    - 'Utökade djurskyddskontroller'
-    - 'Kompensation för konkurrensnackdelar för de som upprätthåller djurskyddet – ett djurvälfärdsbidrag'
-    - 'Mycket höga krav på importerade djurrelaterade produkter'
-    - 'Utökade resurser till Arbetsmiljöverket'
-  -
-    fraga: Ekonomisk politik
-    adress: https://sverigedemokraterna.se/var-politik/ekonomisk-politik/
-    asikt:
-    - 'Skattesänkningar för småföretagare'
-    - 'Obligatorisk arbetslöshetsförsäkring'
-    - 'Förstärkt välfärd med bibehållen frihet'
-  -
-    fraga: Invandringspolitik
-    adress: http://sverigedemokraterna.se/var-politik/invandringspolitik/
-    asikt:
-    - 'Stoppa massinvandringen'
-    - 'Fokus på gemenskap och nej till mångkulturalism'
-    - 'Gästarbetarsystem inom specialist- och bristyrken'
-    - 'Använd temporära uppehållstillstånd istället för permanenta'
-    - 'Försörjningskrav för att ta in anhöriga'
-    - 'Ett generöst återvandringsbidrag'
-  -
-    fraga: Energipolitik
-    adress: https://sverigedemokraterna.se/var-politik/energipolitik/
-    asikt:
-    - 'Bygg ut, modernisera och satsa på kärnkraften – en ren och säker energikälla'
-    - 'Låt energipolitiken präglas av rationalitet – inte önsketänkande'
-    - 'Behåll Vattenfall i statlig ägo'
-    - 'Orörda nationalälvar bör förbli orörda'
-    - 'Satsa på forskning kring biogas och nya energikällor'
-  -
-    fraga: EU-politik
-    adress: https://sverigedemokraterna.se/var-politik/eu-politik/
-    asikt:
-    - 'En folkomröstning om EU-medlemskapet'
-    - 'Nej till Turkiet i EU'
-    - 'Fortsatt nej till EMU'
-    - 'Ett återupprättat gränsskydd genom omförhandling av Schengen-avtalet'
-  -
-    fraga: Familjepolitik
-    adress: https://sverigedemokraterna.se/var-politik/jamstalldhetspolitik/
-    asikt:
-    - 'Avkvotera föräldraförsäkringen'
-    - 'Slopa jämställdhetsbonusen'
-    - 'Möjliggör fler dagar som familj'
-    - 'Höj bostadsbidraget för barnfamiljer'
-    - 'Höj föräldrapenningen'
-    - 'Bygg ut vårdnadsbidraget'
-  -
-    fraga: Flyktingpolitik
-    adress: https://sverigedemokraterna.se/var-politik/flyktingpolitik/
-    asikt:
-    - 'Ökat bistånd till FN:s flyktingorgan UNHCR'
-    - 'Biståndsbudgeten ska inte användas för att bekosta invandring till Sverige'
-  -
-    fraga: Försvarspolitik
-    adress: https://sverigedemokraterna.se/var-politik/forsvarspolitik/
-    asikt:
-    - 'Stegvis höja anslagen till försvaret – rejält'
-    - 'Minskat fokus på internationella insatser'
-    - 'Återupprättad försvarsförmåga: Hela Sverige ska försvaras'
-    - 'Återinförd värnplikt'
-    - 'Trygga framtiden för svensk vapenindustri'
+    - 'Förändra asyllagstiftningen så att Sverige endast ska ta emot asylsökande från våra grannländer och stoppa allt asylmottagande så länge Sveriges närområde är säkert'
+    - 'Förändra regelverket för arbetskraftsinvandring så att den svenska arbetsmarknadens behov blir styrande samt arbetsgivares möjligheter att utnyttja utländsk arbetskraft för att kringgå svenska arbetsvillkor omöjliggörs'
+    - 'Skärpa försörjningskraven vid anhöriginvandring samt kontroller av släktskap för att omöjliggöra utnyttjande av systemet samt ytterligare överbelastning av välfärdssystemet' 
+    - 'Skärpa kraven för att bli svensk medborgare, inklusive språk- och samhällskunskapstest, samt möjliggöra återkallelser av medborgarskap som beviljats på felaktiga grunder'
+    - 'Bidra till återvandring genom ett tydligt uppdrag till migrationsverket om att prioritera frågan samt satsningar på såväl ekonomiskt stöd som till exempel anpassade utbildningar och kontaktförmedling för den enskilde'
+    - 'Bekämpa skuggsamhället genom att ge polisen verktyg och resurser att eftersöka personer som vistas i landet illegalt, öka antalet förvarsplatser och möjliggöra för längre vistelse i förvar om utvisning inte kan verkställas omedelbart'
+    - 'Eftersträva avtal med andra länder för att kunna utvisa fler personer, antingen till deras hemländer eller till länder som kan erbjuda plats och grundläggande skydd mer effektivt än Sverige'
+    - 'Koppla uppehållstillstånd till tydliga grunder och återkalla uppehållstillstånd om grunden inte längre kvarstå'
   -
     fraga: Kriminalpolitik
-    adress: https://sverigedemokraterna.se/var-politik/kriminalpolitik/
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'Kraftigt skärpta straff för grov och upprepad brottslighet'
-    - 'Avskaffa mängdrabatten för flerfaldigt dömda brottslingar'
-    - 'Krossa den grova, organiserade kriminaliteten genom särskilt åtgärdspaket (SMOK)'
-    - 'Garantera brottsoffers skadeståndsersättningar'
+    - 'Införa breda straffskärpningar och särskilt höja minimistraffen för upprepade och grova brott, gränsöverskridande brottslighet, särskilt smuggling av vapen och införa riktiga livstidsstraff för de särskilt farliga brottslingarna'
+    - 'Att staten ska garantera brottsoffrets skadestånd och sedan kräva in beloppet från gärningsmannen'
+    - 'Införa obligatorisk utvisning av grovt kriminella utlänningar och möjlighet att återkalla medborgarskapet vid terrorbrott'
+    - 'Öppna för möjligheten att hyra fängelseplatser i andra europeiska länder för livstidsdömda och utländska medborgare'
+    - 'Göra det attraktivt att bli polis genom kraftigt höjda anslag till polisen, höjda löner och fler karriärvägar genom att högre befattningar inom polisen ska kräva polisutbildning och erfarenhet av polisyrket'
+    - 'Göra det säkert att vara polis genom utökad nödvärnsrätt, skärpa straffet för hot mot tjänsteman och att olaga hot mot polis alltid ska bedömas som grovt brott, underlätta användningen av polisära övervakningskameror och utreda möjlighet till utökad polisarrest för att tillfälligt frihetsberöva personer som stör ordningen och uppträder aggressivt mot polis'
+    - 'Ge polisen ökade befogenheter och göra det lättare att bära tjänstevapen utanför tjänsten'
+    - 'Göra polisen starkare genom att kraftigt utöka antalet poliser och återuppliva beredskapspolisen'
   -
-    fraga: Kulturpolitik
-    adress: https://sverigedemokraterna.se/var-politik/kulturpolitik/
+    fraga: Arbetsmarknad och företagande
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'Bevara det svenska kulturarvet'
-    - 'Stärk den nationella identiteten'
-    - 'Inrätta en kulturarvsfond av norsk modell för projekt för bevarande och levandegörande av det svenska kulturarvet.'
-    - 'Skapa en kulturkanon'
-    - 'Digitalisera filmarkivet'
-    - 'Inrätta särskild fond för skapande äldreomsorg'
+    - 'Avskaffa ineffektiva arbetsmarknadsåtgärder som Nystartsjobb, Etableringsanställningar och Introduktionsjobb och i stället satsa på småföretag genom utvidgat starta eget-bidrag, minskat sjuklöneansvar, sänkt arbetsgivaravgift och en djuplodad industristrategi'
+    - 'Förbättra arbetsförhållandena i offentlig sektor genom rätt till heltid, slopade delade turer och slopad karensdag inom vård och förskola'
+    - 'Göra a-kassan obligatorisk och flytta den till försäkringskassan'
+    - 'Avskaffa arbetsförmedlingen i dess nuvarande form, öppna upp för en bredd av aktörer och upprätta en myndighet för tillsyn och effektivitetsbedömning av privata arbetsförmedlare'
   -
-    fraga: Landsbygdspolitik
-    adress: https://sverigedemokraterna.se/var-politik/landsbygdspolitik/
+    fraga: Infrastruktur
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'En satsning på skogsnäringen skapar nya jobb på landsbygden.'
-    - 'En höjning av milersättningen för lättare kunna arbeta och bo på landsbygden.'
-    - 'Sänkt skatt på drivmedel i jord- och skogsbruk.'
-    - 'Nej till ytterligare landsbygdsfientliga skatter.'
-    - 'En långsiktig livsmedelsstrategi'
-    - 'Utbyggnad av järnväg och motorväg'
-    - 'Tillgång till bredband i hela Sverige.'
-    - 'Bättre företagsklimat'
+    - 'Reformera cabotageförordningen så att utländska åkerier hindras från att göra inrikestransporter i Sverige'
+    - 'Ta bort flygskatten'
+    - 'Åtgärda kapacitetsbristen på järnvägen genom smarta, kostnadseffektiva och strategiska utbyggnader och betala av järnvägens underhållsskuld'
+    - 'Minska sjöfartens kostnader genom att avskaffa farledsavgifterna'
   -
-    fraga: Miljöpolitik
-    adress: https://sverigedemokraterna.se/var-politik/miljopolitik/
+    fraga: Bostadspolitik
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'Utvecklad kärnkraft'
-    - 'Bred satsning på Sverige som matland. Mer närodlat och ekologiskt, färre långa transporter'
-    - 'Stoppa föroreningen av Östersjön'
+    - 'Skapa rörlighet på bostadsmarknaden genom en särskild, avdragsgill sparform för bostadssparande och ett förenklat regelverk för uthyrning av delar av privatbostäder'
+    - 'Aktivera flyttkedjan genom ett stimulansbidrag för studentbostäder och olika typer av boenden för äldre'
+    - 'Avskaffa anvisningslagen och ge bostadsrättsföreningar möjlighet att neka kommuner som medlemmar'
+    - 'Stödja kulturell planering så att bostadsområden utformas i traditionell byggnadsstil på ett hemtrevligt, barnvänligt och tryggt sätt'
   -
-    fraga: Sjukvårdspolitik
-    adress: https://sverigedemokraterna.se/var-politik/sjukvardspolitik/
+    fraga: Utbildning och forskning
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'Rätt till heltid för personal inom offentlig sektor – Fler händer i vården'
-    - 'Stärkt högkostnadsskydd för vård och mediciner'
-    - 'Ingen patientavgift för personer över 85 år'
-    - 'Riktade statliga anslag för att åtgärda bristen på vårdplatser'
+    - 'Ge skolan ett statligt huvudmannaskap'
+    - 'Ge lärarna befogenhet att åtgärda ordningsproblem genom jourklasser för elever som behöver speciell tillsyn och pliktskola för elever som begår allvarliga övergrepp i skolmiljö'
+    - 'Skapa attraktiva karriärvägar med lönelyft för lärare'
+    - 'Skapa ekonomiska incitament för att välja utbildningar som efterfrågas av arbetsmarknaden och skapa balans på arbetsmarknaden genom att få fler att välja yrkesutbildningar'
   -
-    fraga: Skolpolitik
-    adress: https://sverigedemokraterna.se/var-politik/skolpolitik/
+    fraga: Familjepolitik
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'Ökad satsning på kunskaper i svenska språket'
-    - 'Handlingsplan för ordning, reda och studiero i klassrummen'
-    - 'Höja lärarnas befogenheter och yrkesstatus'
-    - 'Återförstatligande och skärpta krav på friskolor'
+    - 'Lagstifta om ett undantagslöst förbud mot barnäktenskap och månggifte'
+    - 'Förbättra barnfamiljers ekonomi genom stärkt föräldrapenning och bostadsbidrag, ett nytt engångsbidrag för förstföderskor och ett stärkt underhållstöd som indexeras efter samhällets generella prisökningar'
+    - 'Förenkla familjers livspussel med en helt avkvoterad föräldraförsäkring, flexibel barnomsorg med bättre tillgång till nattis och dagbarnvårdare och förbättra möjligheten för föräldrar eller anhöriga att vara hemma utanför föräldraförsäkringen'
+    - 'Säkra barnens rätt till föräldrarna genom stimulansbidrag för kostnadsfri familjerådgivning, stödja barnet i vårdnadsprocessen genom en särskild stödperson, införa obligatorisk medling innan vårdnadstvist kan slitas i domstol och möjliggöra för gemensam vårdnad även om båda föräldrarna yrkar på enskild vårdnad'
+  -
+    fraga: Funktionsrätt
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Modernisera lagen för att säkerställa alla behövandes rätt till personlig assistent och underlätta för brukare att själva välja assistent'
+    - 'Öka jämlikheten genom nationella riktlinjer om ersättning, funktionshjälpmedel och anhörigstöd'
+    - 'Stärka funktionsnedsatta eller funktionsvarierades ställning på arbetsmarknaden genom att ge Samhall större anslag och bättre effektivitet i inflödet av personer, införa Flex-jobb för personer med permanent nedsatt arbetsförmåga och ett stimulansbidrag för att hjälpa små företag att anpassa arbetsplatsen till personer med funktionsnedsättning'
+    - 'Skärpa kontroller och regelverk mot bedrägerier och att läkarlegitimationer oftare återkallas vid bedrägerier eller andra brott'
   -
     fraga: Äldrepolitik
-    adress: https://sverigedemokraterna.se/var-politik/aldrepolitik/
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
     asikt:
-    - 'Sänk pensionärernas skatt till samma nivå som löntagare. Fullt finansierat i vår budget.'
-    - 'Höj garantipensionerna med minst 10 %. Det motsvarar ungefär 800 kronor i månaden.'
-    - 'En stor satsning för god och näringsrik mat med hög kvalitet i äldreomsorgen.'
-    - 'Många fler anställda inom vård och äldrevård inom ramen för Fler händer i vården.'
+    - 'Höja bostadstillägget och garantipensionen och slopa pensionärsskatten'
+    - 'Införa bindande krav på bemanning dygnet runt på äldreboenden och avveckla de ofrivilligt delade turerna för personalen, införa en matreform med minimikrav om nylagad, välsmakande och näringsrik mat och ett stimulansbidrag för att öka möjligheten till kategoriboende'
+    - 'Införa äldrevårdcentraler för effektivisering av vården, inrätta ett snabbspår inom akutsjukvården för att förbättra omhändertagandet och ge äldre specialistvård snabbare, erbjuda kostnadsfri slutenvård för personer som är 85 år eller äldre och öka tandvårdsbidraget'
+    - 'Ge en skattereduktion och lagstadgad rätt till deltid för äldre som stannar kvar på arbetsmarknaden'
+  -
+    fraga: Jämställdhet
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Ta krafttag mot sexualbrottslighet genom rejält skärpta straff, möjliggöra för offentliga register av vissa sexualbrottsdömda och stärka polisens arbete med att säkra och spara DNA-bevis'
+    - 'Motverka hedersförtryck genom en särskild brottsrubricering för hedersrelaterad brottslighet, införa en 24-årsregel vid äktenskap med utländska medborgare, förbjuda könssegregering i offentlig verksamhet, stärka vården av könsstympade och förbjuda icke-medicinskt betingad omskärelse av minderåriga '
+    - 'I stället för genusteorier och kvotering genomföra verkliga förbättringar av arbetsvillkoren i kvinnodominerade yrken genom bland annat ökad rätt till heltid och slopade delade turer'
+    - 'Förbättra kvinnors ekonomi genom förstärkt garantipension och bostadstillägg och förenkla möjligheten att föra över pensionsrätter'
+  -
+    fraga: Utrikespolitik
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Stödja förföljda sekulära, kristna och andra minoriteter och erkänna folkmordet under det Osmanska riket och folkmordet som Islamiska Staten begått i Irak och Syrien'
+    - 'Erkänna Somaliland som en självständig stat, verka för att den kurdiska regionen i Irak tillåts utropa självständighet, att Nineve-slätten i Irak tillåts mer autonomi och erkänna Jerusalem som Israels huvudstad'
+    - 'Underlätta för och främja internationell handel'
+    - 'Ta fram en långsiktig strategi för att främja mänskliga fri- och rättigheter i Ryssland'
+  -
+    fraga: Biståndspolitik
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Verka för generös internationell flyktinghjälp i närområdet, stödja återuppbyggnad av infrastruktur i krigsdrabbade områden och bidra generöst till frivilligt återvändande av flyktingar'
+    - 'Göra särskilda satsningar på att bevara regnskogen, minska luftföroreningar i utvecklingsländer och motverka miljöförstöring i världshaven'
+    - 'Avveckla biståndet till korrumperade organisationer som Islamic Relief och den palestinska myndigheten'
+    - 'Stärka barnperspektivet genom riktade satsningar på barnhälsa, undernäring, förebygga smittspridning och utbildning'
+  -
+    fraga: Den europeiska unionen
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Genomföra en ny folkomröstning om EU-medlemskapet'
+    - 'Ta strid mot den höga EU-avgiften och genomföra en radikal sanering av EU:s budget'
+    - 'Säkra ett permanent svenskt nej till Euron och bankunionen för skydda svenska skattebetalare mot att tvingas finansiera kollapsande europeiska banker'
+    - 'Bekämpa tiggeri och europeisk människohandel'
+  -
+    fraga: Försvar
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Successivt öka försvarsanslaget till 2,5 % av BNP och öka antalet värnpliktiga och förband'
+    - 'Säkra frivilligorganisationernas verksamhet genom ett eget grundanslag och komplettera hemvärnet och lokalförsvaret med civilpliktig räddnings- och röjningspersonal'
+    - 'Införskaffa ett modernt, strategiskt luftvärn baserat på svensk radarteknik, exempelvis ASTER'
+    - 'Utöka militärens möjligheter att bistå polisen med exempelvis ordningskapande insatser vidsärskilt svåra ordningsproblem och skydd och bevakning av viss polisiär utrustning, fordon och anläggningar'
+  -
+    fraga: Klimat och energi
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Satsa på energieffektivisering och energiforskning och flytta de klimatpolitiska resurserna dit de gör mest nytta, exempelvis inom internationella insatser och forskning'
+    - 'Satsa på säker och effektiv kärnkraft genom forskning och utveckling av fjärde generationens reaktorer'
+    - 'Arbeta mot övergödning i sjöar, vattendrag och hav och sanera de tiotusentals förorenade områden som återfinns runtom i Sverige'
+    - 'Främja en elektrifiering av transportsektorn genom satsningar på infrastruktur med fler laddstolpar och en vätgasstrategi'
+  -
+    fraga: Landsbygden
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Stödja lantbruket genom en djurvälfärdsersättning för svenska mjölkbönder och förbjuda import av produkter som framställs genom att utsätta djur för svårt och onödigt lidande'
+    - 'Att alla beslut som rör jakt och viltvård ska fattas regionalt och minimera EU:s inflytande över svensk jakt och viltvård'
+    - 'Höja reseavdraget, sänka skatten på drivmedel generellt, kraftigt sänka dieselskatten för jord och skogsbruk samt stoppa den föreslagna vägslitageskatten och höjningen av fordonskatten'
+    - 'Förenkla villkoren att bo och verka genom ett särskilt bostadslån för personer på lands- och glesbygd och stödja hushåll på lands- och glesbygd som drabbas av stora kostnader för tvingande miljöanpassning av vatten och avlopp'
+  -
+    fraga: Kultur
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Säkra det svenska kulturarvet genom generella anslagshöjningar för vård och utveckling av vårt kulturella arv, införa kulturarvs-ROT och stärka den statliga kulturarvsfonden'
+    - 'Stärka svenskt friluftsliv, barn- och ungdomsidrotten, idrott och friskvård för äldre och verka för ett nationellt para-sportotek'
+    - 'Införa en svensk kulturkanon i skolundervisningen och verka för en nordisk kulturkanon i de nordiska skolorna'
+    - 'Dra in allt skattefinansierat stöd till antidemokratiska, våldsbejakande och segregerande trossamfund och föreningar'
+  -
+    fraga: Ungdomspolitik
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Stärka den psykiska hälsan genom fler vårdplatser samt skydda titeln kurator och säkerställa minst en kurators närvaro på samtliga skolenheter för att aktivt motarbeta psykisk ohälsa i ett tidigt stadie'
+    - 'Införa ämnesbetyg i skolan för att minska stressen för eleverna och stärka kunskapsperspektivet'
+    - 'Förenkla byggprocessen för studentbostäder och införa gynnsamma skattereformer så att fler företag lockas till att investera och bygga studentbostäder'
+    - 'Stärka datorspelsindustrin och nyttja den som ett steg i att främja svensk kultur'
+  -
+    fraga: Nordiskt samarbete
+    adress: https://sd.se/wp-content/uploads/2018/05/Valplattform-2018-1.pdf
+    asikt:
+    - 'Verka för en gemensam nordisk yttre gränsbevakning, ett fördjupat nordiskt samarbete mot radikalisering, terrorism och terrorresor och ett fördjupat nordiskt försvars- och säkerhetssamarbetet'
+    - 'Intensifiera insatserna för att värna, vårda och visa nordisk kultur i nordiska skolor och fördjupa och förstärka den nordiska språkförståelsen'
+    - 'Verka för att harmonisera den nordiska djurskyddslagstiftningen så att en djurskyddslagstiftning betydligt sämre än den svenska inte innebär en konkurrensfördel'
+    - 'Inrätta ett nordiskt lagråd för att förebygga nya gränshinder vid lagstiftning '

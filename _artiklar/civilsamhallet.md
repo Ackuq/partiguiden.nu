@@ -10,4 +10,5 @@ tags:
     - Religionsfrihet
     - Folkrörelse och civilsamhälle
     - Föreningsliv- folkbildning och idrott
+    - Kultur
 ---

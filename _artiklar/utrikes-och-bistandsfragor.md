@@ -26,4 +26,6 @@ tags:
     - Bistånd och global rättvisa
     - Bistånd/ Utvecklingspolitik
     - Handelsavtal
+    - Biståndspolitik
+    - Nordiskt samarbete
 ---

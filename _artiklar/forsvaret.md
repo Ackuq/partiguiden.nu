@@ -19,4 +19,5 @@ tags:
     - Krigsmaterielexport 
     - Säkerhetspolitik
     - Veteraner
+    - Nordiskt samarbete
 ---

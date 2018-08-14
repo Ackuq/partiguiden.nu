@@ -42,4 +42,5 @@ tags:
     - Arbetstidsförkortning
     - Fackföreningar
     - Anställningstrygghet
+    - Arbetsmarknad och företagande
 ---

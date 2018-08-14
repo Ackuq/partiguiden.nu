@@ -16,4 +16,5 @@ tags:
     - Småföretagen
     - Regelförenklingar
     - Företag
+    - Arbetsmarknad och företagande
 ---

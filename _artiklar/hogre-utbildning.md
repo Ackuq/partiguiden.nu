@@ -16,5 +16,7 @@ tags:
     - Innovation
     - Studenter från andra länder
     - Högre utbildning och forskning
+    - Utbildning och forskning
+    - Ungdomspolitik
 categories: Utbildning
 ---

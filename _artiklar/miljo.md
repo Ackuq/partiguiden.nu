@@ -31,4 +31,5 @@ tags:
     - Hav
     - Miljö och natur
     - Skogen
+    - Klimat och energi
 ---
