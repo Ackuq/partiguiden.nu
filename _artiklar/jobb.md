@@ -1,5 +1,5 @@
 ---
-title: Jobb och sysselsättning
+title: Jobb och arbetsmarknad
 tags:
     - Jobb
     - Arbetsmiljö
@@ -43,4 +43,5 @@ tags:
     - Fackföreningar
     - Anställningstrygghet
     - Arbetsmarknad och företagande
+    - Bidragstak
 ---

@@ -17,4 +17,5 @@ tags:
     - Regelförenklingar
     - Företag
     - Arbetsmarknad och företagande
+    - Konkurrens och statligt ägande
 ---

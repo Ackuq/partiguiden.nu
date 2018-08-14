@@ -23,4 +23,6 @@ tags:
     - Jordbruk och mat
     - Rovdjur
     - Jordbrukspolitik
+    - Jordbruk och skogsbruk
+
 ---

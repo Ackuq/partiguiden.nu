@@ -20,4 +20,5 @@ tags:
     - Säkerhetspolitik
     - Veteraner
     - Nordiskt samarbete
+    - Nedrustning och kärnvapen
 ---

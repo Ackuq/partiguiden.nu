@@ -5,4 +5,6 @@ tags:
     - Internet och integritet
     - Fildelning
     - Upphovsrätten
+    - Informations- och cybersäkerhet
+    - Bredband och digital uppkoppling
 ---

@@ -32,4 +32,7 @@ tags:
     - Miljö och natur
     - Skogen
     - Klimat och energi
+    - Mer lokal miljömakts
+    - Hållbart skogsbruk
+    - Bilar och bränsle
 ---

@@ -26,5 +26,5 @@ tags:
     - Nyanländas etablering
     - Obligatorisk språkförskola
     - Svenska språket
-    - Sfi - Svenska för invandrare
+    - Svenska för invandrare
 ---

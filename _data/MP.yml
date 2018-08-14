@@ -52,9 +52,10 @@ root:
     fraga: Diskriminering
     adress: https://mp.se/politik/diskriminering
     asikt:
-    - 'Att ingen ska diskrimineras,'
+    - 'Att samhället ska vara fritt från diskriminering,'
+    - 'Skärpa sanktionerna mot den som diskriminerar,'
     - 'Att den som diskrimineras ska få hjälp och stöd från samhället,'
-    - 'Göra hatbrott till en prioriterad fråga för polisen, och'
+    - 'Stärka polisens hatbrottsarbete, och'
     - 'Att alla ska få möjlighet att använda det språk de kan bäst i kontakten med svenska myndigheter.'
   -
     fraga: Djur
@@ -81,21 +82,12 @@ root:
     - 'Ge stöd till alla som vill spara energi, och'
     - 'Fasa ut all kärnkraft samt fossil olja, kol och gas.'
   -
-    fraga: EU och Euro
-    adress: https://mp.se/politik/eu-och-euro
+    fraga: EU
+    adress: https://mp.se/politik/eu
     asikt:
-    - 'Att EU ska driva en stark och ambitiös miljöpolitik och en human flyktingpolitik,'
-    - 'Riva EU:s handelshinder mot fattiga länder, '
-    - 'Att jordbruksbudgeten blir mindre, och'
-    - 'Att EU:s makt över medlemsländerna blir mindre och att Sverige ska stå utanför euron.'
-  -
-    fraga: Folkhälsa
-    adress: https://mp.se/politik/folkhalsa
-    asikt:
-    - 'Öka välmåendet genom att bryta segregationen och minska fattigdomen,'
-    - 'Prioritera åtgärder som förebygger missbruk, våld och smittspridning,'
-    - 'Att alla barn ska få växa upp med bra mat, ren luft och i giftfria miljöer, samt'
-    - 'Att Sverige ska få en folkhälsolag.'
+    - 'Att EU ska driva en stark och ambitiös klimat- och miljöpolitik, '
+    - 'Se ett öppet och humant Europa där människor kan söka asyl utan risk för livet, samt'
+    - 'Att demokratin och det folkliga inflytandet i EU stärks och att lobbyismen regleras.'
   -
     fraga: Fred och försvar
     adress: https://mp.se/politik/fred-och-forsvar
@@ -117,6 +109,7 @@ root:
     asikt:
     - 'Ge mer stöd till föreningsliv och studieförbund,'
     - 'Bryta civilsamhällets beroende av projektstöd,'
+    - 'Säkra att föreningslivets oberoende röst värnas,'
     - 'Uppmuntra ungdomars engagemang och se till att det finns en jämlik och jämställd fördelning av resurserna.'
   -
     fraga: Företagande
@@ -130,9 +123,11 @@ root:
     fraga: Hav- vatten och fiske
     adress: https://mp.se/politik/hav-vatten-och-fiske
     asikt:
-    - 'Ge fiskbestånden en chans att återhämta sig till hållbara nivåer,'
-    - 'Se till att det nya förbudet mot dumpning av fisk i haven får verkliga konsekvenser,'
-    - 'Att EU tar ett globalt ansvar för att kämpa mot olagligt fiske och för att skydda internationellt vatten från laglöshet och plundring.'
+    - 'Att fisket blir mer hållbart,'
+    - 'Bevara rödlistade och hotade arter,'
+    - 'Ha ett starkare skydd av marina områden,'
+    - 'Minska övergödningen, och'
+    - 'Stoppa spridning av gifter i havet.'
   -
     fraga: HBTQ
     adress: https://mp.se/politik/hbtq
@@ -146,10 +141,11 @@ root:
     fraga: Hälso- och sjukvård
     adress: https://mp.se/politik/halso-och-sjukvard
     asikt:
-    - 'Att den som blir sjuk ska få vård av hög kvalitet oavsett var i landet den bor,'
-    - 'Att vården får större resurser att förebygga ohälsa,'
-    - 'Att personalen får goda arbetsvillkor, rätt utbildning och arbetsuppgifter,'
-    - 'Att samhället ska organiseras så att det främjar människors hälsa.'
+    - 'Bryta trenden med en ökande psykisk ohälsa,'
+    - 'Korta vårdköerna och satsa på bättre kvalitet och tillgänglighet i vården,'
+    - 'Sätta hälsan i centrum och minska klyftorna i folkhälsan,'
+    - 'Utbilda fler läkare och specialistsjuksköterskor, samt'
+    - 'Att vård och omsorg inte ska bedrivas i vinstsyfte.'
   -
     fraga: Högre utbildning och forskning
     adress: https://mp.se/politik/hogre-utbildning-och-forskning
@@ -213,10 +209,11 @@ root:
     fraga: Kultur
     adress: https://mp.se/politik/kultur
     asikt:
-    - 'Stimulera ett levande kulturliv i hela landet,'
-    - 'Utveckla biblioteken,'
-    - 'Ge alla elever möjlighet att läsa estetiska ämnen i skolan, och'
-    - 'Se till så att Sveriges kulturskapare får bättre villkor.'
+    - 'Att människor i alla åldrar ska kunna ta del av konst, kultur och litteratur i hela landet,'
+    - 'Stärka den ekonomiska och sociala tryggheten för konstnärer och kulturskapare,'
+    - 'Ge estetiska ämnen större plats i skolan,'
+    - 'Stärka journalistiken i hela landet, samt'
+    - 'Värna och vårda kulturarvet samtidigt som vi välkomnar nya kulturyttringar.'
   -
     fraga: Kärnkraft
     adress: https://mp.se/politik/karnkraft
@@ -267,6 +264,15 @@ root:
     - 'Skydda mer natur och ha starkare skydd för utrotningshotade växter och djur, och'
     - 'Kämpa för friska hav världen över.'
   -
+    fraga: Nyanländas etablering
+    adress: https://mp.se/politik/nyanlandas-etablering
+    asikt:
+    - 'Ge människor rätt att jobba från dagen de sökt asyl,'
+    - 'Göra det lättare att få jobb på meriter från utlandet,'
+    - 'Återinföra permanenta uppehållstillstånd,'
+    - 'Underlätta för familjer att återförenas, samt'
+    - 'Ge alla skolor resurser för att ta emot nyanlända.'
+  -
     fraga: Pensioner
     adress: https://mp.se/politik/pensioner
     asikt:
@@ -296,6 +302,13 @@ root:
     - 'Göra det lättare för dig att leva miljövänligt,'
     - 'Förbättra mottagning och etablering för flyktingar, och'
     - 'Satsa på fler lärare i skolan och fler händer i vården.'
+  -
+    fraga: tid att leva
+    adress: https://mp.se/politik/tid-att-leva
+    asikt:
+    - 'Sänka normalarbetstiden,'
+    - 'Göra det lättare att påverka sin arbetstid och sina arbetsvillkor,'
+    - 'Ge möjlighet att vara ledig från jobbet för utvecklingstid med ersättning.'
   -
     fraga: Trafik
     adress: https://mp.se/politik/trafik

@@ -18,4 +18,5 @@ tags:
     - RUT-avdraget
     - Bolån
     - Hyresrätter
+    - Bostadsskatter
 ---

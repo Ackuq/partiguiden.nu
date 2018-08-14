@@ -1,5 +1,5 @@
 ---
-title: Brott och straff
+title: Säkerhets- och kriminalpolitik
 tags:
     - Brott och straff
     - Lag och rätt
@@ -14,6 +14,7 @@ tags:
     - Våld i nära relationer
     - Kriminalpolitik
     - Polis
+    - Säkerhetspolitik
     - Trygghet
     - Brottslighet
     - Anonyma vittnen
@@ -46,4 +47,7 @@ tags:
     - Lag och ordning
     - Radikalisering
     - Hedersvåld
+    - Rättssäkerhet
+    - Sexualbrott
+    - Prostitution
 ---

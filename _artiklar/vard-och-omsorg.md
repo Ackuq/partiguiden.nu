@@ -43,4 +43,5 @@ tags:
     - LSS/ Personlig assistans
     - Funktionsrätt
     - Äldrepolitik
+    - Äldreomsorg
 ---

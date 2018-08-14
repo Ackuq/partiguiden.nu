@@ -5,23 +5,20 @@ root:
     fraga: Skola
     adress: https://www.socialdemokraterna.se//var-politik/sakomraden/skola/
     asikt:
-    - 'Säkerhetsställa att skolan är en trygg plats med ordning och studiero'
-    - 'Skapa en jämlik kunskapsskola och stoppa vinstjakten. Resurser ska fördelas rättvist, efter behov'
-    - 'Investera i lärare och skolledare. Alla elever har rätt att möta behöriga och skickliga lärare'
-    - 'Öka personaltätheten och minska stora klasser'
-    - 'Satsa på tidiga insatser, fler specialpedagoger och stärkt elevhälsa.'
+    - 'Anställa mer personal och fler lärare'
+    - 'Stoppa vinstjakten och förbjuda religiösa friskolor'
+    - 'Anställa fler specialpedagoger och stärka elevhälsan'
+    - 'Säkerhetsställa att alla skolor är trygga och har ordning och studiero'
+    - 'Göra stora investeringar i en jämlik kunskapsskola.'
   -
     fraga: Ekonomi
     adress: https://www.socialdemokraterna.se//var-politik/sakomraden/ekonomi/
-    asikt:
-    - ' att investeringar i fler jobb och bättre skola går före fortsatta skattesänkningar'
-    - 'Att Sverige mellan 2014 och 2020 ska öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att Sverige når lägst arbetslöshet i EU'
-    - 'Att det finanspolitiska ramverket med mål för den offentliga sektorns sparande och utgiftstak ska förstärkas i enlighet med den breda blocköverskridande överenskommelse som finns på området.'
+    asikt: 'Öka investeringarna i välfärden med minst 20 miljarder nästa mandatperiod'
   -
     fraga: Miljö
     adress: https://www.socialdemokraterna.se//var-politik/sakomraden/miljo/
     asikt:
-    - 'Minska utsläppen av växthusgaser. Sverige ska bli den första fossilfria världsnationen'
+    - 'Minska utsläppen av växthusgaser. Sverige ska bli den första fossilfria välfärdsnationen'
     - 'Driva på för tuffare kemikalieregler i EU och införa inhemska skatter på farliga ämnen'
     - 'Minska övergödningen av haven och skydda vårt rena dricksvatten'
     - 'Bevara mer värdefull natur och marina områden för att rädda den biologiska mångfalden.'
@@ -29,31 +26,42 @@ root:
     fraga: Jobb
     adress: https://www.socialdemokraterna.se//var-politik/sakomraden/jobb/
     asikt:
-    - 'Skapa jobb genom framtidsinvesteringar i bostäder, infrastruktur och klimat'
-    - 'Ha en aktiv näringspolitik för fler och växande företag som skapar jobb'
-    - 'Öka kompetens och matchning för att rusta alla att ta de jobb som växer fram.'
+    - 'Skapa ännu fler jobb i hela landet. Det ska vara schyssta villkor och löner det går att leva på'
+    - 'Anställa fler undersköterskor, sjuksköterskor och läkare, så vårdköerna kan kortas. Och fler lärare, så att eleverna lär sig mer'
+    - 'Införa heltid som norm och öka tryggheten på arbetsmarknaden'
+    - 'Göra stora satsningar på utbildning och att arbetsmarknadens parter och staten utvecklar bättre system för kompetensförsörjning, omställning och rehabilitering'
+    - 'Förbättra systemet med korttidsarbete vid en lågkonjunktur så att löntagare kan kompetensutveckla sig samtidigt som de behåller sin anställning.'
   -
     fraga: Välfärd
     adress: https://www.socialdemokraterna.se//var-politik/sakomraden/valfard/
     asikt:
-    - 'Stärka vår generella välfärdsmodell. Den offentligt finansierade välfärden ska hålla hög kvalitet och omfatta alla'
-    - 'Införa ett regelverk för att stoppa vinstjakten i välfärden'
-    - 'Ta fram en kvalitetsplan för säkra kvaliteten i den svenska äldreomsorgen'
-    - 'Investera i en bra vård i hela landet.'
+    - 'Investera i en bättre välfärd. Vi vill anställa fler undersköterskor, sjuksköterskor och läkare, så vårdköerna kan kortas. Och fler lärare, så att eleverna lär sig mer'
+    - 'Satsa på en bra vård i hela landet och anställa 14.000 fler i vården'
+    - 'Införa fast omsorgskontakt i hemtjänsten, mer social samvaro och satsa på idrott och friluftsliv för äldre'
+    - 'Satsa på snabbare stöd till unga som mår psykiskt dåligt: screening av barn och ungas psykiska hälsa i skolan och en digital vårdtjänst i mobilen'
+    - 'Stoppa vinstjakten i välfärden.'
+  -
+    fraga: Internationellt
+    adress: https://www.socialdemokraterna.se//var-politik/sakomraden/internationellt/
+    asikt:
+    - 'Verka för hållbar utveckling och fattigdomsminskning'
+    - 'Investera i jobbskapande i utvecklingsländer'
+    - 'Fortsätta verka för mer samarbete och dialog mellan länder och i organisationer som FN och EU'
+    - 'Stödja civilsamhällsorganisationer, journalister och MR-försvarare'
   -
     fraga: A-kassan
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/a-kassan/
     asikt:
-    - 'A-kassan ska stimulera till omställning på arbetsmarknaden. Den som är arbetslös ska kunna få ut ersättning från försäkringen under en omställningsperiod'
-    - 'A-kassan ska vara en frivillig försäkring som är gemensamt finansierad'
-    - 'Fler ska vara med i a-kassan'
-    - 'A-kassan ska administreras av de fackliga organisationerna.'
+    - 'Att a-kassan ska stimulera till omställning på arbetsmarknaden. Den som är arbetslös ska få ut ersättning från försäkringen under en omställningsperiod'
+    - 'Att det ska bli billigare att vara med i a-kassan och att det ska vara en frivillig försäkring som är gemensamt finansierad'
+    - 'Att fler ska vara med i a-kassan'
+    - 'Att a-kassan ska administreras av de fackliga organisationerna.'
   -
     fraga: Alkohol och narkotika
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/alkohol/
     asikt:
-    - 'Slå vakt om Systembolagets monopol eftersom det motverkar okontrollerad försäljning av alkohol'
-    - 'Vi säger nej till så kallad gårdsförsäljning då det inte är förenligt med EU:s regler för att kunna ha detaljhandelsmonopol för alkoholdrycker'
+    - 'Förbättra missbrukarvården och stärka psykiatrin'
+    - 'Slå vakt om Systembolagets monopol eftersom det motverkar okontrollerad försäljning av alkohol. vi säger nej till så kallad gårdsförsäljning då det inte är förenligt med EU:s regler för att kunna ha detaljhandelsmonopol för alkoholdrycker'
     - 'Åldersgränsen för att kunna köpa alkohol på Systembolaget ska även fortsättningsvis vara 20 år'
     - 'Skärpta bestämmelser om näthandel med alkohol i syfte att värna Systembolagets ensamrätt'
     - 'Skärpta insatser mot smuggling av alkohol.'
@@ -70,53 +78,52 @@ root:
     fraga: Apotek 
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/apotek/
     asikt:
-    - 'Att apotek ska finns tillgängliga i alla delar av landet'
+    - 'Att apotek ska finns tillgängliga i hela landet'
     - 'Att alla patienter ska ha tillgång till läkemedelskunnig personal på apoteken för rådgivning'
     - 'Att du ska få de receptbelagda läkemedel du behöver inom 24 timmar'
     - 'Att apoteken genom rådgivning och andra tjänster ska bidra till att alla får en trygg vård och en säker läkemedelsanvändning.'
   -
-    fraga: Arbete
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/arbete/
-    asikt:
-    - 'Skapa jobb genom framtidsinvesteringar i bostäder, infrastruktur och klimat'
-    - 'Ha en aktiv näringspolitik för fler och växande företag som skapar jobb'
-    - 'Öka kompetens och matchning för att rusta alla att ta de jobb som växer fram.'
-  -
     fraga: Arbetsförmedlingen
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/arbetsformedlingen/
     asikt:
-    - 'Gör Arbetsförmedlingen till en matchningsspecialist som ser till att rusta de arbetssökande för de jobb som finns'
-    - 'Tillsammans med andra aktörer ska Arbetsförmedlingen jobba för att stänga rekryteringsgapet och få fler i arbete'
-    - 'Arbetsförmedlingen ska ge individuellt stöd från dag ett. Arbetsförmedlaren ska ha tid att arbeta med den enskilda individen och se till behoven – inte enbart de administrativt bestämda tidsgränserna'
-    - 'Näringslivets behov ska styra insatserna. Branschspecifika utbildningar ska kunna köpas upp inom det reguljära utbildningssystemet. Ett nationellt system för validering och komplettering av utländsk utbildning bör finnas.'
+    - 'Göra Arbetsförmedlingen till en matchningsspecialist som gör att arbetssökande kan ta de jobb som finns'
+    - 'Att Arbetsförmedlingen tillsammans med andra aktörer ska jobba för ökad kompetens'
+    - 'Att Arbetsförmedlingen ska ge alla individuellt stöd från dag ett och ha tid att arbeta utifrån de behov som finns'
+    - 'Att näringslivets behov ska styra insatserna. Det ska vara möjligt att köpa upp branschspecifika utbildningar inom det reguljära utbildningssystemet'
+    - 'Ha ett nationellt system för validering och komplettering av utländsk utbildning.'
   -
-    fraga: Solidarisk arbetskraftsinvandring
+    fraga: Arbetskraftsinvandring
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/arbetskraftsinvandring/
     asikt:
-    - 'Det ska inte vara möjligt att gå runt Lagen om anställningsskydd genom att företag säger upp personal för att sedan hyra in personal för samma arbetsuppgifter'
-    - 'Huvudentreprenören bör vara ansvarig för att underleverantörerna betalar kollektivavtalsenliga löner, följer skattelagstiftningen och betalar arbetsgivaravgifter'
-    - 'Jobb som kräver kort eller ingen utbildning ska i första hand tillsättas med arbetslösa personer som redan bor i Sverige.'
+    - 'Att arbetskraftsinvandring bara ska tillåtas när det inte går att hitta rätt personer i Sverige. Jobb som kräver kort eller ingen utbildning ska i första hand gå till  arbetslösa personer som redan bor i Sverige'
+    - 'Att det ska ske en prövning av behovet på arbetsmarknaden. Ambitionen är att det inte ska vara möjligt att erbjuda jobb till personer utanför EES i yrken där det inte råder brist på arbetskraft i Sverige'
+    - 'Öka trycket på oseriösa arbetsgivare och inför tuffare förhandskontroller av företag som ansöker om tillstånd för arbetskraftsinvandring. Arbetstagare som utnyttjas eller drabbas av att arbetsgivare missköter sig ska ha rätt till skadestånd'
+    - 'Bekämpa arbetslivskriminalitet och osund konkurrens'
+    - 'Huvudentreprenören bör vara ansvarig för att underleverantörerna betalar kollektivavtalsenliga löner, följer skattelagstiftningen och betalar arbetsgivaravgifter.'
   -
     fraga: Arbetsmiljö 
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/arbetsmiljo/
     asikt:
-    - 'Stärka arbetsmiljöarbetet och satsa på det förebyggande arbetet, tillsynsarbetet och arbetslivsforskningen'
-    - 'Heltid ska vara norm på hela arbetsmarknaden'
-    - 'Problemen med allmän visstid måste lösas. Det ska finnas objektiva skäl för tidsbegränsade anställningar.'
+    - 'Förbättra den fysiska och psykiska arbetsmiljön genom stärkt arbetsmiljöarbete och satsningar på förebyggande arbete, tillsynsarbete och arbetslivsforskning'
+    - 'Minska antalet osäkra anställningar genom att ta bort allmän visstidsanställning'
+    - 'Att alla anställda i vård och äldreomsorg ska få kostnadsfria arbets­kläder'
+    - 'Uppvärdera skyddsombudens roll'
+    - 'Förbättra Företagshälsovården.'
   -
     fraga: Arbetsrätt
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/arbetsratt2/
     asikt:
-    - 'Företrädesrätten vid återanställning ska inte gå att sätta ur spel när arbetsgivare hyr in personal från bemanningsföretag'
-    - 'Normen på svensk arbetsmarknad ska vara fasta heltidsanställningar'
-    - 'Ha en attitydförändring för att bryta de strukturer som motverkar heltidsarbete och som begränsar kvinnors frihet och självständighet. En bra personalpolitik med tryggare anställningar ger goda förutsättningar för kontinuitet och kvalitetsutveckling i alla branscher och näringar'
+    - 'Att normen på svensk arbetsmarknad ska vara fasta heltidsanställningar'
+    - 'Avskaffa allmän visstid, hyvling och begränsa möjligheten till delade turer'
+    - 'Att företrädesrätten vid återanställning inte gå att sätta ur spel när arbetsgivare hyr in personal från bemanningsföretag'
     - 'Ha ordning och reda på svensk arbetsmarknad och få stopp på lönedumpning, skattefusk och utnyttjandet av svensk och utländsk arbetskraft.'
   -
     fraga: Barn
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/barn/
     asikt:
-    - 'Göra FN:s barnkonvention till svensk lag'
-    - 'Höja barnbidragen och studiebidragen till gymnasister'
+    - 'Ge unga som mår dåligt psykiskt snabb hjälp genom att öka resurserna till barn- och ungdomspsykiatrin'
+    - 'Ge unga snabbt stöd i mobilen genom en digital vårdtjänst för unga som mår dåligt'
+    - 'Göra så att screeningen inom elevhälsan i skolan till att även omfatta psykisk hälsa'
     - 'Ge barn till arbetslösa och föräldralediga föräldrar rätt att vara heltid i förskolan.'
   -
     fraga: Barnomsorg
@@ -126,10 +133,11 @@ root:
     fraga: Betyg
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/betyg/
     asikt:
-    - 'Att betyg ska ges från årskurs 6'
+    - 'Göra upp med det system som skapar glädjebetyg och betygsinflation i skolan'
     - 'Att lärarna ska ges det bedömningsstöd de behöver för att betygen ska vara rättvisa och likvärdiga i hela landet'
-    - 'Att de nationella proven digitaliseras och får ökade inslag av extern rättning'
-    - 'Att kartläggningar och stöd sätts in tidigare.'
+    - 'Att betyg ska ges från årskurs 6'
+    - 'Att de nationella proven digitaliseras och rättas av annan än den undervisande läraren'
+    - 'Att kunskapskraven i läroplanerna ses över.'
   -
     fraga: Internationell utveckling och bistånd
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/bistand/
@@ -141,33 +149,26 @@ root:
     fraga: Bostad
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/bostad/
     asikt:
-    - 'Genomföra en ny byggoffensiv och se till att det byggs minst 250 000 nya bostäder under åren 2015-2020 och därefter i genomsnitt 45 000 bostäder om året fram till 2030'
-    - 'Vi vill se fler hyresrätter, bra bostäder för äldre, studentbostäder, blandade bostadsområden med både villor, radhus och flerfamiljshus som bryter den växande bostadssegregationen'
-    - 'Förändra plan- och bygglagen för att snabba upp byggprocessen'
-    - 'Föra en tydligare markpolitik, både från stat och kommun.'
-  -
-    fraga: Den svenska modellen
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/den-svenska-modellen/
-    asikt:
-    - 'Skapa ordning och reda på svensk arbetsmarknad. Den svenska modellen där fack och arbetsgivare förhandlar om löner och villkor och tecknar kollektivavtal ska kunna tillämpas på utländska företag som bedriver verksamhet i Sverige'
-    - 'Att heltid ska vara norm på hela arbetsmarknaden'
-    - 'Ge polisen utökade möjligheter att genomföra arbetsplatsinspektioner för att kontrollera att arbetsgivarna inte har anställda som saknar rätt att vistas i Sverige'
-    - 'Införa entreprenörsansvar'
-    - 'Att de fackliga rättigheterna på EU-nivå garanteras genom ett bindande socialt protokoll. Att vidta fackliga stridsåtgärder över gränserna måste göras till en lagstadgad rättighet i EU'
+    - 'Fortsätta att bygga och bygga bostäder som fler har råd att bo i. Vi vill bygga minst 250 000 nya bostäder under åren 2015-2020 och därefter i genomsnitt 45 000 bostäder om året fram till 2030'
+    - 'Vi vill särskilt prioritera satsningar för att fler unga ska kunna flytta hemifrån och få sin första bostad'
+    - 'Konkreta åtgärder för äldre i form av möjligheter till ökad rörlighet, tillgänglighet och trygghetsboende'
+    - 'Kommunerna ska ha möjlighet att i högre utsträckning villkora markanvisningar och få rätt att i detaljplanen ange upplåtelseform som en del i att motverka segregation'
+    - 'Vi säger nej till marknadshyror. Vi vill värna om allas rätt till en bostad, oavsett storlek på den egna eller föräldrarnas plånbok.'
   -
     fraga: Digitalisering
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/digitalisering/
     asikt:
     - 'Att hela Sverige ska ha tillgång till snabb uppkoppling'
-    - 'Att det ska finnas en pålitlig mobiltäckning där människor bor och vistas'
-    - 'Att utbyggnaden av bredband fortsätter i hela landet.'
+    - 'Att det ska finnas pålitlig mobiltäckning där människor bor och vistas'
+    - 'Att utbyggnaden av bredband fortsätter i hela landet'
+    - 'Att myndigheter, kommuner, skolor och andra samhällsaktörer drar nytta av digitaliseringens möjligheter.'
   -
     fraga: Djurskydd
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/djurskydd/
     asikt:
-    - 'Ha enstark tillsyn som förhindrar att allmänhetens förtroende urholkas'
-    - 'Ha en ny modern djurskyddslag som i portalparagrafen slår fast att djur ska kunna bete sig naturligt och att beteendestörningar inte ska förekomma'
-    - 'Agera kraftfullt i EU för att högre krav ska ställas på djurvälfärd och djurhälsa.'
+    - 'Ha en stark djurtillsyn så att lagar och regler efterlevs'
+    - 'Värna den nya djurskyddslag som slår fast att djur ska kunna bete sig naturligt och ta fram krav på märkning av katter'
+    - 'Agera kraftfullt i EU för att högre krav ska ställas på djurvälfärd och djurhälsa bl.a. hårdare krav i transporter.'
   -
     fraga: Ekonomiskt bistånd
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/ekonomiskt-bistand/
@@ -176,27 +177,46 @@ root:
     - 'Höja barnbidragen'
     - 'Förbättra de ekonomiska trygghetsnäten vid arbetslöshet och sjukdom och att kommunerna arbetar med att ge rätt stöd till de människor som har ekonomiskt bistånd.'
   -
+    fraga: Energi
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/energi/
+    asikt:
+    - 'Uppnå 100 procent förnybar elproduktion till år 2040'
+    - 'Att Sverige senast år 2045 inte har några nettoutsläpp av växthusgaser till atmosfären, för att därefter uppnå negativa utsläpp'
+    - 'Ha stabila och konkurrenskraftiga elpriser.'
+  -
     fraga: EU
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/eu/
     asikt:
     - 'Att fler européer ska ha ett jobb att gå till'
-    - 'Arbeta för ett socialt Europa där alla får ta del av tillväxt och utveckling'
+    - 'Se ett socialt Europa där alla får ta del av tillväxt och utveckling'
+    - 'Fortsätta riva handelshinder och dra nytta av den fria rörligheten för varor och tjänster samt arbeta för att EU ska bli bäst i världen på digitalisering'
     - 'Att EU ska ta en ledarroll i världen med en ambitiös klimat- och miljöpolitik'
     - 'Upprätta en gemensam, ansvarsfull och solidarisk flykting- och migrationspolitik i EU.'
+  -
+    fraga: Export
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/export/
+    asikt:
+    - 'Öka exporten, både i absoluta tal och som andel av BNP'
+    - 'Öka Sveriges attraktionskraft för investeringar, kompetens och turister'
+    - 'Öka andelen exporterande företag'
+    - 'Öka deltagandet av svenska företag i den globala ekonomin'
+    - 'Inrätta regionala exportcentra i samtliga län.'
   -
     fraga: Extratjänster
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/extratjanster/
     asikt:
-    - 'Ge fler chansen att gå till jobbet'
-    - 'Ha kollektivavtalade anställningsformer.'
+    - 'Ge fler chansen att gå till jobbet och få en lön man kan leva på'
+    - 'Skapa jobb med meingsfullt innehåll och möjlighet till vidare anställning'
+    - 'Garantera kollektivavtalade anställningsformer.'
   -
-    fraga: Jämställdhet
+    fraga: Feminism och jämställdhet
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/feminism/
     asikt:
-    - 'Heltid ska vara norm på hela arbetsmarknaden'
-    - 'Jämställdhetsarbetet i skolan ska bedrivas kontinuerligt och inte i projekt för en begränsad tid, vare sig nationellt eller på den enskilda skolan'
-    - 'Genusperspektiv ska ha genomslag i forskning och utveckling och - om situationen inte snabbt förbättras - lagstifta om jämställda bolagsstyrelser'
-    - 'Alla som vill gå upp i arbetstid ska få möjlighet att göra det.'
+    - 'Stärka skyddet mot trakasserier'
+    - 'Att jämställdhetsarbetet i skolan ska bedrivas kontinuerligt och inte i projekt för en begränsad tid'
+    - 'Att heltid ska vara norm på hela arbetsmarknaden. Alla som vill gå upp i arbetstid ska få möjlighet att göra det'
+    - 'Stoppa allmän visstid och hyvling. Anställda inom vården ska ha rätt till arbetskläder'
+    - 'Höja bidragen till kvinnojourerna.'
   -
     fraga: FN
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/fn/
@@ -233,26 +253,29 @@ root:
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/forskning/
     asikt:
     - 'Höja den lägsta nivån för forskningsresurser till alla lärosäten'
-    - 'Se breda 10-åriga forskningspolitiska överenskommelser så att Sverige får en långsiktig forsknings- och innovationspolitik'
+    - 'Öka basanslagen till den fria forskningen'
+    - 'Skapa breda 10-åriga forskningspolitiska överenskommelser så att Sverige får en långsiktig forsknings- och innovationspolitik'
     - 'Förändra styr- och resurstilldelningssystemet för forskning och högre utbildning'
-    - 'Stärka jämställdheten inom forskning och högre utbildning, bland annat genom att införa en jämställdhetsbonus.'
+    - 'Stärka jämställdheten inom forskning och högre utbildning.'
   -
     fraga: Friskolor
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/friskolor/
     asikt:
-    - 'Att skattepengar som är avsedda till skolan stannar i skolan'
+    - 'Att skattepengar som är avsedda för skolan stannar i skolan.'
     - 'Ha ett gemensamt ansökningsförfarande till alla skolor, oavsett driftsform, för att säkerställa att elever med olika bakgrund möts. Kötid ska inte vara ett urvalskriterium'
-    - 'Höja kvalitetskraven så att personaltätheten och andra kvalitetsrelaterade faktorer inte fortsätter vara väsentligt lägre i friskolor än i kommunala skolor'
-    - 'Stoppa överetableringen av skolor och ge kommunerna långsiktiga planeringsförutsättningar'
-    - 'Att alla skolor är fria från religiös påverkan.'
+    - 'Förbjuda religiösa friskolor'
+    - 'Stoppa överetableringen av skolor och ge kommunerna långsiktiga planeringsförutsättningar.'
   -
     fraga: Fritidshem
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/fritidshem/
     asikt:
     - 'Höja personaltätheten och stärka kvaliteten i fritidshemmen'
-    - 'Att fritidspedagoger ska omfattas av lärarlegitimationsreglerna'
     - 'Utveckla samverkan mellan fritidshem och föreningsliv för att fler barn ska få ägna sig åt olika föreningsaktiviteter'
     - 'Att fritidshemmets lärandeuppdrag synliggörs och att personalen får tid att planera och utveckla verksamheten.'
+  -
+    fraga: Främlingsfientlighet
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/framlingsfientlighet/
+    asikt: 'Utreda ett förbud mot rasistiska organisationer.'
   -
     fraga: Funktionsnedsättning
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/funktionsnedsattning/
@@ -261,23 +284,31 @@ root:
     - 'Se en samordnad kraftsamling för att människor med en funktionsnedsättning ska få stöd att komma in på, eller tillbaks till, arbetsmarknaden'
     - 'Förbättra och stärka möjligheten till utbildning för personer med funktionsnedsättning.'
   -
+    fraga: Företagande och entreprenörskap
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/foretagande-och-entreprenorskap/
+    asikt:
+    - 'Ge småföretag och entreprenörer bättre förutsättningar att växa och utvecklas'
+    - 'Öka möjligheterna för företagen att finansiera expansion'
+    - 'Förenkla regelverken så att fler företag kan växa och anställa'
+    - 'Att Sverige fortsatt ska vara ett starkt startup-land.'
+  -
     fraga: Förskola
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/forskola/
     asikt:
-    - 'Stärka förskolans pedagogiska ledarskap och införa rektorer i förskolan'
-    - 'Minska barngrupperna och införa ett maxtak i förskolan'
-    - 'Utbilda och anställa fler förskollärare'
-    - 'Att alla som arbetar i förskolan har rätt kompetens för att arbeta med barn'
-    - 'Att alla barn ska ha rätt till förskola. Oavsett om föräldrarna är arbetslösa eller föräldralediga ska barnen ha rätt till förskola under hela dagen'
-    - 'Att få bort farliga ämnen ur barns vardag.'
+    - 'Fortsätta minska barngrupperna och införa ett maxtak för barngruppernas storlek'
+    - 'Utbilda och anställa fler förskollärare och barnskötare'
+    - 'Förbättra löner och arbetsvillkor för personalen. Garanterad tillsvidareanställning på heltid till alla som slutför barn- och fritidsprogrammet som barnskötare.'
+    - 'Att alla som arbetar i förskolan har kompetens för att arbeta med barn'
+    - 'Att alla barn ska ha rätt till förskola, även barn till arbetslösa.'
   -
     fraga: Förskoleklass
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/forskoleklass/
     asikt:
-    - 'Minska klasstorleken och anställa mer personal'
-    - 'Utveckla förskolepedagogiken och förskoleklassens unika roll som brygga mellan förskola och skola'
+    - 'Minska klasstorlekarna och anställa mer personal'
     - 'Investera i lärarna och deras förutsättningar för planering och kollegialt samarbete'
-    - 'Öka tillgången till specialpedagogiskt stöd i förskoleklassen.'
+    - 'Öka undervisningstiden i förskoleklassen'
+    - 'Öka tillgången till specialpedagogiskt stöd i förskoleklassen'
+    - 'Utveckla förskolepedagogiken och förskoleklassens unika roll som brygga mellan förskola och skola.'
   -
     fraga: Försvar och krisberedskap
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/forsvar-och-krisberedskap/
@@ -299,24 +330,24 @@ root:
     fraga: Gymnasieskola
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/gymnasieskola/
     asikt:
-    - 'Att gymnasieskolan ska göras obligatorisk'
+    - 'Att gymnasieskolan ska göras obligatorisk och att skolplikten förlängs till 18 år'
     - 'Att alla elever ska få det stöd som behövs för att nå kunskapsmålen'
-    - 'Att utveckla fler av gymnasiets yrkesprogram till yrkescollege där branscherna bidrar till utbildningens utformning'
+    - 'Att utveckla fler yrkescollege där branscherna bidrar till utbildningens utformning'
     - 'Att alla gymnasieprogram ska vara minst treåriga och ge grundläggande behörighet till högskolan'
-    - 'Att alla nationella gymnasieprogram ska innehålla ett estetiskt ämne.'
+    - 'Att alla gymnasieprogram ska innehålla ett estetiskt ämne.'
   -
     fraga: Havsmiljö
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/havsmiljo/
     asikt:
     - 'Att kraftfulla åtgärder mot övergödning genomförs'
-    - 'Förbjuda mikroplaster i kosmetika och minskad plastanvändning'
-    - 'Fortsätta insatser mot överfiske och satsa på fiskodling'
-    - 'Ha fler marina reservat som skyddar haven och fisket och att områden fria från bottentrålning skapas.'
+    - 'Ta fram nya metoder för att minska läkemedelsresterna i avloppsvattnet'
+    - 'Fortsätta insatser mot överfiske, minska bottentrålning och satsa på mer fiskodling'
+    - 'Skapa fler marina reservat som skyddar haven och fisket.'
   -
-    fraga: HBT-frågor
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/hbt-fragor/
+    fraga: HBTQ+-frågor
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/hbtq-fragor/
     asikt:
-    - 'Stimulera en ökad forskning kring HBTQ-personers hälsa och utveckla sjukvårdspersonalens kompetens i HBT-frågor'
+    - 'Stimulera en ökad forskning kring HBTQ+-personers hälsa och utveckla sjukvårdspersonalens kompetens i HBTQ+-frågor'
     - 'Att HBTQ-personers hälsa följs upp och belyses när folkhälsoundersökningar görs'
     - 'Se utbildningsinsatser för personalen i skolan, skolhälsovården och socialtjänsten för att man bättre ska kunna ge hjälp och stöd åt unga homosexuella och transpersoner'
     - 'Öppna upp för en översyn av lagstiftningen gällande vårdnadshavare. Med de nya familjetyper som växer fram så kan den existerande formen av lagstiftning där det enbart kan finnas två vårdnadshavare vara problematisk'
@@ -329,23 +360,25 @@ root:
     asikt:
     - 'Heltid ska vara norm på hela arbetsmarknaden'
     - 'Skillnaden mellan hur mycket kvinnor och män förvärvsarbetar ska minska'
-    - 'Stoppa missbruket av visstidsanställningar. '
+    - 'Ansvaret för familj och barn ska delas mer lika'
+    - 'Stoppa den allmänna visstiden och hyvlingen samt begränsa delade turer'
+    - 'Individualisera föräldraförsäkringen.'
   -
     fraga: Hemlöshet
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/hemloshet/
     asikt:
-    - 'Bryta arbetslösheten och få fler människor i arbete. Vi har ett mål som är viktigare än alla andra: Till år 2020 ska Sverige öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att vi når lägst arbetslöshet i EU'
     - 'Förbättra missbrukarvården och stärka psykiatrin. Ambitionen måste vara att ingen ska vara hemlös'
+    - 'Bryta arbetslösheten och få fler människor i arbete. Vi har ett mål som är viktigare än alla andra: Till år 2020 ska Sverige öka antalet personer som arbetar och antalet arbetade timmar i ekonomin så mycket att vi når lägst arbetslöshet i EU'
     - 'Bygga fler studentbostäder och små hyreslägenheter.'
   -
     fraga: Högskola
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/hogskola/
     asikt:
-    - 'Att möjliggöra för fler att växa och växla genom hela livet genom högre utbildning'
+    - 'Möjliggöra för yrkesverksamma att växa och växla genom hela livet'
     - 'Öka antalet högskoleplatser i hela landet'
     - 'Förändra styr- och resurstilldelningssystemet för högre utbildning'
-    - 'Genom fler relevanta sommarkurser ta steg mot ett treterminssystem'
-    - 'Bryta den sociala snedrekryteringen.'
+    - 'Ta steg mot ett treterminssystem genom fler relevanta sommarkurser '
+    - 'Bryta den sociala snedrekryteringen till högskolan.'
   -
     fraga: Idrott
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/idrott/
@@ -353,22 +386,32 @@ root:
     - 'Att avgifterna ska hållas låga så att alla har möjlighet att delta'
     - 'Att tjejer och killar kan utöva idrott på lika villkor'
     - 'Att alla får 30 minuters daglig fysisk aktivitet i skolan/på fritids'
-    - 'Att idrott för unga bygger på lek och gemenskap, inte ”toppning”'
+    - 'Satsa på idrott och friluftsliv för äldre'
     - 'Inrätta en s.k. evenemangslista.'
   -
     fraga: Infrastruktur
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/infrastruktur/
     asikt:
-    - 'Se att hela Sverige har en bra infrastruktur'
-    - 'Minska transporternas klimatpåverkan'
+    - 'Bygga en bra infrastruktur i hela Sverige. Vägar, järnvägar, flyg och kollektivtrafik ska fungera i hela landet.'
+    - 'Investera 700 miljarder kronor på infrastrukturen fram till år 2029. Det är 100 miljarder mer än den förra borgerliga regeringen'
+    - 'Satsa 500 miljoner per år på vägar i landsbygd'
+    - 'Bygga nya stambanor för höghastighetståg'
     - 'Ha säkrare trafik och schyssta villkor inom transportbranschen.'
+  -
+    fraga: Innovation
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/innovation/
+    asikt:
+    - 'Stärka innovationsklimatet, öka konkurrenskraften och utveckla samarbeten'
+    - 'Utveckla fler företagsinkubatorer'
+    - 'Satsa på forskning och högre utbildning i hela landet.'
   -
     fraga: Integration och mångfald
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/integration-och-mangfald/
     asikt:
     - 'Korta vägen till jobb genom språk, utbildning och bostad'
-    - 'Ökad möjlighet till kompletterande utbildning i kombination med praktik och jobb'
-    - 'Ökat stöd till kommunerna för bra utbildning och socialt stöd för nyanlända barn och ungdomar'
+    - 'Införa en språkplikt för alla nyanlända. Alla som lever i Sverige ska kunna svenska'
+    - 'Att inga områden ska vara särskilt utsatta. Vi ska bland annat rusta upp miljonprogrammen med en miljard årligen'
+    - 'Öka stödet till kommunerna för bra utbildning och socialt stöd för nyanlända barn och ungdomar'
     - 'Alla kommuner ska bidra i mottagandet och för snabb etablering.'
   -
     fraga: Israel och Palestina
@@ -377,7 +420,7 @@ root:
     - 'Att de israelisk-palestinska fredssamtalen börjar igen'
     - 'Se en tvåstatslösning, där Israel och Palestina kan leva sida vid sida i fred och säkerhet.'
     - 'Att ockupationen av Västbanken och Östra Jerusalem samt blockaden av Gaza upphör'
-    - 'Att Israels folkrättsligt illegala bosättningspolitiken omedelbart upphör.'
+    - 'Att Israels folkrättsligt illegala bosättningspolitik omedelbart upphör.'
   -
     fraga: Jakt och viltvård
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/jakt-och-viltvard/
@@ -386,17 +429,26 @@ root:
     - 'Konflikterna kring jakten på rovdjur måste upphöra och ordning och reda skapas i förvaltningen av dessa'
     - 'Göra en översyn av älgjakten och en samlad klövdjursförvaltning.'
   -
+    fraga: Jämställdhet
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/jamstalldhet/
+    asikt:
+    - 'Stärka skyddet mot trakasserier'
+    - 'Att jämställdhetsarbetet i skolan ska bedrivas kontinuerligt och inte i projekt för en begränsad tid'
+    - 'Att heltid ska vara norm på hela arbetsmarknaden. Alla som vill gå upp i arbetstid ska få möjlighet att göra det'
+    - 'Stoppa allmän visstid och hyvling. Anställda inom vården ska ha rätt till arbetskläder'
+    - 'Höja bidragen till kvinnojourerna.'
+  -
     fraga: Järnväg
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/jarnvag/
     asikt:
-    - 'Ha en pålitlig järnväg'
-    - 'Bygga nya stambanor för ett bättre järnvägssystem'
+    - 'Rusta upp järnvägen så att den blir pålitlig och punktlig i hela landet'
+    - 'Bygga nya stambanor för ett bättre järnvägssystem med högre kapacitet och snabbare tåg'
     - 'Flytta över mer gods från väg till järnväg.'
   -
     fraga: Kemikalier
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/kemikalier/
     asikt:
-    - 'Att Sverige går före och inför förbud mot farliga kemikalier,'
+    - 'Att Sverige går före och inför förbud mot farliga kemikalier'
     - 'Införa skatter som minskar användningen av farliga kemikalier'
     - 'Driva på EU för skärpta kemikalielagarna'
     - 'Göra platser där barn vistas dagligen, till exempel förskolor och skolor, giftfria.'
@@ -404,25 +456,26 @@ root:
     fraga: Klimat
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/klimat/
     asikt:
-    - 'Att utsläppen i Sverige ska minska med 85 procent till 2045'
-    - 'Att kollektivtrafiken utökas och mer gods transporteras på järnväg och med fartyg'
-    - 'En miljöbilsbonus för bilar med liten klimatpåverkan införs'
-    - 'Krav på drivmedelsproducenterna att blanda in ökande andel förnybart i bensin och diesel. '
+    - 'Att Sverige ska driva på i EU och FN för att världens länder ska öka sina åtagande för att göra verklighet av Parisavtalets ambitioner'
+    - 'Att kollektivtrafiken utökas, mer gods transporteras på järnväg och med fartyg och flygets utsläpp minskas.'
+    - 'Öka investeringarna i klimatåtgärder och ge stöd för nya innovationer i industrin som minskar utsläppen'
+    - 'Minskade utsläpp från vägtrafiken genom ytterligare höjda krav på att blanda in förnybart i bensin och diesel, genom en bonus till den som köper miljöbil och att EU sätter ett slutdatum för bensin och dieseldrivna bilar'
+    - 'Få ordentlig fart på återvinning och återanvändning så att vi får en mer hållbar konsumtion och en cirkulär ekonomi.'
   -
     fraga: Kollektivavtal
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/kollektivavtal/
     asikt:
-    - 'För att säkerställa goda arbetsvillkor för alla som jobbar i Sverige är det avgörande att det finns kollektivavtal som reglerar spelreglerna på arbetsmarknaden'
+    - 'Säkerställa goda arbetsvillkor och öka tryggheten på jobbet för alla som jobbar i Sverige. Då är det avgörande att det finns kollektivavtal som reglerar spelreglerna på arbetsmarknaden'
     - 'Svenska fackförbund ska alltid kunna kräva ett svenskt kollektivavtal, ytterst med stöd av stridsåtgärder (med de begränsningar som följer av EU-rätten).'
   -
     fraga: Konsumentfrågor
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/konsumentfragor/
     asikt:
-    - 'Att konsumentens rätt stärks vid telefonförsäljning'
-    - 'Att övervakningen av att reglerna kring reklam som riktar sig till barn och könsstereotyp reklam skärps'
-    - 'Öka Konsumentombudsmannens befogenheter'
     - 'Att det finns konsumentvägledning i samtliga kommuner, mindre kommuner kan samverka med varandra'
-    - 'Se över lagstiftningen om snabblån utan tillräcklig kreditupplysning, exempelvis sms-lån.'
+    - 'Det ska vara möjligt att fortsätta använda kontanter, oavsett var i landet vi bor. Övergången till ett samhälle med allt mindre kontanter måste ske på ett sätt så att ingen lämnas efter. I första hand ska detta kunna hanteras av bankerna, men om detta inte fungerar kan införande av lagstiftning inte uteslutas'
+    - 'Kartlägga förekomsten av könsstereotyp och sexistisk reklam och överväga om det finns behov av ytterligare åtgärder i form av utvecklad självreglering och utbildningsinsatser. Om inte detta fungerar är vi beredda att överväga lagstiftning'
+    - 'Se över regler för uppsägningstider för medlems- och abonnemangstjänster'
+    - 'Överväga krav på tillgänglighet på kundtjänst för abonnemang och medlemstjänster.'
   -
     fraga: Kultur
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/kultur/
@@ -443,50 +496,59 @@ root:
     fraga: Kärnkraft
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/karnkraft/
     asikt:
-    - 'En ordnad övergång där kärnkraften successivt ersätts med förnybar energi och energieffektivisering. Vi ska ha ett väl fungerande och konkurrenskraftigt elsystem även när kärnkraften är borta'
+    - 'Arbeta för en ordnad övergång där kärnkraften successivt ersätts med förnybar energi och energieffektivisering. Vi ska ha ett väl fungerande och konkurrenskraftigt elsystem även när kärnkraften är borta'
     - 'Att Sverige ska ha god tillgång till el med konkurrenskraftiga priser.'
   -
     fraga: Lag och ordning
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/lag-och-ordning/
     asikt:
-    - '. Rekryteringen till gängen ska stoppas. Straffen för vapenbrott och grova våldsbrott ska vara kännbara. Mer sociala åtgärder ska riktas mot ungdomar i riskzonen.'
-    - '. Polisen ska finnas där den behövs som bäst. Polisen ska ha god förmåga att utreda brott och brottsoffer ska få ett bra bemötande.'
-    - '. Fler gärningsmän ska ställas inför rätta. Drabbade kvinnor ska få stöd och skydd. Stödet till barn som bevittnar våld ska förbättras.'
+    - ' Vi vill ha 10 000 fler polisanställda till 2024. Polisen får 7,3 miljarder kronor extra under perioden 2018 - 2020, varav 2,2 miljarder redan i år.'
+    - '. Rekryteringen till gängen ska stoppas. Då krävs många olika insatser, tex avskaffad straffrabatt för 18 - 21-åringar, bättre anpassade påföljder för unga och sociala insatsgrupper.'
+    - '. Vi vill skärpa straffet för våldtäkt och ge barn som bevittnar våld status som brottsoffer. Drabbade kvinnor ska få stöd och skydd.'
   -
     fraga: Landsbygdspolitik
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/landsbygdspolitik/
     asikt:
     - 'Stimulera regional tillväxt. Investera i service, utbildning, bredband, vägar och järnvägar samt bostäder i hela Sverige'
     - 'Utnyttja möjligheten för en ökad svensk livsmedelsproduktion'
-    - 'Anpassa närings- och arbetsmarknadspolitiken efter regionala förhållanden'
-    - 'Förstärka statliga närvaron regionalt.   '
+    - 'Se till att det ska bli lättare att bygga i attraktiva strandlägen på landsbygden'
+    - 'Satsa 500 miljoner per år på vägar i landsbygd'
+    - 'Förstärka statliga den närvaron regionalt.  '
   -
     fraga: Lärare
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/larare/
     asikt:
-    - 'Höja lärarlönerna och införa fler och tydligare karriärvägar i läraryrket'
-    - 'Investera i lärarnas fortbildning och kompetensutveckling'
+    - 'Höja lärarlönerna och förbättra arbetsmiljön'
+    - 'Införa ett nationellt professionsprogram'
     - 'Höja kvaliteten i lärarutbildningarna med fler lärarledda timmar och stärkt koppling mellan teori och praktik'
-    - 'Utbilda och anställa fler speciallärare och specialpedagoger'
-    - 'Minska lärarnas administration och kringuppgifter.'
+    - 'Avlasta lärarna med lärarassistenter och minska lärarnas administration'
+    - 'Öka lärares mandat att bidra till trygghet och studiero.'
   -
     fraga: Läxor
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/laxor/
-    asikt: 'Göra det obligatorisk för alla skolor att erbjuda läxhjälp.'
+    asikt: 'Att alla elever erbjuds läxhjälp oavsett vilken skola du går på.'
   -
     fraga: Mat
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/mat/
     asikt:
     - 'Öka svensk livsmedelsproduktion och genomföra en offensiv satsning på ekologiskt'
-    - 'Bibehålla och utveckla starkt djurskydd och höga miljökraven som en konkurrensfördel'
-    - 'Bättre märkning och ökad information till konsumenterna om maten vi äter'
-    - 'Införa strängare straff för matfusk.'
+    - 'Bibehålla och utveckla starkt djurskydd och höga miljökrav som en konkurrensfördel'
+    - 'Bättre märkning och ökad information till konsumenterna om matens ursprung, även på restaurang'
+    - 'Fortsätta att stötta Sveriges lantbrukare efter sommarens extrema torka.'
+  -
+    fraga: Migration- asyl- och flyktingpolitik
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/migration-asyl--och-flyktingpolitik/
+    asikt:
+    - 'Att den nya och mer restriktiva asyllagstiftningen ska ligga fast. Vår lagstiftning kan inte väsentligen skilja sig från övriga länders i EU'
+    - 'Fortsätta arbetet inom EU och globalt för att få fler länder att ta sitt ansvar för människor på flykt'
+    - 'Att dagens modell med eget boende avvecklas och ersätts med ett bättre system som motverkar segregation.'
   -
     fraga: Nationella prov
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/nationella-prov/
     asikt:
+    - 'Stoppa provfusket och öka rättssäkerheten'
     - 'Digitalisera de nationella proven'
-    - 'Att de nationella proven ska stödja läraren i deras betygsättning.'
+    - 'Att de nationella proven ska stödja lärarna och bidra till en likvärdig betygsättning.'
   -
     fraga: Nedrustning
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/nedrustning/
@@ -499,46 +561,57 @@ root:
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/nyanlanda-elever/
     asikt:
     - 'Att alla skolor ska ta emot nyanlända elever'
-    - 'Förbättra modersmålsundervisningen'
-    - 'Att resurser ska fördelas mer rättvist'
-    - 'Stärka elevhälsan.'
+    - 'Att ett tak för andelen nyanlända elever införs'
+    - 'Att svensk- och modersmålsundervisningen förbättras'
+    - 'Att mer resurser ska fördelas till de elever som behöver det bäst'
+    - 'Att elevhälsan stärks och utvecklas.'
   -
     fraga: Nyanländas etablering
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/nyanlandas-etablering/
     asikt:
-    - 'Införa etableringsjobb'
+    - 'Införa en språkplikt för nyanlända'
+    - 'Införa etableringsjobb tillsammans med arbetsmarknadens parter'
     - 'Se över hur olika bidragssystem samspelar och påverkar utrikes födda kvinnors ekonomiska förutsättningar att studera och arbeta'
-    - 'Satsa på fler snabbspår och bristyrkesutbidlningar.'
+    - 'Satsa på fler snabbspår och bristyrkesutbildningar.'
+  -
+    fraga: Nyindustrialisering
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/nyindustrialisering/
+    asikt:
+    - 'Att industrin fortsättningsvis ska vara viktig för svensk tillväxt'
+    - 'Att fler personer i Sverige ska vara sysselsatta inom industrin'
+    - 'Att industrin i hela Sverige ska öka sin konkurrenskraft och sitt deltagande i främst de högkvalificerade delarna av de globala värdekedjorna.'
   -
     fraga: Näringspolitik och konkurrenskraft
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/naringspolitik-och-konkurrenskraft/
     asikt:
-    - 'Att företagsklimatet i Sverige är så bra att det startas nya företag, att företagen växer, anställer fler och exporterar sina varor och tjänster. På så sätt skapas det fler jobb i Sverige'
-    - 'Att öka samverkan mellan offentliga aktörer, näringsliv och akademi och därmed skapa nya, innovativa lösningar som stärker konkurrenskraften, bidrar till en hållbar utveckling och skapar fler jobb'
-    - 'Att stärka företagens omställningsförmåga och konkurrenskraft när marknader förändras. Svenska företag ska vara ledande inom den digitala utvecklingen och i att utnyttja digitaliseringens möjligheter'
+    - 'Att företagsklimatet i Sverige främjar uppstart av nya företag, att företagen växer, att företagen får möjlighet att anställa fler och exporterar sina varor och tjänster i högre grad. På så sätt skapas det fler jobb i Sverige'
+    - 'Att öka samverkan mellan offentliga aktörer, näringsliv och akademi och därmed skapa nya, innovativa lösningar som stärker konkurrenskraften och bidrar till en hållbar utveckling samt skapar fler jobb'
+    - 'Stärka företagens omställningsförmåga och konkurrenskraft när marknader förändras. Svenska företag ska vara ledande inom den digitala utvecklingen och i att utnyttja digitaliseringens möjligheter'
     - 'Att kompetensförsörjningssystemet ska möta industrins behov och främja dess långsiktiga utveckling och att Sverige ska vara ledande i forskning inom områden som bidrar till att stärka den industriella produktionen av varor och tjänster i Sverige.'
   -
     fraga: Pension
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/pension/
     asikt:
     - 'Avskaffa pensionärsskatten helt till 2020'
-    - 'Se över grundskyddet (garantipension och bostadstillägg) för att förbättra för den som har en låg pension'
-    - 'Förändra premiepensionssystemet'
-    - 'Se till att fler kommer i jobb. På så sätt kommer per pengar in i pensionssystemet och pensionerna blir högre.'
+    - 'Att den samlade pensionen för vanliga löntagare på sikt ska vara 70 procent av slutlönen'
+    - 'Höja pensionen med upp till 600 kr per månad för de som har de lägsta inkomstpensionerna'
+    - 'Förbättra garantipensionen och bostadstillägget för de med allra mest utsatt ekonomi'
+    - 'Förändra premiepensionssystemet.'
   -
     fraga: Polisen
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/polisen/
     asikt:
     - 'Ha 10 000 fler polisanställda'
     - 'Starta polisutbildning på två nya orter'
-    - 'Att Polisens arbetsmiljö ska förbättras'
-    - 'Öka resurserna till polisen med 7,1 miljarder kronor på tre år, varav 2 miljarder redan 2018.'
+    - 'Att polisens arbetsmiljö ska förbättras'
+    - 'Öka resurserna till polisen med 7,3 miljarder kronor på tre år, varav 2,2 miljarder redan 2018'
+    - 'Utöka polisens kamerabevakning.'
   -
     fraga: Psykiatri
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/psykiatri/
     asikt:
     - 'Öka tillgången till snabba insatser så att människor som behöver hjälp, stöd och vård ska kunna få det tidigare än idag'
-    - 'Förbättra möjligheterna för exempelvis skolhälsovård och ungdomsmottagningar att kunna möta unga som mår dåligt i ett tidigt skede så att de kan få hjälp snabbt'
+    - 'Införa screening av barn och ungas psykiska hälsa i skolan, vård utan väntan för barn och unga som mår dåligt, snabbt stöd i mobilen, och rätt stöd vid självmordstankar'
     - 'Bygga upp regionala center för kunskapsspridning och utveckling i psykiatrin'
     - 'Öka möjligheterna att få hjälp med psykisk ohälsa på vårdcentralerna.'
   -
@@ -551,6 +624,13 @@ root:
     - 'Utveckla ett nytt plattformsoberoende mediestöd'
     - 'Inrätta en så kallad evenemangslista.'
   -
+    fraga: Regional tillväxt
+    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/regional-tillvaxt/
+    asikt:
+    - 'Stimulera regional tillväxt. Investera i service, utbildning, bredband, vägar och järnvägar samt bostäder i hela Sverige'
+    - 'Utnyttja möjligheten för en ökad svensk livsmedelsproduktion'
+    - 'Anpassa närings- och arbetsmarknadspolitiken efter regionala förhållanden förstärka statliga närvaron regionalt.'
+  -
     fraga: Rekryteringsgap
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/rekryteringsgap/
     asikt:
@@ -562,32 +642,33 @@ root:
     fraga: Rektorer
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/rektorer/
     asikt:
-    - 'Se till att rektorer, skolledare och förskolechefer får kontinuerlig och obligatorisk kompetensutveckling'
-    - 'Förbättra skolledares arbetssituation. Rektor ska fokusera på det pedagogiska ledarskapet'
-    - 'Att förskolechefer ska ha samma yrkestitel och samma rätt till kompetensutveckling som rektorer.'
+    - 'Att rektorer, skolledare och förskolechefer får kontinuerlig och obligatorisk kompetensutveckling'
+    - 'Förbättra skolledares arbetsmiljö och lön. Rektor ska kunna fokusera på det pedagogiska ledarskapet'
+    - 'Inrätta ett nationellt professionsprogram'
+    - 'Öka rektorers mandat att bidra till trygghet och studiero.'
   -
     fraga: Sjukförsäkringen
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/sjukforsakringen/
     asikt:
     - 'Höja taket i sjukförsäkringen så att fler kan få ut 80 procent av inkomsten'
-    - 'Stärka rehabiliteringen och ha en väl fungerande företagshälsovård'
-    - 'Ha ett sjukpenningtal på max 9 dagar år 2020.'
+    - 'Stärka rehabiliteringen och se till att alla har en väl fungerande företagshälsovård.'
   -
     fraga: Sjukvård
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/sjukvard/
     asikt:
-    - 'Vi vill att 14 000 fler anställs i vården under nästa mandatperiod fram till år 2022'
-    - 'Arbetsmiljön i sjukvården ska förbättras. De som jobbar i välfärden ska hinna, orka och kunna ge patienter, brukare och klienter en god vård och omsorg av hög kvalitet'
-    - 'Fler sjuksköterskor ska få läsa till specialister med studielön eller utbildningsanställningar'
-    - 'Vi vill förstärka ambulanssjukvården och bygga ut täckningen med fler ambulanshelikoptrar i hela landet'
-    - 'Vi vill öka resurserna till en ny och utvecklad satsning på cancersjukvården. Väntetiderna ska kortas och den statliga finansieringen av Sveriges sex regionala cancercentra ska utvecklas.'
+    - 'Anställa 14 000 fler i vården till 2022'
+    - 'Införa ett arbetsmiljölöfte för Sveriges välfärd. De som jobbar i välfärden ska hinna, orka och kunna ge patienter, brukare och klienter en god vård och omsorg av hög kvalitet'
+    - 'Att fler sjuksköterskor ska få läsa till specialister med studielön eller utbildningsanställningar. Garanterad tillsvidareanställning på heltid till alla som slutför vård- och omsorgsprogrammet som undersköterskor'
+    - 'Vi vill investera 500 miljoner kronor per år i ambulanssjukvården och bygga ut verksamheten med ambulanshelikoptrar i landet så att ambulansen ska kunna komma i tid i hela Sverige'
+    - 'Satsa en halv miljard årligen på en ny och utvecklad cancersatsning där man fortsätter att korta väntetiderna och bygger ut de sex regionala cancercentra'
+    - 'Prioritera investeringar i vården framför skattesänkningar och privatiseringar.'
   -
     fraga: Skatter
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/skatter/
     asikt:
     - 'Att nya resurser till välfärden går före skattesänkningar och skattesubventioner'
     - 'Att progressiviteten i skattesystemet vårdas'
-    - 'Att skatteklyftan mellan ålderspensionärer och löntagare avskaffas'
+    - 'Att skatteklyftan mellan pensionärer och löntagare avskaffas'
     - 'Att skattefusk och skatteundandragande bekämpas'
     - 'Att en blocköverskridande skattereform kommer till stånd.'
   -
@@ -595,13 +676,15 @@ root:
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/skog/
     asikt:
     - 'Skapa fler jobb och mer hållbar tillväxt i skogsnäringarna'
-    - 'Att Sverige är en ledande nation inom den nya bioekonomin med innovationer kring nya förnybara bränslen och material från skogen'
+    - 'Att fler ska anställas inom de gröna näringarna'
+    - 'Göra Sverige till en ledande nation inom den nya bioekonomin med innovationer kring nya förnybara bränslen och material från skogen'
     - 'Stimulera ett mer miljövänligt skogsbruk och mer skyddad natur i syfte att bevara den biologiska mångfalden.'
   -
     fraga: Studiemedel
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/studiemedel/
     asikt:
-    - 'Utveckla studiemedelssystemet så att alla kan växa och växla genom hela livet'
+    - 'Utveckla och förbättra studiemedelssystemet så att alla kan växa och växla genom hela livet'
+    - 'Förbättra tryggheten vid studier och möjligheten till deltidssjukskrivning för studenter'
     - 'Minska snedrekryteringen till högre utbildning.'
   -
     fraga: Säkerhetspolitik
@@ -631,24 +714,18 @@ root:
     fraga: Utbildning
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/utbildning/
     asikt:
-    - 'Investera brett från förskola till högskola för höjda kunskapsresultat'
-    - 'Genomföra ett kraftfullt kunskapslyft med fler utbildningsplatser inom vuxenutbildning, yrkeshögskola och högskola'
-    - 'Satsa på forskning och utbildning i hela landet'
-    - 'Införa ett utbildningskontrakt och studiestartsstöd för att stärka de med lägst utbildning'
-    - 'Höja kvaliteten och attraktiviteten för gymnasiets yrkesprogram.'
-  -
-    fraga: Utbildningskontrakt
-    adress: https://www.socialdemokraterna.se//var-politik/a-till-o/utbildningskontrakt/
-    asikt:
-    - 'Halvera andelen unga som inte har en gymnasieexamen, eller studerar för att få det, till år 2020'
-    - 'Göra gymnasieskolan obligatorisk.'
+    - 'Fortsätta investera i hela utbildningsystemet, från förskola till högskola'
+    - 'Återupprätta en jämlik kunskapsskola som kännetecknas av trygghet och studiero för alla elever'
+    - 'Utbilda och anställa fler lärare och annan pedagogisk personal'
+    - 'Bryta med marknadisering och konkurrens, återupprätta bildningsinstitutionerna i samhället. Religiösa friskolor ska förbjudas och vinstjakten stoppas'
+    - 'Förbättra möjligheten att utbilda sig genom hela livet, i hela landet.'
   -
     fraga: Vinst i välfärden
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/vinst-i-valfarden/
     asikt:
     - 'Stoppa vinstjakten i skola, vård och omsorg'
     - 'Investera mer och skärpa lagar och regler för att stärka kvaliteten i all välfärd'
-    - 'Att kollektivavtal ska gälla alla anställda i offentligt finansierad välfärdsverksamhet – oavsett om utföraren är privat eller av offentlig'
+    - 'Att kollektivavtal ska gälla alla anställda i offentligt finansierad välfärdsverksamhet - oavsett om utföraren är privat eller av offentlig'
     - 'Att offentlighetsprincip och meddelarfrihet ska gälla alla anställda i välfärden'
     - 'Stoppa gräddfiler i vård och omsorg.'
   -
@@ -656,13 +733,14 @@ root:
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/vuxenutbildning/
     asikt:
     - 'Genomföra ett kraftigt kunskapslyft med fler utbildningsplatser inom vuxenutbildning, yrkeshögskola, folkhögskola och högskola och samtidigt investera i kvaliteten i utbildningen'
+    - 'Att det ska gå att växa och växla under hela livet, i hela landet'
     - 'Att en ny kompetensförsäkring mellan staten och parterna på arbetsmarknaden skapas för att garantera återkommande kompetensutveckling för löntagarna'
-    - 'En effektivare och mer individanpassad sfi. Det ger bättre förutsättningar att kombinera sfi med annan vuxenutbildning.'
+    - 'Utveckla en effektivare och mer individanpassad SFI. Det ger bättre förutsättningar att kombinera SFI med annan vuxenutbildning.'
   -
     fraga: Yrkesutbildning
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/yrkesutbildning/
     asikt:
-    - 'Att stärka branschkopplingen i gymnasiets yrkesprogram och utveckla fler yrkescollege'
+    - 'Stärka branschkopplingen i gymnasiets yrkesprogram och utveckla fler yrkescollege'
     - 'Att alla program i gymnasieskolan ska ge högskolebehörighet'
     - 'Att alla elever på yrkesprogram ska få en praktik av hög kvalitet'
     - 'Att yrkesvux byggs ut'
@@ -671,15 +749,17 @@ root:
     fraga: Äldre
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/aldre/
     asikt:
-    - 'Ta fram en långsiktig kvalitetsplan för äldreomsorgen. Vårt mål är en jämlik och jämställd äldreomsorg med hög kvalitet'
-    - 'Bygga fler äldreboenden'
-    - 'Stoppa vinstjakten i vård och omsorg'
-    - 'Avskaffa den orättfärdiga skatteklyftan mellan pensionärer och löntagare.'
+    - 'Genomföra en satsning för att bryta äldres ensamhet och på idrott och friluftsliv för äldre.'
+    - 'Bygga fler äldreboenden och utveckla en jämlik och jämställd äldreomsorg med hög kvalitet i hela landet'
+    - 'Anställa fler inom äldreomsorgen, förbättra arbetsvillkoren och stärka deras kunskap och kompetens'
+    - 'Förbättra garantipensionen och bostadstillägget för de med allra mest utsatt ekonomi'
+    - 'Höja pensionen och avskaffa den orättfärdiga skatteklyftan mellan pensionärer och löntagare.'
   -
     fraga: Äldreomsorg
     adress: https://www.socialdemokraterna.se//var-politik/a-till-o/aldreomsorg/
     asikt:
-    - 'Ta fram en långsiktig kvalitetsplan för äldreomsorgen. Vårt mål är en jämlik och jämställd äldreomsorg med hög kvalitet'
-    - 'Anställa fler inom äldreomsorgen och stärka deras kunskap och kompetens.'
+    - 'Införa en fast omsorgskontakt i hemtjänsten och mer social samvaro genom en satsning på idrott och friluftsliv för äldre'
+    - 'Anställa fler inom äldreomsorgen, förbättra arbetsvillkoren och stärka deras kunskap och kompetens. Avskaffa minutscheman i hemtjänsten och garanterad tillsvidareanställning på heltid till alla som slutför vård- och omsorgsprogrammet som undersköterskor'
+    - 'Ta fram en långsiktig kvalitetsplan för äldreomsorgen. Vårt mål är en jämlik och jämställd äldreomsorg med hög kvalitet i hela landet'
     - 'Bygga fler äldreboenden'
     - 'Stoppa vinstjakten i vård och omsorg. '

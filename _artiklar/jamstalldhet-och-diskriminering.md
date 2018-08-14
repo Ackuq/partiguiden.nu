@@ -26,5 +26,6 @@ tags:
     - Minoritetspolitik
     - Lönegapet mellan kvinnor och män
     - Jämlikhet
+    - #Metoo
 categories: Jämställdhet
 ---

@@ -33,4 +33,8 @@ tags:
     - Miljonärsskatt
     - Penningpolitik
     - Politikerarvoden och partiskatt
+    - Bostadsskatters
+    - Bolagsskatt och kapitalskatt
+    - Ekonomiskt bistånd
+    - Regional tillväxt
 ---

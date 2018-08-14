@@ -16,5 +16,6 @@ tags:
     - Socialbidrag
     - Anställningstrygghet
     - Bistånd
+    - Bidragstak
 categories: Trygghetssystem
 ---

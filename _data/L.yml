@@ -176,27 +176,27 @@ root:
     fraga: Bolagsskatt och kapitalskatt
     adress: https://www.liberalerna.se/politik/bolagsskatt-och-kapitalskatt/
     asikt:
-    - 'Konkurrenskraftig bolagsskatt'
+    - 'Bolagsskatt som är konkurrenskraftig mot omvärlden'
     - 'Mer attraktiva personaloptioner'
-    - 'Skattefritt sparande'
+    - 'Skattefritt sparande upp till 100 000 kronor på investeringssparkonto'
   -
     fraga: Cykling
     adress: https://www.liberalerna.se/politik/cykling/
     asikt:
     - 'Fler sammanhängande stråk för enklare cykeltrafik'
     - 'Gör det lättare att ta med sig cykeln i kollektivtrafiken'
-    - 'Gör det säkrare att cykla. Som cyklist är du ofta utsatt för osäkra miljöer, det vill vi ändra på.'
-    - 'Inför ett nationellt cykelkansli som stöttar kommuner vid byggnation och utveckling av cykelinfrastruktur'
+    - 'Gör det säkrare att cykla'
+    - 'Inför ett nationellt cykelkansli som stöd till kommuner'
     - 'Gör cykeln till ett eget transportslag'
     - 'Låt skatteintäkter från trängselskatter gå till utbyggnad av cykelinfrastruktur'
   -
     fraga: Demokrati
     adress: https://www.liberalerna.se/politik/demokrati/
     asikt:
-    - 'Vi vill att Sverige ska ha en författningsdomstol för att stärka skydde för fri- och rättigheterna.'
-    - 'Demokratisering ska vara det övergripande målet i svensk utrikespolitik och i vårt utvecklingsbistånd till andra länder.'
-    - 'Svenska ambassader ska prioritera demokrati och mänskliga rättigheter i sitt arbete.'
-    - 'Vi vill ha ett demokrativillkor i svensk vapenexport. Sverige ska inte sälja vapen till diktaturer.'
+    - 'Vi vill att Sverige ska ha en författningsdomstol för att stärka skyddet för fri- och rättigheterna'
+    - 'Demokratisering ska vara det övergripande målet i svensk utrikespolitik och i vårt bistånd'
+    - 'Svenska ambassader ska prioritera demokrati och mänskliga rättigheter i sitt arbete'
+    - 'Sverige ska inte sälja vapen till diktaturer - inför demokrativillkor i svensk vapenexport'
   -
     fraga: Diskriminering
     adress: https://www.liberalerna.se/politik/diskriminering/
@@ -210,19 +210,40 @@ root:
     adress: https://www.liberalerna.se/politik/djurskydd/
     asikt:
     - 'Djur ska skötas och behandlas väl'
-    - 'Djurskyddslagstiftningen  ska vara skarp och tydlig'
+    - 'Djurskyddslagstiftningen ska vara skarp och tydlig'
     - 'Kontrollen av djurskydd ska vara effektiv och likadan i hela Sverige'
     - 'Efterlevnaden av EU:s djurskyddslag måste skärpas'
     - 'Antibiotikaanvändningen måste minska'
     - 'Djurtransporter ska begränsas - köttransporter istället för djurtransporter'
     - 'Fler mobila och mindre slakterier'
   -
+    fraga: Digitalisering
+    adress: https://www.liberalerna.se/politik/digitalisering/
+    asikt:
+    - 'Utveckla IT-infrastrukturen i Sverige'
+    - 'Staten ska fortsätta medfinansiera bredbandsutbyggnad och digital uppkoppling i hela landet'
+    - 'Avveckla kopparnätet först när bredband och digital uppkoppling är utbyggd'
+    - 'IT och datorkunskap ska ha en naturlig roll i skolan'
+    - 'Det behövs en ny upphovsrättslag för bättre balans mellan upphovsrättshavarens intressen och allmänintresset'
+  -
     fraga: Ekonomi
     adress: https://www.liberalerna.se/politik/ekonomi/
     asikt:
-    - 'Ta tillvara globaliseringens möjligheter'
-    - 'Bryt bidragsberoendet'
-    - 'Skydda det som bygger välfärden'
+    - 'Välfärden ska präglas av kvalitet och valfrihet, och ges till alla på lika villkor'
+    - 'Gör det billigare och enklare att anställa. Inför inträdesjobb'
+    - 'Sänk skatten för den som går från försörjningsstöd till arbete'
+    - 'Färre ska betala statlig inkomstskatt, och värnskatten ska avskaffas'
+    - 'Sänk skatten för äldre som fortsätter jobba'
+    - 'Ny RUT-reform där taket för avdrag tredubblas, äldre får dra av 60% av arbetskostnaden och fler tjänster ingår'
+    - 'Höjd garantipension, höjt bostadstillägg och sänkt skatt för pensionärer'
+    - 'En ny genomgripande skattereform'
+    - 'Grön skatteväxling med lägre skatt på arbete och högre miljöskatter'
+    - 'Trappa ner ränteavdragen till 20 procent över tio år'
+    - 'Sänkta flyttskatter och amorteringskrav. Inför skattegynnat bosparande'
+    - 'Skattefritt sparande upp till 100 000 kronor på investeringssparkonto'
+    - 'Bolagsskatt som är konkurrenskraftig mot omvärlden'
+    - 'Ansvarsfull skötsel av statsfinanserna. Respektera överskottsmålet'
+    - 'Ja till bankunion, nej till bankskatt'
   -
     fraga: Energi och elmarknad
     adress: https://www.liberalerna.se/politik/energi/
@@ -230,22 +251,24 @@ root:
     - '100 procent fossilfri elproduktion.'
     - 'Mer marknad - inte mer subventioner'
     - 'Mer forskning och utveckling'
-    - 'Stärk konsumentens ställning på elmarknanden'
+    - 'Stärk konsumentens ställning på elmarknaden'
     - 'Export av svensk klimatsmart el minskar våra grannländers beroende av fossil energi och rysk gas'
     - 'Stoppa Nordstream II'
     - 'Vi står inte bakom energiöverenskommelsen'
   -
-    fraga: Ensamkommande barn och unga
-    adress: https://www.liberalerna.se/politik/ensamkommande-barn-och-unga/
+    fraga: Ensamkommande unga
+    adress: https://www.liberalerna.se/politik/ensamkommande-unga/
     asikt:
     - 'Ensamkommande unga ska få ett bra och tryggt mottagande'
+    - 'Värna asylrätten - varje människas skyddsskäl avgör om man får stanna, inte gymnasiestudier'
     - 'Barn ska behandlas som barn - medicinska åldersbedömningar behövs'
-    - 'Skyddsskälen avgör om man får stanna eller inte'
+    - 'Alla barn ska skyddas mot barnäktenskap'
     - 'Förbättra samhällets stöd till unga asylsökande'
     - 'Ensamkommande unga ska få information om svenska lagar och om jämställdhet'
-    - 'Väntan på asylbesked måste kortas'
+    - 'Korta väntan på asylbesked'
+    - 'Snabbare och bättre integration'
   -
-    fraga: EU - Europeiska unionen
+    fraga: EU
     adress: https://www.liberalerna.se/politik/eu-europeiska-unionen/
     asikt:
     - 'Sverige bör införa euron som valuta 2020'
@@ -304,10 +327,11 @@ root:
     - 'Ge snabb hjälp till familjer med problem'
   -
     fraga: Fastighetsbeskattning och ränteavdrag
-    adress: https://www.liberalerna.se/politik/fastighetsskatt/
+    adress: https://www.liberalerna.se/politik/fastighetsbeskattning-och-ranteavdrag/
     asikt:
-    - 'Sänk flyttskatterna'
-    - 'Trappa ner ränteavdragen'
+    - 'Sänkta flyttskatter och amorteringskrav'
+    - 'Inför skattegynnat bosparande'
+    - 'Trappa ner ränteavdragen till 20 procent över tio år'
     - 'Höj skatten på obebyggd tomtmark'
   -
     fraga: Fiske
@@ -357,13 +381,6 @@ root:
     - 'Inför fritt val av hjälpmedel i hela landet'
     - 'Återupprätta LSS och personlig assistans'
   -
-    fraga: Fördelningspolitik
-    adress: https://www.liberalerna.se/politik/fordelningspolitik/
-    asikt:
-    - 'Alla ska ha rätt till en grundläggande ekonomisk standard.'
-    - 'Alla ska ha rätt till välfärd med hög kvalitet.'
-    - 'Vi vill att fler ska jobba så att fler kan försörja sig själva.'
-  -
     fraga: Företag
     adress: https://www.liberalerna.se/politik/foretag/
     asikt:
@@ -378,6 +395,7 @@ root:
     adress: https://www.liberalerna.se/politik/forskolan/
     asikt:
     - 'Målet ska vara att alla ska kunna läsandets grunder när de slutar förskolan'
+    - 'Obligatorisk språkförskola för alla barn till nyanlända från tre år, minst 15 timmar i veckan'
     - 'Barn till föräldralediga och arbetslösa ska ha rätt till 30 timmars vistelse i veckan'
     - 'Alla ska ha rätt att välja förskola för sina barn finansierad med förskolepeng'
     - 'Alla förskolegrupper ska ledas av en förskollärare. Det ska finnas karriärtjänster för förskollärare'
@@ -449,8 +467,10 @@ root:
     fraga: Finanspolitik
     adress: https://www.liberalerna.se/politik/finanspolitik/
     asikt:
-    - 'Respektera överskottsmålet'
-    - 'Öka det finansiella sparandet'
+    - 'Ansvarsfull skötsel av statsfinanserna'
+    - 'Respektera överskottsmålet och öka det finansiella sparandet'
+    - 'Trappa ner ränteavdragen till 20 procent över tio år'
+    - 'Skattefritt sparande upp till 100 000 kronor på investeringssparkonto'
     - 'Ja till bankunion, nej till bankskatt'
     - 'Stärk Finanspolitiska rådet'
   -
@@ -511,16 +531,16 @@ root:
     - 'Premiera miljövänligt fiske med högre fiskekvoter'
     - 'Enkel och tydlig märkning förenklar för konsumenten att välja bra fisk och skaldjur'
   -
-    fraga: HBT-frågor
-    adress: https://www.liberalerna.se/politik/hbt-fragor/
+    fraga: HBTQ-frågor
+    adress: https://www.liberalerna.se/politik/hbtq-fragor/
     asikt:
-    - 'Sverige ska vara världens bästa land för hbt-personer.'
-    - 'Skolan ska vara en frizon från homo-, bi- och transfobi.'
-    - 'Öka hbt-kompetensen även i vård, äldreomsorg och andra verksamheter.'
+    - 'Sverige ska vara världens bästa land för hbtq-personer.'
+    - 'Skolan ska vara en frizon från homo-, bi-, trans- och queerfobi.'
+    - 'Öka hbtq-kompetensen även i vård, äldreomsorg och andra verksamheter.'
     - 'Erkänn den samkönade familjen i EU:s lagar.'
-    - 'Stärk EU:s diskrimineringsskydd för hbt-personer.'
-    - 'Öka Sveriges stöd till hbt-rörelsen i länder där rättigheter kränks.'
-    - 'Förföljda hbt-personer ska ha möjlighet till asyl i Sverige.'
+    - 'Stärk EU:s diskrimineringsskydd för hbtq-personer.'
+    - 'Öka Sveriges stöd till hbtq-rörelsen i länder där rättigheter kränks.'
+    - 'Förföljda hbtq-personer ska ha möjlighet till asyl i Sverige.'
     - 'Ja till värdmoderskap där betalning inte är inblandad.'
     - 'Skydda transpersoner i lagarna mot hatbrott.'
     - 'Gör det lättare för unga transpersoner att ändra sitt juridiska kön och få könskorrigering.'
@@ -531,13 +551,16 @@ root:
     asikt:
     - 'Varje människas frihet måste försvaras'
     - 'Kultur eller religion är ingen ursäkt för att inskränka en persons frihet'
-    - 'Arbetet mot hedersrelaterat våld och förtryck måste permanentas'
+    - 'Kunskapssatsningar inom polis, domstolar, vården, skolan och socialtjänsten'
     - 'Avsätt ordentligt med resurser för arbete mot hedersförtryck'
-    - 'Alla kommuner ska ha beredskap att hjälpa den som hotas av hedersrelaterat våld eller förtryck'
-    - 'Högre straff för hedersrelaterade brott'
-    - 'Ökat skydd för dem som lever med hot'
-    - 'Stöd förortens feminister men inga pengar till organisationer som motverkar jämställdhet'
+    - 'Inför Lex Fadime'
+    - 'Pröva utvisning av dem som begår hedersbrott samtidigt som offret får stanna'
     - 'Skärp lagen mot barn- och tvångsäktenskap'
+    - 'Barn ska inte kunna bli av med sitt medborgarskap för att tvingas till giftermål'
+    - 'Utreseförbud för att stoppa giftermål av barn och unga'
+    - 'Bekämpa könsstympning'
+    - 'Stöd förortens feminister'
+    - 'Inga pengar till organisationer som motverkar jämställdhet och integration'
   -
     fraga: Hemlöshet
     adress: https://www.liberalerna.se/politik/hemloshet/
@@ -615,8 +638,8 @@ root:
     - 'Stärk konsumenters integritet på nätet.'
     - 'Kameraövervakning bara där den verkligen behövs.'
   -
-    fraga: Invandring
-    adress: https://www.liberalerna.se/politik/invandring/
+    fraga: Invandring / migration
+    adress: https://www.liberalerna.se/politik/migration/
     asikt:
     - 'Öppenhet gör vårt land rikare'
     - 'Sverige behöver fler som flyttar hit för att jobba och studera'
@@ -625,24 +648,15 @@ root:
     - 'Människor på flykt måste få stöd och hjälp av omvärlden'
     - 'Sverige och Europa ska stå upp för en human och solidarisk asylpolitik'
   -
-    fraga: IT-politik
-    adress: https://www.liberalerna.se/politik/it-politik/
-    asikt:
-    - 'Utveckla IT-infrastrukturen i Sverige'
-    - 'Staten ska fortsätta medfinansiera bredbandsutbyggnad och digital uppkoppling i hela landet'
-    - 'Avveckla kopparnätet först när bredband och digital uppkoppling är utbyggd'
-    - 'IT och datorkunskap ska ha en naturlig roll i skolan'
-    - 'Det behövs en ny upphovsrättslag för bättre balans mellan upphovsrättshavarens intressen och allmänintresset'
-  -
     fraga: Inkomstskatt
     adress: https://www.liberalerna.se/politik/inkomstskatt/
     asikt:
-    - 'Höj brytpunkten för statlig skatt'
-    - 'Avskaffa värnskatten'
+    - 'Hälften kvar efter skatt för den som går från bidrag till arbete'
+    - 'Färre ska betala statlig inkomstskatt, och värnskatten ska avskaffas'
     - 'Återställ jobbskatteavdraget'
-    - 'Modernisera expertskatten'
-    - 'Förläng arbetslivet'
-    - 'Sänk skatten för pensionärerna'
+    - 'Stärkt jobbskatteavdrag från 63 år och ingen särskild löneskatt för äldre'
+    - 'Konkurrenskraftig expertskatt'
+    - 'Sänkt skatt för pensionärer'
   -
     fraga: Inträdesjobb
     adress: https://www.liberalerna.se/politik/intradesjobb/
@@ -682,6 +696,7 @@ root:
     fraga: Jämlikhet
     adress: https://www.liberalerna.se/politik/jamlikhet/
     asikt:
+    - 'Välfärden ska präglas av kvalitet och valfrihet, och ges till alla på lika villkor'
     - 'Klyftorna ska överbryggas'
     - 'Jobbpolitik är den bästa fördelningspolitiken'
     - 'Klassresan börjar i klassrummet'
@@ -710,14 +725,14 @@ root:
     fraga: Klimat
     adress: https://www.liberalerna.se/politik/klimat/
     asikt:
-    - 'Parisavtalets klimatmål måste nås'
-    - 'Kunskap, teknikutveckling, marknadsekonomi och frihandel behövs för att rädda klimatet'
-    - 'Koldioxidskatt och flygskatt bör införas på EU-nivå'
-    - 'Grön skatteväxling, höj miljö- och klimatskatterna och sänk jobbskatterna'
-    - 'Den som smutsar ner ska betala mer'
-    - 'Utsläppen måste minska inom industrin, energiproduktionen, transportsektorn och jordbruket'
-    - 'Subventioner till fossilt bränsle måste successivt avskaffas'
-    - 'Klimatinvesteringar behövs t.ex. i tåg, elbussar, cykelbanor och laddstolpar'
+    - 'Mer EU-samarbete för klimatets skull'
+    - 'Europeisk koldioxidskatt och flygskatt och en EU-avgift på plast som inte återvinns'
+    - 'För att rädda klimatet måste utsläppen ner - då behövs också teknikutveckling, marknadsekonomi och frihandel'
+    - 'Grön skatteväxling och förorenaren betalar'
+    - 'Skattelättnader till fossilt bränsle måste avskaffas'
+    - 'Även flyget ska stå för sina klimatkostnader'
+    - 'Mer fossilfri el - 100 procent fossilfritt elsystem'
+    - 'Klimatinvesteringar behövs i laddstolpar och annat klimatsmart'
     - 'Det ska vara lätt att göra rätt'
   -
     fraga: Kommunal demokrati
@@ -941,6 +956,7 @@ root:
     adress: https://www.liberalerna.se/politik/nyanlanda-elever/
     asikt:
     - 'Undervisning i svenska språket ska prioriteras för nyanlända elever'
+    - 'Obligatorisk språkförskola för nyanlända barn och barn till nyanlända'
     - 'Nyanlända elever som riskerar att inte nå kunskapsmålen kan få förlängd skolplikt'
     - 'Karriärtjänster för lärare med högre löner i skolor i utsatta områden'
     - 'Nyanlända elever ska ges undervisning i alla skolor och kommuner'
@@ -992,7 +1008,7 @@ root:
     - 'Sexköp ska fortsätta vara förbjudet.'
     - 'Vi vill förbättra arbetet mot människohandel.'
     - 'Vi vill bygga ut hjälpen till prostituerade som vill bryta med sin tillvaro.'
-    - 'Ge fler offer för människohandeln permanent uppehållstillstånd i Sverige.'
+    - 'Offer för människohandel ska lättare kunna stanna i EU om de samarbetar med polisen.'
   -
     fraga: Psykiatri
     adress: https://www.liberalerna.se/politik/psykiatri/
@@ -1035,9 +1051,10 @@ root:
     fraga: RUT-avdraget
     adress: https://www.liberalerna.se/politik/rut-avdraget/
     asikt:
-    - 'Äldre ska få större RUT-avdrag'
-    - 'Maxbeloppet för RUT-avdrag ska höjas kraftigt'
-    - 'RUT-avdraget ska omfatta ännu fler tjänster'
+    - 'Genomför en ny RUT-reform'
+    - 'Låt äldre få dra av 60% av arbetskostnaden och utred ett bredare HEM-avdrag för personer över 70 år'
+    - 'Tredubbla maxbeloppet för RUT-avdrag'
+    - 'Fler tjänster ska ingå i RUT-avdraget'
   -
     fraga: Rättssäkerhet
     adress: https://www.liberalerna.se/politik/rattssakerhet/
@@ -1063,6 +1080,15 @@ root:
     - 'Religiösa inslag ska vara frivilliga och får inte vara en del av undervisningen.'
     - 'Könsuppdelade lektioner kan aldrig motiveras av ideologiska, religiösa eller kulturella skäl.'
   -
+    fraga: Rasism
+    adress: https://www.liberalerna.se/politik/rasism/
+    asikt:
+    - 'Bekämpa alla former av rasism, främlingsfientlighet och intolerans'
+    - 'Stärk polisens hatbrottsarbete'
+    - 'Religiösa och kulturella institutioner måste få samhällets skydd'
+    - 'Skolans arbete mot olika former av intolerans måste stärkas'
+    - 'Rasistiska och andra främlingsfientliga brott ska oftare leda till utvisning'
+  -
     fraga: Sjukförsäkring
     adress: https://www.liberalerna.se/politik/sjukforsakring/
     asikt:
@@ -1087,13 +1113,28 @@ root:
     fraga: Skatter
     adress: https://www.liberalerna.se/politik/skatter/
     asikt:
-    - 'En ny skattereform behövs'
-    - 'Sänkta skatter måste finansieras'
-    - 'Alla måste bidra - och få del av fördelarna'
+    - 'En ny genomgripande skattereform som gynnar strävsamhet, flit, ambition och risktagande'
+    - 'Förläng arbetslivet, stärk konkurrenskraften och förbättra företagares frihet och möjligheter'
+    - 'Öka rörligheten på bostadsmarknaden och trappa ner ränteavdragen'
+    - 'Grön skatteväxling med lägre skatt på arbete och högre miljöskatter'
+    - 'Sänkta skatter måste finansieras och alla måste få del av fördelarna med reformen'
   -
     fraga: Skola
     adress: https://www.liberalerna.se/skola
-    asikt: 'Mer måste göras för att elever med olika bakgrund ska hamna i samma klassrum. Låt alla föräldrar ta ställning till olika skolor och göra ett aktivt val. Och alla skolor ska vara med och ta emot nyanlända och asylsökande.'
+    asikt:
+    - 'Mer lärarledd undervisning - lämna inte eleverna i sticket med projektarbeten och grupparbeten med eget faktasökande.'
+    - 'Förläng grundskolan till tio år, genom att göra nuvarande förskoleklass till ett första skolår.'
+    - 'Mer tid i skolan för alla. Utöka timplanen i viktiga ämnen, börja med matematik och idrott.'
+    - 'Extra mycket tid för dem som behöver det mest. Gör det enklare att gå om ett år. Nyanlända elever ska få mer tid i skolan, ett extra läsår och sommarskola när det behövs för att komma ikapp.'
+    - 'Låt lärarna vara lärare. Återinför lärarassistenterna som administrativt stöd, och förstärk elevhälsoteamen som kan jobba utanför klassrummet.'
+    - 'Ge skolorna möjlighet att trygga sina elever och sin personal. Elever som begår allvarliga brott i skolan ska snabbare kunna stängas av och flyttas om det behövs för att trygga säkerheten.'
+    - 'Mobiltelefoner är fantastiska, men de hör inte hemma i klassrummet. Lärare och rektorer ska inte behöva argumentera om det, utan lektioner ska vara mobilfria för att skapa studiero.'
+    - 'I skolor med stora utmaningar behöver de skickligaste rektorerna och lärarna finnas. Där vill vi införa särskilda karriärtjänster och se till att lönerna är snäppet högre.'
+    - 'Mer måste göras för att elever med olika bakgrund ska hamna i samma klassrum. Låt alla föräldrar ta ställning till olika skolor och göra ett aktivt val. Och alla skolor ska vara med och ta emot nyanlända och asylsökande.'
+    - 'Lärarlönerna måste höjas rejält.'
+    - 'Systemet med förstelärare ska byggas ut, och det ska löna sig att ta sig an de största utmaningarna.'
+    - 'Höj kvaliteten på lärarutbildningen och satsa mer på kompetensutveckling.'
+    - 'Gör skolan statlig igen.'
   -
     fraga: Samtycke
     adress: https://www.liberalerna.se/politik/politiksamtycke/
@@ -1134,13 +1175,6 @@ root:
     - 'Taket bör höjas i takt med vad samhällsekonomin tillåter.'
     - 'Vi vill att arbetslöshetsförsäkringen ska vara obligatorisk.'
   -
-    fraga: Statliga bolag
-    adress: https://www.liberalerna.se/politik/statliga-bolag/
-    asikt:
-    - 'Vi tycker att staten ska sälja sin andel i flygbolaget SAS.'
-    - 'Sälj Vattenfalls utländska verksamhet.'
-    - 'Vi vill se över och ifrågasätta statens ägande i andra bolag och att man säljer aktier där det är möjligt.'
-  -
     fraga: Straff
     adress: https://www.liberalerna.se/politik/straff/
     asikt:
@@ -1165,7 +1199,7 @@ root:
     - 'Fribeloppet ska vara tillräckligt högt så att det lönar sig att arbeta under studierna'
     - 'Den som studerar senare i livet och de som vårdar barn eller anhöriga ska ha goda villkor'
     - 'Studier utomlands med studiemedel ska vara möjligt, men det får inte leda till att man slipper återbetalning vid utlandsflytt'
-    - 'De som på grund av funktionsnedsättning behöver förlängd skolgång ska få studiemedel, inte aktivitetsersättning'
+    - 'De som på grund av funktionsnedsättning behöver förlängd skolgång ska kunna kombinera studiemedel med aktivitetsersättning.'
   -
     fraga: Studiero
     adress: https://www.liberalerna.se/politik/studiero/
@@ -1190,7 +1224,7 @@ root:
     - 'Fler lärlingsplatser blir en snabbare väg in på arbetsmarknaden.'
     - 'Ibland är frihet inte gratis. Sluta snåla på den personliga assistansen.'
   -
-    fraga: Sfi - Svenska för invandrare
+    fraga: Svenska för invandrare
     adress: https://www.liberalerna.se/politik/sfi/
     asikt:
     - 'Mer individanpassade sfi-studier utifrån varje människas grundkunskaper'

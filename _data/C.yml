@@ -2,39 +2,38 @@
 root:
   amne:
   -
+    fraga: Bostadsskatter
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/bostad/bostadsskatter
+    asikt:
+    - 'Sänka flyttskatterna'
+    - 'Få till en bred politisk överenskommelse för bostadsmarknaden'
+    - 'Behålla och utveckla ROT-avdraget'
+  -
     fraga: Bostäder
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/bostad/bostader
     asikt:
-    - 'Fortsätta med nationella regelförenklingar'
-    - 'Göra det möjligt för fler att kunna äga sin bostad'
-    - 'Öka rörligheten på bostadsmarknaden'
-    - 'Sänka trösklarna för förstagångsköpare att komma in på bostadsmarknaden'
-    - 'Inför en friare hyressättning med starkare koppling till bostädernas marknadsvärde'
-    - 'Enklare byggregler och mindre markrestriktioner'
-    - 'Fler tillfälliga bygglov och lättnader i plan- och bygglagen'
-    - 'Gör det enklare att hyra ut bostäder i andrahand'
-    - 'Tillåt byggande nära sjöar och vattendrag i större utsträckning'
-    - 'Tillåt byggande utanför detaljplanelagt område'
-    - 'Se över de ekonomiska styrmedlen för att öka byggandet av fler bostäder och för att främja rörligheten på bostadsmarknaden'
-    - 'Inventera markinnehavet för att hitta mer byggbar mark'
-    - 'Ändra ändamålet för en byggnad så att kontor och affärslokaler kan omvandlas till bostäder eller förläggningar'
-    - 'Möjliggör att från privat håll ta initiativ till byggprojekt och få förslaget prövat av kommunen'
+    - 'Förenkla regler så att de inte hindrar bostadsbyggande'
+    - 'Sätta en gräns för hur lång tid det får ta att behandla överklaganden av byggplaner'
+    - 'Främja klimatsmart byggande'
+  -
+    fraga: Hyresrätter
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/bostad/hyresratter
+    asikt:
+    - 'Modernisera hyresregleringen'
+    - 'Ha ett starkt skydd mot chockhöjningar av hyror'
+    - 'Göra det enklare att hyra ut i andra hand'
+    - 'Bygga fler studentlägenheter genom förenklade byggkrav'
   -
     fraga: Samhällsplanering
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/bostad/samhallsplanering
     asikt:
-    - 'Fortsätta med nationella regelförenklingar för att skynda på och förenkla byggandet'
-    - 'Stärka samverkan mellan kommuner, regioner och landsting i samhällsplaneringen'
-    - 'Öka energieffektiviseringen vid nybyggnation och i de befintliga bostäderna'
-    - 'Bygga så att vi blandar hyresrätter, bostadsrätter och villor.'
-    - 'Förbättra samplaneringen av bostäder och infrastruktur'
-    - 'Korta ner handläggningstiderna för överklagande'
+    - 'Förenkla värderingsregler för bostadsbyggande på landsbygden'
+    - 'Införa enklare byggregler utanför detaljplanelagt område'
   -
     fraga: Strandskydd
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/bostad/strandskydd
     asikt:
-    - 'Ändra i strandskyddslagen så att det blir möjligt att bygga i områden med gles bebyggelse'
-    - 'Att strandskyddet ska anpassas utifrån lokala förutsättningar så att landsbygden kan utvecklas'
+    - 'Avskaffa det generella strandskyddet - behåll i områden med stora naturvärden Ändra i strandskyddslagen, så att det går att bygga i områden med gles bebyggelse'
     - 'Trygga allmänhetens tillgång till stränder och bevara goda livsvillkor för djur och växter'
   -
     fraga: Ekonomi och skatter
@@ -65,106 +64,143 @@ root:
     - 'Höja gränsen för när statlig inkomstskatt ska betalas och återställa jobbskatteavdraget'
     - 'Sänka skatten för äldre som arbetar, genom ett förstärkt jobbskatteavdrag'
   -
+    fraga: Investeringar i nystartade företag
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/ekonomi-och-skatter/investeringar-i-nystartade-foretag
+    asikt:
+    - 'Införa ett brett system med personaloptioner och utöka investeraravdraget'
+    - 'Sänka arbetsgivaravgifterna riktat mot de mindre företagen'
+    - 'Införa en ny företagsform, ingångsföretag, med förenklad schablonbeskattning'
+  -
     fraga: Regionala skattebaser
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/ekonomi-och-skatter/regionala-skattebaser
-    asikt:
-    - 'Att pengar som kommer från fastighetsskatten på industrifastigheter och elproduktionsenheter ska tillfalla de regioner där den betalas in'
-    - 'Att en statlig utredning undersöker hur fastighetsskatten på bästa sätt kan bli mer lokal'
-    - 'Att delar av de värden som skapas från exploatering av naturresurser ska regionaliseras'
+    asikt: 'Utreda hur ett antal skatter ska kunna regionaliseras'
   -
     fraga: Energi
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi
     asikt:
-    - 'Göra det enklare och mer lönsamt för dig som vill producera egen el'
-    - 'Att du ska tjäna på att äga och köra en miljövänlig bil'
-    - 'Att Sverige ska vara fritt från kärnkraft och istället drivas av 100 procent förnybar energi'
+    - 'Att Sverige ska ha ett smart, effektivt och helt förnybart energisystem år 2040.'
+    - 'Öka exporten av grön el till Europa'
+    - 'Göra det enklare och mer lönsamt för dig som vill tillverka grön el'
+    - 'Elcertifikatssystemet förlängs och utökas. Elcertifikatsystemet går i korthet ut på att den som tillverkar förnybar el, till exempel genom vattenkraft eller solceller, ger möjlighet att sälja sin el med en bonus.'
+    - 'Både småskalig och storskalig vattenkraft värnas. Det blir bland annat enklare och mindre byråkratiskt för de småskaliga vattenkraftverken.'
+    - 'Långsiktiga och stabila marknadsförutsättningar för såväl elproduktionsbolag som för mikroproducenter. Att till exempel köpa ett nytt vindkraftverk - eller sätta upp solpaneler på hustaket - kostar en hel del. Då är det bra om man vet vilka regler som kommer gälla i framtiden, och att man kan tjäna på det.'
   -
-    fraga: Elcertifikatsystemet
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/elcertifikatsystemet
+    fraga: Bioenergi
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/bioenergi
     asikt:
-    - 'Öka andelen förnybar el'
-    - 'Att elcertifikatsystemet förlängs till 2030 så att den förnybara elproduktionen i Sverige kan fortsätta öka'
-    - 'Bygga fler utlandsförbindelser för att möjliggöra ökad export av el'
+    - 'Ha mer svensk tillverkning av hållbara biodrivmedel'
+    - 'Ha långsiktiga styrmedel som gynnar svensk bioenergi'
   -
     fraga: Energiöverenskommelsen
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/energioverenskommelsen
     asikt:
-    - 'Förlängt systemet med elcertifikat fram till 2030'
+    - 'Ett mål om att Sverige ska ha 100% förnybar el till år 2040'
     - 'Slopad anslutningsavgift för havsbaserad vindkraft'
-    - 'Enighet om att värna och förenkla för den småskaliga vattenkraften'
-    - 'Översyn av regler för att underlätta nya produkter och tjänster inom energilagring och småskalig elproduktion'
+    - 'En mer rättvis beskattning av förnybar el'
+    - 'Ett mål om att Sverige ska ha 100% förnybar el till år 2040'
+    - 'Mer stöd till mer förnybar energi genom att elcertifikatssystemet förlängs fram till 2030 med 18 TWh mer förnybar el, vilket är en ökning med 60 procent.'
+    - 'En mer rättvis beskattning av förnybar el'
+    - 'Principen om inget statligt stöd till kärnkraft'
+    - 'Slopad anslutningsavgift för havsbaserad vindkraft'
+    - 'Införa moderna miljökrav samtidigt som vi skyddar och förenklar för den småskaliga vattenkraften'
+    - 'Se över och förenkla regler för nya produkter och tjänster inom energilagring och småskalig elproduktion.'
   -
-    fraga: Fossila bränslen i transportsektorn
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/fossila-branslen-i-transportsektorn
+    fraga: Gröna transporter
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/grona-transporter
     asikt:
-    - 'Att Sverige ställer om så att transporter drivs av hållbara energikällor'
-    - 'Att du som köper en miljövänlig bil får en premie, så kallad grön bilbonus, som är högre ju miljövänligare bilen är'
-    - 'Satsa på eldrivna transporter'
-    - 'Införa en miljöfordonspremie för köp av de mest miljövänliga bussarna och lastbilarna, kombinerat med en premie för dem som tankar med miljövänligt bränsle.'
-    - 'Se till att det finns fortsatt goda villkor för förnybara drivmedel'
-  -
-    fraga: Förnybar energi
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/fornybar-energi
-    asikt:
-    - 'Fortsätta bygga ut en hållbar energiproduktion utan klimatpåverkan'
-    - 'Minska vårt importbehov av energi och i stället exportera grön el till Europa'
-    - 'Reformera EU:s utsläppshandel, så att priset stiger och utsläppshandel blir mer stabil'
-    - 'Bryta oljeberoendet i transportsektorn'
+    - 'Att det ska löna sig med klimateffektiva transporter'
+    - 'Att järnvägen rustas upp och byggs ut, och att höghastighetsbanorna börja byggas'
+    - 'Ställa krav på obligatorisk inblandning av biodrivmedel för flyget'
   -
     fraga: Kärnkraft
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/karnkraft
     asikt:
-    - 'Att Sveriges energisystem ska vara helt förnybart år 2040, fritt från kärnkraft och uranbrytning'
-    - 'Använda energikällor som är bra för klimatet, men som inte orsakar de miljöproblem som är förknippade med kärnkraften'
+    - 'Att Sveriges energisystem ska vara helt förnybart år 2040'
+    - 'Använda förnybara energikällor som är bra för klimatet'
+    - 'Att kärnkraften ska bära sina fulla kostnader utan statliga stöd'
+  -
+    fraga: Solenergi
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/solenergi
+    asikt:
+    - 'Införa ett grönt avdrag som gör det billigare att producera egen solenergi hemma'
+    - 'Minska regelkrånglet och minska skatterna för dig som vill producera egen solel'
+    - 'Avskaffa solskatten'
+  -
+    fraga: Vattenkraft
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/vattenkraft
+    asikt:
+    - 'Utveckla vattenkraften för mer förnybar energi'
+    - 'Att vattenkraften ska ha moderna miljövillkor som skyddar äganderätten och minskar regelkrångel'
+    - 'Att mer av skatteintäkterna från energiproduktion ska stanna i de regionerdär den produceras'
   -
     fraga: Vindkraft
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/energi/vindkraft
     asikt:
-    - 'Att vindkraften ska kunna öka ännu mer och producera energi för ett hållbart samhälle'
+    - 'Att vindkraften ska öka ännu mer och producera energi för ett hållbart samhälle'
     - 'Lyfta fram den havsbaserade vindkraften, som är en outnyttjad källa'
+    - 'Avskaffa fastighetsskatten på vindkraft'
   -
     fraga: Europa
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/europa
     asikt:
-    - 'Säga ja till EU och nej till euron'
-    - 'Att EU ska fokusera på stora frågor och låta människor bestämma om sin vardag ifred'
-    - 'Att EU ska ställa höga klimat- och miljömål för ett mer hållbart Europa'
+    - 'EU arbetar för miljö, handel, säkerhet, öppenhet och liberala värderingar'
+    - 'EU inte ska bestämma sådant som länderna själva bäst bestämmer över'
+    - 'EU blir mer demokratiskt och inför en offentlighetsprincip'
   -
     fraga: Familjen
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/familjen
     asikt:
-    - 'Att barnbidraget ska delas jämt mellan föräldrarna och vara lika för alla.'
-    - 'Att ett jämt uttag av föräldraförsäkringen nås genom att införa en tredubblad jämställdhetsbonus, att föräldraförsäkringen öppnas upp för ytterligare två närstående och införa en VAB-bonus.'
-    - 'Att föräldrapenningen höjs så snart ekonomin i Sverige gör det möjligt.'
+    - 'Barnets bästa ska vara utgångspunkten i familjepolitiken'
+    - 'Familjer ska ha bra möjligheter att kombinera familjeliv med yrkesliv'
+    - 'Samhället måste kunna fånga upp och hjälpa barn som far illa'
+  -
+    fraga: Adoption
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/familjen/adoption
+    asikt:
+    - 'Barnets bästa ska styra när det handlar om adoption'
+    - 'Adoptionslagstiftningen anpassas efter att familjer idag kan se olika ut'
   -
     fraga: Barn
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/familjen/barn
     asikt:
-    - 'Att samhällets olika aktörer samverkar för att tidigt kunna upptäcka barn och unga som riskerar att fara illa'
-    - 'Att en särskild kommission tillsätts med uppgift att öka kunskapen kring orsakerna till den försämrade psykiska ohälsan bland barn och unga.'
-    - 'Se ett nytt barnmisshandelsbrott som inkluderar fysisk och psykisk misshandel.'
-    - 'Att människor som utsätter barn för brott ska straffas i högre omfattning än idag.'
-    - 'Instifta ett nytt barnfridskränkningsbrott'
+    - 'Ha snabbare hjälp till barn och unga som mår psykiskt dåligt'
+    - 'Införa ett nytt barnmisshandelsbrott för fysisk och psykisk misshandel'
+    - 'Införa ett nytt barnfridskränkningsbrott, med högre straff än andra fridskränkningsbrott'
+  -
+    fraga: Barnbidrag
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/familjen/barnbidrag
+    asikt:
+    - 'Barnbidraget ska vara lika för alla, oavsett inkomst'
+    - 'Barnbidraget ska delas lika mellan föräldrarna'
   -
     fraga: Föräldraförsäkring
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/familjen/foraldraforsakring
     asikt:
-    - 'Se över hur reglerna påverkar hur många föräldradagar varje förälder tar ut'
-    - 'Ha en enkel, modern och tydlig föräldraförsäkring som fokuserar på barnets bästa'
+    - 'Föräldrarna själva ska få bestämma hur de ska fördela de disponibla föräldradagarna mellan sig.'
+    - 'Föräldradagar ska också kunna tas ut av två närstående personer'
+    - 'Reglerna i föräldraförsäkringen anpassas bättre för företagare'
+  -
+    fraga: Ofrivillig barnlöshet
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/familjen/ofrivillig-barnloshet
+    asikt:
+    - 'Alla barn ska ha rätt att veta sitt ursprung'
+    - 'Fler metoder för assisterad befruktning ska bli tillåtna i Sverige'
+    - 'Altruistiskt surrogatmödraskap tillåts, där ekonomisk ersättning inte är inblandad'
   -
     fraga: Företagande
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/foretagande
     asikt:
-    - 'Att reglerna för företagare ska bli enklare så att tiden kan användas till att skapa jobb istället för att fylla i blanketter'
-    - 'Ha en enda väg in till myndigheterna så att uppgifter bara behöver lämnas på ett ställe'
-    - 'Att det ska bli enklare och billigare för små och växande företag att erbjuda sina anställda delägarskap'
+    - 'Slopa företagarens arbetsgivaravgift för den första anställda'
+    - 'Göra det lättare att lämna över sitt företag till nästa generation'
+    - 'Införa \"Ingångsföretag\", en förenklad företagsform med mindre krångel'
+    - ' '
   -
     fraga: Företagsklimat
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/foretagande/foretagsklimat
     asikt:
-    - 'Göra det enklare att starta företag'
-    - 'Sänka kostnaderna för att anställa med lägre och enklare skatter, särskilt för små och växande företag'
-    - 'Särskilt gynna det aktiva och personliga ägandet och företagandet'
+    - 'Göra det enklare och billigare att starta företag'
+    - 'Sänka skatterna för att anställa med lägre och enklare skatter'
+    - 'Göra det lättare för företag att tidigt finansiera sin verksamhet'
   -
     fraga: Minskat regelkrångel
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/foretagande/minskat-regelkrangel
@@ -182,63 +218,83 @@ root:
     - 'Att det ska bli enklare och billigare för nystartade företag att erbjuda nyckelmedarbetare delägarskap.'
     - 'Att en ny och enkel företagsform skapas: ingångsföretag'
   -
+    fraga: RUT- och ROT-avdrag
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/foretagande/rut--och-rot-avdrag
+    asikt:
+    - 'Bredda RUT till att gälla fler tjänster'
+    - 'Tredubbla taket i RUT från 25 000 kronor till 75 000 kronor'
+    - 'Trygghets-RUT bör införas, så att tillsyn av hemmet vid resa eller frånvaro av annan anledning inkluderas i avdraget.'
+    - 'Tvätt-RUT bör också införas, där tvätt som sker utanför hemmet ger rätt till avdrag.'
+    - 'Flytt- och hämt-RUT bör införas, vilket innebär att flytt av bohag inom samma bostad, hämtning och lämning av återvinning, bortforsling av trädgårdsavfall samt plantering av växter i trädgård inkluderas i RUT-avdraget.'
+    - 'För det andra bör taket i RUT tredubblas, från 25 000 kronor till 75 000 kronor.'
+  -
     fraga: Försvar
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar
     asikt:
-    - 'Att den svenska försvarsförmågan ska stärkas. Försvaret ska finnas i hela landet och vara tränat för att kunna agera i alla väderförhållanden som finns i vårt land och där vi gör insatser.'
-    - 'Att svensk försvarsförmåga utvecklas så att hela landet kan försvaras genom ökad tillgänglighet och förbättrad operativ förmåga inom alla försvarsgrenar.'
-    - 'Att försvaret ska få ökade anslag. Under nästa inriktningsperiod ska försvarsanslaget motsvara minst genomsnittet av övriga nordiska länders försvarsanslag. Idagsläget skulle det betyda ca 16 miljarder kronor mer per år.'
+    - 'Möjligheterna att försvara hela Sverige ska bli bättre'
+    - 'Hela Sverige ska kunna försvaras - försvaret ska finnas i hela landet'
+    - 'Försvaret ska få mer pengar, både på kort och på lång sikt'
   -
     fraga: Försvar- och säkerhetssamarbeten
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar/forsvar--och-sakerhetssamarbeten
     asikt:
-    - 'Starta en process för att Sverige ska söka medlemskap i Nato'
+    - 'Starta en process för att Sverige ska söka medlemskap i NATO'
     - 'Att EU samarbetar mer inom försvars- och säkerhetsområdena'
     - 'Utveckla det nordiska försvars- och säkerhetssamarbetet'
-    - 'Att EU samarbetar mer vad gäller försvars- och säkerhetspolitik men att samarbetet ska vara mellanstatligt och stärka både de nationella försvarsmakterna som EU:s samlade förmåga att genomföra civila och militära insatser.'
-    - 'Att det europeiska försvarssamarbetet ska komplettera Nato och stärka den transatlantiska länken'
-    - 'Att arbetet inom EU och internationellt för att förbättra motståndskraften mot påverkansoperationer och cyberhot ska stärkas.'
-    - 'Särskilt se ett ökat nordiskt samarbete inom områdena samhällssäkerhet och civilt försvar.'
+  -
+    fraga: Informations- och cybersäkerhet
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar/informations--och-cybersakerhet
+    asikt:
+    - 'Förbättra kunskapen om informations- och cybersäkerhet'
+    - 'Motverka cyberbaserat industriellt ekonomiskt spionage'
+    - 'Inrätta ett cyberhemvärn'
   -
     fraga: Internationella insatser
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar/internationella-insatser
-    asikt: 'Stärka stödet till veteraner och deras anhöriga'
+    asikt:
+    - 'Sverige bidrar till fred och säkerhet i världen'
+    - 'Sverige ska delta både i militära och civila insatser'
   -
     fraga: Krisberedskap och totalförsvar
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar/krisberedskap-och-totalforsvar
     asikt:
-    - 'Att arbetet för att utveckla totalförsvaret intensifieras och att ansvariga aktörer ges bättre förutsättningar att arbeta med en sammanhållen totalförsvarsplanering som bygger på krisberedskapen. Vi vill att funktionskrav på samhällsviktig verksamhet tas fram.'
-    - 'Att totalförsvarsperspektivet ska genomsyra fler politikområden och samhällssektorer så att sårbarheter inte byggs in i samhällsviktig verksamhet.'
-    - 'Att Sverige utvecklar en god försörjningsförmåga av samhällsviktiga varor och tjänster i händelse av kris och krig där offentliga aktörer och näringsliv samt enskilda individer tillsammans har en viktig roll.'
-    - 'Att frivilligorganisationer får en viktigare roll inom svensk krisberedskap och totalförsvaret. De ska ges bättre förutsättningar att verka och användas. Vi vill också se frivilliga försvarsorganisationer som hanterar moderna samhällets sårbarheter inom it och desinformation.'
+    - 'Sverige ska vara bra på att förebygga och hantera olika kriser, till och med krig'
+    - 'Sverige ska ha en bra livsmedels-, energi- och läkemedelsberedskap'
+    - 'Frivilliga används mer inom krisberedskapen och det civila försvaret'
   -
     fraga: Personalförsörjning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar/personalforsorjning
-    asikt: 'Att totalförsvarets personalförsörjning i första hand tillgodoses genom frivillighet, men då omvärldsläget och rekryteringsbehov gör det nödvändigt, också med inslag av plikt.'
+    asikt:
+    - 'Att försvaret består av frivilliga, men också av inkallade när det behövs'
+    - 'Utöka antalet platser på officersutbildningen'
+    - 'Utveckla stödet till landets veteraner och deras anhöriga'
   -
     fraga: Terrorism
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar/terrorism
     asikt:
     - 'Kriminalisera samröre med terrororganisationer och stödjande av terror'
-    - 'Att Sverige har en stark beredskap mot terror samtidigt som vi värnar om demokratiska rättigheter'
+    - 'Att Sverige har en stark beredskap mot terror och värnar demokratiska rättigheter'
     - 'Förbjuda offentliga medel till organisationer som sprider våldsbejakande budskap'
-    - 'Arbeta förebyggande för att hindra människor från att radikaliseras'
+  -
+    fraga: Trygghet och räddningstjänst
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/forsvar/trygghet-och-raddningstjanst
+    asikt:
+    - 'Att brandkåren finns även på landsbygden'
+    - 'Att räddningstjänsten får bättre förutsättningar att finnas kvar i hela landet'
+    - 'Se hårdare straff för våld mot räddningstjänst, polis, ambulans- och sjukvårdspersonal'
   -
     fraga: Infrastruktur och trafik
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik
     asikt:
-    - 'Att Sverige ska ha en fossilfri fordonsflotta senast år 2030'
-    - 'Att satsningar på infrastruktur ska öka i hela landet'
-    - 'Att fler väljer tåget, därför satsar vi på järnvägsspår och fler tågföretag'
-    - 'Att bilfria cykelvägar, fler cykelparkeringar och byten till andra färdmedel gör livet enklare för cyklister'
+    - 'Att bara bilar som går på el och förnybara drivmedel säljs i Sverige år 2030'
+    - 'Att satsningar på transportinfrastruktur ska öka i hela landet'
+    - 'Rusta upp den befintliga järnvägen och bygga nya stambanor för höghastighetståg'
   -
     fraga: Bil
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/bil
     asikt:
-    - 'Att Sverige år 2030 ska ha en fossiloberoende fordonsflotta, dvs att alla bilar ska köras på förnybar energi'
+    - 'Införa en grön bilbonus på upp till 100 000 kronor för de miljövänligaste bilarnadel'
     - 'Öka mobiliteten samtidigt som transporternas klimatpåverkan minskar'
-    - 'Införa en grön bilbonus när man köper en ny bil där man får upp till 100 000 kronor för de bästa bilarna'
-    - 'Ersätta fossil bensin och diesel med elbilar och förnybara drivmedel'
   -
     fraga: Cykel
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/cykel
@@ -246,51 +302,49 @@ root:
     - 'Bygga fler bilfria cykelvägar för att öka säkerheten för cyklisterna'
     - 'Bygga fler cykelparkeringar vid resestationer, arbeten och bostäder'
     - 'Att cyklismen ska vara en naturlig del av transportsystemet'
-    - 'Knyta ihop tätorterna på landsbygden genom bilfria cykelförbindelser'
+  -
+    fraga: Dubbdäck
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/dubbdack
+    asikt: 'Låta kommunerna avgöra om de vill införa dubbdäcksavgifter'
   -
     fraga: Flyg
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/flyg
     asikt:
-    - 'Att flyget, precis som andra transporter, ska betala sina egna miljökostnaderSatsa på bättre teknik och nya bränslen så att flyget blir mer hållbart.'
-    - 'Att vi ska samarbeta på EU-nivå för ett gemensamt europeiskt luftrum.'
-    - 'Stärka det internationella arbetet för att minska flygets globala utsläpp.'
-    - 'Införa ett krav på obligatorisk inblandning av förnybart flygbränsle.'
-  -
-    fraga: Förbifart Stockholm
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/forbifart-stockholm
-    asikt:
-    - 'Att bygget av Förbifart Stockholm görs miljöanpassat'
-    - 'Tillsätta en miljörevisor som kontrollerar att byggandet går så miljövänligt till som möjligt'
+    - 'Att flyget, precis som andra transporter, ska betala sina egna miljökostnader och minska sina utsläpp'
+    - 'Införa ett krav på obligatorisk inblandning av förnybart bioflygbränsle'
+    - 'Stärka det internationella arbetet för att minska flygets globala utsläpp'
   -
     fraga: Järnväg
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/jarnvag
     asikt:
-    - 'Satsa på järnvägen så vi får fler järnvägsspår och avgångar'
+    - 'Rusta upp lokala och regionala järnvägsbanor'
     - 'Stärka punktligheten på järnvägen och satsa på regionalt viktiga banor'
-    - 'Jobba aktivt för samordning av den europeiska järnvägen.'
-    - 'Göra järnvägstrafiken så attraktiv att mer av den långväga godstrafiken söker sig över från väg till järnväg'
+    - 'Bygga nya stambanor för höghastighetståg'
   -
     fraga: Kollektivtrafik
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/kollektivtrafik
     asikt:
-    - 'Utveckla kollektivtrafiken för att öka rörligheten och skapa möjligheter att jobba i ett annat län än där man bor'
-    - 'Göra kollektivtrafiken bättre med fler och tätare turer där underlaget och efterfrågan finns'
-    - 'Satsa på järnvägen. Fler järnvägsspår och tågföretag är en förutsättning för fler avgångar'
+    - 'Göra kollektivtrafiken bättre med fler och tätare turer'
+    - 'Satsa på den regionala järnvägen - fler järnvägsspår och tågföretag är en förutsättning för fler avgångar'
     - 'Att biodrivmedel eller el får bussarna att rulla istället för diesel'
   -
     fraga: Lastbilar och tung trafik
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/lastbilar-och-tung-trafik
     asikt:
-    - 'Införa en klimatbonus för tunga transporter som minskar utsläppen.'
-    - 'Att fordonsskatten ska vara koldioxiddifferentierad, det vill säga baseras på fordonets utsläpp av koldioxid.'
-    - 'Införa en miljölastbilspremie för hybrid- och ellastbilar och lastbilar som kan gå på biogas eller etanol.'
+    - 'Införa en klimatbonus för tunga transporter som minskar utsläppen'
+    - 'Att fordonsskatten ska baseras på fordonets utsläpp av koldioxid'
+    - 'Införa en miljölastbilspremie för de miljövänligaste lastbilarna'
+  -
+    fraga: Mer lokal miljömakt
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/mer-lokal-miljomakt
+    asikt: 'Kommuner och regioner som vill använda ekonomiska styrmedel som trängselskatter, miljözoner och miljöavgifter ska kunna göra det.'
   -
     fraga: Sjöfart
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/sjofart
     asikt:
-    - 'Att Sverige ska ställa hårda miljö- och säkerhetskrav på den internationella sjöfarten.'
-    - 'Att svartlistade fartyg som inte uppfyller miljökraven inte ska få segla på Östersjön.'
-    - 'Att sjöfarten ska ingå i handeln med utsläppsrätter, där även utsläppsrätter för kväve och svaveloxider ska ingå.'
+    - 'Att Sverige ska ställa hårda miljö- och säkerhetskrav på den internationella sjöfarten'
+    - 'Att svartlistade fartyg som inte uppfyller miljökraven inte ska få färdas på Östersjön'
+    - 'Driva på för miljöstyrande ambitiösa och effektiva styrmedel både i Sverige och internationellt'
   -
     fraga: Trängselskatt
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/trangselskatt
@@ -298,89 +352,107 @@ root:
     - 'Trängselskatt eller vägavgift är ett bra sätt att finansiera nya satsningar på vägar och infrastruktur'
     - 'Beslut om att införa trängselskatt ska göras lokalt'
   -
+    fraga: Vägar
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/infrastruktur-och-trafik/vagar
+    asikt:
+    - 'Satsa på att underhålla och investera i nya vägar'
+    - 'Förstärka underhållet av enskilda vägar'
+  -
     fraga: IT och mobiltelefoni
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/it-och-mobiltelefoni
     asikt:
-    - 'Se en digital allemansrätt som garanterar stabil och snabb uppkoppling i hela landet'
-    - 'Att du ska kunna ringa och surfa tryggt oavsett vart du är'
-    - 'Frigöra mer utrymme i etern för bättre mobiltelefoni och surf'
+    - 'Ha en digital allemansrätt som garanterar stabil och snabb uppkoppling i hela landet'
+    - 'Att mer utrymme frigörs för bättre mobiltelefoni och surf i hela landet'
     - 'Att mobiloperatörerna tar sitt ansvar, samarbetar och bygger ut näten i hela landet'
   -
     fraga: IT
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/it-och-mobiltelefoni/it
     asikt:
-    - 'Centerpartiet vill:Fortsätta bygga ut it-infrastrukturen så att fler kan ta del av digitaliseringens möjligheterav bredband på landsbygden'
+    - 'Fortsätta bygga ut IT-infrastrukturen så att fler kan ta del av digitaliseringens möjligheter'
     - 'Fortsätta prioritera utbyggnaden av bredband på landsbygden'
-    - 'Att alla hushåll och arbetsplatser där efterfrågan finns, ska vara uppkopplade senast 2025'
+    - 'Att alla hushåll och arbetsplatser som vill ska vara uppkopplade senast 2025'
   -
     fraga: Mobiltelefoni
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/it-och-mobiltelefoni/mobiltelefoni
     asikt:
-    - 'Stimulera mobiloperatörerna till ökat samarbete på landsbygden där mobiltäckningen är dålig'
-    - 'Att 700-bandet används för att förbättra mobiltäckningen framförallt på landsbygden.'
-    - 'Att marknadens aktörer tar ett större ansvar för att minska störningar och leveransproblem för bredband och mobiltelefoni'
+    - 'Mobiloperatörerna samarbetar för att bygga ut täckningen på landsbygden'
+    - '700 MHz-bandet används för att förbättra mobiltäckningen framförallt på landsbygden'
+    - 'Marknadens aktörer tar större ansvar för att minska störningar och leveransproblem'
   -
     fraga: Mobiltäckning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/it-och-mobiltelefoni/mobiltackning
     asikt:
-    - 'Att mobiloperatörerna samarbetar för att bygga ut täckningen'
-    - 'Att 700-bandet används för att förbättra mobiltäckningen framför allt på landsbygden'
-    - 'Införa en obligatorisk märkning för telefonernas mottagning på EU-nivå'
+    - 'Mobiloperatörerna samarbetar för att bygga ut täckningen'
+    - '700 MHz-bandet används för att förbättra mobiltäckningen framför allt på landsbygden'
+    - 'En obligatorisk märkning för telefonernas mottagning införs på EU-nivå'
   -
     fraga: Jobb
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jobb
     asikt:
-    - 'Göra det enklare att starta och driva företag'
-    - 'Att det ska vara lättare för unga att få sitt första jobb'
+    - 'Göra det enklare att starta och driva företag - så att fler kan få sitt första jobb'
     - 'Låta fler förmedla de lediga jobben'
-    - 'Göra om LAS så att kompetensen och inte anställningstid blir det viktiga'
-    - 'Att grundregeln blir att nyanlända får arbeta från dag ett i Sverige'
-    - 'Bredda YA-jobben så att de även omfattar långtidsarbetslösa och på sikt nyanlända och småföretag utan kollektivavtal'
-    - 'Banta åtgärder på Arbetsförmedlingen med 3 miljarder kronor.'
-    - 'Avveckla vissa av Arbetsförmedlingens verksamhetsområden (men behålla den hårda kärnan som t ex kontroll och uppföljning)'
-    - 'Införa jobbfixarpeng'
-    - 'Öppna för fler aktörer som alternativ till FAS 3 för bättre jobbmatchning'
-    - 'Försvara det högkostnadsskydd för sjuklönekostnader som vi införde mot förslag till försämringar'
-    - 'Införa ett reformerat lärlingssystem med lärlingslön enligt tysk modell'
-    - 'Införa trygg flexibilitet med rättvisa turordningsregler baserade på kompetens och med en högre a-kassa inledningsvis'
-    - 'Investera mer i järnvägar, vägar, bredband, och kommersiell service'
-    - 'Att grundregeln blir att nyanlända får arbeta från dag ett i Sverige'
+    - 'Undanta små och medelstora företag från turordningsreglerna.'
+  -
+    fraga: Arbetsförmedlingen
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jobb/arbetsformedlingen
+    asikt:
+    - 'Öppna för fler aktörer för bättre jobbmatchning'
+    - 'Införa arbetsförmedlarpeng som betalas ut efter resultat'
+    - 'Att Arbetsförmedlingen ska ägna sig åt kontroll och uppföljning'
   -
     fraga: Arbetsmiljö
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jobb/arbetsmiljo
     asikt:
-    - 'Ha ett hälsofokus och inte bara förhindra att människor blir sjuka'
+    - 'Ha ett hälsofokus på svenska arbetsplatser och inte bara förhindra att människor blir sjuka'
     - 'Att arbetsmiljön ska vara en naturlig del i vår vardag på jobbet'
-    - 'Satsa på skolan för att underlätta för lärarna och förbättra deras arbetsmiljö'
-    - 'Uppmuntra nytänkande för en bättre arbetsmiljö inom vård och omsorg'
+    - 'Belysa jämställdhetsaspekten av sjukskrivningarna'
   -
     fraga: Arbetsrätt och fackförening
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jobb/arbetsratt-och-fackforening
     asikt:
-    - 'Att det ska bli billigare att anställa så att fler jobb kan skapas'
-    - 'Att LAS (lagen om anställningsskydd) ska utgå från vilken kompetens de anställda har istället för hur länge man jobbat'
-    - 'Se självständiga fackföreningar som driver frågor som rör jobben, inte politik.'
+    - 'Tillsätta en arbetsmarknadskommission'
+    - 'Att LAS (lagen om anställningsskydd) ska utgå från vilken kompetens de anställda har'
+    - 'Införa en proportionalitetsprincip vid arbetsmarknadskonflikter'
   -
     fraga: Ingångsavdrag
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jobb/ingangsavdrag
     asikt:
-    - 'Slopad arbetsgivaravgift de första två åren. Det gäller för alla, till exempel nyanlända, unga eller långtidsarbetslösa som inte tidigare haft jobb.'
-    - 'Gäller de första 16 000 kronorna av månadslönen. På så sätt koncentreras sänkningen till de grupper som behöver den bäst.'
-    - 'Slopar även arbetsgivaravgiften helt för personer under 18 år. Genomförs för att unga ska kunna extrajobba utan att ingångsavdraget påverkas.'
+    - 'Slopa arbetsgivaravgiften de första två åren på arbetsmarknaden'
+    - 'Slopa arbetsgivaravgiften helt för personer under 18 år'
+    - 'Slopad arbetsgivaravgift de första två åren. Det gäller för alla, till exempel nyanlända, unga eller långtidsarbetslösa som inte tidigare haft jobb'
+    - 'Gäller de första 16 000 kronorna av månadslönen. På så sätt koncentreras sänkningen till de grupper som behöver den bäst'
+    - 'Slopar även arbetsgivaravgiften helt för personer under 18 år. Genomförs för att unga ska kunna jobba extra utan att ingångsavdraget påverkas'
+  -
+    fraga: Ingångsjobb
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jobb/ingangsjobb
+    asikt: 'Förbättra chanserna för de nyanlända genom ingångsjobb'
+  -
+    fraga: Ungdomsarbetslöshet
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jobb/ungdomsarbetsloshet
+    asikt:
+    - 'Sänka kostnaderna för att anställa ungdomar'
+    - 'Förbättra lärlingssystemet'
   -
     fraga: Jordbruk- jakt och fiske
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske
     asikt:
-    - 'Ha tydliga märkningar av livsmedel som gör det enkelt att göra medvetna val i affären.'
-    - 'Se enklare regler i EU så att svenska bönder konkurrerar på samma villkor som bönder i andra EU-länder'
-    - 'Fortsätta förenkla reglerna för skogsägare.'
-    - 'Ha en ny gemensam fiskepolitik i EU för ett långsiktigt hållbart och lönsamt fiske.'
+    - 'Sänka kostnader och regelbördan för landsbygdsföretag'
+    - 'Skydda rätten att äga och bruka skog'
+    - 'Skapa nationellt fiskepolitiskt program för att utveckla det kustnära och småskaliga fisket'
   -
     fraga: Fiske
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/fiske
     asikt:
-    - 'Att hållbara fiskodlingar ska utvecklas och uppmuntras liksom kustnära och småskalig fiskeföretag.'
-    - 'Ha mer forskning och rådgivning kring insjöfiske och vattenbruk.'
+    - 'Utveckla det kustnära och småskaliga fisket'
+    - 'Att fiskekvoter ska fattas utifrån vetenskapliga rekommendationer'
+    - 'Ha mer forskning och rådgivning kring insjöfiske och vattenbruk'
+  -
+    fraga: Jakt
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/jakt
+    asikt:
+    - 'Inrätta en viltmyndighet'
+    - 'Att jakten ska vara långsiktig och hållbar'
+    - 'Att beslut om jakt ska fattas närmare dem som berörs av viltstammarna'
   -
     fraga: Jordbruk och djurhållning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/jordbruk-och-djurhallning
@@ -392,53 +464,45 @@ root:
     fraga: Mat
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/mat
     asikt:
-    - 'Att matproduktionen i Sverige håller hög klass, bland annat genom god livsmedelskontroll, livsmedelssäkerhet och bra miljö- och djuromsorg'
-    - 'Ha tydlig märkning av livsmedel som gör det enkelt att göra medvetna val i affären'
-    - 'Ta fram en nationell handlingsplan för att minska matsvinnet'
-    - 'Att kommun och landsting vid upphandling av mat ska ställa samma krav på miljöhänsyn och djurskydd som det är på svensk livsmedelsproduktion'
-    - 'Säkerställa att målen med den nationella livsmedelsstrategin genomförs.'
-    - 'Att matproduktionen i Sverige håller hög klass, bland annat genom god livsmedelskontroll, livsmedelssäkerhet och bra miljö- och djuromsorg'
-    - 'Ha tydlig märkning av livsmedel som gör det enkelt att göra medvetna val i affären'
-    - 'Ta fram en nationell handlingsplan för att minska matsvinnet'
-    - 'Att kommun och landsting vid upphandling av mat ska ställa samma krav på miljöhänsyn och djurskydd som det är på svensk livsmedelsproduktion'
-    - 'Säkerställa att målen med den nationella livsmedelsstrategin genomförs'
+    - 'Att svensk mat håller hög klass, bland annat genom god livsmedelskontroll, livsmedelssäkerhet och bra miljö- och djuromsorg'
+    - 'Ha tydliga märkningar av livsmedel som gör det enkelt att göra medvetna val i affären'
+    - 'Att det i offentliga upphandlingar av mat ställs samma krav på miljöhänsyn och djurskydd som det är på svensk livsmedelsproduktion'
   -
     fraga: Skog
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/skog
     asikt:
-    - 'Fortsätta förenkla reglerna för skogsägare.'
-    - 'Fortsätta att öka skogsproduktionen, samtidigt som värdefulla natur- och kulturmiljöer ska bevaras.'
-    - 'Följa upp så att tillräcklig hänsyn tas till natur- och kulturmiljövärden när man avverkar skog.'
-    - 'Satsa mer på utbildning och rådgivning genom Skogsstyrelsen.'
-    - 'Fortsätta förenkla reglerna för skogsägare.'
-    - 'Fortsätta att öka skogsproduktionen, samtidigt som värdefulla natur- och kulturmiljöer ska bevaras.'
-    - 'Följa upp så att tillräcklig hänsyn tas till natur- och kulturmiljövärden när man avverkar skog.'
-    - 'Satsa mer på utbildning och rådgivning genom Skogsstyrelsen.'
-    - 'Säkerställa att ett nationellt skogsprogram presenteras'
-    - 'Värna om äganderätten och egendomsskyddet'
-    - 'Att skogen förblir en nationell angelägenhet'
-    - 'Att naturvården som skyddar hotade arter och ekosystem stärks och bygger på legitimitet från de som berörs.'
-    - 'Ägande- och brukanderätten ska värnas, dess genomslag stärkas vid beslut och myndighetsutövning och det ska utgå skälig ersättning vid begränsningar.'
+    - 'Skydda rätten att äga och bruka skog'
+    - 'Att när markägare tvingas avstå från att bruka sin mark, ska de få rimligt betalt'
+    - 'Följa upp så att tillräcklig hänsyn tas till natur- och kulturmiljövärden när man avverkar skog'
   -
     fraga: Vapen
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/vapen
     asikt:
-    - 'Ha tydliga och förutsägbara regler kring vapen och snabbare tillståndsgivning än idag.'
-    - 'Se över EU-lagstiftningen om illegala vapen, men samtidigt värna jägares och sportskyttars användning av vapen.'
-    - 'I vissa delar kritisera EU-kommissionens förslag, utgångspunkten ska vara att inte ändra i befintlig lagstiftning som rör legala vapen.'
+    - 'Ha tydliga och förutsägbara regler kring vapen och snabbare tillståndsgivning än idag'
+    - 'Se över EU-lagstiftningen om illegala vapen'
+    - 'Värna jägares och sportskyttars användning av vapen'
   -
     fraga: Varg och andra rovdjur
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jordbruk-jakt-och-fiske/varg-och-andra-rovdjur
     asikt:
     - 'Att den svenska jakten ska fortsätta vara en regional och nationell angelägenhet'
     - 'Att Sverige tillsammans med angränsande länder ska ha en livskraftig rovdjursstam'
+    - 'Öka möjligheterna att försvara sina husdjur och tamdjur mot angrepp av rovdjur'
   -
     fraga: Jämställdhet och diskriminering
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering
     asikt:
-    - 'Driva på för fler ledande kvinnor och stärka kvinnors företagande, bland annat genom tjänstesektorn där taket i RUT justeras uppåt och att RUT omfattar fler tjänster.'
-    - 'Bryta invanda traditionella ojämställda val av utbildning och jobb genom mer jämställd studie- och yrkesvägledning och mer kunskap om jämställdhet i hela skolan.'
-    - 'Att alla sexuella handlingar som inte bygger på samtycke är straffbara.'
+    - 'Driva på för fler ledande kvinnor och stärka kvinnors företagande'
+    - 'Att skolans studie- och yrkesvägledning arbetar mer med jämställdhet'
+    - 'Att deltidsnormen för kvinnor på arbetsmarknaden bryts'
+  -
+    fraga: #Metoo
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering/metoo
+    asikt:
+    - 'Skärpa straffen för den som begår ett sexualbrott.'
+    - 'Satsa på tjej- och kvinnojourernas arbete'
+    - 'Obligatorisk sexualundervisning på lärarutbildningen.'
+    - 'Fördubbla anslagen direkt till Nationellt centrum för kvinnofrid'
   -
     fraga: Abort
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering/abort
@@ -459,135 +523,159 @@ root:
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering/hbtq-fragor
     asikt:
     - 'Värna möjligheterna för personer med olika typer av sexuell läggning att bilda familj'
-    - 'Att HBTQ-kompetensen inom vården ska öka'
-    - 'Ha hårdare och tydligare diskrimineringslagar'
-  -
-    fraga: Jämställdhet och feminism
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering/jamstalldhet-och-feminism
-    asikt:
-    - 'Minska löneskillnaderna mellan män och kvinnor.'
-    - 'Motverka våld mot kvinnor.'
-    - 'Att kvinnor och män ska ha samma rättigheter, skyldigheter och möjligheter i livet.'
-    - 'Att makt och inflytande ska vara jämnt fördelat mellan kvinnor och män.'
+    - 'Öka kunskaperna i vården om HBTQ-personer'
+    - 'Se över möjligheten för barn att behålla kontakten med en varaktig social förälder'
   -
     fraga: Kvotering
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering/kvotering
     asikt:
-    - 'Inte använda kvotering.'
-    - 'Ge kvinnor förutsättningar att starta och driva företag.'
-    - 'Att svenska företag ska ta ansvar för att skapa en jämn könsfördelning på maktpositioner.'
+    - 'Inte använda kvotering'
+    - 'Ge kvinnor förutsättningar att starta och driva företag'
+    - 'Bryta den starka könssegregationen på svensk arbetsmarknad'
   -
-    fraga: Sexualbrott
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering/sexualbrott
+    fraga: Mänskliga rättigheter
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/jamstalldhet-och-diskriminering/manskliga-rattigheter
     asikt:
-    - 'Ha en samtyckeslag och ett oaktsamhetsrekvisit för sexualbrott'
-    - 'Ta bort preskriptionstiden för sexualbrott mot barn'
-    - 'Att fler ska dömas till längre straff för våldtäkt'
+    - 'Alla människor ska ha rätt att bestämma över sitt eget liv och sin egen framtid'
+    - 'Alla stater har rätt till självbestämmande och alla människor har rätt att delta i sitt lands styre'
+    - 'Den som begår krigsförbrytelser ska ställas till svars i Internationella brottmålsdomstolen, ICC'
   -
     fraga: Kultur- media och idrott
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/kultur-media-och-idrott
     asikt:
-    - 'Den offentligt finansierade kulturen ska vara tillgänglig för alla i hela landet'
-    - 'Public service ska behållas, men finansieras med en ny public service-avgift för alla'
-    - 'Ideella föreningar inte ska behöva betala moms'
-    - 'Ha fler platser för spontanidrott'
+    - 'Kulturen ska vara tillgänglig för alla i hela landet'
+    - 'Fri press ska finnas båda nationellt och lokalt'
+    - 'Alla ska ha nära till ett brett idrottsliv med både etablerade och nya sporter'
   -
     fraga: Ideella organisationer
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/kultur-media-och-idrott/ideella-organisationer
     asikt:
-    - 'Att du som ger gåvor till en ideell organisation ska få dra av det på deklarationen.'
-    - 'Att ideella föreningar inte ska behöva betala moms.'
-    - 'Möjliggöra för ideella aktörer att erbjuda vård, skola och omsorg som ett alternativ till kommunernas och landstingens verksamhet.'
-    - 'Att 1 % av Bruttonationalinkomsten (BNI) ska gå till bistånd'
-    - 'Att den ideella sektorn ska få mer ansvar för flyktingmottagandet och att man ska få goda ekonomiska förutsättningar för detta'
-    - 'Möjliggöra för ideella aktörer att erbjuda vård, skola och omsorg som ett alternativ till kommunernas och landstingens verksamhet'
+    - 'Att du som ger gåvor till en ideell organisation ska få dra av det på deklarationen'
+    - 'Att de ideella organisationerna ska få mer ansvar för integrationen'
+    - 'Underlätta för ideella organisationer att erbjuda vård, skola och omsorg'
   -
     fraga: Idrott
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/kultur-media-och-idrott/idrott
     asikt:
-    - 'Ha fler platser för spontanidrott'
-    - 'Satsa lika mycket på flickors som på pojkars idrott'
-    - 'Bredda definitionen av friskvård så att även till exempel golf och ridning räknas som friskvård'
+    - 'Att idrottsklubbar får komma till skolan och fritids, så att barn kan hitta en idrott som passar'
+    - 'Satsa lika mycket på tjejers och killars idrottande'
+    - 'Underlätta för personer med funktionsnedsättning att testa olika idrotter'
   -
     fraga: Kultur
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/kultur-media-och-idrott/kultur
     asikt:
-    - 'Att den offentligt finansierade kulturen ska vara tillgänglig för alla oavsett var i landet man bor'
-    - 'Att statliga kulturinstitutioner och dess verksamheter ska göras mer tillgängliga över hela landet'
-    - 'Att det ska finnas tillgång till kulturskolor i alla Sveriges kommuner och att barn ska få ta del av kultur i skolan.'
+    - 'Kulturen ska vara tillgänglig för alla i hela landet'
+    - 'Barn ska ha tillgång till kulturskola men också få uppleva kultur i den vanliga skolan'
+    - 'Kulturen ska vara fri från politiker som vill styra vad den ska handla om'
   -
     fraga: Massmedia och public service
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/kultur-media-och-idrott/massmedia-och-public-service
     asikt:
-    - 'Att public service ska behållas men att nuvarande avgiftssystem avskaffas till förmån för en public service-avgift för alla.'
-    - 'Att privata och kommersiella radio- och TV-företag ska ha möjlighet att verka på en fungerande marknad med långsiktiga och goda villkor.'
-    - 'Låt presstödet vara kvar.'
-    - 'Införa en digital allemansrätt så att man kan ta del av media i hela landet.'
+    - 'Att presstödet ska vara utformat så vi får en allsidig och oberoende press i hela landet'
+    - 'Behålla public service men byta ut tv-licensen mot en public service-avgift'
+    - 'Bygga ut bredband i hela landet så alla kan ta del av media digitalt'
   -
     fraga: Lag och rätt
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt
     asikt:
     - 'Ha fler poliser på varje ort - det ökar tryggheten'
-    - 'Se ett nytt barnmisshandelsbrott i brottsbalken'
-    - 'Se hårdare straff för grova brott och underlätta för kriminella att starta ett nytt liv'
+    - 'Ha nolltolerans även mot småbrott, med start i vissa utsatta områden'
+    - 'Lägga större fokus på lokalt brottsförebyggande arbete'
+    - 'Se hårdare straff för sexualbrott'
   -
     fraga: Brottsförebyggande
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/brottsforebyggande
     asikt:
-    - 'Att kommunerna ska ta ett större ansvar för det brottsförebyggande arbetet'
-    - 'Att företagare, civilsamhälle, kommuner och polis ska samverka om brottsprevention lokalt'
-    - 'Lägga mer kraft på hur vi utformar samhället till exempel med belysning eller planering för att skapa färre tillfällen som lockar till brott'
+    - 'Låta kommunerna ta ett större ansvar för det brottsförebyggande arbetet'
+    - 'Ha nära lokala samarbeten mellan polis och föreningar, affärer och fastighetsägare'
     - 'Att polisen ska vara närvarande, tillgänglig och synlig för dem som bor i området'
+  -
+    fraga: Demokrati
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/demokrati
+    asikt:
+    - 'Makt ska finnas så nära människor som möjligt'
+    - 'Ha en allsidig och oberoende press i hela landet'
+    - 'Lagar och regler ska gälla lika för alla'
   -
     fraga: Hedersbrott
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/hedersbrott
     asikt:
-    - 'Att hedersmotiv ska ses som en försvårande omständighet så att gärningspersoner får ett skarpare straff.'
-    - 'Införa en skyddslag som hindrar barn under 18 år från att föras ut ur landet mot sin vilja.'
-    - 'Att vårdnadshavare som misslyckas med att skydda en flicka från könsstympning ska kunna straffas för det.'
+    - 'Att hedersmotiv ska ses som en försvårande omständighet med hårdare straff'
+    - 'Införa en skyddslag som hindrar barn under 18 år från att föras ut ur landet om det finns risk för tvångsgifte eller könsstympning'
+    - 'Straffa vårdnadshavare som inte skyddar flickor från könsstympning'
   -
     fraga: Kriminalvården
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/kriminalvarden
     asikt:
-    - 'Fokusera på rehabilitering inom kriminalvården så att färre begår brott igen.'
-    - 'Se mer arbetsträning och social övning för de intagna.'
-    - 'Att människor som arbetar som kriminalvårdare ska få kontinuerlig vidareutbildning.'
-    - 'Ha ett prioriterat arbete för att upptäcka och motverka radikalisering inom kriminalvården.'
+    - 'Fokusera på rehabilitering inom Kriminalvården, så att färre begår brott igen'
+    - 'Se mer arbetsträning och behandlingsprogram för de intagna'
+    - 'Att Kriminalvården ska upptäcka och motverka radikalisering'
   -
     fraga: Miljöbrott
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/miljobrott
     asikt:
     - 'Att miljöbrott ska prioriteras högre av polis och åklagare'
-    - 'Ha ett företagsbotsregister'
+    - 'Ha ett företagsbotsregister så att de som begår upprepade brott får högre straff'
     - 'Att förorenaren ska betala'
   -
     fraga: Monarki
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/monarki
-    asikt: 'Bevara monarkin i dess nuvarande form som ett kungahus som endast har en representativ funktion.'
+    asikt: 'Bevara monarkin i dess nuvarande form som ett kungahus som endast har en representativ funktion'
   -
     fraga: Människohandel
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/manniskohandel
     asikt:
-    - 'Ha en nationell handlingsplan mot alla former av människohandel'
-    - 'Se en nationell fristående rapportör som samlar statistik och sprider kunskap'
-    - 'Att företag i högre grad öppet redogör för hur de arbetar mot människohandel så att konsumenter kan göra bättre val'
-    - 'Att Sverige ska respektera Europakonventionens krav på 30 dagars reflektionsperiod för vila och återhämtning'
+    - 'Stärka fokus på människohandel och kunskapslyft hos rättsväsendet'
+    - 'Att företag mer öppet ska redogöra för hur de arbetar mot människohandel'
+    - 'Ge offren 30 dagars reflektionsperiod för vila och återhämtning'
+  -
+    fraga: Organiserad brottslighet
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/organiserad-brottslighet
+    asikt:
+    - 'Stärka polisen och rättskedjan, så att de bättre kan motverka grov organiserad brottslighet'
+    - 'Införa nolltolerans mot småbrott'
+    - 'Satsa mer pengar på vittnesskydd för att hjälpa den som vill hoppa av'
   -
     fraga: Polisen
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/polisen
     asikt:
-    - 'Att polisen är närvarande och skapar trygghet oavsett var i Sverige man bor.'
-    - 'Se stora satsningar på polisen så att vi får fler poliser, den lokala kopplingen stärks och möjligheterna att utreda brott ökar.'
-    - 'Inrätta en ny beredskapspolis som kan bistå polisen vid exempelvis terrordåd'
-    - 'Att polisen ska få högre löner och bättre arbetsvillkor så att de som redan är poliser stannar i tjänst och bra nya kollegor kan utbildas i ökande grad.'
+    - 'Att polisen ska vara närvarande och skapa trygghet, oavsett var du bor'
+    - 'Ha högre löner och bättre arbetsvillkor för poliser'
+    - 'Öka polisens effektivitet med tydligare resultatuppföljning och ansvarsutkrävande'
+  -
+    fraga: Prostitution
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/prostitution
+    asikt:
+    - 'Att polisen ska bli bättre på att bekämpa prostitution på internet'
+    - 'Höja straffen för köp av sex av minderårig'
+    - 'Ge prostituerade bättre skydd, exitprogram, rehabilitering och återanpassning'
+  -
+    fraga: Rättssäkerhet
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/rattssakerhet
+    asikt:
+    - 'Lagar och regler ska gälla lika för alla, och vara förutsägbara'
+    - 'Man ska veta att man inte kommer att dömas för brott man inte har begått'
+    - 'Brottsoffer ska bli väl omhändertagna och få det stöd de behöver'
+  -
+    fraga: Sexualbrott
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/sexualbrott
+    asikt:
+    - 'Höja straffen för vissa sexbrott, bland annat våldtäkt'
+    - 'Ta bort preskriptionstiden för sexualbrott mot barn'
+  -
+    fraga: Upphovsrätt
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/upphovsratt
+    asikt:
+    - 'Modernisera upphovsrätten'
+    - 'Se till att upphovsmän som gör musik, filmer och dataspel får betalt'
+    - 'Tillsätta en kommission som utreder hur upphovsrätten kan fungera bättre'
   -
     fraga: Våld i nära relationer
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/lag-och-ratt/vald-i-nara-relationer
     asikt:
-    - 'Ha en nollvision för våld och förtryck i nära relationer och sexualiserat våld'
-    - 'Öka kunskaperna kring våld i nära relationer'
-    - 'Införa en lex Lotta lag som tvingar myndigheter att genomlysa vad som har gått fel när någon blir mördad på grund av våld i nära relation'
-    - 'Förbättra vittnesskyddet så att de som polisanmäler våld i nära relation ska kunna känna sig trygga'
+    - 'Öka kunskapen hos till exempel vårdpersonal, kring våld i nära relationer'
+    - 'Införa en Lex Lotta-lag som gör att samhället lär sig av misstag'
+    - 'Förbättra vittnesskyddet så att fler vågar anmäla'
   -
     fraga: Landsbygd
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd
@@ -596,18 +684,12 @@ root:
     - 'Utveckla IT och bredband så att det går att jobba i hela landet'
     - 'Ha en levande landsbygd med förutsättningar att bedriva ett hållbart jordbruk'
   -
-    fraga: Decentraliserad skatt
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/decentraliserad-skatt
+    fraga: Djurskydd
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/djurskydd
     asikt:
-    - 'Att pengar som kommer från fastighetsskatten på industrifastigheter och elproduktionsenheter ska tillfalla de regioner där den betalas in'
-    - 'Att en statlig utredning undersöker hur fastighetsskatten på bästa sätt kan bli mer lokal'
-  -
-    fraga: Valfrihet i välfärden
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/valfrihet-i-valfarden
-    asikt:
-    - 'Uppmuntra fler att starta företag inom vård och omsorg'
-    - 'Att det ska finnas goda möjligheter att driva vårdbolag var man än bor i landet'
-    - 'Ha valfrihet även inom specialistvården'
+    - 'Att inga vilda djur ska visas på cirkus'
+    - 'Begränsa antalet djurförsök'
+    - 'Stärka det internationella samarbetet för att bekämpa illegal handel med utrotningshotade djur'
   -
     fraga: Välfärd
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/landsbygd/valfard
@@ -627,32 +709,30 @@ root:
     fraga: Antibiotika
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat/antibiotika
     asikt:
-    - 'Skärpa EU:s regler om antibiotikaförskrivning med möjligheter till sanktioner mot enskilda länder.'
-    - 'Förbjuda veterinärer i EU att sälja antibiotika eftersom försäljningen driver användningen.'
+    - 'Förbättra djurhållningen i EU så att djuren blir friskare och behöver mindre antibiotika'
     - 'Skapa ett gemensamt EU-register för all antibiotikaanvändning'
-    - 'Göra det möjligt att vid offentlig upphandling ställa krav på hållbar antibiotikaanvändning i produktionen'
+    - 'Göra det möjligt att vid offentlig upphandling av mat ställa krav på hållbar antibiotikaanvändning i produktionen'
   -
-    fraga: Djurskydd
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat/djurskydd
+    fraga: Djurvälfärd
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat/djurvalfard
     asikt:
-    - 'Fortsätta sänka avgifterna för svenska bönder'
+    - 'Fortsätta att sänka avgifterna för svenska bönder'
     - 'Ge svenska bönder bra villkor så att de kan producera mat med världens bästa djurskydd'
+    - 'Höja djurvälfärden på EU-nivå och arbeta för likvärdig tillämpning av EU-regelverken'
   -
     fraga: Hållbar mat
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat/hallbar-mat
     asikt:
     - 'Att miljö- och klimatpåverkan från livsmedelskonsumtionen ska minska'
-    - 'Införa ett mål om minskning av matavfall och svinn'
-    - 'Underlätta för att ställa krav på miljöhänsyn, djurskydd och antibiotikaanvändning vid upphandling och inköp till offentliga kök'
-    - 'Underlätta för det ekologiska jordbruket'
+    - 'Göra det lättare att ställa krav på miljöhänsyn, djurskydd och antibiotikaanvändning vid upphandling och inköp till offentliga kök'
     - 'Göra det lättare för konsumenter att göra medvetna val'
   -
     fraga: Livsmedelsproduktion
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat/livsmedelsproduktion
     asikt:
-    - 'Tillåta gårdsförsäljning av egenproducerat vin och öl.'
-    - 'Satsa extra på unga bönder med nystartad verksamhet genom en omfördelning av gårdsstödet.'
-    - 'Införa ett särskilt djurbidrag till nötkreatur för att stärka den pressade sektorn samt ge stöd för den miljönytta som betande djur innebär för den biologiska mångfalden.'
+    - 'Göra det enklare och billigare för livsmedelsproducenter att driva företag'
+    - 'Främja svensk livsmedelsexport'
+    - 'Förenkla och påskynda omställningen till en grönare livsmedelskedja'
   -
     fraga: Ursprungsmärkning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/mat/ursprungsmarkning
@@ -672,7 +752,7 @@ root:
     fraga: Anhöriginvandring
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/anhoriginvandring
     asikt:
-    - 'Att anhöriginvandring ska gälla fler än den närmaste familjen'
+    - 'Att det ska bli lättare för barn att återse sina föräldrar.'
     - 'Att den som tar hit anhöriga utöver den närmaste familjen även ska ha ansvar för att försörja dem'
     - 'Att humanitära visum införs för anhöriginvandrare'
   -
@@ -690,13 +770,6 @@ root:
     - 'Fler lagliga vägar att stanna.'
     - 'Återinför ömmande omständigheter och övrigt skyddsbehov så att fler kan få stanna.'
   -
-    fraga: Flykting och asyl
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/flykting-och-asyl
-    asikt:
-    - 'Införa lagliga vägar för migration, bland annat genom underlättad arbetskraftsinvandring.'
-    - 'Återinföra särskilt och synnerligen ömmande omständigheter som skäl för uppehållstillstånd.'
-    - 'Skapa ett bättre mottagande i Sverige som gynnar integrationen.'
-  -
     fraga: Integration
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/integration
     asikt:
@@ -704,18 +777,19 @@ root:
     - 'Höja kvaliteten i språkundervisningen'
     - 'Att alla asylsökande får arbeta.'
   -
-    fraga: Migration
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/migration
+    fraga: Migration och asyl
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/migration-och-asyl
     asikt:
-    - 'Ha en öppen, generös och human politik som låter människor att komma till Sverige för att uppfylla sina drömmar och bidra med sin arbetskraft och kompetens.'
-    - 'Jobba för en fri rörlighet så att människor lätt kan flytta mellan länder'
+    - 'Införa lagliga vägar för migration, bland annat genom underlättad arbetskraftsinvandring.'
+    - 'Återinföra särskilt och synnerligen ömmande omständigheter som skäl för uppehållstillstånd.'
+    - 'Skapa ett bättre mottagande i Sverige som gynnar integrationen.'
   -
     fraga: Tiggeri
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/migration-och-integration/tiggeri
     asikt:
-    - 'Minska fattigdomen.'
-    - 'Öppna dörren till arbetsmarknaden för fler.'
-    - 'Att EU sätter press på medlemsländer som inte tar ansvar för utsatta och fattiga.'
+    - 'Förstärka åtgärderna för att förhindra olagliga tältläger och annan kriminell aktivitet som följer i tiggeriets spår'
+    - 'Se till så att EU:s medlemsländer tar ansvar för sina fattigaste medborgare'
+    - 'Öka möjligheterna för människor med låg utbildning att få ett jobb'
   -
     fraga: Miljö
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo
@@ -727,51 +801,50 @@ root:
     fraga: Biologisk mångfald
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/biologisk-mangfald
     asikt:
-    - 'Ha en internationell panel av forskare som är experter på biologisk mångfald'
     - 'Låta markägarna få mer att säga till om i det viktiga jobbet att bevara mångfalden'
+    - 'Ha flexibla metoder för naturvård som ekologisk kompensation och frivilliga skyddsformer'
+  -
+    fraga: Dricksvatten
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/dricksvatten
+    asikt:
+    - 'Vatten ska användas mer hållbart, med nya vanor och med vattensnål teknik'
+    - 'Kommunernas planering för vattenförsörjningen förbättras'
+    - 'Kommunerna samordnar mer, både mellan sig och med nationella myndigheter'
   -
     fraga: Giftfri vardag
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/giftfri-vardag
     asikt:
-    - 'Snabba på arbetet med att fasa ut farliga kemikalier och hormonstörande ämnen ur vår vardag'
-    - 'Införa skatt på farliga ämnen i kläder och skor'
-    - 'Miljömärka läkemedel och utöka miljökraven i hela produktionskedjan'
-    - 'Införa krav på innehållsförteckning av farliga ämnen i textilier'
-    - 'Skärpa EU:s kemikalielagar'
+    - 'Snabba på arbetet med att fasa ut farliga kemiska ämnen'
+    - 'Införa skatt på farliga ämnen i flera varor'
+    - 'Införa krav på innehållsförteckning av kemiska ämnen i textilier'
   -
     fraga: Havsmiljö
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/havsmiljo
     asikt:
-    - 'Förstärka det internationella och regionala samarbetet för rena hav och vatten'
-    - 'Skärpa böterna för nedskräpning'
+    - 'Förstärka det internationella och regionala samarbetet för rena hav'
+    - 'Sanera förorenade vattenområden'
     - 'Förbättra avfallshanteringen längs våra kuster'
-    - 'Ställa högre krav på förpackningsproducenter'
-    - 'Förstärka det internationella och regionala samarbetet för rena hav och vatten'
-    - 'Restaurera våtmarker och vattendrag'
-    - 'Satsa på tekniker för uttag av näringsämnen ur Östersjön och för minskad bottendöd'
-    - 'Skärpa böterna för nedskräpning'
-    - 'Förbättra avfallshanteringen längs våra kuster'
-    - 'Ställa högre krav på förpackningsproducenter'
-    - 'Förbjuda mikroplaster i hygienprodukter'
-    - 'Åtgärda enskilda avlopp med störst miljöpåverkan'
-    - 'Införa miljöskatt på plastpåsar'
+  -
+    fraga: Hållbart skogsbruk
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/hallbart-skogsbruk
+    asikt:
+    - 'Ha flexibla metoder för naturvård som ekologisk kompensation och frivilliga skyddsformer'
+    - 'Stärka de gröna näringarna för ett fossilfritt och förnybart samhälle'
+    - 'Förbättra de gröna näringarnas konkurrenskraft med sänkta kostnader och regelförenklingar'
   -
     fraga: Klimat
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/klimat
     asikt:
-    - 'Att Sverige till år 2040 ska vara fritt från nettoutsläpp av växthusgaser'
-    - 'Att utsläppen i transportsektorn ska minska med 70 procent till 2030'
-    - 'Att Sverige ska ha ett helt förnybart elsystem som är flexibelt och pålitligt'
-    - 'Skärpa EU:s handelssystem med utsläppsrätter'
-    - 'Göra klimatsmarta investeringar mer lönsamma'
-    - 'Öka takten inom EU och i det internationella klimatarbetet så att Parisavtalets mål uppnås.'
+    - 'Att Sverige till år 2040 ska vara fritt från nettoutsläpp'
+    - 'Att vi ska ha ett helt förnybart elsystem som är flexibelt och pålitligt'
+    - 'Att Sverige ska visa att tillväxt och minskade utsläpp kan gå hand i hand'
   -
     fraga: Lokalt självbestämmande
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/lokalt-sjalvbestammande
     asikt:
     - 'Uppmuntra kommuner och landsting att driva på klimatarbetet'
-    - 'Införa miljözoner för att snabba på utvecklingen med mindre fossila bränslen'
-    - 'Att det ska finnas lokala regler för exempelvis dubbdäcksförbud'
+    - 'Införa miljözoner för att minska hälsoskadliga utsläpp och snabba på teknikutvecklingen'
+    - 'Att det ska finnas lokala regler för exempelvis dubbdäck'
   -
     fraga: Miljölagstiftning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/miljolagstiftning
@@ -790,287 +863,309 @@ root:
     fraga: Rent vatten
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/rent-vatten
     asikt:
-    - 'Höja anslagen till lokala vattenvårdsprojekt'
-    - 'Bygga ut och investera i vattenreningsverk'
-    - 'Skärpa planeringen för vattenförsörjningen'
-    - 'Öka samordningen och krisberedskapen'
-    - 'Effektivisera vattenförbrukningen genom ökad medvetenhet och ny vattensnål teknik'
-    - 'Förbjuda mikroplaster i hygienprodukter'
-  -
-    fraga: Transporter och kollektivtrafik
-    adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/transporter-och-kollektivtrafik
-    asikt:
-    - 'Att utsläppen från inrikes transporter minskar med 70 procent till 2030.'
-    - 'Att det ska löna sig att äga och köra de bilar, bussar och lastbilar som är mest klimateffektiva.'
-    - 'Satsa på underhåll och utbyggnad av mer spårkapacitet på järnvägen.'
-    - 'Satsa på att utveckla bättre kollektivtrafik så att vi får en hållbar tillväxt i hela landet.'
-    - 'Öka andelen förnybar energi i transportsektorn.'
+    - 'Utveckla och bygga ut avancerad vattenrening'
+    - 'Ta mer miljöhänsyn vid utformning av läkemedel och andra produkter'
+    - 'Underlätta för kommuner som vill genomföra lokala projekt'
   -
     fraga: Återvinning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/miljo/atervinning
     asikt:
-    - 'Ha fler stationer för källsortering så att du lättare kan återvinna'
-    - 'Att hänsyn till återvinning tas i produktdesignen'
-    - 'Införa en skatt på osorterat avfall som förbränns i Sverige'
-    - 'Märka på medicinförpackningen hur den ska källsorteras'
+    - 'Göra det enklare att lämna sitt avfall. Bra service ska finnas i hela landet, hela året'
+    - 'Införa ett nationellt system för att samla in kläder och annan textil'
+    - 'Låta fler företag få erbjuda tjänster för bättre insamling och återvinning'
   -
     fraga: Spel och konsument
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/spel-och-konsument
     asikt:
     - 'Införa tydliga märkningar som anger om produkter är miljövänliga'
-    - 'Inkludera mindre företag i konsumentskyddet vid telefonförsäljning'
-    - 'Underlätta byte av bank genom att införa nummerportabilitet'
-    - 'Att spelmonopolet i sin nuvarande form avskaffas'
+    - 'Införa skriftliga avtalsbekräftelser vid telefonförsäljning'
+    - 'Avskaffa spelmonopolet i dess nuvarande form och införa ett licenssystem för spelbolagen'
   -
     fraga: Konsumentpolitik
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/spel-och-konsument/konsumentpolitik
     asikt:
-    - 'Införa tydliga märkningar som anger om produkter är miljövänliga.'
-    - 'Se ökade krav på skriftlig avtalsbekräftelse av köparen vid telefonförsäljning till konsument.'
-    - 'Att offentliga tjänster ska omfattas av konsumentskyddet.'
+    - 'Införa tydliga märkningar som anger om produkter är miljövänliga'
+    - 'Inkludera mindre företag i konsumentskyddet vid telefonförsäljning'
+    - 'Införa krav på skriftlig avtalsbekräftelse vid telefonförsäljning'
+  -
+    fraga: Spel
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/spel-och-konsument/spel
+    asikt:
+    - 'Avskaffa det svenska spelmonopolet som det ser ut idag'
+    - 'Införa ett licenssystem, som ger rättvis konkurrens och skyddar spelarna'
   -
     fraga: Trygghetssystem
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/trygghetssystem
     asikt:
-    - 'Se en arbetslöshetsförsäkring som är hög till en början, för att sedan snabbt trappas ned. Göra det lättare att gå från försörjningsstöd till ett nytt jobb.'
-    - 'Att företagare ska ha samma rätt till sjukförsäkring och a-kassa som anställda.'
+    - 'Se en arbetslöshetsförsäkring som är hög till en början, för att sedan minska snabbare än idag'
+    - 'Göra det lättare att gå från försörjningsstöd till ett nytt jobb'
+    - 'Att företagare ska ha samma rätt till trygghetsförsäkringarna som anställda har'
   -
     fraga: A-kassa och omställningsförsäkring
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/trygghetssystem/a-kassa-och-omstallningsforsakring
     asikt:
-    - 'Att a-kassan ska vara allmän och omfatta alla som har kvalificerat sig.'
-    - 'Höja nivån på a-kassan under de tre första månaderna av arbetslösheten för att sedan snabbt trappas ned.'
-    - 'Att arbetslöshetsförsäkringen och sjukförsäkringen ska vara två separata försäkringar.'
+    - 'Att a-kassan ska vara allmän och omfatta alla som har kvalificerat sig'
+    - 'Höja nivån på a-kassan under de tre första månaderna av arbetslösheten, för att sedan snabbt trappas ner'
   -
     fraga: Ekonomiskt bistånd
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/trygghetssystem/ekonomiskt-bistand
     asikt:
-    - 'Att det ska löna sig att gå från bidrag till arbete genom att inkomstskatterna för personer med små inkomster är låga'
+    - 'Att socialtjänsten ska stötta individer att gå från bidragsberoende'
+    - 'Göra det enklare att gå från bidrag till arbete'
     - 'Skapa fler jobb genom att göra det billigare att anställa'
-    - 'Att kommunerna i högre grad ska stötta individer att gå från bidragsberoende till arbete eller utbildning'
   -
     fraga: Pension
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/trygghetssystem/pension
     asikt:
-    - 'Införa en riktålder för pensionen som följer medellivslängden i Sverige.'
-    - 'Att också tjänstepensionerna anpassas till en allt högre medelålder.'
-    - 'Höja LAS-åldern.'
-    - 'Höja pensionerna för de pensionärer som är mest utsatta ekonomiskt. Höja lägstanivån på pensionen vilket gynnar de som är mest utsatta ekonomiskt. Samtidigt vill vi behålla skillnaden till dem som arbetat ett helt yrkesliv.'
+    - 'Höja pensionen för dem som bara har garantipension eller låg inkomstpension'
+    - 'Införa en riktålder för pensionen som följer medellivslängden i Sverige'
+    - 'Se tydliga förbättringar för jämställda pensioner'
   -
     fraga: Sjukförsäkring
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/trygghetssystem/sjukforsakring
     asikt:
-    - 'Se över sjukförsäkringen så att de svagaste människorna inte kommer i kläm.'
-    - 'Ta fram bättre metoder för att bedöma om och hur mycket människor kan arbeta.'
-    - 'Att den sjukpenninggrundande inkomsten (SGI) ses över, särskilt när det gäller studenter, föräldralediga och företagare.'
-    - 'Införa karensavdrag - procent av inkomsten i stället för karensdag.'
-    - 'Behålla bortre gränsen i sjukförsäkringen.'
-    - 'Att det införs snabbare åtgärder och samverkan mellan sjukvården och arbetsgivarna.'
+    - 'Se över sjukförsäkringen så att människor inte kommer i kläm'
+    - 'Behålla bortre gränsen i sjukförsäkringen'
+    - 'Se en mer flexibel återgång till arbete vid sjukskrivning'
   -
     fraga: Utbildning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning
     asikt:
-    - 'Lärare är avgörande för elevens framgång i skolan. Lärares status måste därför höjas genom tydliga karriärtjänster och högre lön, kontinuerlig och kvalitativ kompetensutveckling och mer tid för undervisning.'
-    - 'Valfrihet för elever, föräldrar och lärare.'
-    - 'Utbildning ska leda till jobb.'
+    - 'Höja lärarnas status, de är avgörande för elevens framgång i skolan'
+    - 'Ge elever, föräldrar och lärare valfrihet'
+    - 'Att utbildning ska leda till jobb'
   -
     fraga: Forskning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/forskning
     asikt:
     - 'Stärka bandet mellan forskning, nya idéer och näringslivet'
     - 'Utveckla vassa forskningscentrum som stärker det lokala näringslivet'
-    - 'Att det som forskare ska bli enklare att gå mellan akademi, näringsliv och offentlig sektor'
+    - 'Att det ska bli enklare för forskare att gå mellan akademi, näringsliv och offentlig sektor'
   -
     fraga: Friskola
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/friskola
     asikt:
-    - 'Inför aktivt skolval så att det blir obligatoriskt att välja skola.'
-    - 'Att Skolinspektionen ska få kraftfullare verktyg att vidta åtgärder mot skolor som inte lever upp till ställda krav'
-    - 'Att fristående skolor och kommunala skolor ska ha samma villkor'
+    - 'Införa aktiva och informerade skolval så att det blir obligatoriskt att välja skola'
+    - 'Att Skolinspektionen ska få kraftfullare verktyg att vidta åtgärder mot skolor som inte håller måttet'
+    - 'Att samma villkor ska gälla för fristående och kommunala skolor'
   -
     fraga: Förskola
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/forskola
     asikt:
-    - 'Jobba för ökad valfrihet inom barnomsorg och förskola'
+    - 'Ha ökad valfrihet inom barnomsorg och förskola'
     - 'Jobba för mindre barngrupper och mer välutbildad personal i förskolan'
-    - 'Att det ska bli mer attraktivt att jobba som lärare i förskolan'
-    - 'Integrationsförskola för att bättre nå barn till nyanlända föräldrar'
+    - 'Göra det mer attraktivt att jobba som lärare i förskolan'
   -
     fraga: Grundskola
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/grundskola
     asikt:
-    - 'Förbättra insatserna riktade till elever som inte når kunskapsmålen'
+    - 'Förbättra insatserna för elever som inte når kunskapsmålen'
     - 'Att de som har lätt för sig får utmaningar och stöd för att fortsätta utvecklas'
-    - 'Tioårig grundskola'
-    - 'Fler lärare med specialpedagogisk kompetens'
+    - 'Införa tioårig grundskola'
   -
     fraga: Gymnasieskola
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/gymnasieskola
     asikt:
-    - 'Att möjlighet till ungt företagande ska finnas på alla skolor.'
-    - 'Öka antalet lärlingsutbildningar och skapa bättre kontakt mellan elever och företag.'
+    - 'Att möjlighet till ungt företagande ska finnas på alla skolor'
+    - 'Höja statusen på yrkesprogrammen'
+    - 'Öka antalet lärlingsutbildningar och skapa bättre kontakt mellan elever och företag'
   -
     fraga: Högre utbildning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/hogre-utbildning
     asikt:
     - 'Att högre utbildning med god kvalitet ska finnas i hela landet'
-    - 'Samverkan med arbetsmarknad och samhälle som ska stärkas'
-    - 'Införa en särhögskola så att de elever som gått särskola också ska kunna läsa vidare på högskolan'
+    - 'Stärka samverkan med arbetsmarknad och samhälle'
+    - 'Införa en särhögskola, så att elever som gått särskola också kan läsa vidare'
   -
     fraga: IT och skola
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/it-och-skola
     asikt:
-    - 'Det digitala perspektivet ska inkluderas i alla delar av utbildningsväsendet.'
-    - 'En tydlig och långsiktig satsning på ett nationellt digitalt lärarlyft för lärare.'
-    - 'Fjärrundervisning ska tillåtas i alla relevanta ämnen och kommunala och fristående skolor ska ha möjlighet att anordna fjärrundervisning på entreprenad under samma förutsättningar som statliga skolor'
+    - 'Att det digitala perspektivet ska inkluderas i alla delar av utbildningsväsendet'
+    - 'Ha en tydlig och långsiktig satsning på ett nationellt digitalt lärarlyft'
+    - 'Att fjärrundervisning ska tillåtas i alla relevanta ämnen'
   -
     fraga: Lärare
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/larare
     asikt:
     - 'Se tydliga karriärvägar för lärare och skolledare'
-    - 'Att lärare och skolledare ska vara garanterade kvalitativ och relevant kompetensutveckling.'
+    - 'Att lärare och skolledare ska garanteras kompetensutveckling'
     - 'Att läraren ges tid att vara lärare'
-    - 'Att duktiga lärare som arbetar på skolor i utanförskapsområden ska ha mer betalt.'
-    - 'Fler vägar till läraryrket.'
   -
     fraga: Mobbning
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/mobbning
     asikt:
-    - 'Att det ställs höga krav på kommunernas skolhälsovård och elevhälsoteam, det är angeläget att tillgången på skolsköterskor, skolläkare, kuratorer och psykologer är god.'
-    - 'Att alla skolor inför en hård linje med noll tolerans mot mobbning.'
+    - 'Införa nolltolerans mot mobbning'
+    - 'Att alla elever ska ha bättre tillgång till elevhälsa och skolhälsovård'
     - 'Att kommuner som inte klarar av att arbeta mot mobbning ska kunna straffas'
   -
     fraga: Skola till jobb
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/skola-till-jobb
     asikt:
-    - 'Skolans kontakt med arbetslivet måste vara tydlig genom hela grund- och gymnasieksolan'
+    - 'Att skolans kontakt med arbetslivet måste vara tydlig genom hela grund- och gymnasieskolan'
     - 'Stärka studie- och yrkesvägledarnas roll i skolan'
-    - 'Mer praktik i både grund- och gymnasieskola'
-    - 'Entreprenörskap ska vara ett naturligt förhållningssätt i skolan.'
-    - 'Ung Företagsverksamhet, UF, bör bli en del i skolans verksamhet'
+    - 'Att entreprenörskap ska vara ett naturligt förhållningssätt i skolan'
   -
     fraga: Studiemedel
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/studiemedel
     asikt:
-    - 'Ha ett mer flexibelt studiemedelssystem.'
-    - 'Ge möjlighet till att studera högre upp i åldern.'
-    - 'Höja fribeloppet.'
+    - 'Ha ett mer flexibelt studiemedelssystem'
+    - 'Ge möjlighet att studera högre upp i åldern'
+    - 'Höja fribeloppet'
   -
     fraga: Stärkt utbildning för nyanlända elever
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/starkt-utbildning-for-nyanlanda-elever
     asikt:
     - 'Öka antalet undervisningstimmar i svenska'
-    - 'Tvåspråkiga klasser'
-    - 'Yrkesutbildningar utan gymnasieexamen'
+    - 'Ha tvåspråkiga klasser'
+    - 'Införa yrkesutbildningar utan gymnasieexamen'
   -
     fraga: Utbildning för vuxna
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utbildning/utbildning-for-vuxna
     asikt:
-    - 'Att yrkeshögskoleutbildningarna byggs ut ytterligare genom att stärka det regionala inflytandet'
-    - 'Göra det möjligt att läsa in behörighet till yrkeshögskolan på samma sätt som till högskolan.'
-    - 'Bejaka värdet av folkhögskolorna som en del av utbildningssystemet'
+    - 'Ha fler platser till yrkeshögskolan och göra det lättare att läsa in behörighet till den'
     - 'Underlätta för folkhögskolorna att vara en del i människors livslånga lärande'
-    - 'Stödja etableringen av fler aktörer inom vuxenutbildningsområdet'
+    - 'Stötta etablering av fler aktörer inom vuxenutbildningsområdet'
   -
     fraga: Utrikes- och biståndsfrågor
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utrikes--och-bistandsfragor
     asikt:
-    - 'Att Sverige ska stå upp för enprocentsmålet i biståndet samt att mer resurser utöver detta ges till klimatåtgärder och anpassning.'
-    - 'Att Sverige ska vara drivande i att motverka sexuellt våld mot kvinnor i krig och konflikter'
-    - 'Att Sverige och EU ska verka för fred, försoning och statsbyggnad i Israel-Palestina konflikten'
+    - 'Sverige ska stå upp för enprocentsmålet i biståndet'
+    - 'EU ska förhandla fram fler frihandelsavtal'
+    - 'Den transatlantiska länken, det vill säga relationen mellan Europa och USA, värnas'
   -
     fraga: Bistånd
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utrikes--och-bistandsfragor/bistand
     asikt:
-    - 'Använda biståndet strategiskt med ökat fokus på bilateralt bistånd.'
-    - 'Prioritera biståndssatsningar inom områdena miljö- och klimat, utbildning och jämställdhet.'
-    - 'Att biståndet används strategiskt med ökat fokus på bilateralt bistånd. Utvecklingsbiståndet ska komma in tidigt efter en konflikt för att inte viktiga utvecklingsframsteg ska gå förlorade. Biståndet ska uppnå god samhällsstyrning och medborgardeltagande utifrån lokala behov. Centerpartiet vill prioritera stöd till sviktande stater och postkonfliktstater.'
-    - 'Att biståndspolitiken prioriterar satsningar inom områdena miljö- och klimat, utbildning och jämställdhet. I de fattigaste länderna prioriterar vi exempelvis miljö- och klimatanpassning såväl som i entreprenörskap och investeringar i förnybar energi. Rätten till utbildning för flickor och rätten till egenförsörjning för kvinnor samt sexuell och reproduktiv hälsa och rättigheter är exempel på viktiga områden att satsa mer på inom jämställdhetsområdet'
+    - 'Mer av biståndet går till de fattigaste länderna och lokala projekt där människorna som lever där också ansvarar för projekten'
+    - 'Det ska vara lätt att följa vad biståndspengarna går till'
+    - 'Bistånd till miljö, klimat, utbildning och jämställdhet prioriteras'
   -
     fraga: FN
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/utrikes--och-bistandsfragor/fn
     asikt:
-    - 'Att FN:s beslutsfattande reformeras. Det ska vara tydligt och mer förutsägbart vid vilka tillfällen FN:s säkerhetsråd måste agera för att exempelvis stoppa folkmord, brott mot mänskliga rättigheter och krigsbrott. Det är viktigt att obstruerande veton minskar så att FN kan agera handlingskraftigt för global fred, säkerhet och utveckling.'
-    - 'Att FN ska med kraft intensifiera arbetet att motverka och förebygga att FN-utsända begår sexuella övergrepp i fredsfrämjande och fredsbevarande insatser samt se till att förövarna ställs till svars.'
+    - 'FN ska bli starkare och att Sverige och EU ska jobba för detta'
+    - 'FN:s beslutsfattande måste förändras så att FN bättre ska kunna stoppa folkmord, brott mot mänskliga rättigheter och krigsbrott'
+    - 'FN ska jobba mer kraftfullt mot sexuella övergrepp bland utsänd FN-personal'
+  -
+    fraga: Frihandel
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/utrikes--och-bistandsfragor/frihandel
+    asikt:
+    - 'EU arbetar mer för fler frihandelsavtal världen över'
+    - 'De regler och standarder som tas fram inom EU ska få global spridning så att krav på exempelvis miljö, livsmedel och djurvälfärd inte sänks'
+    - 'Handel används som verktyg för att minska biståndsberoende hos utvecklingsländer'
+  -
+    fraga: Krigsmaterielexport
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/utrikes--och-bistandsfragor/krigsmaterielexport
+    asikt:
+    - 'Det är positivt att kraven på respekt för de mänskliga rättigheterna skärpts'
+    - 'Det är positivt att ett lands demokratiska status utgör en del i helhetsbedömningen och kan innebära hinder för export'
+    - 'Det är positivt att de långsiktiga förutsättningarna för export nu är tydliga och att svensk säkerhet inte sätts åt sidan'
+  -
+    fraga: Nedrustning och kärnvapen
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/utrikes--och-bistandsfragor/nedrustning-och-karnvapen
+    asikt:
+    - 'Se en kärnvapenfri värld och stärka nedrustningsavtal'
+    - 'Att Sverige och EU ska stå upp för kärnteknikavtalet med Iran'
+    - 'Att Sverige säger nej till FN-konventionen om kärnvapenförbud som den nu är formulerad'
+  -
+    fraga: Utrikespolitik
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/utrikes--och-bistandsfragor/utrikespolitik
+    asikt:
+    - 'Stå upp för våra liberala värden i utrikespolitiken'
+    - 'Att rätten till länders självbestämmande ska vara central i den liberala världsordning vi lever i.'
+    - 'Använda EU och FN för att sätta tyngd bakom vår utrikespolitik'
   -
     fraga: Vård och omsorg
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg
     asikt:
-    - 'Att sjukvården ska vara tillgänglig och likvärdig i hela landet'
+    - 'Vården ska vara tillgänglig och hålla hög kvalitet i hela landet'
+    - 'Korta köerna i sjukvården och låt fler får en fast läkarkontakt'
     - 'Att det finns flera olika vårdalternativ så att du som patient får välja'
-    - 'Se en äldreomsorg med samma valfrihet som i övrig vård och omsorg'
-    - 'Uppmuntra nya idéer och tankar för att höja kvaliteten i vården'
   -
     fraga: Alkoholpolitik
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/alkoholpolitik
     asikt:
-    - 'Behålla Systembolaget som statligt monopol'
-    - 'Att barn och unga ska prioriteras i alkohol- och drogförebyggande arbete'
-    - 'Att tullen ska jobba mer med att förhindra smuggling av alkohol och droger'
-    - 'Motverka att man tar in alkohol olagligt i Sverige genom att sänka skatten på öl och vin'
-    - 'Verka för högre minimiskatter inom EU, sänkta införselkvoter samt möjligheten att förbjuda alkoholreklam i Sverige'
-    - 'Skärpa rättstillämpningen gällande straffen för langning och rattonykterhet'
-    - 'Att alla nya bilar ska vara utrustade med alkolås'
+    - 'Tillåta gårdsförsäljning av alkoholhaltiga drycker och göra det enklare för små bryggerier'
     - 'Att det ska bli enklare för lanthandlare att bli systembolagsombud'
-    - 'Göra det enklare för små bryggerier och dryckesproducenter att sälja sina varor på Systembolaget'
-    - 'Att det ska bli tillåtet med gårdsförsäljning av alkohol'
+    - 'Behålla Systembolaget som statligt monopol'
+  -
+    fraga: Apotek
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/apotek
+    asikt:
+    - 'Värna apoteksreformen'
+    - 'Se till att alla människor har tillgång till de läkemedel de behöver'
   -
     fraga: Dödshjälp
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/dodshjalp
-    asikt: 'Att alla döende patienter ska ha tillgång till hospice-vård'
+    asikt:
+    - 'Nej till aktiv dödshjälp'
+    - 'Att alla döende patienter ska få god vård i livets slutskede'
   -
     fraga: Folkhälsa
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/folkhalsa
     asikt:
-    - 'Införa hälsosamtal för 40-, 50- och 60-åringar med Västerbottens modell som förebild'
-    - 'Inrätta nationella riktlinjer för att samordna tidiga insatser av barn och unga och deras familjer på lokal, regional och nationell nivå'
-    - 'Verka för införandet av ett nationellt äldrehälsovårdsprogram'
+    - 'Införa ett nationellt äldrehälsovårdsprogram'
+    - 'Ge fler människor stöd att förebygga ohälsa'
+    - 'Minska tobaksrökningen men bevara det svenska snuset'
   -
     fraga: Hemlöshet
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/hemloshet
     asikt:
-    - 'Att psykiatrin och missbrukarvården inte ska kunna avvisa en person med dubbeldiagnos som är i behov av vård om man inte vet att en annan vårdgivare kan ta emot personen'
-    - 'Att det ska finnas fler natthärbärgen och andra alternativ, där människor kan få tak över huvudet'
-    - 'Samordna arbetet mot hemlöshet, psykiskt sjuka och alkohol-/drogberoende mellan kommuner, landsting och frivilligorganisationer.'
-    - 'Att den nuvarande möjligheten hos Försäkringskassan att öronmärka bostadsbidraget ska slås fast i lag. På så sätt riskerar ingen som tar emot bostadsbidrag att bli vräkt för att man inte har betalt hyran.'
+    - 'Se fler billiga boendealternativ, öka rörligheten på bostadsmarknaden'
+    - 'Lagstifta om att öronmärka bostadsbidraget åt att gå till hyran'
+    - 'Bättre insatser mot missbruk och psykisk ohälsa'
+  -
+    fraga: Jämlik vård
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/jamlik-vard
+    asikt:
+    - 'Se över hur vården och hälsan kan bli mer jämlik på alla plan'
+    - 'Ge alla patienter rätt att fritt välja vård i hela landet'
+    - 'Förbättra landsbygdens tillgång till vård med fler digitala lösningar'
   -
     fraga: Missbruk
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/missbruk
     asikt:
-    - 'Förhindra narkotikamissbruk genom förebyggande insatser'
-    - 'Att sjukvården tar över ansvaret för missbruksvården'
-    - 'Att man snabbt ska kunna få behandling om man vill bli fri från sitt missbruk'
-    - 'Att sprutbytesprogram ska finnas i alla delar av landet där det finns behov'
-    - 'Förhindra narkotikamissbruk genom förebyggande insatser'
-    - 'Att barn och unga ska prioriteras i det drogförebyggande arbetet'
-    - 'Öka samarbetet med ideella organisationer'
-    - 'Att man snabbt ska kunna få behandling om man vill bli fri från sitt missbruk'
-    - 'Att de behandlingsmetoder som används ska vara prövade så att man vet att de fungerar'
-    - 'Att sprutbytesprogram ska finnas i alla delar av landet där det finns behov'
-    - 'Att landstingen ska få det samlade ansvaret för missbruksvården'
-    - 'Att lagarna ska ändras så att det går snabbare att narkotikaklassa nya preparat'
-    - 'Att tullen ska arbeta mer för att förhindra smuggling av droger'
-    - 'Att polisen ska arbeta aktivt för att bekämpa narkotika, särskilt på internet'
-    - 'Ha mer internationellt samarbete mot narkotika'
+    - 'Den som vill bli fri från sitt missbruk ska snabbt få behandling'
+    - 'Sjukvården tar över ansvaret för missbruksvården'
+    - 'Sprutbytesprogram ska finnas i alla delar av landet där behov finns'
+  -
+    fraga: Psykisk ohälsa
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/psykisk-ohalsa
+    asikt:
+    - 'Korta köerna till barn- och ungdomspsykiatrin'
+    - 'Öka tillgången till stöd för personer som lider av psykisk ohälsa'
+    - 'Satsa på att utbilda fler som kan erbjuda psykiatrisk hjälp'
   -
     fraga: Sjuksköterskor
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/sjukskoterskor
     asikt:
-    - 'Uppmuntra fler sjuksköterskor att starta egna vårdmottagningar'
-    - 'Att sjuksköterskor ska tjäna mer på att vidareutbilda sig'
-    - 'Att utbildningsanställningar till specialistsjuksköterskor inrättas'
+    - 'Sjuksköterskor som vidareutbildar sig ska få betalt under utbildningen'
+    - 'Inför en examenspremie på 60 000 kr för sjuksköterskor'
+    - 'Se fler karriärvägar för sjuksköterskor'
   -
     fraga: Sjukvård
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/sjukvard
     asikt:
-    - 'Öka valfriheten i vården så att alla patienter kan välja var de ska få vård i'
-    - 'Minska de skillnader i vårdkvalitet som finns i olika delar av landet. Var du bor ska inte avgöra om du får bra vård eller inte'
-    - 'Skapa en tryggare vård och ge alla patienter rätt till en ansvarig läkare'
-    - 'Öka tillgången till vård i hela landet'
+    - 'Skapa en tryggare vård och ge alla patienter rätt till en fast läkarkontakt'
+    - 'Korta köerna i sjukvården i hela landet'
+    - 'Öka patientens valfrihet i sjukvården'
   -
     fraga: Tandvård
     adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/tandvard
     asikt:
-    - 'Satsa extra på patienter med stora tandvårdsbehov som äldre, sjuka och personer med funktionsnedsättning'
-    - 'Göra det lättare för dig som patient att jämföra priser genom att införa ett system med referenspriser'
-    - 'Ge dig som patient ökad makt över din tandvård'
+    - 'Alla ska ha tillgång till bra tandvård till rimliga priser'
+    - 'Se till att de patienter som har stora tandvårdsbehov som äldre, sjuka och personer med funktionsnedsättning har bra tillgång till tandvård'
+  -
+    fraga: Valfrihet i välfärden
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/valfrihet-i-valfarden
+    asikt:
+    - 'Öka valfriheten i vården och omsorgen'
+    - 'Det ska finnas goda möjligheter att driva vårdföretag i hela landet'
+    - 'Det ska ställas höga kvalitetskrav på alla utförare i välfärden'
+  -
+    fraga: Äldreomsorg
+    adress: https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/aldreomsorg
+    asikt:
+    - 'Ge en tryggare vård för äldre genom att ge fler en fast läkarkontakt'
+    - 'Öka valfriheten för äldre'
+    - 'Förbättra den förebyggande hälsovården för äldre'

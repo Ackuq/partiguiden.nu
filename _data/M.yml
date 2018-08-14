@@ -5,36 +5,54 @@ root:
     fraga: A-kassa
     adress: https://moderaterna.se/kassan
     asikt:
-    - 'A-kassan ska tydligt uppmuntra till att söka och skaffa jobb, eftersom det är viktigt att värna a-kassans roll som omställningsförsäkring'
-    - 'A-kassan sänks till 760 kronor dag 1-100 och till 680 kronor därefter. Dessutom kortas a-kassan till ett år, eller 265 ersättningsdagar, och aktivitetsstödet begränsas så att det upphör vid en arbetslöshet som är längre än tre år.'
-    - 'Moderaternas utformning av A-kassan leder till ytterligare cirka 21 000 jobb jämfört med dagens a-kassa.'
+    - 'Vi värnar a-kassans roll som omställningsförsäkring.'
+    - 'A-kassan sänks till 760 kronor per dag under de första hundra dagarna, och därefter till 680 kronor per dag. Dessutom kortas a-kassan till ett år, eller 265 ersättningsdagar, och aktivitetsstödet begränsas så att det upphör vid en arbetslöshet som är längre än tre år.'
+    - 'Moderaternas utformning av a-kassan leder till ytterligare cirka 21 000 jobb jämfört med dagens a-kassa.'
+  -
+    fraga: Alliansen 2006-2014
+    adress: https://moderaterna.se/alliansregeringen-2006-2014
+    asikt:
+    - 'Alliansregeringen gjorde det mer lönsamt att arbeta och enklare och billigare att starta företag och att anställa. Genom rätt verktyg och sänkta trösklar in på arbetsmarknaden får fler en chans till jobb. '
+    - 'Alliansregeringen stärkte välfärden. Kommunernas och landstingens intäkter ökade. Antalet läkare, sjuksköterskor och barnmorskor ökade snabbare än befolkningen. Lärartätheten steg och bemanningen i äldreomsorgen ökade.'
+    - 'Alliansregeringen lotsade Sverige genom den värsta ekonomiska krisen sedan 1930-talet. Tack vare en ansvarsfull politik som satt jobben främst har vi klarat den utdragna lågkonjunkturen bättre än de flesta andra jämförbara länder. Vi har som enda EU-land lyckats sänka vår statsskuld i en tid då skulden i övriga EU har ökat.'
   -
     fraga: Bostäder
     adress: https://moderaterna.se/bostader
     asikt:
-    - 'Ytterligare reformer och förenklingar i plan- och bygglagen.'
-    - '20 000 nya studentbostäder till 2020 genom bl.a. förenklade byggregler och ökad marktillgång nära universiteten och högskolorna. '
-    - 'Flexiblare bullerregler och strandskydd samt tydliga tidsgränser för kommuner och övriga myndigheter för planering och byggnation av bostäder.'
+    - 'Det måste tas ett helhetsgrepp om bostadspolitikens alla delar – från rörlighet, hyresmarknad och nybyggnation till finansiering och skuldsättning. Därför vill vi se en blocköverskridande överenskommelse om bostadsmarknadens funktionssätt. '
+    - 'Öka rörligheten i det befintliga bostadsbeståndet. Flyttskatterna behöver ses över. I ett första steg vill vi permanent ta bort taket för uppskov efter försäljning av bostad och sänka uppskovsräntan.'
+    - 'Det behöver bli enklare att hyra ut i andra hand.'
+    - 'Sänk kostnaderna för att bygga. Vi prioriterar en snabbare plan- och byggprocess, färre överklaganden, regelförenklingar, lägre produktionskostnader och slopat detaljplanekrav.'
+    - 'Minskade och bättre definierade riksintressen. Bostadsbyggandet bör dessutom upphöjas till ett riksintresse i sig.'
+    - 'Nya bullerregler för att frigöra mer byggbar mark och underlätta för ökad nybyggnation.'
+    - 'Reformera strandskyddet i grunden.'
   -
     fraga: Båtliv
     adress: https://moderaterna.se/batliv
     asikt:
-    - 'Överreglera inte och höj inte trösklarna till båtlivet – nej till båtregister, båtkörkort och båtskatt.'
-    - 'Lagstiftningen måste vara effektiv och vila på vetenskaplig grund – dags för en översyn och utvärdering av lagen kring sjöfylleri.'
-    - 'Nej till förbud av tvåtaktsmotorer – satsa på miljövänliga bränslen istället.'
+    - 'Överreglera inte och höj inte trösklarna till båtlivet. Vi säger nej till båtregister, båtkörkort och båtskatt.'
+    - 'Det är dags för en översyn och utvärdering av lagen kring sjöfylleri.Lagstiftningen måste vara effektiv och vila på vetenskaplig grund. '
+    - 'Nej till förbud av tvåtaktsmotorer. Satsa på miljövänliga bränslen istället.'
+  -
+    fraga: Bidragstak
+    adress: https://moderaterna.se/bidragstak
+    asikt:
+    - 'Inför ett bidragstak, så att det alltid lönar sig att gå från bidrag till arbete.'
+    - 'Full tillgång till svenska bidrag och ersättningar bör enbart kunna uppnås genom eget arbete, eller genom permanent och laglig bosättning i Sverige.'
+    - 'Tydliga krav på aktivitet och motprestation för att få bidrag.'
   -
     fraga: Civilsamhälle och trossamfund
     adress: https://moderaterna.se/civilsamhalle-och-trossamfund
     asikt:
-    - 'Skapa förutsättningar för ett fritt och starkt civilsamhälle'
-    - 'Öka resurserna till skyddsåtgärder för trossamfund runt om i Sverige'
-    - 'Föreningar och organisationer som sprider hat och propaganda ska inte få bidrag från stat eller kommun'
-    - 'Stärk samarbetet mellan civilsamhället, det offentliga och det privata'
+    - 'Skapa förutsättningar för ett fritt och starkt civilsamhälle.'
+    - 'Staten ska ta ökat ansvar för skyddsåtgärder för trossamfund runt om i Sverige.'
+    - 'Föreningar och organisationer som sprider hat och propaganda ska inte få bidrag från stat eller kommun.'
+    - 'Stärk samarbetet mellan civilsamhället, det offentliga och det privata.'
   -
     fraga: Ekonomi
     adress: https://moderaterna.se/ekonomi
     asikt:
-    - 'Stärk drivkrafterna till arbete. Att så många som möjligt arbetar är avgörande för vårt välstånd. Skatteintäkterna blir högre och utgifterna lägre. Då finns mer pengar att fördela och mer pengar till vår gemensamma välfärd. För genomsnittliga inkomster innebär det en skattesänkning på ca 500 kronor i månaden.'
+    - 'Stärk drivkrafterna till arbete. Att så många som möjligt arbetar är avgörande för vårt välstånd. Skatteintäkterna blir högre och utgifterna lägre. Då finns mer pengar att fördela och mer pengar till vår gemensamma välfärd. För genomsnittliga inkomster innebär det en skattesänkning på cirka 500 kronor i månaden.'
     - 'För att ha råd med välfärden behöver bidragskostnaderna minska.'
     - '10 miljarder kronor för att förstärka välfärden. Redan 2020 satsar vi på att stärka kommunernas och landstingens ekonomi och upprätthålla kvaliteten i välfärden.'
     - 'Vi går till val på stora resurstillskott till statens kärnuppgifter. Vi gör den största satsningen på rättsväsendet på 20 år och vi tillför betydande resurser till försvaret.'
@@ -43,37 +61,50 @@ root:
     fraga: EU
     adress: https://moderaterna.se/eu
     asikt:
-    - 'Sverige bör långsiktigt driva på för ett hållbart och rättvist kvotbaserat flyktingmottagande där prövning av asyl sker utanför EU eller vid EU:s gräns.'
+    - 'EU:s inre marknad behöver fullt ut förverkligas. Idag flödar varor i hög grad fritt inom EU, men det går trögare för tjänster och information.'
+    - 'EU-medlemmarna måste samlas kring en gemensam syn på migrationen och hur unionens yttre gränser ska säkras. Sverige ska vara en stark röst för ett nytt, gemensamt, hållbart och humant asylsystem. '
+    - 'Det behövs ett större svenskt engagemang i det europeiska försvarssamarbetet och ett större svenskt ansvar för Europas säkerhet. Sverige borde fullt ut vara med och utforma det nya säkerhetssamarbetet Pesco.'
     - 'EU:s yttre gräns behöver förstärkas. Kontrollen vid yttre gräns och inresa i Schengen måste moderniseras och skärpas.'
-    - 'Den inre marknaden bör fördjupas, särskilt för tjänster och den digitala ekonomin.'
-    - 'EU bör avskaffa handelshinder gentemot länder som vidtar åtgärder som sänker växthusgaserna. '
-    - 'EU-budgeten bör reformeras och användas mer effektivt. Säkerhet, konkurrenskraft, forskning och klimatomställning bör prioriteras tydligare samtidigt som anslagen minskas för jordbrukspolitiken och regional- och strukturfonderna.'
+    - 'EU behöver mer handel, både här hos oss och med andra regioner, i form av nya frihandelsavtal.'
+    - 'Stärk det europeiska miljö- och klimatarbetet, bland annat genom en gemensam politik för energieffektivisering och bättre handel med utsläppsrätter.'
+    - 'EU:s budget måste reformeras och användas mer effektivt. Dessutom behövs bättre revision, resultatanalyser och mer öppenhet.'
   -
     fraga: Energi
     adress: https://moderaterna.se/trygg-energiforsorjning
     asikt:
-    - 'Kärnkraften ska kunna vara en viktig del av Sveriges energiförsörjning under lång tid'
-    - 'Förbättrade villkor för svensk vattenkraft'
-    - 'Fortsatt utbyggnad av förnybar elproduktion'
+    - 'Energiöverenskommelsen ska fullföljas och viktiga skatteförändringar och lagändringar för att stärka svensk elproduktion genomföras.'
+    - 'Sverige ska satsa på alla relevanta energislag, inklusive kärnkraft, samt på forskning och demonstrationsanläggningar.'
+    - 'Kärnkraften ska kunna vara en viktig del av Sveriges energiförsörjning under lång tid.'
+    - 'Villkoren för svensk vattenkraft ska förbättras, och Sverige ska fortsätta bygga ut den förnybara elproduktionen. '
+  -
+    fraga: EPP - Europeiska Folkpartiet
+    adress: https://moderaterna.se/europeiska-folkpartiet
+    asikt:
+    - 'Anna-Maria Corazza Bildt'
+    - 'Christofer Fjellner'
+    - 'Gunnar Hökmark'
   -
     fraga: Försvar
     adress: https://moderaterna.se/forsvar
     asikt:
-    - 'Öka resurserna till Försvarsmakten. Sveriges försvarsanslag ska inom tio år uppgå till två procent av BNP. Detta är på sikt en fördubbling jämfört med dagens anslag.'
-    - 'Svenskt Natomedlemskap. Sverige behöver en färdplan för ett Natomedlemskap. Ett Natomedlemskap är det enda försvarssamarbetet som på allvar stärker Sveriges säkerhet.'
-    - 'Bättre krisberedskap och ett totalförsvar som kan möta alla slags hot. En god krisberedskap i fred lägger grunden till ett väl fungerande totalförsvar i kris och krig.'
+    - 'Sverige bör fullt ut gå med i Nato. Medlemskap i Nato är det enda försvarssamarbetet som på allvar stärker Sveriges säkerhet.'
+    - 'Försvarsanslaget öka till två procent av BNP. Ambitionen är att uppnå målet inom tio år. '
+    - 'I närtid vill Moderaterna skjuta till 18 miljarder kronor mer är regeringen fram till 2021. Resurserna ska användas till att färdigställa den krigsorganisation som beslutades 2015. Parallellt med detta så ska planering för ökad förmåga efter 2020 påbörjas.'
+    - 'Inrätta ett riktigt nationellt säkerhetsråd med placering i Statsrådsberedningen.'
+    - 'Samla kunskapen och förmågan för att skydda Sverige mot digitala hot i ett särskilt operativt center.'
   -
     fraga: Företagande
     adress: https://moderaterna.se/foretagande
     asikt:
-    - 'Enklare och mer lönsamt att starta och driva företag'
-    - 'Fortsatta regelförenklingar för mindre krångel'
-    - 'Infrastruktur att lita på och konkurrenskraftiga transporter'
-    - 'Förenkla för företag eller enskild näringsverksamhet med relativt låg omsättning genom mindre administration och lägre beskattning'
-    - 'Regelverk ska förenklas och anpassa till ett digitaliserat och delande samhälle'
-    - 'Utreda skattefria köp mellan privatpersoner på 30 000 kronor.'
+    - 'Genomför regelförenklingar så att det blir lättare att starta och driva företag. Arbetet för regelförenklingar ska även prioriteras på EU-nivå.'
+    - 'Underlätta generationsväxlingar och ägarskiften genom att bland annat förenkla 3:12-reglerna.'
+    - 'Reformera reglerna för personaloptioner för att företag ska kunna locka till sig och behålla kompetent personal.'
+    - 'Företag ska kunna lämna uppgifter till alla myndigheter genom en och samma portal. En uppgift ska bara behöva lämnas in en gång.'
+    - 'Inför en bortre tidsgräns för handläggning hos myndigheter.'
+    - 'Sänk gränsen för aktiekapital från 50 000 kronor till 25 000 kronor.'
+    - 'Sverige ska vara världsledande i arbetet med att ta tillvara digitaliseringens möjligheter.'
   -
-    fraga: Funktionshinder
+    fraga: Funktionsnedsättning
     adress: https://moderaterna.se/funktionsnedsattning-och-lss
     asikt:
     - 'Den som behöver det ska i större utsträckning ges möjlighet att välja och ha inflytande över vem som ska utföra vård-, rehabiliterings-, och stödinsatser, liksom utformningen av dessa insatser.'
@@ -83,97 +114,88 @@ root:
     fraga: Förskola
     adress: https://moderaterna.se/forskola-och-forskoleklass
     asikt:
+    - 'Fler platser på förskollärarutbildningen.'
     - 'Förskolan ska omfattas av mätbara kunskapsmål.'
-    - 'Överlämningen mellan förskola och nästa skolform ska kvalitetssäkras.'
-    - 'Barn till föräldrar som står utanför arbetsmarknaden ska få mer tid i förskolan. Alla barn, vars föräldrar har fått försörjningsstöd mer än sex månader året innan, ska ha rätt till 30 timmar per vecka på förskolan.'
+    - 'Utökad rätt till förskola för barn vars föräldrar är arbetslösa eller får försörjningsstöd.'
+    - 'Obligatorisk språkförskola för barn till nyanlända.'
+    - 'Skolinspektion ska ansvara för tillsyn av alla friskolor, både kommunala och fristående.'
   -
     fraga: HBTQ
     adress: https://moderaterna.se/hbtq
     asikt:
-    - 'Könsuttryck och könsidentitet bör uttryckligen omfattas av hatbrottslagstiftningen.'
-    - 'Hbtq-strategier i kommuner och landsting.'
-    - 'Öppna för att surrogatmoderskap bör tillåtas i Sverige.'
+    - 'Ingen ska mötas av ett bristande bemötande i till exempel hälso- och sjukvården eller i äldreomsorgen på grund av sexuell läggning. Därför vill vi se utvecklade hbtq-strategier och hbt-certifiering av skolor i kommuner och landsting.'
+    - 'Lagstiftningen behöver förtydligas för att de familjer med barn som tillkommit genom surrogatmoderskap och redan i dag finns i Sverige ska få en bättre rättslig situation och samma självklara trygghet som alla andra familjer. Sverige bör också införa möjlighet till surrogatmoderskap under reglerade former.'
+    - 'Moderaterna vill se en helt könsneutral familjelagstiftning.'
+    - 'Sverige ska därför driva hbt-frågor starkt inom bland annat EU, FN och Europarådet. Hbtq-personers rättigheter ska också prioriteras inom biståndet.'
+    - 'Kunskapen om hatbrotten är inte tillräcklig, vare sig inom rättsväsendet eller bland allmänheten. Vi vill därför att Skolverket tillsammans med Skolinspektionen, Brå och Folkhälsomyndigheten utarbetar en webbaserad pilotmodell, i syfte att kunna erbjuda ett digitalt kompetenslyft för att förebygga mobbning, våld och kränkningar i skolan.'
+    - 'Vi står bakom beslutet att könsuttryck och könsidentitet tydligt bör omfattas av hatbrottslagstiftningen.'
   -
     fraga: Hälso- och sjukvård
     adress: https://moderaterna.se/halso-och-sjukvard
     asikt:
-    - 'Köerna i svensk hälso- och sjukvård ska halveras. Därefter ska de minskas till ett minimum.'
-    - 'Ökad tillgänglighet och bättre kvalitet i den nära vården.'
-    - 'Alla patienter som så önskar ska ha en fast vårdkontakt.'
-    - 'Ingen ska avlida på grund av att högspecialiserad vård inte är tillräckligt koncentrerad.'
-    - 'En ny samlad och nära vård för äldre multisjuka ska vara införd.'
-    - 'Läkares, sjuksköterskors och undersköterskors arbetsmiljö ska vara säker.'
-    - 'Korta patienternas väntetider – återinför en utvecklad kömiljard. Vi satsar 3 miljarder kronor per år för att i ett första steg halvera vårdköerna och köerna till psykiatrin.'
-    - 'Utveckla den nära vården med fast vårdkontakt – genomför primärvårdsreform. Den nära vården behöver byggas ut. Vi stärker därför primärvården med 1 miljard kronor per år.'
-    - 'Stärk patientsäkerheten – genomför ytterligare koncentration av högspecialiserad vård.'
-    - 'Stärk och prioritera vårdkedjan för de mest sjuka äldre. Det samlade omhändertagandet av äldre måste bli mycket bättre. Detta kräver mer samverkan mellan landsting och kommuner.'
-    - 'Säker förlossningsvård. Stärk vårdkedjan mellan mödravård, förlossningsvård och eftervård. Vi satsar 1 miljard kronor per år för att stärka förlossningsvården och barnmorskors arbetsmiljö.'
-    - 'Säkra kompetensförsörjningen i vården. Ta fram och genomför en nationell långsiktig strategi gällande personalförsörjningen.'
-    - 'Ta fram och genomför en ny uppgraderad nationell cancerstrategi.'
-    - 'Att stärka valfrihet och mångfald i vården. Vi vill att det fria vårdsökandet även ska omfatta specialiserad slutenvård.'
+    - 'Vi satsar tre miljarder kronor på att korta vårdköerna.'
+    - 'Av dessa tre miljarder öronmärks 500 miljoner kronor för att korta väntetiderna för barn och unga med psykisk ohälsa. De ska få hjälp i tid.'
+    - 'En nära tillgänglig sammanhållen vård för de mest sjuka – ofta äldre personer som är multisjuka och kroniker.'
+    - 'En ny nationell cancerstrategi. Som möter cancerpatienternas behov.'
+    - 'Stärk vårdkedjan mellan mödravård, förlossningsvård och eftervård. Det ger ökad trygghet. För detta satsar Moderaterna en miljard kronor.'
   -
     fraga: Hästsport
     adress: https://moderaterna.se/hastsport
     asikt:
-    - 'Det ska vara enkelt att starta och driva företag vilket ökar förutsättningar för företagande inom hästnäringen.'
-    - 'Vi vill fortsätta satsningen på Idrottslyftet som stärker barn- och ungdomsidrott där hästsporten är av stor vikt.'
-    - 'Verka för att ta tillvara på hästsektorn och verka för en jämställd tilldelning av resurser till både flickors och pojkars idrottsverksamhet, såväl nationellt som lokalt.'
+    - 'Det ska vara enkelt att starta och driva företag – det förbättrar villkoren för företagande även inom hästnäringen.'
+    - 'Fortsätt satsningen på Idrottslyftet som stärker barn- och ungdomsidrott, där hästsporten är av stor vikt.'
+    - 'Ta tillvara hästsektorn och verka för en jämställd tilldelning av resurser till både flickors och pojkars idrottsverksamhet, såväl nationellt som lokalt.'
     - 'Värna ridningens viktiga roll som Sveriges största handikappidrott.'
     - 'Hästsektorn ska vara en naturlig del av utvecklingen av landsbygden.'
     - 'Sverige ska vara en stark röst för ett bra djurskydd i hela EU.'
-    - 'Stödja fortsatt forskning för bättre djurvård och djurhälsa.'
   -
     fraga: Infrastruktur och trafik
     adress: https://moderaterna.se/infrastruktur-och-trafik
     asikt:
-    - 'Vi behöver vårda det järnvägssystem vi har för att inte riskera att exempelvis eftersläpande underhåll och signalfel leder till kostsamma förseningar och bekymmer för både den enskilde och samhället i stort. Det krävs både underhåll av dagens järnväg och ny kapacitet. Vi vill höja standarden på både befintliga stambanor och bygga ut nya sträckningar av stambana.'
-    - 'Vi vill satsa 2,4 miljarder kronor (2018-2026) för att införa tyngre lastbilar i Sverige'
+    - 'Vi satsar på att bygga ut svensk järnväg och ökar anslagen till järnvägsunderhåll med nästan 50 procent. Moderaterna matchar därmed varenda krona regeringen lägger på järnvägen fram till 2029.'
+    - 'Moderaterna satsar 500 miljoner kronor mer än regeringen per år på bättre och säkrare vägar.'
+    - 'Investera i laddinfrastruktur, till exempel för elbilar och vätgasbilar, längs med Sveriges vägar för att minska utsläppen. För detta satsar Moderaterna 100 miljoner kronor.'
+    - 'Fortsätt utbyggnaden av bredband.'
   -
     fraga: Integration
     adress: https://moderaterna.se/integration
     asikt:
-    - 'Halvera jobbklyftan mellan inrikes och utrikes födda till 2025.'
-    - 'Integrationsplikt, bland annat med förstärkt samhällsinformation för nyanlända.'
-    - 'Bidragstak så att det alltid lönar sig att ta ett jobb.'
-    - 'Det ska alltid löna sig att arbeta, framförallt för de med lägre inkomster'
-    - 'Full tillgång till bidrag och ersättningar ska ske genom eget arbete eller genom permanent och laglig bosättning Sverige.'
-    - 'Inträdesjobb, en tidsbegränsad lärlingsanställning för nyanlända och unga upp till 23 år utan gymnasieexamen, bör införas för att underlätta för att fler ska få in en fot på arbetsmarknaden och få värdefull erfarenhet som gör det möjligt att gå vidare i arbetslivet.'
+    - 'Bidragstak – så att det alltid lönar sig att gå från bidrag till arbete.'
+    - 'Språkkrav för att få permanent uppehållstillstånd och medborgarskap.'
+    - 'Utbildningsplikt för nyanlända som saknar grundskoleutbildning.'
+    - 'Inrätta en tvåårig yrkesskola med fokus på yrkesämnen och svenska.'
+    - 'Inför inträdesjobb, en lärlingsanställning för unga upp till 23 år utan gymnasieexamen och nyanlända, som sänker kostnaderna att anställa.'
+    - 'Tredubbla RUT-avdraget så att fler enklare jobb att växa fram.'
+    - 'Snabbare möjlighet till medborgarskap vid arbete och egen försörjning.'
+    - 'Full tillgång till svenska bidragssystem ska ske genom arbete, eller permanent och laglig bosättning i Sverige'
   -
     fraga: Idrott
     adress: https://moderaterna.se/idrott
     asikt:
-    - 'Fler idrottstimmar i skolan'
-    - 'Stärka idrottens roll på fritidshemmen'
-    - 'Genomföra ett handslag med idrottsrörelsen för ökad folkhälsa och integration'
-    - 'Tillsätta en barnidrottsombudsman'
-    - 'Inför en fritidspeng riktad mot barn från de ekonomiskt mest utsatta miljöerna'
-  -
-    fraga: Jobb och arbetsmarknad 
-    adress: https://moderaterna.se/ekonomi-och-jobb
-    asikt:
-    - 'Moderaternas har två jobbmål: att i ett första steg halvera den farliga jobbklyftan mellan inrikes och utrikes födda och att en halv miljon nya jobb ska kunna skapas till år 2025.'
-    - 'För att fler ska arbeta måste det alltid löna sig att jobba. Vi vill sänka skatten på arbete, särskilt för dem med lägre inkomster.'
-    - 'Brytpunkten för statlig inkomstskatt bör också höjas för att öka drivkrafterna att jobba mer och utbilda sig – inte minst för att klara våra välfärdsåtaganden.'
-    - 'Med vår politik får exempelvis bussförare, förskollärare och poliser behålla nära 500 kronor mer varje månad.'
-    - 'Inför inträdesjobb, en tidsbegränsad lärlingsanställning för nyanlända och unga upp till 23 år utan gymnasieexamen, för att fler ska få in en fot på arbetsmarknaden och få värdefull erfarenhet som gör det möjligt att gå vidare i arbetslivet.'
-    - 'Tredubbla taket i rutavdraget till 75 000 kronor per år och utvidga det till fler tjänster.'
-    - 'Ersätt Arbetsförmedlingen av en mindre och vassare statlig aktör och etablerade matchningsaktörer.'
-    - 'Ersätta befintliga lönestöd för nyanlända och långtidsarbetslösa med ett nytt som är betydligt enklare för att fler ska kunna få ett första jobb.'
+    - 'Verka för fler idrottstimmar i skolan.'
+    - 'Stärk idrottens roll på fritidshemmen.'
+    - 'Kartlägg hur socioekonomiska faktorer påverkar barns och ungdomars idrottande.'
+    - 'Utveckla Idrottslyftet till att även omfatta äldre.'
   -
     fraga: Jämställdhet
     adress: https://moderaterna.se/jamstalldhet
     asikt:
-    - 'Motverka fattigdomsfällor – skatter och bidrag får inte utformas så att familjer förlorar på att kvinnor börjar arbeta.'
-    - 'Underlätta för individen att kombinera arbetsliv och familj.'
-    - 'Begränsa tiden med föräldrapenning för den som står utanför arbetsmarknaden. Försörjningsstödet bör utbetalas jämställt mellan män och kvinnor och möjligheten att individualisera inkomstgränserna för arbetsinkomster i försörjningsstödet bör ses över.'
-    - 'Verka för en jämställd tillgång till vård och omsorg, och för jämställd utbildning.'
+    - 'Motverka kvinnofällorna i försörjningsstödet och etableringsersättningen. Skatter och bidrag får inte utformas så att familjer förlorar på att kvinnor börjar arbeta.'
+    - 'Skärpa straff för alla våldtäktsbrott och för sexuella ofredanden.'
+    - 'I varje polisregion ska det finnas särskilda grupper som är specialiserade på sexualbrott. Den som utsatts ska ha rätt till stöd från ett målsägarbiträde som uppfyller särskilda krav på kompetens och lämplighet.'
+    - 'Krafttag mot hedersförtrycket.'
+    - 'För att fler utrikes födda kvinnor ska komma närmare arbetsmarknaden vi vill att det ska krävas kvalificering genom arbete för full föräldrapenning, samtidigt som förskolan ska utökas för barn till den som lever på bidrag eller är arbetslös.'
   -
-    fraga: Jordbruk
-    adress: https://moderaterna.se/jordbruk
+    fraga: Jordbruk och skogsbruk
+    adress: https://moderaterna.se/jordbruk-och-skogsbruk
     asikt:
     - 'Lantbruket behöver lägre kostnader för sin produktion, enklare regler och minskad administrativ börda.'
+    - 'Sänk skatten för diesel som används i jord- och skogsbruket med ytterligare 50 öre per liter.'
+    - 'Tillsätt en äganderättsutredning med fokus på de gröna näringarna.'
     - 'Stärk företagande på landsbygden, bland annat genom att tillåta gårdsförsäljning.'
-    - 'Nej till straffskatter på transporter.'
+    - 'Upprätta en nationell bioekonomistrategi.'
+    - 'EU:s utbetalningar av jordbruksstöd ska göras inom utsatt tid. '
+    - 'Nej till straffskatter på transporter och avstånd.'
   -
     fraga: Jakt och viltvård
     adress: https://moderaterna.se/jakt-och-viltvard
@@ -182,64 +204,77 @@ root:
     - 'Inga försämringar för laglydiga jägare, sportskyttar eller vapensamlare när EU:s vapendirektiv förs in i svensk lag.'
     - 'Förkorta handläggningstiden för vapenärenden.'
     - 'Se över det samlade regelverket för vapen i syfte att skapa ett regelverk som inte försvårar för jägare och sportskyttar i onödan.'
-    - 'Beslut om vargförvaltningen ska fattas så nära dem som berörs som möjligt.'
+    - 'Förenkla jägarnas möjligheter att själva sälja sitt kött.'
+  -
+    fraga: Jobb och arbetsmarknad
+    adress: https://moderaterna.se/jobb-och-arbetsmarknad
+    asikt:
+    - 'Sänkt skatt för alla som arbetar, med tyngdpunkt på lägre inkomster. Med vår politik skulle en vanlig barnfamilj få drygt 1000 kronor mer i plånboken varje månad.'
+    - 'Förhöjt jobbskatteavdrag för äldre. Det förhöjda jobbskatteavdraget ska ges till personer som fyllt 64 år, istället för dagens 65 år.'
+    - 'Inför inträdesjobb, en ny lärlingsanställning för unga upp till 23 år utan gymnasieexamen och nyanlända, som sänker kostnaderna att anställa.'
+    - 'Inför ett bidragstak, så att det alltid lönar sig att gå från bidrag till arbete.'
+    - 'Fler enkla jobb genom tredubblat RUT-avdrag.'
   -
     fraga: Kultur
-    adress: https://moderaterna.se/kultur-och-idrott
+    adress: https://moderaterna.se/kultur
     asikt:
-    - 'Värna ett fritt kulturliv'
-    - 'Ge alla barn och ungdomar möjligheter till kulturupplevelser'
-    - 'Bygg ut Skapande skola'
-    - 'Stötta den nyskapande kulturen'
-    - 'Stärk bibliotekens arbete med digitalisering för att nå nya grupper'
-    - 'Erbjud en fristad till förföljda konstnärer'
+    - 'Kulturen måste fredas från politisk klåfingrighet. Vi står för en övergripande strategi, där kulturpolitikens värde och innehåll återupprättas. '
+    - 'Underlätta för det civila samhällets organisationer att bedriva sin verksamhet, att utvecklas och att därigenom bidra till välfärd och social sammanhållning. Det civila samhällets självständighet behöver stärkas och värnas. '
+    - 'En majoritet av de professionella kulturarbetarna är egna företagare. För att fler kulturskapare skall kunna leva på sin konst behöver vi minska administrationen för egenföretagande och sänka skatter. Vi vill också utbilda fler konstnärer och konststuderande i entreprenörskap och även skapa arbetsstipendier till vissa teater-, dans- och musikändamål samt bild- och formområdet. '
+    - 'Bygg ut Skapande skola till att omfatta även gymnasieskolan. Skapande skola når barn och unga i den skolmiljö där alla barn befinner sig dagligen.'
   -
     fraga: Klimat
-    adress: https://moderaterna.se/klimat
+    adress: https://moderaterna.se/miljo-och-klimat
     asikt:
-    - 'En miljö- och klimatpolitik som sänker utsläppen på riktigt, inte bara flyttar dem någon annanstans'
-    - 'Internationella klimatinvesteringar för största nytta per skattekrona'
-    - 'Förlängd supermiljöbilspremie och införande av bonus-malus-system'
-    - 'Skatteavdrag för företag som klimatkompenserar'
+    - 'Bygga ut teknikneutral laddinfrastruktur för att snabba på omställningen till en fossilfri fordonsflotta.'
+    - 'Klimatavdrag för företag som investerar i teknik som kan eliminera eller drastiskt minska den svenska basindustrins utsläpp.'
+    - 'Rena läkemedelsrester ur avloppsvattnet.'
+    - 'Kraftigt ökat klimatbistånd.'
+    - 'Mer än en fördubbling av regeringens satsning på internationella klimatinvesteringar.'
+    - 'Stärkt äganderätt.'
   -
     fraga: Landsbygd
     adress: https://moderaterna.se/landsbygd
     asikt:
-    - 'Se över och var beredd att förändra svenska särkrav för livsmedelsproduktion samtidigt som EU-regler förs in i svensk lag på ett sätt som värnar den svenska konkurrenskraften.'
-    - 'Stärk företagande på landsbygden, bland annat genom att tillåta gårdsförsäljning men också genom att göra det lättare att starta livsmedelsföretag.'
-    - 'Stärka äganderätten för att säkerställa jord- och skogsbrukets konkurrenskraft.'
-    - 'Värna det nationella självbestämmandet över skogsbruket och stärk äganderätten.'
+    - 'Vi vill stärka företagande på landsbygden, bland annat genom att tillåta gårdsförsäljning men också genom att göra det lättare att starta livsmedelsföretag.'
+    - 'Vi moderater kommer inte att gå med på några försämringar för laglydiga jägare, sportskyttar eller vapensamlare när EU:s vapendirektiv införlivas i svensk lag.'
+    - 'Det måste bli mer attraktivt att bosätta sig på landsbygden. Bland annat ska det gå att bygga nära vatten. Vi vill därför reformera strandskyddet i grunden.'
+    - 'Vi vill tillsätta en äganderättsutredning med fokus på de gröna näringarna.'
     - 'Lantbruket behöver lägre kostnader för sin produktion, enklare regler och minskad administrativ börda.'
-    - 'Paket för ökad livsmedelsexport.'
-    - 'Nej till straffskatter på transporter.'
-    - 'Det måste bli mer attraktivt att bosätta sig på landsbygden. Bland annat ska det gå att enklare att bygga nära vatten, därför behöver våra förslag för mer ändamålsenliga regler för strandskydd genomföras.'
   -
     fraga: Lag och ordning
     adress: https://moderaterna.se/lag-och-ordning
     asikt:
-    - 'Antalet poliser i Sverige ska närma sig nivåerna i andra europeiska länder och Sverige ska ha minst 25 000 poliser senast år 2025. Därutöver lika många fler civilanställda under samma period. Det innebär 10 000 fler anställda inom svensk polis till 2025.'
-    - 'Polisernas löner ska höjas med i genomsnitt 3 000 kronor per månad.'
-    - 'Straffen ska skärpas för bland annat bostadsinbrott, vapenbrott, sexualbrott och för attacker mot blåljuspersonal.'
-    - 'Öka möjligheterna till kamerabevakning och att polisen bland annat ska kunna bedriva kamerabevakning på brottsutsatta platser och strategiskt viktiga platser utan tillståndsplikt.'
+    - 'Vi satsar de resurser som krävs för att nå målet om 10 000 fler polisanställda till 2024.'
+    - 'Polisernas löner ska höjas och kunna bli 3 000 kronor mer i lön varje månad.'
+    - 'Polisens ska fokusera på sin kärnuppgift: att ingripa mot, utreda och klara upp brott.'
+    - 'Betald och reformerad polisutbildning.'
+    - 'Dubbla straff för brott som begås av gängkriminella.'
+    - 'Slopa dagens form av mängdrabatt för de som döms för flera brott samtidigt.'
+    - 'Mer kameraövervakning – slopa tillståndsplikten för Polisen.'
+    - 'Skärp minimistraffen för alla våldtäkter och för grovt sexuellt ofredande.'
+    - 'Fler brott ska leda till utvisning.'
+    - 'EU-medborgare som begått brott i Sverige ska avtjäna straffet i sitt hemland.'
+    - 'Inför ett nationellt förbud mot tiggeri.'
   -
     fraga: Migrationspolitik
     adress: https://moderaterna.se/migrationspolitik
     asikt:
-    - 'Tillfälliga uppehållstillstånd ska fortsatt vara huvudregel'
-    - 'Tillfälliga uppehållstillstånd ska omvandlas till permanenta uppehållstillstånd vid jobb och egen försörjning.'
-    - 'Skärpta försörjningskrav vid anhöriginvandring '
-    - 'Återvändandet för de som fått avslag på sin asylansökan ska öka '
-    - 'Harmonisera Nordens migrationspolitik.'
-    - 'Dagens EU-gemensamma asylsystem ska på sikt ersättas med ett nytt kvotflyktingsystem'
-    - 'Uppvärdera det svenska medborgarskapet för att främja integrationen'
+    - 'Sverige behöver en stram, genomtänkt och långsiktigt hållbar migrationspolitik.'
+    - 'Sveriges migrationspolitik ska i huvudsak inte avvika från migrationspolitiken i andra jämförbara länder (till exempel Norge, Danmark och Tyskland).'
+    - 'En stram migrationspolitik förutsätter tillfälliga uppehållstillstånd som huvudregel, ett skärpt försörjningskrav vid anhöriginvandring och krav på egenförsörjning och godkända språkkunskaper för permanent uppehållstillstånd och medborgarskap.'
+    - 'Återvändandet av personer som fått avslag på sin asylansökan, eller på annat sätt vistas utan tillstånd i Sverige, måste kraftigt öka. Det innefattar fler genomförda utvisningar, fler inre utlänningskontroller och minskade drivkrafter att stanna i Sverige utan tillstånd.'
+    - 'Moderaterna vill ersätta dagens asylsystem med ett EU-gemensamt kvotflyktingsystem med asylprövning utanför EU:s gräns, där människor i störst behov av skydd beviljas uppehållstillstånd och en säker resväg in i EU.'
   -
     fraga: Miljö och klimat
     adress: https://moderaterna.se/miljo-och-klimat
     asikt:
-    - 'En miljö- och klimatpolitik som sänker utsläppen på riktigt, inte bara flyttar dem någon annanstans'
-    - 'Internationella klimatinvesteringar för största nytta per skattekrona'
-    - 'Förlängd supermiljöbilspremie och införande av bonus-malus-system'
-    - 'Skatteavdrag för företag som klimatkompenserar'
+    - 'Bygga ut teknikneutral laddinfrastruktur för att snabba på omställningen till en fossilfri fordonsflotta.'
+    - 'Klimatavdrag för företag som investerar i teknik som kan eliminera eller drastiskt minska den svenska basindustrins utsläpp.'
+    - 'Rena läkemedelsrester ur avloppsvattnet.'
+    - 'Kraftigt ökat klimatbistånd.'
+    - 'Mer än en fördubbling av regeringens satsning på internationella klimatinvesteringar.'
+    - 'Stärkt äganderätt.'
   -
     fraga: Motorsport
     adress: https://moderaterna.se/motorsport
@@ -258,18 +293,29 @@ root:
     fraga: Pension
     adress: https://moderaterna.se/pension
     asikt:
-    - 'Förstärkt jobbskatteavdrag från 64 års ålder för att stärka drivkrafterna att stanna kvar på arbetsmarknaden. Det innebär att en person som tjänar 20 000 kronor per månad betalar 1000 kronor mindre i skatt varje månad.'
-    - 'Sänkt skatt för pensionärer genom att det förhöjda grundavdraget för personer som fyllt 65 år förstärks. Vi satsar 4,4 miljarder kronor år 2018, 8,6 miljarder kronor år 2019 och 12,9 miljarder kronor år 2020 på att sänka skatten för pensionärer.'
-    - 'Samma kvalificeringsregler till garantipensionen ska gälla för alla.'
+    - 'Grundskyddet ska förbättras och ha särskilt fokus på de ekonomiskt mest utsatta och därigenom minska inkomstgapet mellan kvinnor och män.'
+    - 'Premiepensionssystemet ska reformeras för att komma tillrätta med de olämpliga och i vissa fall olagliga aktiviteter som förekommit på premiepensionens fondtorg.'
+    - 'Pensionsåldergränser och motsvarande åldersgränser i trygghetssystemen (exempelvis sjukförsäkring och a-kassa) höjs och kopplas även till utvecklingen av medellivslängden.'
+    - 'Utöver detta genomförs en stor rad åtgärder för mer jämställda pensioner.'
   -
     fraga: Polis
     adress: https://moderaterna.se/stark-svensk-polis
     asikt:
     - 'Polisens organisation ska effektiviseras för att stärka polisens fokus på kärnuppgiften att ingripa mot, utreda och klara upp brott.'
-    - 'Sverige ska ha minst 25 000 poliser senast år 2025. Därutöver lika många fler civilanställda under samma period. Det innebär 10 000 fler anställda inom svensk polis till 2025.'
+    - 'Antalet poliser i Sverige ska närma sig nivåerna i andra europeiska länder. Moderaterna anslår därför de resurser som krävs för att öka antalet polisanställda med 10 000 till år 2024.'
     - 'Polisernas löner ska höjas och kunna bli 3 000 kronor mer i lön varje månad.'
     - 'Skärpta straff för attacker mot blåljuspersonal. Tydlig lagstiftning som möjliggör generella förordnanden för kommunala ordningsvakter.'
     - 'Bredda det område en kommunal ordningsvakt kan arbeta på i en hel kommun samt förstärka kommunala ordningsvakters befogenheter.'
+  -
+    fraga: Psykisk ohälsa
+    adress: https://moderaterna.se/psykisk-ohalsa
+    asikt:
+    - 'Införandet av en särskild rehabiliteringskedja för lättare psykiska diagnoser med tidigare insatser kombinerat med specialiserade handläggare hos Försäkringskassan och ett särskilt omställningsspår hos Arbetsförmedlingen.'
+    - 'Vi lyfter vikten av arbetsmiljö och föreslår en riktad tillsyn av den psykosociala arbetsmiljön i grupper med hög risk för sjukfrånvaro. Dessutom föreslår vi utvecklade och förbättrade möjligheter till förebyggande insatser. Till exempel en förebyggande-garanti där en rimlig målsättning är att den som har ett jobb och är i behov av förebyggande insatser ska kunna påbörja detta inom en månad'
+    - 'Vi menar att det varken är rimligt eller hållbart att svenskar, som är ett av de friskaste folken i världen, har en så jämförelsevis hög sjukfrånvaro. Därför måste alla delar av sjukförsäkringen bättre stödja återgången till arbete. Samtidigt måste sjukförsäkringen kompletteras med bättre förebyggande insatser och rehabilitering.'
+    - 'Vikten av Försäkringskassans fortsatta arbete med kontroller och regeltillämpning bör understrykas och understödjas. Det finns fortfarande brister i kontrollerna vid tidsgränserna som bör åtgärdas.'
+    - 'Den bortre tidsgränsen behöver återinföras.'
+    - 'Våra förslag om en särskild rehabiliteringskedja för psykisk ohälsa och insatser gällande psykosocial arbetsmiljö ligger rätt i förhållande till sjukfrånvarons sammansättning och orsaker och bör eventuellt förstärkas.'
   -
     fraga: RUT
     adress: https://moderaterna.se/rut
@@ -283,10 +329,9 @@ root:
     fraga: Sjukförsäkring
     adress: https://moderaterna.se/sjukforsakring
     asikt:
-    - 'Stärk dagens rehabiliteringskedja, återinför den bortre tidsgränsen och undersök regelbundet arbetsförmågan. '
-    - 'Stärk drivkrafterna att komma tillbaka till arbete. '
-    - 'Fokus på arbetsmiljön och förebyggande insatser och gör en riktad tillsyn av den psykosociala arbetsmiljön i grupper med hög risk för sjukfrånvaro. '
-    - 'Särskild rehabiliteringskedja för lätta psykiska diagnoser med tidigare insatser kombinerat med specialiserade handläggare hos Försäkringskassan och Arbetsförmedlingen. '
+    - 'Införandet av en särskild rehabiliteringskedja för lätta psykiska diagnoser med tidigare insatser kombinerat med specialiserade handläggare hos Försäkringskassan och ett särskilt omställningsspår hos Arbetsförmedlingen.'
+    - 'Vi lyfter vikten av arbetsmiljö och föreslår en riktad tillsyn av den psykosociala arbetsmiljön i grupper med hög risk för sjukfrånvaro. Dessutom föreslår vi utvecklade och förbättrade möjligheter till förebyggande insatser. Till exempel en förebyggande-garanti där en rimlig målsättning är att den som har ett jobb och är i behov av förebyggande insatser ska kunna påbörja detta inom en månad'
+    - 'Vi menar att det varken är rimligt eller hållbart att svenskar, som är ett av de friskaste folken i världen, har en så jämförelsevis hög sjukfrånvaro. Därför måste alla delar av sjukförsäkringen bättre stödja återgången till arbete. Samtidigt måste sjukförsäkringen kompletteras med bättre förebyggande insatser och rehabilitering. '
   -
     fraga: Socialtjänst och social omsorg
     adress: https://moderaterna.se/socialtjanst-och-social-omsorg
@@ -301,27 +346,22 @@ root:
     - 'Skärpta straff för vård och hot som riktas mot socialsekreterare i deras myndighetsutövning.'
   -
     fraga: Skola
-    adress: https://moderaterna.se/utbildning
+    adress: https://moderaterna.se/skola-och-utbildning
     asikt:
-    - 'Fler karriärtjänster.'
-    - 'En timme mer undervisningstid per dag.'
-    - 'Betyg från årskurs 3.'
-    - 'Varje elev ska vara garanterad minst den undervisningstid som gäller i läroplanen.'
-    - 'Gymnasiets lärlingsutbildningar ska hålla hög kvalitet.'
-    - 'Samtliga gymnasieprogram ska kunna erbjuda högskolebehörighet'
-    - 'Högre genomströmning.'
-    - 'Fler utbildningar som håller hög kvalitet och leder till arbete.'
-    - 'Forskning och utveckling i världsklass.'
+    - 'Skoldagarna utökas med en timme per dag, med start i lågstadiet. Utökningen bör koncentreras till svenska och matematik så att alla lär sig läsa, skriva och räkna.'
+    - 'Inför obligatorisk läxhjälp, genom en skyldighet att erbjuda läxhjälp från årskurs 4-9.'
+    - 'Lovskola i fyra veckor i årskurs 6-9 för elever som riskerar att inte komma in på gymnasiet.'
+    - 'För barn till föräldrar som är beroende av försörjningsstöd eller är arbetslösa bör rätten till allmän förskola utökas till 30 timmar i veckan.'
+    - 'Skärpt kvalitetskontroll med skräddarsydda åtgärdspaket till skolor med dåliga resultat och ytterst nedläggning av skolor som inte fungerar, oavsett om de är fristående eller kommunala.'
   -
     fraga: Skatter
     adress: https://moderaterna.se/skatter
     asikt:
-    - 'Sänk skatten på arbete, mest för dem med lägre inkomster. För de allra flesta som arbetar heltid innebär vår skattesänkning nära 500 kronor mer i månaden, eller 6 000 kronor mer per år.'
-    - 'Sänk skatten för pensionärer så att det lönar sig att ha jobbat. Vi sänker skatten lika mycket som regeringen.'
-    - 'Lägre skatt på att jobba mer redan från 64 år.'
-    - 'Skatteavdrag för företag som klimatkompenserar.'
-    - 'Nej till straffskatter på transporter.'
-    - 'Stärk Skatteverkets och Ekobrottsmyndighetens arbete med att bekämpa skattefusk.'
+    - 'Fullt finansierade skattesänkningar på arbete. I kombination med ett bidragstak ökar drivkrafterna, och det blir lönsamt, att gå från bidrag till arbete. '
+    - 'Jobbskatteavdrag med tyngdpunkt på de med lägre inkomster. Med vår politik får en vanlig barnfamilj över 1000 kronor mer i plånboken varje månad.'
+    - 'Höjd brytpunkt på statlig inkomstskatt för ökad tillväxt i en global värld och för att ansträngning ska löna sig.'
+    - 'Ett förhöjt, bredare och mer fördelaktigt jobbskatteavdrag för äldre.'
+    - 'Sänkt skatt för pensionärer.'
   -
     fraga: Svenskar i utlandet
     adress: https://moderaterna.se/svenskar-i-utlandet
@@ -338,13 +378,27 @@ root:
     - 'Krav på kunskaper i svenska för att få permanent uppehållstillstånd.'
     - 'Krav på kunskaper i svenska för att bli svensk medborgare.'
   -
+    fraga: Strandskyddet
+    adress: https://moderaterna.se/strandskyddet
+    asikt:
+    - 'Kommunerna ska vara ansvariga för att fatta beslut om strandskydd.'
+    - 'Det generella strandskyddet avskaffas. Strandskydd om 50 meter respektive utvidgat strandskydd om 100 meter endast ska gälla för av kommunerna utpekade sjöar och vattendrag.'
+    - 'Utvidgat strandskydd endast ska komma i fråga då det behövs för att skydda speciella naturvärden och säkerställa strandskyddets syften.'
+  -
     fraga: Trygghet
     adress: https://moderaterna.se/trygghet
     asikt:
-    - 'Antalet poliser i Sverige ska närma sig nivåerna i andra europeiska länder och Sverige ska ha minst 25 000 poliser senast år 2025. Därutöver lika många fler civilanställda under samma period. Det innebär 10 000 fler anställda inom svensk polis till 2025.'
-    - 'Polisernas löner ska höjas med i genomsnitt 3 000 kronor per månad.'
-    - 'Straffen ska skärpas för bland annat bostadsinbrott, vapenbrott, sexualbrott och för attacker mot blåljuspersonal.'
-    - 'Öka möjligheterna till kamerabevakning och att polisen bland annat ska kunna bedriva kamerabevakning på brottsutsatta platser och strategiskt viktiga platser utan tillståndsplikt.'
+    - 'Vi satsar de resurser som krävs för att nå målet om 10 000 fler polisanställda till 2024.'
+    - 'Polisernas löner ska höjas och kunna bli 3 000 kronor mer i lön varje månad.'
+    - 'Polisens ska fokusera på sin kärnuppgift: att ingripa mot, utreda och klara upp brott.'
+    - 'Betald och reformerad polisutbildning.'
+    - 'Dubbla straff för brott som begås av gängkriminella.'
+    - 'Slopa dagens form av mängdrabatt för de som döms för flera brott samtidigt.'
+    - 'Mer kameraövervakning – slopa tillståndsplikten för Polisen.'
+    - 'Skärp minimistraffen för alla våldtäkter och för grovt sexuellt ofredande.'
+    - 'Fler brott ska leda till utvisning.'
+    - 'EU-medborgare som begått brott i Sverige ska avtjäna straffet i sitt hemland.'
+    - 'Inför ett nationellt förbud mot tiggeri.'
   -
     fraga: Terrorism
     adress: https://moderaterna.se/bekampa-terrorism
@@ -373,23 +427,20 @@ root:
     fraga: Utrikespolitik
     adress: https://moderaterna.se/utrikespolitik
     asikt:
-    - 'Mer aktiv EU-politik '
-    - 'Färdplan för svenskt NATO-medlemskap '
-    - 'Ett reformerat FN som kan agera'
-    - 'Svenskt bistånd ska vara effektivt, transparent och resultatorienterat'
+    - 'Utrikespolitikens uppgift att värna Sveriges säkerhet, frihet och självständighet. Det uppnås genom diplomatins dagliga arbete med till exempel förhandlingar, koalitionsbyggande och konfliktlösning. Politiken ska främja och försvara Sveriges olika intressen på den internationella arenan. '
+    - 'Vi kan inte göra allt och vara överallt samtidigt. Därför behöver vi en strategisk prioritering gällande vilka länder och organisationer vi bör arbeta långsiktigt med för att uppnå våra främsta mål. Våra utrikespolitiska prioriteringar ska också om möjligt stötta våra inrikespolitiska mål.'
+    - 'Säkerhet byggs bäst tillsammans med andra. Vi gör det multilateralt genom EU och Nato, men också bilateralt.'
+    - 'EU är vår viktigaste utrikes- och säkerhetspolitiska plattform. Vi ska värna ett EU som håller samman, och vi ska fortsätta verka för ett fritt, demokratiskt, fredligt och enat Europa. '
+    - 'Våra viktiga bilaterala säkerhetspolitiska samarbeten kan inte ersätta ett fullvärdigt Nato-medlemskap. Ett medlemskap skulle ge Sverige en plats vid bordet där besluten fattas, och säkerhetsgarantier. Det skulle inkludera oss i den planering som är central för att kunna försvara Sverige och även Baltikum. Moderaterna vill fortsätta Sveriges närmande till Nato, med fullt medlemskap som mål.'
   -
     fraga: Utbildning
-    adress: https://moderaterna.se/utbildning
+    adress: https://moderaterna.se/skola-och-utbildning
     asikt:
-    - 'Fler karriärtjänster.'
-    - 'En timme mer undervisningstid per dag.'
-    - 'Betyg från årskurs 3.'
-    - 'Varje elev ska vara garanterad minst den undervisningstid som gäller i läroplanen.'
-    - 'Gymnasiets lärlingsutbildningar ska hålla hög kvalitet.'
-    - 'Samtliga gymnasieprogram ska kunna erbjuda högskolebehörighet'
-    - 'Högre genomströmning.'
-    - 'Fler utbildningar som håller hög kvalitet och leder till arbete.'
-    - 'Forskning och utveckling i världsklass.'
+    - 'Skoldagarna utökas med en timme per dag, med start i lågstadiet. Utökningen bör koncentreras till svenska och matematik så att alla lär sig läsa, skriva och räkna.'
+    - 'Inför obligatorisk läxhjälp, genom en skyldighet att erbjuda läxhjälp från årskurs 4-9.'
+    - 'Lovskola i fyra veckor i årskurs 6-9 för elever som riskerar att inte komma in på gymnasiet.'
+    - 'För barn till föräldrar som är beroende av försörjningsstöd eller är arbetslösa bör rätten till allmän förskola utökas till 30 timmar i veckan.'
+    - 'Skärpt kvalitetskontroll med skräddarsydda åtgärdspaket till skolor med dåliga resultat och ytterst nedläggning av skolor som inte fungerar, oavsett om de är fristående eller kommunala.'
   -
     fraga: Välfärd
     adress: https://moderaterna.se/en-trygg-gemensam-valfard
@@ -404,12 +455,12 @@ root:
     - '. Inom skolans område så ska skolor som, trots tidigare sanktioner, fortfarande brister i kvalitet tvingas teckna kunskapskontrakt med Skolverket. Om skolan uppvisar allvarliga brister ska kunskapskontrakt tecknas direkt. Kontraktet ska innehålla insatser och nationella resurser för att höja resultaten. Om skolan ändå inte lyckas kan statlig tvångsförvaltning och nedläggning bli aktuellt, oavsett huvudman.'
     - ' Om en välfärdsverksamhet under längre tid inte når en väsentlig del av de uppställda kvalitetsmålen och inte vidtar nödvändiga åtgärder ska möjligheten till vinstutdelning, på huvudmannanivå, kunna begränsas eller helt upphöra tills bristerna upphört. Den som inte levererar kvalitet bör inte kunna ta ut vinst men vi avvisar förslag om ett generellt vinsttak.'
   -
-    fraga: Äldre på arbetsmarknaden 
-    adress: https://moderaterna.se/aldre-pa-arbetsmarknaden
+    fraga: Äldres villkor
+    adress: https://moderaterna.se/aldres-villkor
     asikt:
-    - 'Förstärka det förhöjda jobbskatteavdraget för äldre ytterligare.'
-    - 'Det ska redan från 64 års ålder vara lägre skatt för att jobba mer, i stället för från dagens 65 år.'
-    - 'Utvidga rätten att kvarstå i anställning till 69 års ålder.'
+    - 'Sänkt skatt för pensionärer. I vår budget för 2018 föreslog vi att majoriteten av alla över 65 år skulle få en skattesänkning om 5 000 kronor om året. Under nästa mandatperiod vill vi sänka skatten för pensionärer ytterligare. '
+    - 'Förhöjt jobbskatteavdrag för äldre. Vår höjning skulle innebära att en person som tjänar  20 000 kronor per månad får 1 000 kronor i sänkt skatt varje månad.'
+    - 'Det förhöjda jobbskatteavdraget ska ges till personer som fyllt 64 år, istället för dagens 65 år.'
   -
     fraga: Äldreomsorg
     adress: https://moderaterna.se/aldreomsorg
