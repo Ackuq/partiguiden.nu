@@ -14,14 +14,14 @@ layout: default
             </nav>
             <h1 class="font-weight-light">{{page.title}}</h1>
             {% include page-nav.html%}
-        <!-- Content ad -->
-        {% if jekyll.environment == 'production' %}
-            
-        {% include ad.html %}
-        
-        {% endif %}
-            
-        {% include opinions.html %}
+            <!-- Content ad -->
+            {% if jekyll.environment == 'production' %}
+
+            {% include ad.html %}
+
+            {% endif %}
+
+            {% include opinions.html %}
             <div id="relaterade" class="display-none">
                 <h4 class="font-weight-light">Relaterade ämnen</h4>
                 {% for page_cat in page.categories %}
