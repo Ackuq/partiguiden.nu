@@ -9,6 +9,9 @@ title: Partiguiden
           <span class="typed-cursor"></span>
       </h2>
     </div>
+    {% if jekyll.environment == 'production' %}
+            {% include ad.html %}
+    {% endif %}
     <div class="container">
         <div class="row">
             <div class="col-md-10 offset-md-1">

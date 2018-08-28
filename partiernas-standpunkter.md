@@ -13,6 +13,9 @@ title: Partiernas ståndpunkter
                 </ol>
             </nav>
             <h1 class="font-weight-light">{{ page.title }}</h1>
+            {% if jekyll.environment == 'production' %}
+            {% include ad.html %}
+            {% endif %}
             <div class="amneList">
             {% assign sortera_partier = site.artiklar | sort: 'title' %}
             {% assign i = 0 %}
