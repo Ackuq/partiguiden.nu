@@ -1,5 +1,6 @@
 # Partiguiden.nu
-Hemsida för att jämföra olika partiers åsikter i sakfrågor.
+
+Website that summarizes Swedish parties programs to make it easier to find out what changes they want to make.
 
 ## Tools used
 
