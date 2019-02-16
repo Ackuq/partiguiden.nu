@@ -16,6 +16,5 @@ tags:
     - Reklam
     - Medier och public service
     - Upphovsrätten
-    - Kultur
     - Upphovsrätt
 ---
