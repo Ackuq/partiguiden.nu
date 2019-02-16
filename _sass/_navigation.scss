@@ -53,6 +53,9 @@
     }
 }
 @media (min-width: 768px) {
+  .site-header nav .container{
+    width:90%;
+  }
     .active>a{
         color: #555 !important;
         background-color: #e7e7e7;
